@@ -1,0 +1,89 @@
+﻿# fw7
+
+**Source Type:** PDF Document (PDFs)  
+**Category:** customer-service  
+**Generated:** 2025-06-26 02:37:23  
+**Original File:** fw7.pdf
+
+---
+
+## Content
+
+Form  W-7
+(Rev. December 2024)
+                                                      Application for IRS Individual
+                                                     Taxpayer Identification Number                                                                OMB No. 1545-0074
+Department of the Treasury               For use by individuals who are not U.S. citizens or permanent residents.
+Internal Revenue Service                  Go to www.irs.gov/FormW7 for instructions and the latest information.
+An IRS individual taxpayer identification number (ITIN) is for U.S. federal tax purposes only.                                   Application type (check one box):
+Before you begin:                                                                                                                      Apply for a new ITIN
+• Don’t submit this form if you have, or are eligible to get, a U.S. social security number (SSN).                                     Renew an existing ITIN
+Reason you’re submitting Form W-7. Read the instructions for the box you check. Caution: If you check box b, c, d, e, f, or g, you must file a U.S.
+federal tax return with Form W-7 unless you meet one of the exceptions (see instructions).
+  a     Nonresident alien required to get an ITIN to claim tax treaty benefit (you must also check and complete box h (see instructions))
+  b     Nonresident alien filing a U.S. federal tax return
+  c     U.S. resident alien (based on days present in the United States) filing a U.S. federal tax return
+  d
+  e
+
+
+  f
+        Dependent of U.S. citizen/resident alien
+        Spouse of U.S. citizen/resident alien
+                                                        }
+                                                   If d, enter relationship to U.S. citizen/resident alien (see instructions)
+                                                   If d or e, enter name and SSN/ITIN of U.S. citizen/resident alien (see instructions)
+
+
+        Nonresident alien student, professor, or researcher filing a U.S. federal tax return or claiming an exception (if claiming an exception, you must
+        also check and complete box h (see instructions))
+  g     Dependent/spouse of a nonresident alien holding a U.S. visa
+  h      Other (see instructions)
+Additional information for a and f: Enter treaty country                                            and treaty article number
+Name                    1a First name                                      Middle name                                  Last name
+(see instructions)
+Name at birth if        1b First name                                      Middle name                                    Last name
+different . . .
+
+Applicant’s             2    Street address, apartment number, or rural route number. If you have a P.O. box, see separate instructions.
+Mailing
+Address                      City or town, state or province, and country. Include ZIP code or postal code where appropriate.
+
+
+Foreign                 3    Street address, apartment number, or rural route number. Don’t use a P.O. box number.
+(non-U.S.)
+Address                      City or town, state or province, and country. Include postal code where appropriate.
+(see instructions)
+Birth                   4    Date of birth (month / day / year)     Country of birth                       City and state or province (optional)        5Male
+Information                         /       /                                                                                                            Female
+Other                   6a Country(ies) of citizenship          6b Foreign tax I.D. number (if any)      6c Type of U.S. visa (if any), number, and expiration date
+Information
+                        6d Identification document(s) submitted. (Complete for the first document submitted. For multiple documents, see instructions)
+                                 Passport            Driver’s license/State I.D.            USCIS documentation                 Other
+                             Issued by:                                                                                              Date of entry into the United States
+                             Number:                                                       Exp. date:        /     /                 (MM/DD/YYYY):          /   /
+                        6e Have you previously received an ITIN or an Internal Revenue Service Number (IRSN)?
+                                No/Don’t know. Skip line 6f.
+                                Yes. Complete line 6f. If more than one, list on a sheet and attach to this form (see instructions).
+                        6f Enter ITIN and/or IRSN           ITIN                –          –                           IRSN                  –          –
+                             and name under which it was issued
+                                                                                 First name                      Middle name                       Last name
+                        6g Name of college/university or company (see instructions)
+                           City and state                                                                   Length of stay
+Sign                   Under penalties of perjury, I (applicant/delegate/acceptance agent) declare that I have examined this application, including accompanying
+                       documentation and statements, and to the best of my knowledge and belief, it is true, correct, and complete. I authorize the IRS to share
+Here                   information with my acceptance agent in order to perfect this Form W-7, Application for IRS Individual Taxpayer Identification Number.
+Keep a copy for        Signature of applicant (if delegate, see instructions)              Date (month / day / year) Phone number
+your records.
+                                                                                                  /        /
+                       Name of delegate, if applicable (type or print)                     Delegate’s relationship to applicant
+                                                                                               Parent         Power of attorney               Court-appointed guardian
+Acceptance             Signature                                                           Date (month / day / year) Phone
+Agent’s                                                                                          /           /             Fax
+Use ONLY               Name and title (type or print)                               Name of company                    EIN                       PTIN
+                                                                                                                       Office code
+For Paperwork Reduction Act Notice, see separate instructions.                                       Cat. No. 10229L                             Form W-7 (Rev. 12-2024)
+
+---
+
+*This document was automatically generated from PDF content. For questions about this content, contact the Glaze Glassworks LLC team.*

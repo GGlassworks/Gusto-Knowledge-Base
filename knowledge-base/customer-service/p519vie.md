@@ -1,0 +1,7042 @@
+﻿# p519vie
+
+**Source Type:** PDF Document (PDFs)  
+**Category:** customer-service  
+**Generated:** 2025-06-26 02:49:37  
+**Original File:** p519vie.pdf
+
+---
+
+## Content
+
+Ấn phẩm 519
+                                                                                Mục lục
+               Hướng dẫn thuế                                                   Giới thiệu    . . . . . . . . . . . . . . . . . . . . 1
+
+
+
+               Hoa Kỳ cho Người
+                                                                                Quy định mới . . . . . . . . . . . . . . . . . . 3
+
+                                                                                Nhắc nhở      . . . . . . . . . . . . . . . . . . . . 3
+
+               nước ngoài                                                       Chương 1. Người nước ngoài tạm trú
+                                                                                    hay Người nước ngoài thường
+                                                                                    trú? . . . . . . . . . . . . . . . . . . . . 3
+
+                                                                                Chương 2. Nguồn thu nhập           . . . . . . . . 10
+               Để sử dụng trong                                                 Chương 3. Loại trừ khỏi tổng
+               việc chuẩn bị                                                        thu nhập . . . . . . . . . . . . . . . . .      14
+
+
+               Tờ khai   2024                                                   Chương 4. Thu nhập của người nước
+                                                                                    ngoài chịu thuế như thế nào . . . . . .         17
+
+                                                                                Chương 5. Tính thuế của bạn          . . . . . . . 24
+
+                                                                                Chương 6. Năm tính thuế có tình
+                                                                                    trạng kép . . . . . . . . . . . . . . . .       31
+
+                                                                                Chương 7. Thông tin khai thuế . . . . . . .         33
+
+                                                                                Chương 8. Trả tiền thuế qua Khấu lưu
+                                                                                    hoặc Thuế ước tính . . . . . . . . . .          36
+
+                                                                                Chương 9. Quyền lợi theo hiệp
+                                                                                    ước thuế . . . . . . . . . . . . . . . .        44
+
+                                                                                Chương 10. Nhân viên Chính phủ
+                                                                                    nước ngoài và Tổ chức quốc tế . . . .           46
+
+                                                                                Chương 11. Người nước ngoài xuất
+                                                                                    cảnh và Giấy phép ra khơi hoặc
+                                                                                    xuất cảnh . . . . . . . . . . . . . . . .       47
+
+                                                                                Chương 12. Cách nhận trợ giúp
+                                                                                    về thuế . . . . . . . . . . . . . . . . . .     49
+
+                                                                                Phụ lục A—Quy trình miễn thuế theo
+                                                                                     hiệp ước thuế dành cho Học sinh           . . 55
+
+                                                                                Phụ Lục B—Quy trình miễn thuế theo
+                                                                                     hiệp ước thuế cho Giáo viên và
+                                                                                     Nhà nghiên cứu . . . . . . . . . . . . .       58
+
+                                                                                Chỉ mục      . . . . . . . . . . . . . . . . . . . . 63
+
+
+
+                                                                                Phát triển trong tương lai
+                                                                                Để biết thông tin mới nhất về những thay đổi liên
+                                                                                quan đến Ấn phẩm 519, chẳng hạn như luật được
+                                                                                ban bố sau khi phát hành ấn phẩm, truy cập IRS.gov/
+                                                                                Pub519.
+
+
+                                                                                Giới thiệu
+                                                                                Cho mục đích thuế, người nước ngoài là một cá
+                                                                                nhân không phải là công dân Hoa Kỳ. Người nước
+                                                                                ngoài được phân loại thành người nước ngoài tạm
+                                                                                trú và người nước ngoài thường trú. Ấn phẩm này
+                                                                                sẽ giúp bạn xác định tình trạng của mình và cung
+                                                                                cấp thông tin cần thiết để bạn khai thuế Hoa Kỳ.
+                                                                                Người nước ngoài thường trú thường chịu thuế trên
+                                                                                thu nhập toàn cầu giống như công dân Hoa Kỳ.
+                                                                                Người nước ngoài tạm trú chỉ chịu thuế trên thu
+                                                                                nhập từ các nguồn trong Hoa Kỳ và một số thu nhập
+
+                               Publication 519 (vie) (2024) Catalog Number 48606G
+Mar 18, 2025             Department of the Treasury Internal Revenue Service www.irs.gov
+Bảng A. Nơi tìm những điều bạn cần biết về thuế Hoa Kỳ
+
+                            Các câu hỏi thường gặp                                                             Nơi tìm thấy câu trả lời
+
+    Tôi là người nước ngoài tạm trú hay người nước ngoài thường trú?              Xem chương 1.
+
+    Tôi có thể vừa là người nước ngoài tạm trú vừa là người nước ngoài             • Xem Người nước ngoài có tình trạng kép trong chương 1.
+    thường trú trong cùng một năm không?                                           • Xem chương 6.
+    Tôi là người nước ngoài thường trú và người vợ/chồng là người nước             • Xem Người vợ/chồng là người nước ngoài tạm trú được coi như
+    ngoài tạm trú. Có quy tắc đặc biệt nào cho chúng tôi không?                      thường trú nhân
+                                                                                     trong chương 1.
+                                                                                   • Xem Thu nhập cộng đồng trong chương 2.
+    Toàn bộ thu nhập của tôi có phải chịu thuế Hoa Kỳ không?                       • Xem chương 2.
+                                                                                   • Xem chương 3.
+    Học bổng của tôi có phải chịu thuế Hoa Kỳ không?                               • Xem Học bổng, trợ cấp, giải thưởng và phần thưởng trong chương
+                                                                                       2.
+                                                                                   • Xem Học bổng và trợ cấp nghiên cứu sinh trong chương 3.
+                                                                                   • Xem chương 9.
+    Có bất kỳ loại thuế di sản hoặc thuế quà tặng của Hoa Kỳ nào áp dụng          Xem Thuế di sản và quà tặng liên bang của Hoa Kỳ trong Nhắc nhở.
+    cho tôi, di sản của tôi, hoặc một di sản mà tôi là người thi hành, ủy thác,
+    hoặc đại diện không?
+
+    Thuế suất trên thu nhập của tôi theo thuế Hoa Kỳ là bao nhiêu?                Xem chương 4.
+
+    Tôi đã chuyển đến Hoa Kỳ năm nay. Tôi có thể khấu trừ chi phí di              Xem Các khoản khấu trừ trong chương 5.
+    chuyển trên tờ khai Hoa Kỳ không?
+
+    Tôi có thể khai người vợ/chồng và/hoặc con mình là người phụ thuộc            Xem Người phụ thuộc trong chương 5.
+    không?
+
+    Tôi đóng thuế thu nhập cho nước sở tại. Tôi có thể nhận tín thuế cho các Xem Tín thuế và các khoản thanh toán trong chương 5.
+    loại thuế đó trên tờ khai thuế Hoa Kỳ không?
+
+    Tôi phải nộp những mẫu đơn nào, khi nào và ở đâu?                             Xem chương 7.
+
+    Tôi nên đóng thuế thu nhập Hoa Kỳ bằng cách nào?                              Xem chương 8.
+
+    Tôi có đủ điều kiện được hưởng bất kỳ quyền lợi nào theo hiệp ước thuế         • Xem Thu nhập được hưởng quyền lợi theo hiệp ước thuế trong
+    không?                                                                             chương 8.
+                                                                                   • Xem chương 9.
+    Nhân viên của chính phủ nước ngoài và tổ chức quốc tế có được miễn            Xem chương 10.
+    thuế Hoa Kỳ không?
+
+    Tôi có phải làm điều gì đặc biệt trước khi rời Hoa Kỳ không?                   • Xem Thuế từ bỏ quốc tịch trong chương 4.
+                                                                                   • Xem chương 11.
+liên quan đến việc thực hiện hoạt động thương mại       thể viết thư tới cho bộ phận phụ trách Mẫu khai thuế     đề bằng cách sử dụng tính năng tìm kiếm hoặc xem
+hoặc kinh doanh tại Hoa Kỳ.                             và Ấn phẩm của Sở Thuế Vụ theo địa chỉ Internal          các danh mục được liệt kê.
+    Thông tin trong ấn phẩm này không đầy đủ cho        Revenue Service, Tax Forms and Publications, 1111
+người nước ngoài thường trú như cho người nước          Constitution Ave. NW, IR-6526, Washington, DC                Nhận mẫu đơn khai thuế cũng như hướng
+ngoài tạm trú. Người nước ngoài thường trú thường       20224.                                                   dẫn và ấn phẩm về thuế. Truy cập IRS.gov/Forms
+được coi như công dân Hoa Kỳ và có thể tìm thêm                                                                  (tiếng Anh) để tải xuống các mẫu đơn, hướng dẫn
+                                                            Mặc dù không thể trả lời riêng từng nhận xét
+thông tin trong các ấn phẩm khác của IRS tại                                                                     và ấn phẩm hiện hành và của các năm trước.
+                                                        nhận được, chúng tôi vẫn đánh giá cao ý kiến hỗ trợ
+IRS.gov/Forms (tiếng Anh).                              của bạn và sẽ xem xét các ý kiến và đề xuất khi sửa          Đăng ký nhận mẫu đơn khai thuế cũng như
+    Bảng A cung cấp danh sách các câu hỏi và            đổi các mẫu đơn khai thuế cũng như hướng dẫn và          hướng dẫn và ấn phẩm về thuế. Truy cập
+chương hoặc các chương trong ấn phẩm này, nơi           ấn phẩm về thuế của mình. Vui lòng không gửi các         IRS.gov/OrderForms để đăng ký nhận mẫu đơn,
+bạn sẽ tìm thấy phần thảo luận liên quan.               thắc mắc về thuế, tờ khai thuế hoặc các khoản chi        hướng dẫn và ấn phẩm hiện hành; gọi
+    Câu trả lời cho những câu hỏi thường gặp được       trả đến địa chỉ trên.                                    800-829-3676 để đăng ký nhận mẫu đơn và hướng
+trình bày ở phần sau của ấn phẩm.                                                                                dẫn của các năm trước. IRS sẽ xử lý đơn đặt hàng
+                                                            Nhận câu trả lời cho các thắc mắc về thuế.
+                                                                                                                 của bạn cho các mẫu đơn và ấn phẩm trong thời
+Nhận xét và gợi ý. Chúng tôi hoan nghênh những          Nếu có thắc mắc về thuế chưa được giải đáp từ
+                                                                                                                 gian sớm nhất. Không gửi lại các yêu cầu bạn đã
+nhận xét của bạn về ấn phẩm này cũng như những          thông tin trong ấn phẩm này hoặc phần Cách nhận
+                                                                                                                 gửi cho chúng tôi. Bạn có thể nhận các mẫu đơn và
+gợi ý cho các ấn bản trong tương lai.                   trợ giúp về thuế ở cuối ấn phẩm này, vui lòng truy
+                                                                                                                 ấn phẩm nhanh hơn qua hình thức trực tuyến.
+    Bạn có thể gửi nhận xét cho chúng tôi thông qua     cập trang Trợ lý thuế tương tác của IRS tại IRS.gov/
+IRS.gov/FormComments (tiếng Anh). Hoặc, bạn có          Help/ITA (tiếng Anh) nơi bạn có thể tìm thấy các chủ
+
+
+2                                                                                                                                            Ấn phẩm 519 (2024)
+                                                       buộc phải nộp tờ khai thuế thu nhập Hoa Kỳ có thể       Việc này cũng cho phép người được chỉ định thực
+Quy định mới                                           bị ảnh hưởng. Để biết thêm thông tin, xem Hướng
+                                                       dẫn cho Mẫu 1040, hoặc Hướng dẫn cho Mẫu 1040-
+                                                                                                               hiện một số hành động như yêu cầu IRS cung cấp
+                                                                                                               bản sao thông báo hoặc bản ghi liên quan đến tờ
+Tạm dừng một phần Công ước thuế thu nhập               NR (tiếng Anh).                                         khai thuế của bạn. Ngoài ra, việc ủy quyền có thể bị
+với Liên Xô do có liên quan đến Belarus. Vào           Tín thuế bảo phí. Bạn có thể đủ điều kiện yêu cầu       thu hồi. Xem hướng dẫn cho tờ khai thuế thu nhập
+ngày 17 tháng 12, 2024, Hoa Kỳ đã cung cấp thông       tín thuế bảo phí nếu bạn, người vợ/chồng, hoặc          để biết chi tiết.
+báo chính thức cho Cộng hòa Belarus về việc đình       người phụ thuộc đã đăng ký cho bảo hiểm y tế thông
+                                                                                                               Thay đổi địa chỉ. Nếu bạn thay đổi địa chỉ gửi thư,
+chỉ một phần hiệp ước thuế với Liên Xô do có liên      qua Thị trường Bảo hiểm Y tế (Thị trường). Xem
+                                                                                                               hãy đảm bảo rằng bạn thông báo cho IRS qua Mẫu
+quan đến Belarus. Hoa Kỳ đã đình chỉ hoạt động của     Mẫu 8962 và hướng dẫn để biết thêm thông tin.
+                                                                                                               8822.
+đoạn 1, tiểu đoạn (g), Điều 3 của Công ước. Các        Khoản ứng trước của tín thuế bảo phí. Khoản
+điều khoản còn lại của hiệp ước sẽ vẫn được giữ        ứng trước của tín thuế bảo phí có thể đã được trả       Ảnh chụp trẻ mất tích. IRS tự hào là đối tác của
+nguyên. Việc đình chỉ có hiệu lực vào ngày 17 tháng    cho công ty bảo hiểm sức khỏe để giúp trả bảo hiểm      Trung tâm cho Trẻ mất tích và bị bóc lột Quốc gia
+12, 2024 và sẽ tiếp tục cho đến ngày 31 tháng 12,      cho bạn, người vợ/chồng, hoặc người phụ thuộc của       (National Center for Missing & Exploited Children®,
+2026, hoặc sớm hơn nếu được hai chính phủ cùng         bạn. Nếu khoản ứng trước của tín thuế bảo phí đã        NCMEC) (tiếng Anh). Các bức ảnh chụp những đứa
+quyết định.                                            được trả thì bạn phải nộp tờ khai thuế năm 2024 và      trẻ này do Trung tâm chọn có thể xuất hiện trong ấn
+Tạm dừng một phần Công ước thuế thu nhập               Mẫu 8962. Nếu bạn đã đăng ký ai đó không được           phẩm này ở các trang trống. Bạn có thể góp phần
+với Nga. Vào ngày 17 tháng 6 năm 2024, Hoa Kỳ          khai là người phụ thuộc trên tờ khai thuế của bạn       đưa những đứa trẻ này về nhà bằng cách xem các
+đã cung cấp thông báo chính thức cho Liên bang         hoặc để biết thêm thông tin, xem Hướng dẫn cho          bức ảnh và gọi số 800-THE-LOST (800-843-5678)
+Nga về việc đình chỉ một phần hiệp ước với Nga.        Mẫu 8962.                                               nếu bạn nhận ra một đứa trẻ.
+Hoa Kỳ đã đình chỉ hoạt động của đoạn 4 Điều 1,        Mẫu 1095-A. Nếu bạn, người vợ/chồng, hoặc
+Điều 5 đến 21, và Điều 23 của Công ước, cũng như       người phụ thuộc của bạn đã đăng ký cho bảo hiểm y
+Định ước. Việc đình chỉ có hiệu lực đối với cả thuế    tế thông qua Thị trường thì bạn sẽ phải nhận được
+khấu lưu tại nguồn và đối với các loại thuế khác vào   Mẫu 1095-A. Nếu bạn nhận được Mẫu 1095, hãy
+ngày 16 tháng 8, 2024 và sẽ tiếp tục cho đến khi cả    giữ lại mẫu này. Việc này sẽ giúp bạn tính được tín
+
+                                                                                                               1.
+hai chính phủ có quyết định khác.                      thuế bảo phí. Nếu bạn không nhận được Mẫu
+     Bắt đầu với các khoản thanh toán được thực        1095-A, hãy liên hệ Thị Trường.
+hiện vào hoặc sau ngày 16 tháng 8, 2024, các đại lý    Thuế di sản và quà tặng liên bang của Hoa Kỳ.
+khấu lưu được yêu cầu khấu lưu theo tỷ lệ khấu lưu     Một cá nhân (hoặc người quá cố) là (hoặc đã là)
+30% theo luật định đối với các khoản thanh toán thu
+nhập nguồn của Hoa Kỳ được thực hiện cho những
+                                                       người tạm trú không là công dân của Hoa Kỳ cho
+                                                       mục đích thuế di sản và quà tặng vẫn có thể có các
+                                                                                                               Người nước ngoài
+                                                                                                               tạm trú hay Người
+người nhận trước đó có thể đủ điều kiện nhận các       nghĩa vụ khai và trả tiền thuế di sản và quà tặng của
+lợi ích hiệp ước theo hiệp ước thuế thu nhập Hoa       Hoa Kỳ. Việc xác định xem một cá nhân có phải là
+Kỳ-Nga.                                                người tạm trú không là công dân cho mục đích thuế
+Lựa chọn coi vợ/chồng là người tạm trú hoặc
+có tư cách kép là thường trú nhân Hoa Kỳ. Mẫu
+                                                       di sản và quà tặng của Hoa Kỳ hay không khác với
+                                                       việc xác định liệu một cá nhân có phải là người
+                                                                                                               nước ngoài thường
+                                                                                                               trú?
+1040 và 1040-SR đã thêm hộp kiểm trong phần            nước ngoài tạm trú cho mục đích thuế thu nhập liên
+Filing Status (Tư cách khai thuế) để đưa ra lựa chọn   bang của Hoa Kỳ hay không. Các cân nhắc về thuế
+để coi vợ/chồng là người tạm trú hoặc có tư cách       di sản và quà tặng nằm ngoài phạm vi của ấn phẩm
+kép là thường trú nhân Hoa Kỳ cho năm 2024. Để         này, nhưng thông tin có sẵn trên IRS.gov để xác định
+biết thêm thông tin, hãy xem Người vợ/chồng là         xem liệu bất kỳ cân nhắc nào về thuế di sản hoặc
+người tạm trú được coi như thường trú nhân và          quà tặng của Hoa Kỳ có thể áp dụng cho trường hợp       Giới thiệu
+Chọn tình trạng Người nước ngoài thường trú, ở         của bạn hay không. Thông tin thêm về các cân nhắc
+                                                                                                               Trước tiên bạn nên xác định xem, cho mục đích tính
+phần sau.                                              về thuế di sản liên bang của Hoa Kỳ đối với những
+                                                                                                               thuế thu nhập, mình là người nước ngoài tạm trú hay
+                                                       người tạm trú không là công dân có sẵn tại Thuế di
+Quỹ tín thác khuyết tật đủ điều kiện. Số tiền                                                                  là người nước ngoài thường trú.
+                                                       sản cho người tạm trú không là công dân của Hoa
+miễn trừ cho khuyết tật đủ điều kiện là $5.000 cho                                                                 Nếu bạn vừa là tạm trú và vừa là thường trú
+                                                       Kỳ (tiếng Anh) và Câu hỏi thường gặp về thuế di sản
+năm 2024.                                                                                                      nhân trong cùng một năm thì bạn có tình trạng kép.
+                                                       cho người tạm trú không là công dân của Hoa Kỳ
+                                                                                                               Xem Người nước ngoài có tình trạng kép ở phần
+                                                       (tiếng Anh). Thông tin thêm về các cân nhắc về thuế
+                                                                                                               sau. Xem thêm Người vợ/chồng tạm trú được coi
+                                                       quà tặng liên bang của Hoa Kỳ đối với những người
+                                                                                                               như thường trú nhân và một số tình huống đặc biệt
+Nhắc nhở                                               tạm trú không là công dân có sẵn tại Thuế quà tặng
+                                                       cho người tạm trú không là công dân của Hoa Kỳ
+                                                                                                               khác được giải thích ở phần sau của chương này.
+Chấm dứt Công ước Thuế năm 1979 với                    (tiếng Anh) và Câu hỏi thường gặp về thuế quà tặng
+Hungary. Vào ngày 15 tháng 7, 2022, Bộ Tài chính       cho người tạm trú không là công dân của Hoa Kỳ          Các chủ đề
+Hoa Kỳ (Bộ Tài chính) thông báo rằng Hungary đã        (tiếng Anh).                                            Chương này thảo luận về:
+được thông báo vào ngày 8 tháng 7, 2022, rằng Hoa      Tài sản điện tử. Nếu vào năm 2024, bạn tham gia
+Kỳ sẽ chấm dứt hiệp ước thuế với Hungary. Theo         vào một giao dịch liên quan đến tài sản điện tử, bạn     • Làm thế nào để xác định xem bạn là người
+các quy định của hiệp ước về chấm dứt, việc chấm       có thể cần phải trả lời "Yes" ("Có") cho câu hỏi ở           nước ngoài tạm trú, người nước ngoài thường
+dứt có hiệu lực từ ngày 8 tháng 1, 2023. Đối với các   trang 1 của Mẫu 1040-NR. Xem Digital Assets (Tài             trú hay người nước ngoài mang hai quốc tịch;
+khoản thuế được khấu lưu tại nguồn, hiệp ước           sản điện tử) trong Hướng dẫn cho Mẫu 1040 để biết            và
+không còn hiệu lực vào ngày 1 tháng 1, 2024. Do đó,    thông tin về các giao dịch liên quan đến tài sản điện    •   Làm thế nào để coi người vợ/chồng tạm trú
+bắt đầu từ ngày 1 tháng 1, 2024, các đại lý khấu lưu   tử. Không để trống trường này. Câu hỏi phải được             như người nước ngoài thường trú.
+được yêu cầu khấu lưu theo tỷ lệ khấu lưu 30% theo     trả lời bởi tất cả những người đóng thuế, không chỉ
+luật định đối với các khoản thanh toán thu nhập        những người đóng thuế tham gia vào giao dịch liên       Các mục hữu ích
+nguồn của Hoa Kỳ được thực hiện cho những người        quan đến tài sản điện tử.                               Bạn có thể muốn xem:
+nhận trước đó có thể đủ điều kiện nhận các lợi ích
+                                                       Người được chỉ định làm bên thứ ba. Bạn có thể
+hiệp ước theo hiệp ước thuế thu nhập Hoa
+                                                       đánh dấu vào ô “Yes (Có)” trong mục “Third-Party          Mẫu đơn (và Hướng dẫn)
+Kỳ-Hungary. Đối với các loại thuế khác, hiệp ước
+                                                       Designee (Người Được Chỉ Định Làm Bên Thứ Ba)”
+không còn hiệu lực đối với các kỳ tính thuế bắt đầu
+                                                       trên tờ khai thuế để cho phép IRS trao đổi về tờ khai        1040 Tờ khai thuế thu nhập Hoa Kỳ cho Cá
+từ hoặc sau ngày 1 tháng 1, 2024.
+                                                                                                                          1040
+
+
+
+
+                                                       của bạn với một người bạn, một thành viên trong gia               nhân
+Miễn giảm thuế do thiên tai. Miễn giảm thuế do         đình hoặc bất kỳ người nào khác do bạn chọn. Việc
+thiên tai có sẵn cho những người bị ảnh hưởng bởi      này cho phép IRS gọi cho người mà bạn xác định là            1040-SR Tờ khai thuế Hoa Kỳ cho Người cao
+                                                                                                                                 1040-SR
+
+
+
+
+một số thiên tai được Tổng thống tuyên bố (xem         người được chỉ định để giải đáp mọi thắc mắc có thể                  niên
+IRS.gov/DisasterTaxRelief). Người nước ngoài bắt       phát sinh trong quá trình xử lý tờ khai thuế của bạn.
+
+Ấn phẩm 519 (2024)                          Chương 1     Người nước ngoài tạm trú hay Người nước ngoài thường trú?                                               3
+     1040-NR Tờ khai thuế thu nhập Hoa Kỳ cho
+                   1040-NR                                 được đề xướng bởi bạn, USCIS, hoặc viên chức                 Ví dụ: Bạn đã có mặt ở Hoa Kỳ 120 ngày trong
+             Người nước ngoài tạm trú                      lãnh sự Hoa Kỳ.                                          mỗi năm 2024, 2023, và 2022. Để xác định xem bạn
+                                                               Nếu bạn đề xướng quyết định này thì tình trạng       có đáp ứng thử thách sự hiện diện đáng kể trong
+     8833 Công bố Quan điểm khai thuế dựa trên                                                                      năm 2024 hay không, hãy tính đủ 120 ngày có mặt
+                                                           cư trú của bạn sẽ được coi là đã từ bỏ khi bạn nộp
+            8833
+
+
+
+
+          hiệp ước thuế vụ theo đoạn 6114 hoặc                                                                      trong năm 2024, 40 ngày trong năm 2023 (1/3 trong
+                                                           một trong các loại giấy tờ sau cùng Thẻ thường trú
+          7701(b)                                                                                                   số 120 ngày) và 20 ngày trong năm 2022 (1/6 trong
+                                                           nhân (thẻ xanh hoặc Mẫu I-551) cho USCIS hoặc
+     8840 Bản tường trình ngoại lệ về mối liên hệ          viên chức lãnh sự Hoa Kỳ.                                số 120 ngày). Vì tổng số ngày trong 3 năm là 180
+                                                             • Mẫu I-407 (tiếng Anh) , Hồ sơ từ bỏ thường trú       nên bạn không được coi như thường trú nhân theo
+            8840
+
+
+
+
+          mật thiết cho Người nước ngoài
+                                                                 nhân vĩnh cửu hợp pháp.                            thử thách sự hiện diện đáng kể trong năm 2024.
+     8843 Bản tường trình cho Cá nhân được miễn
+            8843
+
+
+
+
+                                                             • Một lá thư nêu rõ ý định từ bỏ tình trạng cư trú
+          và Cá nhân có bệnh lý                                  của bạn.                                              Thuật ngữ “Hoa Kỳ” bao gồm các khu vực sau.
+                                                                                                                     • Tất cả 50 tiểu bang và Đặc khu Columbia.
+Xem chương 12 để biết thông tin về cách nhận các               Khi nộp qua đường bưu điện, bạn phải gửi bằng
+                                                                                                                     • Các vùng lãnh hải của Hoa Kỳ.
+mẫu đơn này.                                               thư bảo đảm, yêu cầu gửi lại biên nhận (hoặc giấy tờ
+                                                                                                                     • Đáy biển và lòng đất dưới đáy biển của những
+                                                           có giá trị tương đương ở nước ngoài) và giữ một
+                                                                                                                         khu vực biển tiếp giáp với vùng lãnh hải của
+                                                           bản sao và bằng chứng cho biết giấy tờ đã gửi đi và
+                                                                                                                         Hoa Kỳ và ở đó Hoa Kỳ độc quyền thăm dò và
+Người nước ngoài tạm trú                                   được tiếp nhận.
+                                                                                                                         khai thác tài nguyên thiên nhiên theo luật quốc
+                                                                     Cho đến khi bạn có bằng chứng cho biết              tế.
+Nếu bạn là người nước ngoài (không phải là công                      thư đã được tiếp nhận, bạn vẫn là người
+dân Hoa Kỳ) thì bạn sẽ được coi là người nước
+                                                              !
+                                                            CAUTION nước ngoài thường trú cho mục đích tính
+                                                                                                                    Thuật ngữ này không bao gồm lãnh thổ của Hoa Kỳ
+                                                                                                                    hoặc không phận của Hoa Kỳ.
+ngoài tạm trú, trừ khi bạn đáp ứng một trong hai thử       thuế, ngay cả khi USCIS không công nhận tính hợp
+thách được đề cập trong phần Người nước ngoài              lệ của thẻ xanh do thẻ này đã hơn 10 năm hoặc bạn
+thường trú dưới đây.                                       đã không có mặt ở Hoa Kỳ trong một khoảng thời           Những ngày có mặt ở Hoa Kỳ
+                                                           gian.
+                                                                                                                    Bạn được coi là có mặt ở Hoa Kỳ vào bất kỳ ngày
+Người nước ngoài                                               Nếu USCIS hoặc viên chức lãnh sự Hoa Kỳ đưa
+                                                           ra quyết định này thì tình trạng cư trú của bạn sẽ
+                                                                                                                    nào bạn có mặt ở quốc gia này vào bất cứ thời điểm
+                                                                                                                    nào trong ngày. Tuy nhiên, quy tắc này cũng có ngoại
+thường trú                                                 được coi là đã từ bỏ khi lệnh hành chính cuối cùng
+                                                                                                                    lệ. Không tính các ngày sau đây là ngày có mặt ở
+                                                           yêu cầu từ bỏ được ban hành. Nếu bạn có quyền
+                                                                                                                    Hoa Kỳ trong thử thách sự hiện diện đáng kể.
+                                                           khiếu nại lên tòa án liên bang có thẩm quyền thì bạn
+Bạn là người nước ngoài thường trú của Hoa Kỳ cho                                                                     • Những ngày bạn đi làm ở Hoa Kỳ từ nơi cư trú
+                                                           bắt buộc phải có lệnh tư pháp cuối cùng.
+mục đích tính thuế nếu bạn đáp ứng thử thách thẻ                                                                          ở Canada hoặc Mexico nếu bạn thường xuyên
+xanh hoặc thử thách sự hiện diện đáng kể trong năm             Theo luật di trú Hoa Kỳ, một thường trú nhân               đi làm từ Canada hoặc Mexico.
+2024 (từ ngày 1 tháng 1 đến ngày 31 tháng 12).             vĩnh cửu hợp pháp bắt buộc phải nộp tờ khai thuế           • Những ngày bạn ở Hoa Kỳ dưới 24 giờ khi quá
+Ngay cả khi bạn không đáp ứng một trong hai thử            như một thường trú nhân và không làm như vậy có                cảnh giữa hai nơi bên ngoài Hoa Kỳ.
+thách này thì bạn vẫn có thể chọn được coi như             thể được coi là đã từ bỏ tình trạng và có thể mất tình     • Những ngày bạn ở Hoa Kỳ với tư cách thuyền
+thường trú nhân Hoa Kỳ trong một phần thời gian            trạng thường trú nhân vĩnh cửu.                                viên của một con tàu nước ngoài.
+của năm. Xem Lựa chọn năm đầu trong phần Người                      Thường trú nhân dài hạn (LTR) không còn           • Những ngày bạn không thể rời Hoa Kỳ do tình
+nước ngoài có tình trạng kép, ở phần sau.                           là thường trú nhân vĩnh cửu hợp pháp có               trạng sức khỏe phát sinh khi bạn ở Hoa Kỳ.
+                                                              !
+                                                            CAUTION thể phải tuân thủ quy định khai báo đặc           • Những ngày bạn ở Hoa Kỳ theo diện thị thực
+                                                                                                                          NATO với tư cách thành viên của lực lượng
+Thử thách thẻ xanh                                         biệt và quy định về thuế. Xem Thuế từ bỏ quốc tịch
+                                                                                                                          hoặc thành phần dân sự của NATO. Tuy nhiên,
+                                                           trong chương 4.
+                                                                                                                          ngoại lệ này không áp dụng cho một thành viên
+Bạn là thường trú nhân cho mục đích tính thuế nếu                                                                         gia đình trực hệ đang có mặt ở Hoa Kỳ theo
+                                                               Kết thúc tình trạng cư trú sau ngày 16 tháng
+bạn là thường trú nhân vĩnh cửu hợp pháp của Hoa                                                                          diện thị thực NATO. Một thành viên gia đình là
+                                                           6, 2008. Để biết thông tin về ngày kết thúc thời gian
+Kỳ vào bất kỳ thời điểm nào trong năm 2023. (Tuy                                                                          người phụ thuộc phải tính mỗi ngày có mặt
+                                                           tình trạng cư trú, xem Cựu LTR trong phần Từ bỏ
+nhiên, xem Người nước ngoài có tình trạng kép ở                                                                           trong thử thách sự hiện diện đáng kể.
+                                                           quốc tịch sau ngày 16 tháng 6, 2008 trong chương 4
+phần sau.) Đây được gọi là thử thách thẻ xanh. Bạn
+                                                                                                                      • Những ngày bạn là cá nhân được miễn.
+là thường trú nhân vĩnh cửu hợp pháp của Hoa Kỳ
+                                                              Ghi chú. Yêu cầu đối với người đóng thuế đã từ        Quy tắc cụ thể áp dụng cho từng diện này sẽ được
+vào bất kỳ thời điểm nào nếu bạn được trao đặc
+                                                           bỏ quốc tịch trước ngày 17 tháng 6, 2008, không          thảo luận ở phần tiếp theo.
+quyền, theo luật di trú, vĩnh viễn cư trú tại Hoa Kỳ với
+                                                           còn được đề cập trong Hướng dẫn cho Mẫu 8854
+tư cách người nhập cư. Bạn thường có tình trạng
+                                                           hoặc Ấn phẩm 519. Để biết thông tin về việc từ bỏ        Người đi làm thường xuyên từ Canada hoặc
+này nếu Sở di trú và Nhập tịch Hoa Kỳ (USCIS)
+                                                           quốc tịch trước ngày 17 tháng 6, 2008, xem Hướng         Mexico. Không tính những ngày bạn đi làm ở Hoa
+(hoặc tổ chức tiền thân của cơ quan này) đã cấp cho
+                                                           dẫn cho Mẫu 8854 năm 2018 và chương 4 của Ấn             Kỳ từ nơi cư trú ở Canada hoặc Mexico nếu bạn
+bạn Mẫu I-551, Thẻ thường trú nhân, còn được gọi
+                                                           phẩm 519 (tiếng Anh) năm 2018.                           thường xuyên đi làm từ Canada hoặc Mexico. Bạn
+là thẻ xanh. Bạn sẽ tiếp tục có tình trạng cư trú theo
+thử thách này, trừ khi tình trạng đó bị tước bỏ hoặc                                                                được coi là đi làm thường xuyên nếu bạn đi làm ở
+được xác định về mặt hành chính hoặc tư pháp là đã         Thử thách sự hiện diện đáng                              Hoa Kỳ trên 75% (0.75) ngày công trong thời gian
+                                                                                                                    làm việc.
+từ bỏ.                                                     kể                                                           Với mục đích này, “đi làm” có nghĩa là đến nơi
+    Ghi chú. Ngay cả khi một cá nhân đáp ứng                                                                        làm việc và trở về nơi cư trú trong khoảng thời gian
+                                                           Bạn sẽ là thường trú nhân cho mục đích tính thuế         24 giờ. “Ngày công” là những ngày bạn làm việc ở
+được thử thách thẻ xanh, nếu cá nhân đó khai cư trú
+                                                           nếu bạn đáp ứng thử thách sự hiện diện đáng kể           Hoa Kỳ hoặc Canada hoặc Mexico. “Thời gian làm
+ở nước ngoài theo quy tắc phá hòa của hiệp ước
+                                                           trong năm 2023. Để đáp ứng thử thách này, bạn phải       việc” có nghĩa là khoảng thời gian bắt đầu từ ngày
+thuế Hoa Kỳ thì họ sẽ được coi là người nước ngoài
+                                                           có mặt ở Hoa Kỳ ít nhất:                                 đầu tiên trong năm hiện tại mà bạn có mặt ở Hoa Kỳ
+tạm trú cho mục đích nợ thuế của họ. Xem đoạn
+7701(b)(6)(B).                                               1. 31 ngày trong năm 2024; và                          để làm việc và kết thúc vào ngày cuối cùng trong
+                                                                                                                    năm hiện tại mà bạn có mặt ở Hoa Kỳ để làm việc.
+                                                             2. 183 ngày trong 3 năm gồm 2024, 2023, và             Nếu công việc đòi hỏi bạn chỉ có mặt ở Hoa Kỳ theo
+Tình trạng cư trú bị tước bỏ. Tình trạng cư trú
+                                                                2022, tính cả:                                      mùa hoặc theo chu kỳ thì thời gian làm việc của bạn
+được coi là đã bị tước bỏ nếu Chính phủ Hoa Kỳ ban
+hành lệnh hành chính hoặc tư pháp cuối cùng yêu                   a. Tất cả các ngày mà bạn có mặt trong năm        sẽ bắt đầu vào ngày đầu tiên của mùa hoặc chu kỳ
+cầu loại trừ hoặc trục xuất. Lệnh tư pháp cuối cùng                  2024, và                                       mà bạn có mặt ở Hoa Kỳ để làm việc và kết thúc vào
+là lệnh mà bạn không thể kháng cáo lên tòa án cấp                                                                   ngày cuối cùng của mùa hoặc chu kỳ mà bạn có mặt
+                                                                  b. 1/3 các ngày mà bạn có mặt trong năm
+cao hơn được nữa.                                                                                                   ở Hoa Kỳ để làm việc. Bạn có thể có nhiều khoảng
+                                                                     2023, và
+                                                                                                                    thời gian làm việc trong một năm và thời gian làm
+Từ bỏ tình trạng cư trú. Quyết định hành chính                    c. 1/6 các ngày mà bạn có mặt trong năm           việc của bạn có thể bắt đầu trong một năm và kết
+hoặc tư pháp ra lệnh từ bỏ tình trạng cư trú có thể                  2022.                                          thúc vào năm tiếp theo.
+
+4                                              Chương 1      Người nước ngoài tạm trú hay Người nước ngoài thường trú?                             Ấn phẩm 519 (2024)
+    Ví dụ. Maria Perez sống ở Mexico và làm việc              việc bạn có cần điều trị vấn đề này khi nhập         Không có ngày nào của bạn được tính cho mục đích
+cho Compañía ABC tại văn phòng ở Mexico nhưng                 cảnh vào Hoa Kỳ hay không.                           của thử thách sự hiện diện đáng kể.
+được tạm phân công làm việc tại văn phòng của
+công ty ở Hoa Kỳ từ ngày 1 tháng 2 đến ngày 1            Cá nhân được miễn. Không tính những ngày bạn                  Ngoại lệ đối với nhân viên tại gia. Nếu bạn
+tháng 6. Vào ngày 2 tháng 6, Maria tiếp tục công         là cá nhân được miễn. Thuật ngữ “cá nhân được             có mặt ở Hoa Kỳ theo diện thị thực “A-3” hoặc “G-5”
+việc ở Mexico. Trong 69 ngày làm việc, mỗi sáng          miễn” không đề cập đến người được miễn thuế Hoa           với tư cách nhân viên cá nhân, người phục vụ hoặc
+Maria đi từ nhà ở Mexico để làm việc tại văn phòng       Kỳ mà đề cập đến bất cứ ai thuộc các diện sau.            người giúp việc cho một chính phủ nước ngoài hoặc
+Compañía ABC của Hoa Kỳ và trở về nhà ở Mexico             • Cá nhân có mặt tạm thời ở Hoa Kỳ với tư cách          nhân viên của tổ chức quốc tế thì bạn sẽ không
+vào mỗi buổi tối. Maria đã làm việc tại văn phòng             cá nhân liên quan đến chính phủ nước ngoài           được coi là cá nhân có liên quan đến chính phủ
+công ty ở Mexico 7 ngày. Cho mục đích của thử                 theo thị thực “A” hoặc “G” ngoại trừ cá nhân         nước ngoài và phải tính tất cả những ngày mà bạn
+thách sự hiện diện đáng kể, Maria không tính số               nắm giữ diện thị thực “A-3” hoặc “G-5” .             có mặt ở Hoa Kỳ cho mục đích của thử thách sự
+ngày Maria đi làm ở Hoa Kỳ do những ngày đó                • Giáo viên hoặc người học việc có mặt tạm thời         hiện diện đáng kể.
+chiếm hơn 75% (0.75) ngày công trong khoảng thời              ở Hoa Kỳ theo diện thị thực “J” hoặc “Q” và              Giáo viên và người học việc. Giáo viên hoặc
+gian làm việc (69 ngày làm việc ở Hoa Kỳ chia cho             tuân thủ những quy định của diện thị thực đó         người học việc là cá nhân, ngoại trừ học sinh, có
+76 ngày công trong khoảng thời gian làm việc bằng             về căn bản.                                          mặt tạm thời ở Hoa Kỳ theo diện thị thực “J” hoặc “Q”
+90.8%).                                                    • Học sinh có mặt tạm thời ở Hoa Kỳ theo diện           tuân thủ những quy định của thị thực đó về căn bản.
+                                                              thị thực “F,” “J,” “M,” hoặc “Q” và tuân thủ những   Bạn được coi là đã tuân thủ yêu cầu của thị thực về
+Ngày quá cảnh. Không tính những ngày bạn ở                    quy định của diện thị thực đó về căn bản.            căn bản nếu bạn không tham gia vào các hoạt động
+Hoa Kỳ dưới 24 giờ và quá cảnh giữa hai nơi bên            • Vận động viên chuyên nghiệp có mặt tạm thời           bị nghiêm cấm theo luật di trú Hoa Kỳ và có thể dẫn
+ngoài Hoa Kỳ. Bạn được coi là quá cảnh nếu bạn                ở Hoa Kỳ để thi đấu trong một sự kiện thể thao       đến việc mất tình trạng thị thực của bạn.
+tham gia vào các hoạt động gắn với hoàn thành việc            từ thiện.                                                Cũng bao gồm các thành viên gia đình trực hệ
+di chuyển đến điểm đến nước ngoài. Ví dụ: nếu bạn                                                                  của giáo viên và người học việc tạm thời được miễn
+                                                             Quy tắc cụ thể được áp dụng cho từng diện thị
+di chuyển giữa các sân bay ở Hoa Kỳ để đổi máy                                                                     thuế. Xem định nghĩa “gia đình trực hệ” ở phần trước
+                                                         thực trong số bốn diện này (bao gồm cả bất kỳ quy
+bay trên đường đến điểm đến nước ngoài thì bạn                                                                     trong Cá nhân có liên quan đến chính phủ nước
+                                                         tắc nào về khoảng thời gian bạn sẽ là cá nhân được
+được coi là quá cảnh. Tuy nhiên, bạn sẽ không được                                                                 ngoài.
+                                                         miễn) được thảo luận ở phần tiếp theo.
+coi là quá cảnh nếu bạn tham gia một cuộc họp kinh                                                                     Bạn sẽ không phải là cá nhân được miễn với tư
+doanh khi ở Hoa Kỳ. Điều này vẫn đúng ngay cả khi            Cá nhân có liên quan đến chính phủ nước               cách giáo viên hoặc người học việc trong năm 2024
+cuộc họp được tổ chức tại sân bay.                       ngoài. Cá nhân có liên quan đến chính phủ nước            nếu bạn được miễn thuế với tư cách giáo viên,
+                                                         ngoài là cá nhân (hoặc một thành viên gia đình trực       người tập sự hoặc học sinh trong bất kỳ thời gian
+Thành viên. Không tính những ngày bạn tạm thời           hệ của cá nhân) có mặt tạm thời ở Hoa Kỳ:                 nào của 2 năm trong số 6 năm trước. Tuy nhiên, bạn
+có mặt ở Hoa Kỳ với tư cách thuyền viên thường            • Là nhân viên toàn thời gian của một tổ chức            sẽ là cá nhân được miễn nếu thỏa mãn tất cả các
+xuyên của một con tàu nước ngoài (thuyền hoặc tàu)            quốc tế,                                             điều kiện sau.
+tham gia vào hoạt động vận chuyển giữa Hoa Kỳ và          • Vì lý do ngoại giao hoặc                                 • Bạn được miễn thuế với tư cách giáo viên,
+nước ngoài hoặc lãnh thổ của Hoa Kỳ. Tuy nhiên,           • Vì lý do thị thực (không phải thị thực cho phép              người học việc hoặc học sinh trong bất kỳ thời
+không áp dụng ngoại lệ này nếu bạn tham gia vào               thường trú hợp pháp) mà Bộ trưởng Bộ tài                   gian nào của 3 năm (hoặc ít hơn) trong số 6
+bất kỳ hoạt động buôn bán hoặc kinh doanh nào tại             chính xác định đại diện cho tư cách ngoại giao             năm trước.
+Hoa Kỳ vào những ngày đó.                                     hoặc lãnh sự toàn thời gian.                           • Chủ lao động là người ngoại quốc đã thanh
+                                                                                                                         toán toàn bộ tiền thù lao cho bạn trong năm
+Tình trạng sức khỏe. Không tính những ngày bạn               Ghi chú. Bạn được coi là có mặt tạm thời ở                  2024.
+dự định rời đi nhưng không thể rời Hoa Kỳ do tình        Hoa Kỳ, bất kể lượng thời gian thực tế mà bạn có            • Bạn đã có mặt ở Hoa Kỳ với tư cách giáo viên
+trạng sức khỏe hoặc một vấn đề phát sinh khi bạn ở       mặt ở Hoa Kỳ.                                                   hoặc người học việc trong bất kỳ thời gian nào
+Hoa Kỳ. Dù bạn có ý định rời Hoa Kỳ vào một ngày             Tổ chức quốc tế là bất kỳ tổ chức quốc tế công              của 6 năm trước.
+cụ thể hay không đều được xác định dựa trên thực         nào mà Tổng thống Hoa Kỳ đã ra Lệnh hành pháp               • Chủ lao động là người ngoại quốc đã thanh
+tế và hoàn cảnh. Ví dụ: bạn có thể xác định mình dự      được hưởng các ưu đãi và miễn trừ theo quy định                 toán toàn bộ tiền thù lao của bạn từng năm
+định rời đi nếu mục đích đến Hoa Kỳ có thể được          trong Đạo luật về các tổ chức quốc tế. Cá nhân là               trong số 6 năm trước mà bạn có mặt ở Hoa Kỳ
+hoàn thành trong một khoảng thời gian không đủ dài       một nhân viên toàn thời gian nếu lịch trình làm việc            với tư cách giáo viên hoặc người học việc.
+để bạn hội đủ điều kiện đáp ứng thử thách sự hiện        của người đó đáp ứng lịch làm việc toàn thời gian
+diện đáng kể. Tuy nhiên, nếu bạn cần một khoảng          tiêu chuẩn của tổ chức.                                   Chủ lao động là người ngoại quốc bao gồm văn
+thời gian dài để hoàn thành mục đích của chuyến đi           Cá nhân được coi là có tư cách ngoại giao hoặc        phòng hoặc địa điểm kinh doanh của một pháp nhân
+và khoảng thời gian đó sẽ hội đủ điều kiện cho bạn       lãnh sự toàn thời gian nếu người đó:                      Hoa Kỳ ở nước ngoài hoặc lãnh thổ của Hoa Kỳ.
+đáp ứng thử thách sự hiện diện đáng kể thì bạn sẽ           • có được sự công nhận của một chính phủ                   Nếu bạn hội đủ điều kiện được loại trừ những
+không thể thiết lập ý định rời Hoa Kỳ trước khi kết            nước ngoài được Hoa Kỳ công nhận;                   ngày có mặt với tư cách giáo viên hoặc người học
+thúc khoảng thời gian kéo dài đó.                           • Có ý định tham gia nhiều vào các hoạt động           việc thì bạn phải nộp Mẫu 8843 đã điền đầy đủ
+    Trong trường hợp một cá nhân được nhận định                chính thức của chính phủ nước ngoài đó khi ở        thông tin cho IRS. Xem Mẫu 8843 ở phần sau.
+là mất năng lực tâm thần, bằng chứng về ý định rời             Hoa Kỳ; và
+Hoa Kỳ có thể được xác định bằng cách phân tích             • Đã được Tổng thống, Bộ trưởng Bộ ngoại giao              Ví dụ. Carla đã có mặt tạm thời ở Hoa Kỳ trong
+kiểu hành vi của cá nhân đó trước khi người đó                 hoặc viên chức lãnh sự công nhận là có quyền        năm với tư cách giáo viên theo diện thị thực “J” . Tiền
+được nhận định là mất năng lực tâm thần.                       được hưởng tình trạng đó.                           thù lao của Carla trong năm đã được thanh toán bởi
+                                                                                                                   chủ lao động là người ngoại quốc. Carla đã được coi
+    Nếu bạn đủ điều kiện được loại trừ những ngày            Các thành viên gia đình trực hệ chỉ bao gồm           là giáo viên được miễn thuế trong 2 năm trước
+có mặt do tình trạng sức khỏe thì bạn phải nộp Mẫu       người vợ/chồng và con chưa kết hôn (dù cùng huyết         nhưng tiền thù lao của Carla không được chủ lao
+8843 đã điền đầy đủ thông tin cho IRS. Xem Mẫu           thống hay nhận con nuôi) của người đó nếu tình            động là người ngoại quốc thanh toán. Carla sẽ
+8843 ở phần sau.                                         trạng thị thực của người vợ/chồng hoặc con chưa           không được coi là cá nhân được miễn trong năm
+    Bạn không thể loại trừ bất kỳ ngày nào có mặt ở      kết hôn xuất phát từ và phụ thuộc vào loại thị thực       hiện tại do Carla đã được miễn thuế với tư cách giáo
+Hoa Kỳ trong các trường hợp sau.                         của cá nhân được miễn. Chỉ bao gồm con chưa kết           viên trong ít nhất 2 năm trong số 6 năm qua.
+  • Ban đầu bạn bị ngăn không cho rời đi, sau đó         hôn nếu trẻ:                                                  Nếu tiền thù lao của Carla trong 2 năm qua đã
+      bạn có thể rời đi. Tuy nhiên, bạn vẫn ở lại Hoa      • Dưới 21 tuổi,                                         được thanh toán bởi chủ lao động là người ngoại
+      Kỳ sau một khoảng thời gian hợp lý để thu xếp        • Thường trú trong gia đình của cá nhân được            quốc thì Carla sẽ là cá nhân được miễn trong năm
+      cho việc rời đi.                                        miễn và                                              hiện tại.
+  • Bạn đã quay lại Hoa Kỳ để điều trị một tình            • Không phải là thành viên của gia đình khác.
+      trạng sức khỏe phát sinh trong thời gian lưu trú                                                                 Học sinh. Học sinh là bất kỳ cá nhân nào tạm
+      trước đó.                                              Ghi chú Thông thường, nếu bạn có mặt ở Hoa            thời ở Hoa Kỳ theo diện thị thực “F,” “J,” “M,” hoặc “Q”
+  • Tình trạng này đã tồn tại trước khi bạn đến Hoa      Kỳ theo diện thị thực “A” hoặc “G” , bạn được coi là      tuân thủ những quy định của diện thị thực đó về căn
+      Kỳ và bạn biết rõ vấn đề này. Không quan trọng     cá nhân có liên quan đến chính phủ nước ngoài (với        bản. Bạn được coi là đã tuân thủ những quy định
+                                                         tư cách ngoại giao hoặc lãnh sự toàn thời gian).          của diện thị thực về căn bản nếu bạn không tham gia
+
+Ấn phẩm 519 (2024)                            Chương 1     Người nước ngoài tạm trú hay Người nước ngoài thường trú?                                                     5
+vào các hoạt động bị nghiêm cấm theo luật di trú            Department of the Treasury                          Quốc gia nước ngoài. Để xác định xem liệu bạn
+Hoa Kỳ và có thể dẫn đến việc mất tư cách thị thực.         Internal Revenue Service                            có sự kết nối mật thiết hơn với một quốc gia nước
+    Cũng bao gồm các thành viên gia đình trực hệ            Austin, TX 73301-0215                               ngoài hay không, thuật ngữ “quốc gia nước ngoài”
+của học sinh được miễn thuế. Xem định nghĩa “gia                                                                có nghĩa là:
+đình trực hệ” ở phần trước trong Cá nhân có liên           Bạn phải nộp Mẫu 8843 chậm nhất là vào ngày            • Bất kỳ lãnh thổ nào thuộc chủ quyền của Liên
+quan đến chính phủ nước ngoài.                         đến hạn nộp Mẫu 1040-NR. Ngày đến hạn nộp                     hợp quốc hoặc một chính phủ không phải của
+    Bạn sẽ không phải là cá nhân được miễn với tư      được thảo luận trong chương 7. Nếu bạn bắt buộc               Hoa Kỳ,
+cách học sinh trong năm 2024 nếu bạn đã được           phải nộp Mẫu 8843 và bạn không nộp Mẫu 8843                • Các vùng lãnh hải của quốc gia nước ngoài
+miễn thuế với tư cách giáo viên, người học việc        đúng hạn thì bạn không thể loại trừ những ngày bạn            (được xác định theo pháp luật Hoa Kỳ),
+hoặc học sinh trong bất kỳ thời gian nào của hơn 5     có mặt ở Hoa Kỳ với tư cách vận động viên chuyên           • Đáy biển và lòng đất dưới đáy biển của những
+năm, trừ khi bạn thỏa mãn cả hai yêu cầu sau.          nghiệp hoặc do tình trạng sức khỏe phát sinh khi bạn          khu vực biển tiếp giáp với vùng lãnh hải của
+  • Bạn xác định mình không có ý định thường trú       ở Hoa Kỳ. Điều này không được áp dụng nếu bạn có              quốc gia nước ngoài và ở đó quốc gia nước
+     tại Hoa Kỳ.                                       thể chứng minh bằng bằng chứng rõ ràng và thuyết              ngoài độc quyền thăm dò và khai thác tài
+  • Bạn đã tuân thủ những yêu cầu của diện thị         phục rằng bạn đã thực hiện hành động hợp lý để                nguyên thiên nhiên theo luật quốc tế, và
+     thực về căn bản.                                  biết rõ quy định nộp mẫu đơn và các bước quan              • Lãnh thổ của Hoa Kỳ.
+   Thực tế và hoàn cảnh cần được xem xét trong         trọng để tuân thủ các quy định đó.
+                                                                                                                Thiết lập sự kết nối mật thiết hơn. Bạn sẽ được
+quá trình xác định xem liệu bạn có thể hiện ý định
+                                                                                                                coi là có sự kết nối mật thiết với một quốc gia nước
+thường trú tại Hoa Kỳ hay không, bao gồm nhưng         Kết nối mật thiết hơn với một quốc                       ngoài hơn là với Hoa Kỳ nếu bạn hoặc IRS xác định
+không giới hạn đến những điều sau đây.                 gia nước ngoài                                           bạn đã duy trì nhiều hoạt động liên lạc quan trọng
+  • Cho dù bạn đã duy trì kết nối mật thiết hơn với
+                                                                                                                với quốc gia nước ngoài đó hơn là với Hoa Kỳ. Để
+     một quốc gia nước ngoài (được thảo luận ở         Ngay cả khi bạn đáp ứng thử thách sự hiện diện           xác định xem liệu bạn có duy trì nhiều hoạt động liên
+     phần sau).                                        đáng kể thì bạn cũng có thể được coi là người nước       lạc quan trọng với quốc gia nước ngoài đó hơn là
+  • Cho dù bạn đã thực hiện các bước khẳng định        ngoài tạm trú nếu bạn:                                   với Hoa Kỳ hay không, thực tế và hoàn cảnh cần
+     để thay đổi tình trạng của mình từ không định      • Có mặt ở Hoa Kỳ dưới 183 ngày trong năm,              được xem xét bao gồm nhưng không giới hạn đến
+     cư thành thường trú nhân hợp pháp, như đã          • Duy trì nơi chọn để khai thuế ở nước ngoài            những điều sau.
+     thảo luận ở phần sau Kết nối mật thiết hơn với         trong năm, và
+     một quốc gia nước ngoài.                           • Có sự kết nối mật thiết hơn trong năm với một           1. Quốc gia cư trú mà bạn khai trên các mẫu đơn
+                                                            quốc gia nước ngoài mà bạn có nơi chọn để                và tài liệu.
+   Nếu bạn hội đủ điều kiện được loại trừ những
+ngày có mặt với tư cách học sinh thì bạn phải nộp           khai thuế hơn là với Hoa Kỳ (trừ khi bạn có mối       2. Các loại mẫu đơn và tài liệu chính thức mà bạn
+Mẫu 8843 cho IRS. Xem Mẫu 8843 ở phần sau.                  quan hệ gần gũi hơn với hai quốc gia nước                nộp, chẳng hạn như Mẫu W-9, Mẫu W-8BEN
+                                                            ngoài, được thảo luận ở phần tiếp theo).                 hoặc Mẫu W-8ECI.
+    Vận động viên chuyên nghiệp. Vận động viên
+chuyên nghiệp có mặt tạm thời ở Hoa Kỳ để thi đấu      Kết nối mật thiết hơn với hai quốc gia nước                3. Địa điểm:
+trong một sự kiện thể thao từ thiện là cá nhân được    ngoài. Bạn có thể chứng minh rằng bạn có sự kết                • Ngôi nhà cố định của bạn;
+miễn. Sự kiện thể thao từ thiện là sự kiện đáp ứng     nối mật thiết hơn với hai quốc gia nước ngoài                  • Gia đình của bạn;
+các điều kiện sau.                                     (nhưng không quá hai) nếu bạn thỏa mãn tất cả các              • Đồ dùng cá nhân của bạn như ô tô, đồ
+  • Mục đích chính là mang lại lợi ích cho một tổ      điều kiện sau.                                                     nội thất, quần áo và đồ trang sức;
+     chức từ thiện đủ điều kiện.                         • Bạn đã duy trì nơi chọn để khai thuế bắt đầu từ            • Các đảng phái xã hội, chính trị, văn hóa,
+  • Toàn bộ số tiền thu được sẽ được dùng làm từ            ngày đầu tiên trong năm ở một quốc gia nước                   nghề nghiệp hoặc tôn giáo hiện tại của
+     thiện.                                                 ngoài.                                                        bạn;
+  • Tình nguyện viên thực hiện mọi công việc về          • Bạn đã thay đổi nơi chọn để khai thuế trong                • Hoạt động kinh doanh (ngoài những hoạt
+     căn bản.                                               năm sang quốc gia nước ngoài thứ hai.                         động cấu thành nơi chọn để khai thuế
+                                                         • Bạn tiếp tục duy trì nơi chọn để khai thuế ở                   của bạn);
+    Khi tính những ngày có mặt ở Hoa Kỳ, bạn chỉ có
+                                                            quốc gia nước ngoài thứ hai trong thời gian               • Quyền hạn mà bạn có bằng lái xe;
+thể loại trừ những ngày mà bạn thi đấu trong một sự
+                                                            còn lại của năm.                                          • Quyền hạn mà bạn bỏ phiếu; và
+kiện thể thao. Bạn không thể loại trừ những ngày
+                                                         • Bạn có sự kết nối mật thiết hơn với từng quốc              • Các tổ chức từ thiện mà bạn đóng góp.
+bạn có mặt ở Hoa Kỳ để luyện tập cho sự kiện, thực
+hiện hoạt động quảng cáo hoặc các hoạt động khác            gia nước ngoài hơn là với Hoa Kỳ trong thời
+                                                                                                                Không quan trọng việc ngôi nhà cố định của bạn là
+liên quan đến sự kiện hoặc đi lại giữa các sự kiện.         gian bạn duy trì nơi chọn để khai thuế ở quốc
+                                                                                                                một ngôi nhà, một căn hộ hay một căn phòng được
+    Nếu bạn hội đủ điều kiện được loại trừ những            gia nước ngoài đó.
+                                                                                                                trang bị đồ đạc. Cũng không quan trọng việc bạn
+ngày có mặt với tư cách vận động viên chuyên             • Bạn phải chịu thuế với tư cách thường trú nhân       thuê hay sở hữu ngôi nhà. Tuy nhiên, điều quan
+nghiệp thì bạn phải nộp Mẫu 8843 đã điền đầy đủ             theo luật thuế của quốc gia nước ngoài trong
+                                                                                                                trọng là ngôi nhà của bạn có thể khả dụng mọi lúc,
+thông tin cho IRS. Xem Mẫu 8843 ở phần tiếp theo.           cả năm hoặc với tư cách thường trú nhân ở cả
+                                                                                                                liên tục và không chỉ dành cho những lần lưu trú
+                                                            hai quốc gia nước ngoài trong thời gian bạn
+                                                                                                                ngắn ngày.
+Mẫu 8843. Nếu bạn loại trừ những ngày có mặt ở              duy trì nơi chọn để khai thuế ở từng quốc gia
+Hoa Kỳ do bạn thuộc bất kỳ diện nào trong số các            nước ngoài.                                         Khi bạn không thể có sự kết nối mật thiết hơn.
+diện sau đây thì bạn phải nộp Mẫu 8843 đã điền đầy                                                              Bạn không thể khai rằng bạn có sự kết nối mật thiết
+đủ thông tin.                                          Nơi chọn để khai thuế. Nơi chọn để khai thuế là
+                                                                                                                hơn với một quốc gia nước ngoài nếu áp dụng một
+                                                       khu vực chung của địa điểm kinh doanh chính, nơi
+  • Bạn không thể rời Hoa Kỳ theo kế hoạch do                                                                   trong các điều sau.
+                                                       làm việc hoặc nơi đặt trụ sở, bất kể bạn duy trì nhà ở
+     tình trạng sức khỏe.                                                                                         • Bạn đã nộp đơn hoặc thực hiện các bước khác
+                                                       gia đình ở đâu. Nơi chọn để khai thuế là nơi bạn làm
+  • Bạn đã có mặt tạm thời ở Hoa Kỳ với tư cách                                                                      trong năm để thay đổi tình trạng của mình
+     giáo viên hoặc người học việc theo diện thị       việc lâu dài hoặc vô thời hạn với tư cách nhân viên
+                                                                                                                     thành thường trú nhân.
+                                                       hoặc cá nhân tự kinh doanh. Nếu bạn không có địa
+     thực “J” hoặc “Q” .                                                                                          • Bạn đã có đơn đề nghị đang chờ xử lý để điều
+                                                       điểm kinh doanh chính hoặc thường xuyên do tính
+  • Bạn đã có mặt tạm thời ở Hoa Kỳ với tư cách                                                                      chỉnh tình trạng trong năm hiện tại.
+     học sinh theo diện thị thực “F,” “J,” “M,” hoặc   chất công việc thì nơi chọn để khai thuế là nơi bạn
+                                                       thường sinh sống. Nếu trường hợp của bạn không           Các bước để thay đổi tình trạng của bạn thành
+     “Q” .
+                                                       rơi vào một trong các diện này thì bạn được coi là       thường trú nhân bao gồm nhưng không giới hạn đến
+  • Bạn là vận động viên chuyên nghiệp thi đấu                                                                  việc nộp các mẫu đơn sau.
+     trong một sự kiện thể thao từ thiện.              người có công tác lưu động và nơi chọn để khai thuế
+                                                       là ở bất cứ nơi nào bạn làm việc.                          • Mẫu I-508, Yêu cầu khước từ một số Quyền,
+                                                           Để xác định xem bạn có sự kết nối mật thiết hơn            Ưu đãi và Miễn trừ.
+    Đính kèm Mẫu 8843 với tờ khai thuế thu nhập
+năm 2024 của bạn. Nếu bạn không phải nộp tờ khai       với một quốc gia nước ngoài hay không, nơi chọn để         • Mẫu I-485, Đơn đăng ký thường trú hoặc điều
+                                                       khai thuế của bạn cũng phải tồn tại trong cả năm               chỉnh tình trạng.
+thuế, hãy gửi Mẫu 8843 đến địa chỉ sau.
+                                                       hiện tại và nằm ở cùng một quốc gia nước ngoài mà          • Mẫu I-130, Đơn bảo lãnh thân nhân Người
+                                                       bạn tuyên bố là có sự kết nối mật thiết hơn.                   nước ngoài.
+
+
+6                                           Chương 1     Người nước ngoài tạm trú hay Người nước ngoài thường trú?                             Ấn phẩm 519 (2024)
+ • Mẫu I-140, Đơn xin nhập cư cho Người lao                 Xem Khai báo quyền lợi đã yêu cầu theo hiệp           • Bạn không thể loại trừ bất kỳ ngày nào trong
+     động nước ngoài.                                   ước thuế trong chương 9 để biết thêm thông tin về             khoảng thời gian có mặt liên tục nếu không thể
+ •   Mẫu ETA-9089, Đơn xin xác nhận việc làm cố         việc khai báo quyền lợi theo hiệp ước thuế.                   loại trừ tất cả các ngày trong khoảng thời gian
+     định, Phụ lục A, và Quyết định cuối cùng                                                                         đó.
+ •   Mẫu DS-230, Đơn xin thị thực nhập cư và đăng       Một số học sinh và người học việc đến từ                  •   Mặc dù bạn có thể loại trừ tối đa 10 ngày có
+     ký Người nước ngoài.                               Barbados và Jamaica. Học sinh là người nước                   mặt khi xác định ngày bạn bắt đầu cư trú
+                                                        ngoài tạm trú đến từ Barbados và Jamaica, cũng                nhưng bạn phải bao gồm những ngày đó khi
+    Ghi chú. Những mẫu này có sẵn tại USCIS.gov/        như người học việc đến từ Jamaica, có thể hội đủ              xác định xem liệu bạn có đáp ứng thử thách sự
+forms/all-forms    (tiếng    Anh)     và   DOL.gov/     điều kiện tham gia một cuộc bầu cử để được coi                hiện diện đáng kể hay không.
+agencies/eta/foreign-labor/forms (tiếng Anh).           như người nước ngoài thường trú với mục đích tính
+                                                        thuế Hoa Kỳ theo hiệp ước thuế thu nhập Hoa Kỳ đã             Ví dụ. Ivan Ivanovich là một công dân Nga. Ivan
+Mẫu 8840. Bạn phải đính kèm Mẫu 8840 đã điền            ký với các quốc gia đó. Xem Ấn phẩm 901 (tiếng           đến Hoa Kỳ lần đầu tiên vào ngày 6 tháng 1, 2024
+đầy đủ thông tin với tờ khai thuế thu nhập để khai      Anh) để biết thêm thông tin. Nếu bạn hội đủ điều         để tham dự một cuộc họp kinh doanh và quay lại
+rằng bạn có sự kết nối mật thiết hơn với một quốc       kiện áp dụng lựa chọn này thì bạn có thể làm điều đó     Nga vào ngày 10 tháng 1, 2024. Nơi khai thuế của
+gia nước ngoài hoặc nhiều quốc gia.                     bằng cách nộp Mẫu 1040 và đính kèm bản kê khai           Ivan vẫn ở Nga. Ivan chuyển đến Hoa Kỳ vào ngày 1
+    Nếu bạn không phải nộp tờ khai thuế, hãy gửi        về lựa chọn có chữ ký với tờ khai thuế của bạn. Quy      tháng 3, 2024 và cư trú ở đây trong thời gian còn lại
+mẫu đơn đến:                                            tắc về người nước ngoài thường trú được đề cập           của năm. Ivan có thể thiết lập sự kết nối mật thiết
+                                                        trong ấn phẩm này áp dụng cho bạn. Sau khi đưa ra        hơn với Nga trong khoảng thời gian từ ngày 6 đến
+     Department of the Treasury                         lựa chọn, lựa chọn đó sẽ được áp dụng miễn là bạn        ngày 10 tháng 1, 2024. Do đó, ngày Ivan bắt đầu cư
+     Internal Revenue Service                           vẫn hội đủ điều kiện và bạn phải xin phép cơ quan        trú là ngày 1 tháng 3, 2024.
+     Austin, TX 73301-0215                              có thẩm quyền của Hoa Kỳ để kết thúc lựa chọn đó.
+                                                                                                                      Tường trình cần thiết để loại trừ tối đa 10
+                                                            Ghi chú. Vào ngày 8 tháng 1, 2023, hiệp ước          ngày hiện diện. Bạn phải nộp một bản tường trình
+    Bạn phải nộp Mẫu 8840 chậm nhất là vào ngày                                                                  cho IRS nếu bạn không tính tối đa 10 ngày có mặt ở
+đến hạn nộp Mẫu 1040-NR. Ngày đến hạn nộp               thuế giữa Hoa Kỳ và Hungary đã chấm dứt theo quy
+                                                        định về việc chấm dứt hiệp ước. Do đó, đối với các       Hoa Kỳ cho các mục đích kể từ ngày bạn bắt đầu cư
+được thảo luận ở phần sau trong chương 7.                                                                        trú. Bạn phải ký và đề ngày vào bản tường trình này,
+                                                        năm tính thuế bắt đầu từ ngày 1 tháng 1, 2024, lựa
+    Nếu bạn không nộp Mẫu 8840 đúng hạn thì bạn                                                                  kèm theo tuyên bố được đưa ra theo hình phạt nếu
+                                                        chọn ở trên sẽ không còn dành cho sinh viên và thực
+không thể khai là có sự kết nối mật thiết hơn với một                                                            khai man. Bản tường trình phải có các thông tin sau
+                                                        tập sinh từ Hungary nữa. Xem Chấm dứt Công ước
+quốc gia nước ngoài hoặc nhiều quốc gia. Điều này                                                                (nếu có).
+                                                        Thuế năm 1979 với Hungary trong Nhắc nhở, ở
+không được áp dụng nếu bạn có thể chứng minh                                                                       • Tên, địa chỉ, mã số thuế Hoa Kỳ (TIN) (nếu có)
+                                                        phần trước.
+bằng bằng chứng rõ ràng và thuyết phục rằng bạn                                                                        và số thị thực Hoa Kỳ (nếu có).
+đã thực hiện hành động hợp lý để biết rõ quy định                                                                  • Số hộ chiếu và tên quốc gia đã cấp hộ chiếu
+                                                        Người nước ngoài có tình
+nộp mẫu đơn và các bước quan trọng để tuân thủ                                                                         cho bạn.
+các quy định đó.                                                                                                   • Năm tính thuế mà bản tường trình được áp
+                                                        trạng kép                                                      dụng.
+Ảnh hưởng của hiệp uớc thuế                                                                                        • Ngày đầu tiên mà bạn có mặt ở Hoa Kỳ trong
+                                                        Bạn có thể vừa là người nước ngoài tạm trú vừa là              năm.
+Thường trú nhân có tình trạng kép. Các quy tắc          người nước ngoài thường trú trong cùng một năm             • Những ngày mà bạn đang loại trừ khi tính ngày
+được đưa ra ở đây để xác định liệu bạn có phải là       tính thuế. Tình huống này thường xảy ra vào năm                bạn bắt đầu cư trú.
+thường trú nhân Hoa Kỳ sẽ không làm vô hiệu các         bạn đến hoặc khởi hành từ Hoa Kỳ. Người nước               • Đầy đủ cơ sở lập luận để xác định bạn đã duy
+định nghĩa về tình trạng cư trú theo hiệp ước thuế.     ngoài có hai tình trạng cư trú nên xem chương 6 để             trì nơi chọn để khai thuế và có sự kết nối mật
+Nếu bạn là người đóng thuế có tình trạng kép thì bạn    biết thông tin về việc nộp tờ khai thuế trong năm tính         thiết hơn với một quốc gia nước ngoài trong
+vẫn có thể yêu cầu quyền lợi theo hiệp ước thuế thu     thuế dành cho người có hai tình trạng cư trú.                  khoảng thời gian mà bạn loại trừ.
+nhập. Người đóng thuế có tình trạng kép là thường                                                                    Đính kèm bản tường trình bắt buộc với tờ khai
+trú nhân của cả Hoa Kỳ vừa và một quốc gia khác
+theo luật thuế của từng quốc gia. Hiệp ước thuế thu
+                                                        Năm cư trú đầu tiên                                      thuế thu nhập của bạn. Nếu bạn không bắt buộc
+                                                                                                                 phải nộp tờ khai thuế, hãy gửi bản tường trình đến
+nhập giữa hai quốc gia phải có điều khoản quy định                                                               địa chỉ sau.
+việc giải quyết các yêu cầu cư trú đối lập (quy tắc     Nếu bạn là thường trú nhân Hoa Kỳ trong năm,
+ngoại lệ). Nếu bạn được coi như thường trú nhân         nhưng bạn không phải là thường trú nhân Hoa Kỳ                Department of the Treasury
+theo hiệp ước thuế thì bạn sẽ được coi như người        vào bất kỳ thời điểm nào trong năm trước thì bạn chỉ          Internal Revenue Service
+nước ngoài tạm trú khi tính thuế thu nhập Hoa Kỳ.       là thường trú nhân Hoa Kỳ trong một khoảng thời               Austin, TX 73301-0215
+Theo mục đích khác ngoài việc tính thuế, bạn sẽ         gian của năm bắt đầu vào ngày bắt đầu cư trú. Bạn
+được coi như thường trú nhân Hoa Kỳ. Ví dụ: các         là người nước ngoài tạm trú trong một khoảng thời
+                                                                                                                     Bạn phải nộp bản tường trình vào ngày hoặc
+quy tắc được thảo luận ở đây không ảnh hưởng đến        gian của năm trước ngày đó.
+                                                                                                                 trước ngày đến hạn nộp Mẫu 1040-NR. Ngày đến
+khoảng thời gian bạn cư trú, như đã thảo luận trong
+                                                        Ngày bắt đầu cư trú theo thử thách sự hiện diện          hạn nộp được thảo luận trong chương 7.
+Người nước ngoài có tình trạng kép ở phần sau.
+                                                        đáng kể. Nếu bạn đáp ứng thử thách sự hiện diện              Nếu bạn không nộp bản kê khai bắt buộc như đã
+                                                        đáng kể trong một năm thì ngày bạn bắt đầu cư trú        giải thích ở trên thì bạn không thể khai rằng bạn có
+     Ghi chú. Trong một số trường hợp nhất định,
+                                                        thường là ngày đầu tiên bạn có mặt ở Hoa Kỳ trong        sự kết nối mật thiết hơn với một quốc gia nước
+khi một cá nhân được coi là người nước ngoài tạm
+                                                        năm đó. Tuy nhiên, bạn không phải tính tối đa 10         ngoài hoặc nhiều quốc gia. Do đó, ngày đầu tiên bạn
+trú theo quy tắc phá hòa trong hiệp ước thuế có liên
+                                                        ngày có mặt ở Hoa Kỳ nếu vào những ngày đó, bạn          cư trú sẽ là ngày đầu tiên bạn có mặt tại Hoa Kỳ.
+quan, điều đó có thể kích hoạt đoạn 877A thuế từ bỏ
+                                                        xác định:                                                Điều này không được áp dụng nếu bạn có thể
+quốc tịch. Xem Thuế từ bỏ quốc tịch, ở phần sau.
+                                                                                                                 chứng minh bằng bằng chứng rõ ràng và thuyết
+                                                          • Bạn đã có sự kết nối mật thiết hơn với một
+                                                             quốc gia nước ngoài hơn là với Hoa Kỳ và            phục rằng bạn đã thực hiện hành động hợp lý để
+Thông tin cần khai báo. Nếu bạn là người đóng
+                                                                                                                 biết rõ quy định nộp bản kê khai và các bước quan
+thuế có tình trạng kép và yêu cầu quyền lợi theo hiệp     • Nơi chọn để khai thuế của bạn là ở quốc gia
+                                                             nước ngoài đó.                                      trọng để tuân thủ các quy định đó.
+ước thuế thì bạn phải nộp tờ khai thuế bằng Mẫu
+1040-NR đính kèm Mẫu 8833 và tính tiền thuế với tư      Xem Kết nối mật thiết hơn với một quốc gia nước          Ngày bắt đầu cư trú theo thử thách thẻ xanh.
+cách người nước ngoài tạm trú. Người đóng thuế có       ngoài ở phần trước.                                      Nếu bạn đáp ứng thử thách thẻ xanh bất cứ lúc nào
+tình trạng kép cũng có thể hội đủ điều kiện nhận sự
+                                                           Để xác định xem liệu bạn có thể loại trừ tối đa 10    trong năm nhưng không đáp ứng thử thách sự hiện
+hỗ trợ của cơ quan có thẩm quyền tại Hoa Kỳ. Xem
+                                                        ngày hay không, các quy tắc sau sẽ được áp dụng.         diện đáng kể cho năm đó thì ngày bạn bắt đầu cư trú
+Quy trình Thuế vụ 2015-40, 2015-35 I.R.B. 236, có
+                                                         • Bạn có thể loại trừ những ngày khỏi nhiều             sẽ là ngày đầu tiên trong năm mà bạn có mặt ở Hoa
+sẵn tại IRS.gov/irb/2015-35_IRB#RP-2015-40 (tiếng
+                                                             khoảng thời gian có mặt, miễn là tổng số ngày       Kỳ với tư cách thường trú nhân hợp pháp.
+Anh) hoặc ấn bản tiếp theo.
+                                                             trong tất cả khoảng thời gian không vượt quá            Nếu bạn đáp ứng cả thử thách sự hiện diện
+                                                             10 ngày.                                            đáng kể và thử thách thẻ xanh thì ngày bạn bắt đầu
+
+Ấn phẩm 519 (2024)                           Chương 1     Người nước ngoài tạm trú hay Người nước ngoài thường trú?                                                 7
+cư trú sẽ trước ngày đầu tiên trong năm mà bạn có        nhân Hoa Kỳ trong năm 2025 theo thử thách sự hiện       Chọn tình trạng Người nước
+mặt ở Hoa Kỳ theo thử thách sự hiện diện đáng kể         diện đáng kể. Juan có thể đưa ra lựa chọn năm đầu
+hoặc với tư cách thường trú nhân hợp pháp.               tiên cho năm 2024 vì Juan đã ở Hoa Kỳ 31 ngày liên
+                                                                                                                 ngoài thường trú
+                                                         tiếp trong năm 2024 (từ ngày 1 tháng 11 đến ngày 1
+Tình trạng cư trú trong năm trước. Nếu bạn là            tháng 12) và ít nhất 75% (0.75) số ngày tiếp theo (và   Nếu bạn là người nước ngoài mang hai quốc tịch thì
+thường trú nhân Hoa Kỳ trong bất kỳ thời gian nào        bao gồm) ngày đầu tiên trong khoảng thời gian 31        bạn có thể chọn được coi như thường trú nhân Hoa
+của năm trước và bạn là thường trú nhân Hoa Kỳ           ngày của Juan (tổng số 46 ngày có mặt ở Hoa Kỳ          Kỳ trong cả năm nếu áp dụng tất cả các điều sau
+trong bất kỳ thời gian nào của năm hiện tại thì bạn sẽ   chia cho 61 ngày trong khoảng thời gian từ ngày 1       đây.
+được coi như thường trú nhân Hoa Kỳ vào đầu năm          tháng 11 đến ngày 31 tháng 12 bằng 75.4%                 • Bạn là người nước ngoài tạm trú vào đầu năm.
+hiện tại. Điều này được áp dụng cho dù bạn là            (0.754)). Nếu Juan đưa ra lựa chọn năm đầu tiên thì      • Bạn là người nước ngoài thường trú hoặc công
+thường trú nhân theo thử thách sự hiện diện đáng         ngày Juan bắt đầu cư trú sẽ là ngày 1 tháng 11,              dân Hoa Kỳ vào cuối năm.
+kể hay thử thách thẻ xanh.                               2024.                                                    • Bạn đã kết hôn với một công dân Hoa Kỳ hoặc
+                                                                                                                      người nước ngoài thường trú vào cuối năm.
+    Ví dụ. Robert Bach là một công dân Thụy Sĩ.              Ví dụ 2. Cơ sở lập luận cũng giống như trong Ví      • Người vợ/chồng cùng bạn tham gia vào quá
+Robert đến Hoa Kỳ lần đầu tiên với tư cách thường        dụ 1 ngoại trừ việc Juan cũng không có mặt ở Hoa             trình đưa ra lựa chọn.
+trú nhân Hoa Kỳ vào ngày 1 tháng 5, 2023 và ở lại        Kỳ vào các ngày 24, 25, 29, 30 và 31 tháng 12. Juan     Điều này bao gồm các tình huống mà cả bạn và
+đây đến ngày 5 tháng 11, 2023, khi Robert trở về         có thể đưa ra lựa chọn năm đầu tiên cho năm 2024        người vợ/chồng đều là người nước ngoài tạm trú
+Thụy Sĩ. Robert đã quay lại Hoa Kỳ vào ngày 5 tháng      vì có tối đa 5 ngày vắng mặt được coi là những ngày     vào đầu năm tính thuế và cả hai người đều là người
+3, 2024 với tư cách thường trú nhân hợp pháp và          có mặt theo mục đích của yêu cầu 75% (0.75).            nước ngoài thường trú vào cuối năm tính thuế.
+vẫn cư trú ở đây. Trong năm 2024, tình trạng cư trú
+của Robert tại Hoa Kỳ được tính là bắt đầu vào ngày          Bắt buộc phải cung cấp bản tường trình để
+                                                                                                                      Ghi chú. Nếu bạn vẫn độc thân vào cuối năm
+1 tháng 1, 2024 do Robert đủ điều kiện là thường trú     đưa ra lựa chọn năm đầu tiên cho năm 2024.
+                                                                                                                 thì bạn không thể đưa ra lựa chọn này.
+nhân trong năm 2023.                                     Bạn phải đính kèm bản tường trình với Mẫu 1040
+                                                         hoặc Mẫu 1040-SR để đưa ra lựa chọn năm đầu tiên
+                                                                                                                    Nếu bạn đưa ra lựa chọn này, các quy tắc sau
+                                                         cho năm 2024. Bản tường trình phải có tên và địa
+Lựa chọn năm đầu                                         chỉ của bạn và nêu rõ các nội dung sau.
+                                                                                                                 đây sẽ được áp dụng.
+                                                                                                                  • Bạn và người vợ/chồng được coi như thường
+                                                           • Bạn đang đưa ra lựa chọn năm đầu tiên cho
+Nếu bạn không đáp ứng thử thách thẻ xanh hoặc                                                                         trú nhân Hoa Kỳ trong cả năm theo mục đích
+                                                               năm 2024.
+thử thách sự hiện diện đáng kể trong năm 2023                                                                         tính thuế thu nhập.
+                                                           • Bạn không phải là thường trú nhân trong năm
+hoặc năm 2024 và bạn không chọn được coi như                   2023.
+                                                                                                                  • Bạn và người vợ/chồng chịu thuế trên thu nhập
+thường trú nhân trong một thời điểm của năm 2023                                                                      từ tất cả các nguồn trên khắp thế giới.
+                                                           • Bạn là thường trú nhân theo thử thách sự hiện
+nhưng bạn đáp ứng thử thách sự hiện diện đáng kể               diện đáng kể trong năm 2025.
+                                                                                                                  • Bạn và người vợ/chồng phải nộp tờ khai thuế
+trong năm 2025 thì bạn có thể chọn được coi như                                                                       chung cho năm đã chọn.
+                                                           • Những ngày có mặt ở Hoa Kỳ trong năm 2025.
+thường trú nhân Hoa Kỳ trong một thời điểm của                                                                    • Cả bạn và người vợ/chồng đều không thể đưa
+                                                           • Ngày hoặc các ngày trong khoảng thời gian 31
+năm 2024. Để đưa ra lựa chọn này, bạn phải:                                                                           ra lựa chọn này cho bất kỳ năm tính thuế nào
+                                                               ngày bạn có mặt và khoảng thời gian bạn có
+                                                                                                                      sau đó, ngay cả khi bạn đã ly thân, ly hôn hoặc
+    1. Có mặt ở Hoa Kỳ ít nhất 31 ngày liên tiếp trong         mặt liên tục ở Hoa Kỳ trong năm 2024.
+                                                                                                                      tái hôn.
+       năm 2024 và                                         • Ngày hoặc các ngày không có mặt ở Hoa Kỳ
+                                                               trong năm 2024 mà bạn coi là những ngày có
+                                                                                                                  • Các hướng dẫn đặc biệt và hạn chế đối với
+    2. Có mặt ở Hoa Kỳ ít nhất 75% số ngày bắt đầu                                                                    người đóng thuế có tình trạng kép trong
+                                                               mặt.
+       bằng ngày đầu tiên của khoảng thời gian 31                                                                     chương 6 không áp dụng cho bạn.
+       ngày và kết thúc bằng ngày cuối cùng của năm      Bạn không thể nộp Mẫu 1040 hoặc Mẫu 1040-SR
+       2024. Theo mục đích của yêu cầu 75% này,          hoặc bản tường trình cho đến khi bạn đáp ứng thử            Ghi chú. Lựa chọn tương tự cũng có sẵn nếu
+       bạn có thể coi tối đa 5 ngày vắng mặt khỏi Hoa    thách sự hiện diện đáng kể cho năm 2025. Nếu bạn        vào cuối năm tính thuế, người vợ/chồng là người
+       Kỳ là những ngày có mặt ở Hoa Kỳ.                 không đáp ứng thử thách này cho năm 2024 kể từ          nước ngoài tạm trú và người vợ/chồng còn lại là
+                                                         ngày 15 tháng 4, 2025 thì bạn có thể yêu cầu gia hạn    công dân Hoa Kỳ hoặc thường trú nhân Hoa Kỳ.
+                                                         thời gian nộp Mẫu 1040 hoặc Mẫu 1040-SR năm             Xem Người vợ/chồng là người nước ngoài tạm trú
+    Khi tính số ngày vắng mặt trong mục (1) và (2) ở
+                                                         2021 cho đến một khoảng thời gian hợp lý sau khi        được coi như thường trú nhân ở phần sau. Nếu bạn
+trên, không tính những ngày bạn ở Hoa Kỳ theo bất
+                                                         bạn đáp ứng thử thách đó. Để yêu cầu gia hạn thời       đã từng đưa ra lựa chọn và lựa chọn đó vẫn có hiệu
+kỳ trường hợp ngoại lệ nào được thảo luận ở phần
+                                                         gian nộp cho đến ngày 15 tháng 10, 2025, hãy sử         lực thì bạn không cần phải đưa ra lựa chọn được
+trước trong Những ngày có mặt ở Hoa Kỳ.
+                                                         dụng Mẫu 4868. Bạn có thể nộp mẫu đơn giấy hoặc         giải thích ở đây.
+                                                         sử dụng một trong các lựa chọn nộp mẫu đơn điện
+     Nếu bạn lựa chọn năm đầu tiên thì ngày bạn bắt
+                                                         tử được giải thích trong hướng dẫn cho Mẫu 4868.        Đưa ra lựa chọn. Nếu bạn và vợ/chồng của bạn
+đầu cư trú trong năm 2024 sẽ là ngày đầu tiên của
+                                                         Khi gia hạn, bạn phải trả tiền thuế dự kiến nợ cho      đang đưa ra lựa chọn này, hãy chọn hộp trong phần
+khoảng thời gian 31 ngày sớm nhất (được trình bày
+                                                         năm 2024, được tính như thể bạn là người nước           Filing Status (Tư cách khai thuế) của Mẫu 1040 hoặc
+trong mục (1) ở trên) mà bạn dùng để hội đủ điều
+                                                         ngoài tạm trú trong cả năm. Bạn có thể sử dụng Mẫu      1040-SR và nhập tên của (các) vợ/chồng có tư cách
+kiện áp dụng lựa chọn này. Bạn được coi như
+                                                         1040-NR để tính tiền thuế. Ghi tiền thuế vào Mẫu        kép vào không gian nhập và đính kèm một tuyên bố
+thường trú nhân Hoa Kỳ trong thời gian còn lại của
+                                                         4868. Nếu bạn không đóng tiền thuế đến hạn thì bạn      có chữ ký của cả hai vợ chồng vào tờ khai chung
+năm. Nếu bạn có mặt trong hơn 31 ngày và đáp ứng
+                                                         sẽ bị tính lãi trên bất kỳ khoản thuế nào chưa đóng     của bạn cho năm bạn chọn. Tuyên bố phải chứa các
+điều kiện (2) ở trên trong từng khoảng thời gian đó
+                                                         vào ngày đến hạn khai thuế định kỳ và bạn có thể bị     thông tin sau.
+thì ngày bạn bắt đầu cư trú sẽ là ngày đầu tiên trong
+                                                         phạt khi chậm nộp.                                        • Tuyên bố bạn hội đủ điều kiện để đưa ra lựa
+khoảng thời gian 31 ngày đầu tiên. Nếu bạn có mặt
+                                                             Sau khi đưa ra lựa chọn năm đầu tiên, bạn                 chọn và bạn chọn được coi như thường trú
+hơn 31 ngày nhưng chỉ đáp ứng điều kiện (2) ở trên
+                                                         không thể rút lại lựa chọn mà không có sự chấp                nhân Hoa Kỳ trong toàn bộ năm tính thuế.
+trong khoảng thời gian 31 ngày sau đó thì ngày bạn
+                                                         thuận của IRS.                                            • Tên, địa chỉ, và TIN (số an sinh xã hội (SSN)
+bắt đầu cư trú sẽ là ngày đầu tiên trong khoảng thời
+                                                             Nếu bạn không tuân theo quy trình được thảo               hoặc mã số thuế cá nhân (ITIN)) của từng
+gian 31 ngày sau đó.
+                                                         luận ở đây để đưa ra lựa chọn năm đầu tiên thì bạn            người vợ/chồng. (Nếu người vợ/chồng đã mất,
+                                                         sẽ được coi như người nước ngoài tạm trú trong cả             hãy bao gồm tên và địa chỉ của người đưa ra
+   Ghi chú. Bạn không cần phải kết hôn để có thể
+                                                         năm 2024. Tuy nhiên, điều này không áp dụng nếu               lựa chọn cho người vợ/chồng đã mất.)
+đưa ra lựa chọn này.
+                                                         bạn có thể chứng minh bằng bằng chứng rõ ràng và
+                                                                                                                     Bạn thường đưa ra lựa chọn này khi nộp tờ khai
+                                                         thuyết phục rằng bạn đã thực hiện hành động hợp lý
+    Ví dụ 1. Juan DaSilva là công dân Philippines.                                                               thuế chung. Tuy nhiên, bạn cũng có thể đưa ra lựa
+                                                         để biết rõ các yêu cầu nộp đơn và các bước quan
+Juan đến Hoa Kỳ lần đầu tiên vào ngày 1 tháng 11,                                                                chọn này bằng cách nộp Mẫu 1040-X, Tờ khai thuế
+                                                         trọng để tuân thủ những yêu cầu đó.
+2024 và ở đây trong 31 ngày liên tục (từ ngày 1                                                                  thu nhập Hoa Kỳ được điều chỉnh cho Cá nhân.
+tháng 11 đến ngày 1 tháng 12, 2024). Juan trở về                                                                 Đính kèm Mẫu 1040 hoặc Mẫu 1040-SR và nhập
+Philippines vào ngày 1 tháng 12 và trở lại Hoa Kỳ                                                                “Amended (Được điều chỉnh)” ở trên đầu tờ khai
+vào ngày 17 tháng 12, 2024. Juan đã ở lại Hoa Kỳ                                                                 được điều chỉnh. Nếu bạn đưa ra lựa chọn kèm theo
+trong thời gian còn lại của năm. Juan là thường trú                                                              tờ khai thuế được điều chỉnh thì bạn và người vợ/
+
+8                                             Chương 1     Người nước ngoài tạm trú hay Người nước ngoài thường trú?                           Ấn phẩm 519 (2024)
+chồng cũng phải điều chỉnh bất kỳ tờ khai nào mà              khi xác định xem liệu bạn có đáp ứng thử thách               Department of the Treasury
+bạn có thể đã nộp sau năm bạn đưa ra lựa chọn.                sự hiện diện đáng kể hay không.                              Internal Revenue Service
+    Bạn thường phải nộp tờ khai thuế chung được                                                                            Austin, TX 73301-0215
+điều chỉnh trong vòng 3 năm kể từ ngày bạn nộp tờ            Ví dụ. Lola Bovary là một công dân Malta. Lola
+khai thuế thu nhập Hoa Kỳ ban đầu hoặc 2 năm kể          đến Hoa Kỳ lần đầu tiên vào ngày 1 tháng 3, 2024 và            Bạn phải nộp bản tường trình vào ngày hoặc
+từ ngày bạn đóng thuế thu nhập cho năm đó, tùy           cư trú ở đây cho đến ngày 25 tháng 8, 2024. Vào            trước ngày đến hạn nộp Mẫu 1040-NR. Ngày đến
+theo ngày nào muộn hơn.                                  ngày 12 tháng 12, 2024 Lola đến Hoa Kỳ để nghỉ             hạn nộp được thảo luận trong chương 7.
+                                                         dưỡng và trở lại Malta ngày 16 tháng 12, 2024. Lola
+                                                                                                                        Nếu bạn không nộp bản tường trình bắt buộc
+                                                         có thể thiết lập sự kết nối mật thiết hơn với Malta có
+Năm cuối cùng của tình trạng                             thể thiết lập sự kết nối mật thiết hơn với Malta trong
+                                                                                                                    như đã giải thích ở trên thì bạn không thể khai rằng
+                                                                                                                    bạn có sự kết nối mật thiết hơn với một quốc gia
+cư trú                                                   thời gian còn lại của năm 2024, bắt đầu vào ngày 25
+                                                                                                                    nước ngoài hoặc nhiều quốc gia. Điều này không
+                                                         tháng 8, 2024, khi cô ta rời Hoa Kỳ . Lola là thường
+                                                                                                                    được áp dụng nếu bạn có thể chứng minh bằng
+Nếu bạn là thường trú nhân Hoa Kỳ trong năm 2024         trú nhân theo thử thách sự hiện diện đáng kể cho
+                                                                                                                    bằng chứng rõ ràng và thuyết phục rằng bạn đã thực
+nhưng không phải là thường trú nhân Hoa Kỳ trong         năm 2024 do Lola đã có mặt ở Hoa Kỳ trong 183
+                                                                                                                    hiện hành động hợp lý để biết rõ các yêu cầu nộp
+bất kỳ thời điểm nào trong năm 2025 thì bạn sẽ           ngày (178 ngày trong khoảng thời gian từ ngày 1
+                                                                                                                    bản tường trình và các bước quan trọng để tuân thủ
+không còn là thường trú nhân Hoa Kỳ vào ngày bạn         tháng 3 đến ngày 25 tháng 8 cộng thêm 5 ngày trong
+                                                                                                                    những yêu cầu đó.
+kết thúc tình trạng cư trú. Ngày bạn kết thúc tình       tháng 12). Tuy nhiên, Lola có thể loại trừ chuyến
+trạng cư trú là ngày 31 tháng 12, 2024, trừ khi bạn      thăm Hoa Kỳ vào tháng 12 khi xác định ngày chấm
+hội đủ điều kiện áp dụng ngày sớm hơn, như đã
+thảo luận ở phần sau.
+                                                         dứt cư trú của mình và do đó ngày kết thúc tình trạng
+                                                         cư trú của Lola là ngày 25 tháng 8, 2024.
+                                                                                                                    Người vợ/chồng là người
+                                                                                                                    tạm trú được coi như
+Ngày kết thúc tình trạng cư trú sớm hơn. Bạn             Tình trạng cư trú trong năm tiếp theo. Nếu bạn
+có thể hội đủ điều kiện áp dụng ngày kết thúc tình       là thường trú nhân Hoa Kỳ trong bất kỳ thời điểm           thường trú nhân
+trạng cư trú sớm hơn ngày 31 tháng 12. Ngày này là:      nào của năm 2025 và là thường trú nhân trong bất
+                                                         kỳ thời điểm nào của năm 2024 thì bạn sẽ được coi          Nếu vào cuối năm tính thuế, bạn đã kết hôn và
+  1. Ngày cuối cùng trong năm 2024 mà bạn có
+                                                         như thường trú nhân đến hết năm 2024. Điều này             người vợ/chồng là công dân Hoa Kỳ hoặc người
+     mặt ở Hoa Kỳ, nếu bạn đáp ứng thử thách sự
+                                                         được áp dụng cho dù bạn có sự kết nối mật thiết            nước ngoài thường trú và người vợ/chồng kia là
+     hiện diện đáng kể;
+                                                         hơn với một quốc gia nước ngoài hơn là với Hoa Kỳ          người nước ngoài tạm trú thì bạn có thể chọn coi
+  2. Ngày đầu tiên trong năm 2024 mà bạn không           trong năm 2024 hay không và bạn có phải là thường          người vợ/chồng tạm trú là thường trú nhân Hoa Kỳ.
+     còn là thường trú nhân Hoa Kỳ hợp pháp, nếu         trú nhân theo thử thách sự hiện diện đáng kể hay           Điều này bao gồm các tình huống mà người vợ/
+     bạn đáp ứng thử thách thẻ xanh; hoặc                thử thách thẻ xanh hay không.                              chồng là người nước ngoài tạm trú vào đầu năm tính
+  3. Ở phần sau của (1) hoặc (2), nếu bạn đáp ứng                                                                   thuế, nhưng người nước ngoài thường trú vào cuối
+                                                         Tường trình bắt buộc để thiết lập ngày bạn kết             năm và người vợ/chồng kia là người nước ngoài
+     cả hai thử thách.
+                                                         thúc tình trạng cư trú. Bạn phải nộp bản tường             tạm trú vào cuối năm.
+    Bạn chỉ có thể sử dụng ngày này nếu trong thời       trình cho IRS để thiết lập ngày bạn kết thúc tình trạng
+gian còn lại của năm 2024, nơi chọn để khai thuế         cư trú. Bạn phải ký và đề ngày vào bản tường trình             Nếu bạn đưa ra lựa chọn này thì bạn và người
+của bạn ở một quốc gia nước ngoài và bạn có sự kết       này, kèm theo tuyên bố được đưa ra theo hình phạt          vợ/chồng sẽ được coi như thường trú nhân trong cả
+nối mật thiết hơn với quốc gia nước ngoài đó. Xem        nếu khai man. Bản tường trình phải có các thông tin        năm tính thuế. Cả bạn và người vợ/chồng đều không
+Kết nối mật thiết hơn với một quốc gia nước ngoài ở      sau (nếu có).                                              thể khai theo bất kỳ hiệp ước thuế nào mà cũng
+phần trước.                                                 • Tên, địa chỉ, TIN (nếu có) và số thị thực Hoa Kỳ      không phải là thường trú nhân Hoa Kỳ. Cả hai người
+                                                               (nếu có).                                            đều chịu thuế trên thu nhập từ tất cả các nguồn trên
+   Ghi chú. Khai tình trạng cư trú theo điều khoản          • Số hộ chiếu và tên quốc gia đã cấp hộ chiếu           khắp thế giới. Bạn phải nộp tờ khai thuế thu nhập
+phá hòa của hiệp ước hiện hành ở một quốc gia                  cho bạn.                                             chung cho năm đã chọn, nhưng bạn và người vợ/
+khác cũng có thể dẫn đến ngày chấm dứt cư trú               • Năm tính thuế mà bản tường trình được áp              chồng có thể khai thuế chung hoặc khai thuế riêng
+sớm hơn ngày 31 tháng 12.                                      dụng.                                                trong những năm sau đó.
+                                                            • Ngày cuối cùng mà bạn có mặt ở Hoa Kỳ trong
+        LTR không còn là thường trú nhân hợp                                                                                 Nếu bạn khai thuế chung theo quy định này
+                                                               năm.
+        pháp có thể phải tuân thủ yêu cầu khai báo                                                                           thì hướng dẫn và hạn chế đặc biệt dành
+   !
+CAUTION đặc biệt và quy định về thuế. Xem Thuế
+                                                            • Đầy đủ cơ sở lập luận để xác định bạn đã duy             !
+                                                                                                                     CAUTION cho người đóng thuế có tình trạng kép
+                                                               trì nơi chọn để khai thuế và bạn có sự kết nối
+dành cho người từ bỏ quốc tịch trong chương 4.                                                                      trong chương 6 không áp dụng cho bạn.
+                                                               mật thiết hơn với một quốc gia nước ngoài sau
+                                                               ngày cuối cùng bạn có mặt ở Hoa Kỳ trong
+    Kết thúc tình trạng cư trú. Để biết thông tin về           năm hoặc sau khi từ bỏ hoặc hủy bỏ tình trạng            Ví dụ. Bob và Sharon Williams đã kết hôn và cả
+ngày kết thúc tình trạng cư trú của bạn, xem Cựu               cư trú với tư cách thường trú nhân hợp pháp          hai người đều là người nước ngoài tạm trú vào đầu
+LTR trong phần Từ bỏ quốc tịch sau ngày 16 tháng               trong năm.                                           năm. Vào tháng 6, Bob trở thành người nước ngoài
+6, 2008 ở chương 4.
+                                                            • Ngày mà tình trạng cư trú của bạn với tư cách         thường trú và vẫn là thường trú nhân trong thời gian
+                                                               thường trú nhân hợp pháp bị từ bỏ hoặc hủy           còn lại của năm. Bob và Sharon đều chọn được coi
+Hiện diện cực tiểu. Nếu bạn là thường trú nhân                                                                      như người nước ngoài thường trú bằng cách đánh
+                                                               bỏ.
+Hoa Kỳ theo thử thách sự hiện diện đáng kể và bạn
+                                                            • Đầy đủ cơ sở lập luận (bao gồm cả bản sao             dấu vào ô thích hợp trên Mẫu 1040 hoặc 1040–SR
+hội đủ điều kiện áp dụng ngày kết thúc tình trạng cư                                                                và đính kèm bản tường trình với tờ khai thuế chung.
+                                                               của các tài liệu liên quan) để xác định tình trạng
+trú sớm hơn thì bạn có thể loại trừ tối đa 10 ngày có                                                               Bob và Sharon phải khai thuế chung cho năm họ
+                                                               cư trú của bạn với tư cách thường trú nhân
+mặt ở Hoa Kỳ để xác định ngày bạn kết thúc tình                                                                     chọn, nhưng họ có thể khai thuế chung hoặc khai
+                                                               hợp pháp đã bị từ bỏ hoặc bị hủy bỏ.
+trạng cư trú. Để xác định xem liệu bạn có thể loại trừ
+                                                            • Nếu bạn có thể loại trừ các ngày, như đã thảo         thuế riêng cho những năm sau đó.
+tối đa 10 ngày hay không, các quy tắc sau sẽ được
+                                                               luận ở phần trước trong mục Hiện diện cực
+áp dụng.
+  • Bạn có thể loại trừ các ngày ra khỏi nhiều
+                                                               tiểu, bao gồm những ngày mà bạn loại trừ và          Cách đưa ra lựa chọn
+                                                               đầy đủ cơ sở lập luận để xác định bạn đã duy
+      khoảng thời gian có mặt, miễn là tổng số ngày
+                                                               trì nơi chọn để khai thuế và có sự kết nối mật
+      trong tất cả khoảng thời gian không vượt quá                                                                  Nếu bạn và vợ/chồng bạn đưa ra lựa chọn này, đánh
+                                                               thiết hơn với một quốc gia nước ngoài trong
+      10 ngày.                                                                                                      dấu vào hộp trong phần Filing Status (Tư cánh
+                                                               khoảng thời gian mà bạn loại trừ.
+  • Bạn không thể loại trừ bất cứ ngày nào trong                                                                    nộp)của Mẫu 1040 hoặc 1040–SR và nhập tên của
+      khoảng thời gian có mặt liên tục nếu không thể         Đính kèm bản tường trình bắt buộc với tờ khai          người vợ/chồng tạm trú vào ô trống, và đính kèm
+      loại trừ tất cả các ngày trong khoảng thời gian    thuế thu nhập của bạn. Nếu bạn không bắt buộc              bản tường trình có chữ ký của cả hai vợ chồng với
+      đó.                                                phải nộp tờ khai thuế, hãy gửi bản tường trình đến         tờ khai thuế chung trong năm đầu tiên áp dụng lựa
+  • Mặc dù bạn có thể loại trừ tối đa 10 ngày có         địa chỉ sau.                                               chọn đó. Bản tường trình phải có các thông tin sau.
+      mặt khi xác định ngày bạn kết thúc tình trạng                                                                   • Tuyên bố rằng người vợ/chồng là người nước
+      cư trú nhưng bạn phải bao gồm những ngày đó                                                                        ngoài tạm trú và người vợ/chồng kia là công
+
+Ấn phẩm 519 (2024)                            Chương 1     Người nước ngoài tạm trú hay Người nước ngoài thường trú?                                                  9
+     dân Hoa Kỳ hoặc người nước ngoài thường trú          Nếu lựa chọn đó được kết thúc theo một trong          thêm thông tin, xem Thường trú nhân chân thật của
+     Hoa Kỳ vào ngày cuối cùng của năm tính thuế       những cách sau thì cả hai vợ chồng đều không thể         Samoa của Mỹ hoặc Puerto Rico trong chương 5.
+     và bạn chọn được coi như thường trú nhân          đưa ra lựa chọn này trong bất kỳ năm tính thuế nào
+     Hoa Kỳ trong cả năm tính thuế.                    sau này.                                                     Nếu bạn là người nước ngoài tạm trú đến từ
+                                                                                                                Samoa của Mỹ hoặc Puerto Rico mà không đủ điều
+ •   Tên, địa chỉ và TIN của từng người vợ/chồng.
+                                                         1. Rút lại. Một trong hai người vợ/chồng có thể
+     (Nếu người vợ/chồng đã mất, hãy bao gồm tên                                                                kiện là thường trú nhân chân thật của Samoa của
+                                                            rút lại lựa chọn cho bất kỳ năm tính thuế nào,      Mỹ hoặc Puerto Rico trong cả năm tính thuế thì bạn
+     và địa chỉ của người đưa ra lựa chọn cho
+                                                            miễn là người đó rút lại lựa chọn trước ngày        sẽ chịu thuế như người nước ngoài tạm trú.
+     người vợ/chồng đã mất.)
+                                                            đến hạn nộp tờ khai thuế cho năm thuế đó.
+                                                            Người vợ/chồng rút lại lựa chọn phải đính kèm           Người nước ngoài thường trú từng là thường trú
+    Đồng thời đánh dấu vào ô và nhập tên của họ                                                                 nhân chân thật của Samoa của Mỹ hoặc Puerto Rico
+                                                            bản tường trình có chữ ký tuyên bố rằng lựa
+nếu bạn và người vợ/chồng tạm trú của bạn đã lựa                                                                sẽ chịu thuế theo quy định đối với người nước ngoài
+                                                            chọn đang được rút lại. Bản tường trình phải
+chọn được coi là thường trú nhân trong một năm                                                                  thường trú.
+                                                            có tên, địa chỉ và TIN của từng người vợ/
+trước đó và lựa chọn vẫn có hiệu lực.
+                                                            chồng. (Nếu một người vợ/chồng đã mất, hãy
+                                                            bao gồm tên và địa chỉ của người rút lại lựa
+Tờ khai được điều chỉnh. Bạn thường đưa ra lựa
+                                                            chọn cho người vợ/chồng đã mất.) Bản tường
+chọn này khi nộp tờ khai thuế chung. Tuy nhiên, bạn
+                                                            trình cũng phải có danh sách bất kỳ tiểu bang,
+cũng có thể đưa ra lựa chọn này bằng cách nộp tờ
+                                                            quốc gia nước ngoài và lãnh thổ nào áp dụng
+khai được điều chỉnh trên Mẫu 1040-X. Đính kèm
+
+                                                                                                                2.
+                                                            luật tài sản chung mà người vợ/chồng đang cư
+Mẫu 1040 hoặc Mẫu 1040-SR và nhập “Amended
+                                                            trú hoặc nơi có bất động sản mà một trong hai
+(Được điều chỉnh)” ở trên đầu tờ khai được điều
+                                                            người vợ/chồng nhận được thu nhập. Nộp bản
+chỉnh. Nếu bạn đưa ra lựa chọn kèm theo tờ khai
+                                                            tường trình như sau.
+thuế được điều chỉnh thì bạn và người vợ/chồng
+cũng phải điều chỉnh bất kỳ tờ khai nào mà bạn có
+thể đã nộp sau năm bạn đưa ra lựa chọn.
+                                                              a. Nếu người vợ/chồng rút lại lựa chọn phải
+                                                                 nộp tờ khai thuế, hãy đính kèm bản tường
+                                                                                                                Nguồn thu nhập
+    Bạn thường phải nộp tờ khai thuế chung được                  trình với tờ khai thuế cho năm đầu tiên áp
+điều chỉnh trong vòng 3 năm kể từ ngày bạn nộp tờ                dụng việc rút lại lựa chọn.
+khai thuế thu nhập Hoa Kỳ ban đầu hoặc 2 năm kể               b. Nếu người vợ/chồng rút lại lựa chọn            Giới thiệu
+từ ngày bạn đóng thuế thu nhập cho năm đó, tùy                   không phải nộp tờ khai thuế, nhưng nộp
+theo ngày nào muộn hơn.                                                                                         Sau khi bạn đã xác định được tình trạng người nước
+                                                                 tờ khai thuế (ví dụ: để được hoàn lại tiền),   ngoài, bạn phải xác định nguồn thu nhập. Chương
+                                                                 hãy đính kèm bản tường trình với tờ khai       này sẽ giúp bạn xác định nhiều nguồn thu nhập mà
+Đình chỉ lựa chọn                                                thuế.                                          bạn có thể nhận được trong năm tính thuế.
+                                                              c. Nếu người vợ/chồng rút lại lựa chọn
+Lựa chọn được coi như người nước ngoài thường                    không phải nộp tờ khai thuế và không nộp       Các chủ đề
+trú sẽ bị đình chỉ cho bất kỳ năm tính thuế nào (sau             đơn yêu cầu hoàn thuế, hãy gửi bản             Chương này thảo luận về:
+năm tính thuế đã chọn) nếu cả hai vợ chồng đều                   tường trình đến Trung tâm Sở thuế vụ nơi
+không phải là công dân Hoa Kỳ hoặc người nước                    bạn đã nộp tờ khai thuế chung cuối cùng.
+ngoài thường trú vào bất kỳ thời điểm nào trong năm                                                              • Quy tắc về nguồn thu nhập và
+tính thuế. Điều này có nghĩa là từng người vợ/chồng      2. Qua đời. Việc một trong hai người vợ/chồng           • Thu nhập chung của vợ chồng.
+phải nộp tờ khai thuế riêng với tư cách người nước          qua đời sẽ kết thúc lựa chọn đó, bắt đầu từ
+                                                                                                                Chương này cũng thảo luận về các quy tắc đặc biệt
+ngoài tạm trú trong năm đó nếu một trong hai người          năm tính thuế đầu tiên sau năm người vợ/
+                                                                                                                dành cho cá nhân đã kết hôn hiện cư trú tại một
+đáp ứng yêu cầu nộp tờ khai thuế dành cho người             chồng qua đời. Tuy nhiên, nếu người vợ/chồng
+                                                                                                                quốc gia áp dụng luật tài sản chung.
+nước ngoài tạm trú được thảo luận trong chương 7.           còn sống là công dân Hoa Kỳ hoặc thường trú
+                                                            nhân Hoa Kỳ và được hưởng thuế suất chung
+    Ví dụ. Dick Brown là người nước ngoài thường
+trú vào ngày 31 tháng 12, 2021 và đã kết hôn với
+                                                            như người vợ/chồng còn sống thì lựa chọn đó
+                                                            sẽ không kết thúc cho đến cuối năm cuối cùng        Người nước ngoài
+Judy, một người nước ngoài tạm trú. Họ đã chọn coi          mà mức thuế suất chung này có thể được sử
+                                                            dụng. Nếu cả hai người vợ/chồng đều qua đời
+                                                                                                                thường trú
+Judy như người nước ngoài thường trú và khai thuế
+thu nhập chung năm 2021 và năm 2022. Dick đã trở            trong cùng một năm tính thuế thì lựa chọn đó
+                                                                                                                Thu nhập của người nước ngoài thường trú thường
+thành người nước ngoài tạm trú vào ngày 10 tháng            sẽ kết thúc vào ngày đầu tiên sau khi kết thúc
+                                                                                                                phải chịu thuế theo cách tương tự như công dân
+1, 2023. Judy vẫn là người nước ngoài tạm trú trong         năm tính thuế mà người vợ/chồng qua đời.
+                                                                                                                Hoa Kỳ. Nếu bạn là người nước ngoài thường trú thì
+suốt khoảng thời gian đó. Dick và Judy có thể đã         3. Ly thân hợp pháp. Việc ly thân hợp pháp             bạn phải khai báo toàn bộ tiền lãi, cổ tức, lương
+khai thuế chung hoặc khai thuế riêng cho năm 2023           theo quyết định ly hôn hoặc duy trì cuộc sống       bổng hoặc thù lao khác cho dịch vụ, thu nhập từ tài
+do Dick là người nước ngoài thường trú trong một            riêng biệt sẽ kết thúc lựa chọn đó kể từ đầu        sản cho thuê hoặc tiền bản quyền và các loại thu
+thời điểm của năm đó. Tuy nhiên, do cả Dick và Judy         năm tính thuế xảy ra ly thân hợp pháp.              nhập khác trên tờ khai thuế Hoa Kỳ. Bạn phải khai
+đều không phải là người nước ngoài thường trú tại                                                               báo các khoản tiền này đến từ các nguồn ở trong và
+bất kỳ thời điểm nào trong năm 2024 nên lựa chọn         4. Hồ sơ không đầy đủ. IRS có thể kết thúc lựa
+                                                                                                                ngoài Hoa Kỳ.
+của họ bị tạm dừng trong năm đó. Nếu một trong hai          chọn trong bất kỳ năm tính thuế nào mà một
+người đáp ứng yêu cầu nộp tờ khai thuế dành cho             trong hai người vợ/chồng không lưu đầy đủ sổ
+
+                                                                                                                Người nước ngoài tạm trú
+người nước ngoài tạm trú được thảo luận trong               sách, hồ sơ và thông tin cần thiết để xác định
+chương 7 thì họ phải nộp tờ khai thuế riêng với tư          chính xác tiền nợ thuế thu nhập hoặc để cung
+cách người nước ngoài tạm trú cho năm 2024. Nếu             cấp quyền truy cập đầy đủ vào các hồ sơ đó.
+                                                                                                                Người nước ngoài tạm trú chỉ chịu thuế trên thu
+Dick trở thành người nước ngoài thường trú một lần
+                                                                                                                nhập từ các nguồn ở Hoa Kỳ và một số thu nhập liên
+nữa vào năm 2025 thì lựa chọn của họ sẽ không bị
+tạm dừng nữa.                                          Người nước ngoài đến từ                                  quan đến việc thực hiện hoạt động thương mại hoặc
+                                                                                                                kinh doanh tại Hoa Kỳ (xem chương 4).
+
+Kết thúc lựa chọn
+                                                       Samoa của Mỹ hoặc                                           Các quy tắc chung để xác định thu nhập có
+                                                       Puerto Rico                                              nguồn gốc từ Hoa Kỳ áp dụng cho hầu hết người
+                                                                                                                nước ngoài tạm trú được trình bày trong Bảng 2-1.
+Sau khi đưa ra lựa chọn, lựa chọn được coi như
+                                                       Nếu bạn là người nước ngoài tạm trú tại Hoa Kỳ và        Phần thảo luận sau đây bao gồm các quy tắc chung
+thường trú nhân áp dụng cho tất cả các năm sau đó,
+                                                       là thường trú nhân Samoa của Mỹ hoặc Puerto Rico         cũng như trường hợp ngoại lệ của các quy tắc này.
+trừ khi bị tạm dừng (được giải thích ở phần trước
+trong Đình chỉ lựa chọn) hoặc kết thúc theo một        thực sự trong cả năm tính thuế thì bạn sẽ chịu thuế,
+trong những cách sau.                                  với một số trường hợp ngoại lệ, theo quy định dành
+                                                       cho người nước ngoài thường trú Hoa Kỳ. Để biết
+
+
+10                                                                Chương 2      Nguồn thu nhập                                               Ấn phẩm 519 (2024)
+            Không phải tất cả các mục thuộc thu nhập        các nghĩa vụ được đưa ra trước ngày 10 tháng           luật liên bang hoặc tiểu bang nếu hiệp hội đó
+ TIP        có nguồn gốc từ Hoa Kỳ đều phải chịu            8, 2010, nếu trong thời gian 3 năm kết thúc vào        có thể khấu trừ tiền lãi đã trả hoặc ghi có.
+            thuế. Xem chương 3.                             năm tính thuế của người đóng trước khi trả lãi
+                                                                                                                3. Lãi tiền gửi tại chi nhánh nước ngoài của một
+                                                            thì có ít nhất 80% (0.80) tổng thu nhập của
+                                                                                                                   công ty trong nước hoặc công ty hợp danh
+                                                            người đóng thuế:
+Thu nhập từ tiền lãi                                          a. Đến từ các nguồn bên ngoài Hoa Kỳ và
+                                                                                                                   trong nước, nhưng chỉ khi chi nhánh đó thuộc
+                                                                                                                   doanh nghiệp ngân hàng thương mại.
+Thu nhập từ tiền lãi có nguồn gốc từ Hoa Kỳ bao               b. Phân bổ cho hoạt động thương mại hoặc
+gồm các mục sau.                                                 kinh doanh của cá nhân hoặc công ty ở        Cổ tức
+ • Tiền lãi trái phiếu, chứng phiếu hoặc nghĩa vụ                quốc gia nước ngoài hoặc lãnh thổ của
+    chịu lãi suất khác của thường trú nhân Hoa Kỳ                Hoa Kỳ.                                      Trong hầu hết các trường hợp, thu nhập cổ tức nhận
+    hoặc các công ty trong nước.                                                                              được từ các công ty trong nước là thu nhập có
+ • Tiền lãi được thanh toán bởi một công ty hợp                Tuy nhiên, tiền lãi sẽ được coi như thu
+                                                                                                              nguồn gốc từ Hoa Kỳ. Thu nhập cổ tức từ các công
+    danh trong nước hoặc nước ngoài hoặc một                nhập từ tiền lãi có nguồn gốc từ Hoa Kỳ nếu
+                                                                                                              ty nước ngoài thường là thu nhập có nguồn gốc từ
+    công ty nước ngoài tham gia vào hoạt động               một trong hai điều sau được áp dụng.
+                                                                                                              nước ngoài. Trường hợp ngoại lệ của quy tắc thứ hai
+    thương mại hoặc kinh doanh tại Hoa Kỳ vào                 a. Người nhận tiền lãi liên quan đến người      được thảo luận ở phần sau.
+    bất kỳ thời điểm nào trong năm tính thuế.                    nước ngoài thường trú hoặc công ty trong
+ • Chiết khấu so giá phát hành (OID).                            nước. Xem đoạn 954 (d) (3) để biết định         Khoản thanh toán cổ tức thay thế cho người
+ • Tiền lãi từ một tiểu bang, Đặc khu Columbia                   nghĩa “người có liên quan.”                  chuyển nhượng chứng khoán trong giao dịch cho
+    hoặc Chính phủ Hoa Kỳ.                                                                                    vay chứng khoán hoặc giao dịch mua đi bán lại có
+                                                              b. Các điều khoản trong nghĩa vụ này được       nguồn gốc tương tự như tiền phân phối chứng
+    Địa điểm thanh toán hoặc cách thức thanh toán                điều chỉnh đáng kể sau ngày 9 tháng 8,       khoán được chuyển nhượng.
+không đóng vai trò quan trọng khi xác định nguồn                 2010. Bất kỳ sự gia hạn nghĩa vụ nào đều
+thu nhập.                                                        được coi như điều chỉnh đáng kể.                 Trường hợp ngoại lệ. Một phần cổ tức nhận
+    Khoản thanh toán tiền lãi thay thế cho người                                                              được từ công ty nước ngoài là thu nhập có nguồn
+                                                         2. Tiền lãi được thanh toán bởi chi nhánh nước
+chuyển nhượng chứng khoán trong giao dịch cho                                                                 gốc từ Hoa Kỳ nếu 25% trở lên tổng thu nhập của
+                                                            ngoài của công ty trong nước hoặc công ty
+vay chứng khoán hoặc giao dịch mua đi bán lại                                                                 công ty đó trong 3 năm kết thúc năm tính thuế trước
+                                                            hợp danh trong nước trên tài khoản tiền gửi
+được thực hiện theo cách thức tương tự như tiền lãi                                                           khi tuyên bố cổ tức và liên thông thực tế với hoạt
+                                                            hoặc tài khoản có thể rút được ở ngân hàng
+từ chứng khoán được chuyển nhượng.                                                                            động thương mại hoặc kinh doanh tại Hoa Kỳ. Nếu
+                                                            tiết kiệm hỗ tương, ngân hàng hợp tác, liên
+                                                                                                              công ty được thành lập dưới 3 năm trước khi tuyên
+                                                            hiệp tín dụng, hiệp hội cho vay và xây dựng
+Trường hợp ngoại lệ. Thu nhập từ tiền lãi có                                                                  bố cổ tức, hãy sử dụng tổng thu nhập của công ty kể
+                                                            trong nước và các tổ chức tiết kiệm khác được
+nguồn gốc từ Hoa Kỳ không bao gồm các hạng sau.                                                               từ khi được thành lập. Xác định phần đó là thu nhập
+                                                            giám định và giám sát như tiền tiết kiệm và
+                                                                                                              có nguồn gốc từ Hoa Kỳ bằng cách nhân cổ tức với
+  1. Tiền lãi được thanh toán bởi người nước                khoản cho vay hoặc các hiệp hội tương tự theo
+                                                                                                              phân số sau.
+     ngoài thường trú hoặc công ty trong nước trên
+
+Bảng 2-1. Tóm tắt các quy tắc về nguồn thu nhập của người nước ngoài tạm                                            Tổng thu nhập của công ty nước ngoài liên
+trú                                                                                                                 quan đến hoạt động thương mại hoặc kinh
+                                                                                                                           doanh ở Hoa Kỳ trong 3 năm
+
+                   Mục thu nhập                            Yếu tố xác định nguồn thu nhập                            Tổng thu nhập của công ty nước ngoài từ
+                                                                                                                    tất cả các nguồn trong khoảng thời gian đó
+ Lương bổng, tiền công, thù lao khác              Nơi thực hiện dịch vụ
+ Thu nhập từ hoạt động kinh doanh:                                                                            Khoản thanh toán tương đương cổ tức. Cổ tức
+  Dịch vụ cá nhân                                 Nơi thực hiện dịch vụ                                       có nguồn gốc từ Hoa Kỳ cũng bao gồm khoản thanh
+                                                                                                              toán tương đương cổ tức. Khoản thanh toán tương
+  Bán hàng tồn kho—đã mua                         Nơi bán
+                                                                                                              đương cổ tức bao gồm:
+  Bán hàng tồn kho—đã sản xuất                    Nơi sản xuất                                                  • Cổ tức thay thế được thanh toán theo giao dịch
+ Tiền lãi                                         Nơi cư trú của người thanh toán                                  cho vay chứng khoán, giao dịch mua đi bán lại
+                                                                                                                   hoặc giao dịch gần như tương tự;
+ Cổ tức                                           Cho dù là công ty Hoa Kỳ hay công ty nước ngoài*              • Khoản thanh toán tham chiếu đến cổ tức có
+ Tiền thuê                                        Địa chỉ tài sản                                                  nguồn gốc từ Hoa Kỳ được thực hiện theo hợp
+                                                                                                                   đồng dựa trên tiền vốn giả định cụ thể (NPC);
+ Tiền bản quyền:                                                                                                   hoặc
+  Tài nguyên thiên nhiên                          Địa chỉ tài sản                                               • Khoản thanh toán tham chiếu đến cổ tức có
+  Bằng sáng chế, bản quyền, v.v.                  Nơi sử dụng tài sản                                              nguồn gốc từ Hoa Kỳ được thực hiện theo
+                                                                                                                   công cụ liên kết với vốn sở hữu cụ thể (ELI).
+ Bán bất động sản                                 Địa chỉ tài sản
+                                                                                                                  Khoản thanh toán số tiền tương đương cổ tức
+ Bán tài sản cá nhân                              Nơi chọn để khai thuế của người bán (nhưng xem              bao gồm bất kỳ tổng số tiền nào tham chiếu đến cổ
+                                                  Tài sản cá nhân ở phần sau để biết các trường               tức có nguồn gốc từ Hoa Kỳ và dùng để tính bất kỳ
+                                                  hợp ngoại lệ)                                               khoản tiền thực tế nào được chuyển đến hoặc
+                                                                                                              chuyển từ người đóng thuế theo hợp đồng, nếu
+ Khoản phân phối lương hưu được phân bổ           Nơi thực hiện dịch vụ để nhận lương hưu                     người đóng thuế là bên mua trong hợp đồng. Vì vậy,
+ cho các khoản đóng góp                                                                                       người đóng thuế có thể được coi là đã nhận khoản
+                                                                                                              thanh toán tương đương cổ tức ngay cả khi họ
+ Thu nhập đầu tư từ khoản đóng góp lương          Địa điểm của quỹ tín thác lương hưu
+                                                                                                              thanh toán ròng hoặc không thanh toán số tiền nào
+ hưu                                                                                                          do số tiền thực tế bằng không.
+ Bán tài nguyên thiên nhiên                       Phân bổ dựa trên giá trị thị trường hợp lý của sản              Trong năm 2024, NPC hoặc ELI thường sẽ là
+                                                  phẩm tại cảng xuất khẩu. Để biết thêm thông tin,            một NPC hoặc ELI cụ thể nếu hợp đồng là giao dịch
+                                                                                                              sản phẩm phái sinh không có tính năng quyền chọn
+                                                  xem Quy định đoạn 1.863-1(b).
+                                                                                                              và có delta bằng một. Nhìn chung, delta là tỷ lệ thay
+ *Các trường hợp ngoại lệ bao gồm: Một phần cổ tức được thanh toán bởi một công ty nước ngoài sẽ có           đổi trong giá trị thị trường hợp lý của NPC hoặc ELI
+ nguồn gốc từ Hoa Kỳ nếu ít nhất 25% tổng thu nhập của công ty liên thông thực tế với hoạt động thương        trên một thay đổi nhỏ trong giá trị thị trường hợp lý
+ mại hoặc kinh doanh tại Hoa Kỳ trong 3 năm tính thuế trước năm công bố cổ tức. Quy tắc đặc biệt áp dụng      của số lượng cổ phiếu được tham chiếu theo hợp
+                                                                                                              đồng. Nhìn chung, số tiền cổ tức tương đương của
+ cho khoản thanh toán tương đương cổ tức.
+                                                                                                              một NPC hoặc ELI cụ thể là số tiền cổ tức trên mỗi
+
+Ấn phẩm 519 (2024)                                                  Chương 2   Nguồn thu nhập                                                                    11
+cổ phiếu nhân với số lượng cổ phiếu được tham            trong Cơ sở địa lý), ở phần sau. Thực hiện điều này      Cơ sở địa lý
+chiếu theo hợp đồng nhân với delta của hợp đồng.         bằng cách nhân tổng số tiền trợ cấp của bạn (ngoài
+Quy tắc đặc biệt áp dụng cho các hợp đồng phức           phụ cấp có nguồn gốc dựa trên cơ sở địa lý) với          Thù lao mà bạn nhận được với tư cách nhân viên
+tạp. Xem đoạn 1.871-15 trong Quy định và Thông           phân số sau.                                             dưới dạng phụ cấp sau đây có nguồn gốc dựa trên
+báo 2024–44 (hoặc phần kế tiếp), để biết thêm                                                                     cơ sở địa lý.
+thông tin.                                                     Số ngày mà bạn thực hiện dịch vụ tại Hoa            • Nhà ở.
+                                                                            Kỳ trong năm                           • Giáo dục.
+                                                                                                                   • Chuyên chở tại địa phương.
+Cam kết nhận nợ                                                Tổng số ngày mà bạn thực hiện dịch vụ tại
+                                                                                                                   • Hoàn trả thuế.
+                                                                          Hoa Kỳ trong năm
+                                                                                                                   • Tiền lương trả cho nhiệm vụ nguy hiểm hoặc
+Số tiền nhận được trực tiếp hoặc gián tiếp để cam
+                                                                                                                       khó khăn được xác định trong Quy định đoạn
+kết nhận nợ được đưa ra sau ngày 27 tháng 9,                 Bạn có thể sử dụng đơn vị thời gian nhỏ hơn
+                                                                                                                       1.861-4(b)(2)(ii)(D)(5).
+2010, là thu nhập có nguồn gốc từ Hoa Kỳ nếu được        ngày trong phân số trên, nếu xét thấy phù hợp.
+                                                                                                                   • Hoàn trả chi phí di chuyển.
+thanh toán bởi:                                          Khoảng thời gian mà khoản trợ cấp được thực hiện
+                                                         không nhất thiết phải là một năm. Thay vào đó, bạn       Số tiền phụ cấp phải hợp lý và bạn phải chứng minh
+  1. Thường trú nhân không phải là doanh nghiệp
+                                                         có thể sử dụng một khoảng thời gian riêng biệt và        bằng hồ sơ hoặc bằng chứng đầy đủ.
+     hoặc công ty Hoa Kỳ hoặc
+                                                         liên tục khác nếu bạn có thể xác định theo cách IRS
+  2. Bất kỳ người nước ngoài nào nếu số tiền liên        muốn rằng khoảng thời gian này phù hợp hơn.              Nơi làm việc chính. Phụ cấp trên, ngoại trừ hoàn
+     thông thực tế với hoạt động thương mại hoặc                                                                  trả thuế và tiền lương trả cho nhiệm vụ nguy hiểm
+     kinh doanh tại Hoa Kỳ.                                  Ví dụ 1. Christina Brooks, một thường trú nhân       hoặc khó khăn, có nguồn gốc dựa trên nơi làm việc
+                                                         Hà Lan, đã làm việc 240 ngày cho một công ty Hoa         chính của bạn. Nơi làm việc chính thường là nơi bạn
+Để biết thêm thông tin, xem đoạn 861(a)(9).                                                                       dành phần lớn thời gian để làm việc. Đó có thể là
+                                                         Kỳ trong năm tính thuế. Christina đã nhận được
+                                                         $80.000 thù lao. Không có khoản tiền nào trong số        văn phòng, nhà máy, cửa hàng, cửa hiệu của bạn
+Dịch vụ cá nhân                                          đó thuộc phụ cấp. Christina đã thực hiện dịch vụ tại     hoặc địa điểm khác. Nếu không có nơi nào bạn dành
+                                                         Hoa Kỳ trong 60 ngày và tại Hà Lan trong 180 ngày.       phần lớn thời gian làm việc thì nơi làm việc chính
+Toàn bộ lương bổng và bất kỳ trợ cấp nào khác từ         Sử dụng cơ sở thời gian để xác định nguồn trợ cấp,       của bạn là nơi tập trung công việc của bạn, chẳng
+các dịch vụ được thực hiện tại Hoa Kỳ được coi là        $20.000 ($80.000 × 60/240là thu nhập của Christina       hạn như nơi bạn báo cáo công việc hoặc được yêu
+có nguồn gốc từ Hoa Kỳ. Trường hợp ngoại lệ duy          có nguồn gốc từ Hoa Kỳ.                                  cầu “đặt cơ sở” công việc của bạn.
+nhất của quy tắc này được thảo luận trong Nhân                                                                        Nếu bạn có nhiều hơn một công việc ở bất cứ
+viên của cá nhân, tổ chức hoặc văn phòng nước                Ví dụ 2. Rob Waters, một thường trú nhân Nam         thời điểm nào thì nơi làm việc chính của bạn phụ
+ngoài ở phần sau trong Thuyền viên ở phần trước.         Phi, được một công ty thuê làm việc. Lương bổng          thuộc vào thực tế ở từng trường hợp. Các yếu tố
+                                                         hằng năm của Rob là $100.000. Không có khoản             quan trọng nhất cần xem xét:
+    Nếu bạn là nhân viên và nhận trợ cấp lao động        tiền nào trong số đó thuộc phụ cấp. Trong quý đầu          • Tổng số thời gian mà bạn làm việc ở mỗi nơi,
+hoặc dịch vụ cá nhân được thực hiện ở cả trong và        tiên của năm, Rob đã làm việc hoàn toàn tại Hoa Kỳ.        • Lượng công việc mà bạn làm ở mỗi nơi và
+ngoài phạm vi Hoa Kỳ thì các quy tắc đặc biệt sẽ         Vào ngày 1 tháng 4, Rob được chuyển đến                    • Bạn kiếm được bao nhiêu tiền ở mỗi nơi.
+được áp dụng khi xác định nguồn trợ cấp. Trợ cấp         Singapore làm việc trong thời gian còn lại của năm.
+(ngoài một số phụ cấp) có nguồn gốc dựa trên cơ sở       Rob có thể xác định rằng quý đầu tiên của năm và 3       Nhà ở. Nguồn phụ cấp về nhà ở được xác định dựa
+thời gian. Một số phụ cấp (chẳng hạn như nhà ở và        quý cuối năm là hai khoảng thời gian riêng biệt và       trên nơi làm việc chính của bạn. Phụ cấp về nhà ở
+giáo dục) có nguồn gốc dựa trên cơ sở địa lý.            liên tục. Theo đó, $25.000 tiền lương bổng hằng          chỉ gồm các khoản thanh toán cho bạn hoặc thay
+                                                         năm của Rob có thể quy cho quý đầu tiên của năm          mặt cho bạn (và gia đình nếu bạn sống cùng gia
+   Hoặc bạn có thể được dùng một cơ sở thay thế          (0,25 × $100.000). Tất cả đều là thu nhập có nguồn       đình) trong các mục sau.
+để xác định nguồn trợ cấp. Xem Cơ sở thay thế ở          gốc từ Hoa Kỳ do Rob đã làm việc hoàn toàn tại Hoa         • Tiền thuê nhà.
+phần sau.                                                Kỳ trong quý đó. $75.000 còn lại có thể quy cho 3          • Tiện ích (ngoại trừ phí dịch vụ điện thoại).
+                                                         quý cuối năm. Trong những quý đó, Rob đã làm việc          • Bảo hiểm bất động sản và tài sản cá nhân.
+Tiếp thị đa cấp. Một số công ty bán sản phẩm                                                                        • Thuế cư trú không được khấu trừ theo đoạn
+                                                         150 ngày tại Singapore và 30 ngày tại Hoa Kỳ. Việc
+thông qua tiếp thị đa cấp, chẳng hạn như nhà phân                                                                      164 hoặc 216(a).
+                                                         Rob thực hiện dịch vụ định kỳ tại Hoa Kỳ không dẫn
+phối cấp trên đã tài trợ cho nhà phân phối cấp dưới,                                                                • Phí không hoàn lại để đảm bảo tài sản thuê
+                                                         đến các khoảng thời gian riêng biệt và liên tục. Trong
+sẽ được công ty thanh toán dựa trên một số hoạt                                                                        mướn.
+                                                         số $75.000, $12.500 ($75.000 × 30/180) là thu nhập
+động của nhà phân phối cấp dưới đó. Nhìn chung,                                                                     • Thuê đồ đạc và thiết bị.
+                                                         có nguồn gốc từ Hoa Kỳ.
+tùy vào thực tế, khoản thanh toán của công ty tiếp thị                                                              • Sửa chữa trong nhà.
+đa cấp cho nhà phân phối độc lập (không phải nhân        Thù lao nhiều năm. Nguồn thù lao nhiều năm                 • Đậu xe trong khu dân cư.
+viên) (nhà phân phối cấp trên) dựa trên doanh số         thường được xác định dựa trên cơ sở thời gian              • Giá trị cho thuê nhà hợp lý do chủ lao động của
+bán hàng hoặc mua hàng của những người mà họ             trong khoảng thời gian mà khoản thù lao được phân             bạn cung cấp dưới dạng hiện vật.
+tài trợ (nhà phân phối cấp thấp hơn) sẽ tạo thành thu    bổ. Nguồn thù lao nhiều năm là thù lao được tính
+nhập từ việc thực hiện dịch vụ cá nhân khi tuyển                                                                       Phụ cấp về nhà ở không bao gồm:
+                                                         vào thu nhập của bạn trong 1 năm tính thuế nhưng
+dụng, đào tạo và hỗ trợ các nhà phân phối cấp thấp                                                                 • Tiền lãi và thuế được khấu trừ (bao gồm tiền lãi
+                                                         có thể quy cho một khoảng thời gian gồm 2 năm tính
+hơn. Nguồn thu nhập đó thường dựa trên nơi thực                                                                         và thuế được khấu trừ của người thuê nhà cổ
+                                                         thuế trở lên.
+hiện dịch vụ của nhà phân phối cấp trên và tùy vào                                                                      đông trong một hợp tác xã nhà ở);
+                                                             Bạn xác định khoảng thời gian mà khoản thù lao        •    Chi phí mua tài sản, bao gồm cả khoản thanh
+thực tế, có thể được coi là trợ cấp nhiều năm, trong
+                                                         được phân bổ dựa trên thực tế và hoàn cảnh ở                   toán tiền gốc khi thế chấp;
+đó nguồn thu nhập được xác định trong khoảng thời
+                                                         trường hợp của bạn. Ví dụ: tiền thù lao liên quan đến     •    Chi phí lao động trong gia đình (người giúp
+gian mà trợ cấp đó được phân bổ.
+                                                         một khoảng thời gian gồm một số năm có thể quy                 việc, người làm vườn, v.v.);
+                                                         cho toàn bộ khoảng thời gian nhiều năm.                   •    Thanh toán các gói cước truyền hình;
+Cá nhân tự kinh doanh. Nếu bạn tư doanh thì bạn
+                                                             Tiền thù lao được coi là có nguồn gốc từ Hoa Kỳ       •    Sửa chữa và chi phí khác làm tăng giá trị hoặc
+sẽ xác định nguồn thù lao từ lao động hoặc dịch vụ
+                                                         sẽ được tính bằng cách nhân tổng tiền thù lao nhiều            kéo dài đáng kể tuổi thọ của tài sản;
+cá nhân từ việc tự kinh doanh dựa trên cơ sở phản
+                                                         năm với một phân số. Tử số của phân số đó là số           •    Đồ nội thất hoặc thiết bị đã mua;
+ánh chính xác nhất nguồn thu nhập thích hợp đó
+                                                         ngày (hoặc đơn vị thời gian ít hơn một ngày, nếu xét      •    Khấu hao hoặc phân bổ tài sản hoặc sửa chữa;
+theo thực tế và hoàn cảnh ở trường hợp cụ thể của
+                                                         thấy phù hợp) mà bạn đã làm việc hoặc thực hiện           •    Giá các bữa ăn hoặc chỗ ở mà bạn loại trừ
+bạn. Trong nhiều trường hợp, thực tế và hoàn cảnh
+                                                         dịch vụ cá nhân tại Hoa Kỳ liên quan đến dự án. Mẫu            khỏi tổng thu nhập; hoặc
+sẽ đòi hỏi sự phân bổ trên cơ sở thời gian, được giải
+                                                         số của phân số đó là số ngày (hoặc đơn vị thời gian       •    Giá các bữa ăn hoặc chỗ ở mà bạn khấu trừ
+thích ở phần tiếp theo.
+                                                         ít hơn một ngày, nếu xét thấy phù hợp) mà bạn đã               dưới dạng chi phí di chuyển.
+                                                         làm việc hoặc thực hiện dịch vụ cá nhân tại Hoa Kỳ
+Cơ sở thời gian                                          liên quan đến dự án.
+                                                                                                                      Chỉ khấu trừ chi phí di chuyển nếu bạn là thành
+                                                                                                                  viên của Quân đội Hoa Kỳ đang tại ngũ và di chuyển
+Sử dụng cơ sở thời gian để tính tiền trợ cấp có                                                                   do thay đổi trạm trực lâu dài.
+nguồn gốc từ Hoa Kỳ (ngoài phụ cấp được thảo luận
+
+12                                                                  Chương 2         Nguồn thu nhập                                             Ấn phẩm 519 (2024)
+Giáo dục. Nguồn phụ cấp cho chi phí giáo dục của           3. Đối với mỗi mục trong (2), cơ sở thay thế để      Lương hưu và niên kim
+người phụ thuộc được xác định dựa trên nơi làm                phân bổ nguồn thu nhập được dùng.
+việc chính của bạn. Phụ cấp cho giáo dục chỉ bao                                                                Nếu bạn nhận được lương hưu từ một quỹ tín thác
+                                                           4. Đối với mỗi mục trong (2), phép tính cho thấy
+gồm các khoản thanh toán chi phí giáo dục sau đây                                                               trong nước cho các dịch vụ được thực hiện ở cả
+                                                              cách tính khoản phân bổ thay thế.
+tại một trường tiểu học hoặc trung học.                                                                         trong và ngoài phạm vi Hoa Kỳ thì một phần tiền
+  • Học phí, lệ phí, dạy kèm, dịch vụ dành cho học         5. So sánh thù lao tại Hoa Kỳ và thù lao nước
+                                                                                                                thanh toán lương hưu là từ các nguồn của Hoa Kỳ.
+     sinh có nhu cầu đặc biệt, sách, đồ dùng và các           ngoài có nguồn gốc theo cả cơ sở thay thế và
+                                                                                                                Phần đó là số tiền phân bổ cho thu nhập của
+     thiết bị khác.                                           cơ sở thời gian hoặc cơ sở địa lý được thảo
+                                                                                                                chương trình lương và khoản đóng góp của chủ lao
+  • Phòng, bảng và đồng phục được nhà trường                  luận trước đó.
+                                                                                                                động cho các dịch vụ được thực hiện tại Hoa Kỳ.
+     yêu cầu hoặc cung cấp liên quan đến việc ghi                                                               Điều này được áp dụng cho dù hoạt động phân phối
+     danh hoặc đi học.
+                                                         Thu nhập từ vận tải                                    được thực hiện theo chương trình thưởng cổ phiếu,
+                                                                                                                lương hưu, chia sẻ lợi nhuận hoặc niên kim có đủ
+Đi lại ở địa phương. Nguồn phụ cấp cho việc đi lại
+                                                         Thu nhập từ vận tải là thu nhập từ hoạt động sử        điều kiện hay không (cho dù có được tài trợ hay
+ở địa phương được xác định dựa trên nơi làm việc
+                                                         dụng tàu hoặc máy bay hoặc thực hiện dịch vụ liên      không).
+chính của bạn. Phụ cấp cho việc đi lại ở địa phương
+là số tiền bạn nhận được như trợ cấp đi lại ở địa        quan trực tiếp đến việc sử dụng bất kỳ tàu hoặc máy
+                                                                                                                    Nếu bạn thực hiện dịch vụ với vai trò là nhân
+phương cho bạn hoặc người vợ/chồng hoặc người            bay nào. Điều này là đúng cho dù tàu hoặc máy bay
+                                                                                                                viên Hoa Kỳ thì bạn có thể nhận được tiền phân phối
+phụ thuộc tại nơi làm việc chính của bạn. Số tiền        thuộc sở hữu hay được thuê. Thuật ngữ “tàu hoặc
+                                                                                                                từ Chính phủ Hoa Kỳ theo một chương trình như Hệ
+được coi là phụ cấp cho việc đi lại ở địa phương         máy bay” bao gồm bất kỳ công-ten-nơ nào được sử
+                                                                                                                thống hưu trí dịch vụ dân sự, được coi là chương
+được giới hạn đến chi phí thực tế phát sinh cho việc     dụng liên quan đến một con tàu hoặc máy bay.
+                                                                                                                trình hưu trí đủ điều kiện. Thu nhập có nguồn gốc từ
+đi lại ở địa phương và giá trị cho thuê hợp lý của bất                                                          Hoa Kỳ là số tiền phân phối chịu thuế khác có thể
+kỳ phương tiện nào do chủ lao động cung cấp được             Toàn bộ thu nhập từ vận tải bắt đầu và kết thúc
+                                                                                                                quy cho tổng tiền lương cơ bản mà Chính phủ Hoa
+sử dụng chủ yếu bởi bạn, người vợ/chồng hoặc             tại Hoa Kỳ sẽ được coi là có nguồn gốc từ Hoa Kỳ.
+                                                                                                                Kỳ thanh toán ngoài khoản thanh toán được miễn
+người phụ thuộc để đi lại ở địa phương. Chi phí thực     Nếu vận tải bắt đầu hoặc kết thúc tại Hoa Kỳ thì 50%
+                                                                                                                thuế cho dịch vụ được thực hiện bên ngoài Hoa Kỳ.
+tế không bao gồm chi phí (bao gồm tiền lãi) của bất      thu nhập từ vận tải sẽ được coi là có nguồn gốc từ
+kỳ phương tiện nào được mua bởi bạn hoặc thay            Hoa Kỳ.                                                     Miễn giảm thuế do thiên tai. Nếu bạn bắt
+mặt cho bạn.                                                                                                    buộc phải nộp tờ khai thuế thu nhập liên bang Hoa
+                                                             Đối với thu nhập từ vận tải từ dịch vụ cá nhân,    Kỳ thì bạn có thể được hưởng một số quy tắc đặc
+Hoàn trả thuế. Nguồn phụ cấp về hoàn trả thuế            50% thu nhập là thu nhập có nguồn gốc từ Hoa Kỳ        biệt liên quan đến thiên tai về việc sử dụng quỹ hưu
+được xác định dựa trên vùng lãnh thổ đã đánh thuế        nếu vận tải được tiến hành giữa Hoa Kỳ và lãnh thổ     trí. Để biết thêm thông tin, xem Ấn phẩm 590-B
+mà bạn được hoàn trả.                                    của Hoa Kỳ. Đối với người nước ngoài tạm trú, điều     (tiếng Anh). Ngoài ra, truy cập IRS.gov/
+                                                         này chỉ áp dụng cho thu nhập có nguồn gốc từ hoặc      DisasterTaxRelief.
+Hoàn trả phí di chuyển. Nguồn hoàn trả phí di            liên quan đến máy bay.
+                                                                                                                    Miễn giảm thuế cho các phân phối và hoàn
+chuyển thường dựa trên nơi làm việc chính mới của
+                                                            Để biết thông tin về cách đánh thuế thu nhập từ     trả thiên tai đủ điều kiện. Các quy tắc đặc biệt
+bạn. Tuy nhiên, nguồn này được xác định dựa trên
+                                                         vận tải có nguồn gốc từ Hoa Kỳ, xem chương 4.          quy định về việc rút tiền được ưu đãi thuế và hoàn
+nơi làm việc chính cũ nếu bạn cung cấp đầy đủ bằng
+                                                                                                                trả cho các kế hoạch hưu trí nhất định (bao gồm cả
+chứng cho thấy việc xác định nguồn đó là phù hợp
+                                                                                                                IRA) cho những người đóng thuế bị thiệt hại kinh tế
+hơn theo thực tế và hoàn cảnh ở trường hợp của           Học bổng, trợ cấp, giải                                vì một số thiên tai lớn. Để biết thông tin về việc báo
+bạn. Bằng chứng đầy đủ thường yêu cầu thỏa thuận
+giữa bạn và chủ lao động hoặc văn bản tuyên bố
+                                                         thưởng, và phần thưởng                                 cáo các khoản phân phối và hoàn trả đủ điều kiện do
+                                                                                                                thiên tai, xem Mẫu 8915-F, Phân phối và hoàn trả
+chính sách công ty, được rút gọn thành văn bản
+                                                         Nhìn chung, nguồn học bổng, trợ cấp nghiên cứu         cho Kế hoạch hưu trí do thiên tai đủ điều kiện (tiếng
+trước khi chuyển đi và được ký kết hoặc được lập
+                                                         sinh, giải thưởng và phần thưởng là nơi cư trú của     Anh), và hướng dẫn.
+để khiến bạn hoặc nhân viên khác chuyển đến quốc
+gia khác. Văn bản tuyên bố hoặc thỏa thuận phải          người đóng thuế, bất kể ai thực sự là người giải
+nêu rõ rằng chủ lao động sẽ hoàn trả phí di chuyển       ngân quỹ. Tuy nhiên, xem Hoạt động sẽ được thực        Tiền cho thuê hoặc tiền bản
+                                                         hiện bên ngoài Hoa Kỳ ở phần sau.
+cho bạn để quay lại nơi làm việc chính cũ, bất kể bạn                                                           quyền
+có tiếp tục làm việc cho chủ lao động sau khi quay lại
+địa điểm đó hay không. Điều này có thể bao gồm               Ví dụ: các khoản thanh toán cho hoạt động
+                                                         nghiên cứu hoặc học tập tại Hoa Kỳ được thực hiện      Thu nhập có nguồn gốc từ Hoa Kỳ bao gồm tiền cho
+một số điều kiện mà quyền hoàn trả được xác định,
+                                                         bởi Hoa Kỳ, thường trú nhân Hoa Kỳ không phải là       thuê và tiền bản quyền nhận được trong năm tính
+miễn là các điều kiện đó đưa ra các tiêu chuẩn có
+                                                         doanh nghiệp hoặc công ty trong nước có nguồn          thuế từ tài sản ở Hoa Kỳ hoặc từ bất kỳ quyền lợi
+thể xác định được và chỉ có thể thực hiện được
+                                                         gốc từ Hoa Kỳ. Các khoản thanh toán tương tự từ        nào từ tài sản đó.
+trước khi hoặc sau khi bạn chuyển về nơi làm việc
+chính cũ.                                                một chính phủ nước ngoài hoặc công ty nước ngoài
+                                                                                                                   Thu nhập có nguồn gốc từ Hoa Kỳ cũng bao
+                                                         là các khoản thanh toán từ nguồn nước ngoài, mặc
+                                                                                                                gồm tiền cho thuê hoặc tiền bản quyền sử dụng
+                                                         dù số tiền có thể được giải ngân thông qua một đại
+Cơ sở thay thế                                           lý ở Hoa Kỳ.
+                                                                                                                hoặc đặc quyền sử dụng tại Hoa Kỳ, tài sản vô hình
+                                                                                                                như bằng sáng chế, bản quyền, quy trình và công
+Nếu bạn là nhân viên, bạn có thể xác định nguồn thù                                                             thức bí mật, lợi thế thương mại, nhãn hiệu, nhượng
+                                                            Các khoản thanh toán được thực hiện bởi một tổ
+lao theo cơ sở thay thế nếu bạn xác nhận theo cách                                                              quyền thương mại và tài sản tương tự.
+                                                         chức được chỉ định là tổ chức quốc tế công theo
+khiến IRS hài lòng rằng theo thực tế và hoàn cảnh ở      Đạo luật Miễn trừ của các tổ chức quốc tế có nguồn
+trường hợp của bạn, cơ sở thay thế này xác định          gốc từ nước ngoài.                                     Bất động sản
+nguồn thù lao hợp lý hơn cơ sở thời gian hoặc cơ sở
+địa lý. Nếu bạn sử dụng cơ sở thay thế thì bạn phải      Các hoạt động sẽ được thực hiện bên ngoài              Bất động sản là đất đai, tòa nhà và bất cứ thứ gì
+lưu (và có sẵn để kiểm tra) hồ sơ để ghi lại lý do tại   Hoa Kỳ. Học bổng, trợ cấp nghiên cứu sinh, trợ cấp     được xây dựng, phát triển trên mảnh đất hoặc gắn
+sao cơ sở thay thế xác định nguồn thù lao hợp lý         có mục tiêu và giải thưởng thành tựu mà người          liền với đất.
+hơn. Ngoài ra, nếu tổng thù lao của bạn từ tất cả các    nước ngoài tạm trú nhận được cho các hoạt động
+nguồn là $250.000 trở lên, hãy đánh dấu vào ô “Yes       được thực hiện hoặc sẽ được thực hiện bên ngoài             Tổng thu nhập từ các nguồn ở Hoa Kỳ bao gồm
+(Có)” ở cả hai câu hỏi trên dòng K của Bảng OI (Mẫu      Hoa Kỳ có nguồn gốc không phải từ Hoa Kỳ.              lãi, lợi nhuận, và thu nhập từ việc bán hoặc xử lý
+1040-NR) và đính kèm văn bản tường trình với tờ                                                                 khác của bất động sản tại Hoa Kỳ.
+                                                                  Quy tắc này không áp dụng cho các khoản
+khai thuế trình bày tất cả những điều sau đây.
+                                                                  thanh toán dưới dạng lương bổng hoặc thù
+  1. Tên và SSN của bạn (được nhập trên đầu bản
+                                                            !
+                                                         CAUTION lao khác cho dịch vụ. Xem Dịch vụ cá nhân
+                                                                                                                Tài nguyên thiên nhiên. Thu nhập từ hoạt động
+                                                                                                                bán sản phẩm của bất cứ trang trại, mỏ, giếng dầu
+     tường trình).                                       ở phần trước để biết các quy tắc về nguồn thu nhập
+                                                                                                                hoặc khí đốt, mỏ tự nhiên khác hoặc gỗ ở Hoa Kỳ và
+  2. Thu nhập cụ thể từ thù lao hoặc phụ cấp cụ thể      được áp dụng.
+                                                                                                                được bán ở nước ngoài hoặc đặt tại nước ngoài và
+     mà bạn đang sử dụng làm cơ sở thay thế.                                                                    được bán ở Hoa Kỳ, có nguồn gốc một phần từ Hoa
+
+Ấn phẩm 519 (2024)                                                  Chương 2      Nguồn thu nhập                                                                   13
+Kỳ. Để biết thông tin về việc xác định phần đó, xem            Giá gốc của tài sản thường có nghĩa là chi phí       cho mục đích tính thuế của Hoa Kỳ. Tuy nhiên, bạn
+Quy định đoạn 1.863-1(b).                                 (số tiền cộng với giá trị thị trường hợp lý của tài sản   phải bỏ qua một số luật tài sản cộng đồng nếu:
+                                                          hoặc dịch vụ khác) của tài sản mà bạn có được.              • Cả bạn và người vợ/chồng đều là người nước
+                                                          Khấu hao là số tiền được khấu trừ để thu hồi nguyên            ngoài tạm trú hoặc
+Tài sản cá nhân                                           giá hoặc giá gốc khác của tài sản thương mại hoặc           • Một trong hai người là người nước ngoài tạm
+                                                          kinh doanh. Số tiền mà bạn có thể khấu trừ tùy thuộc           trú và người còn lại là công dân hoặc thường
+Tài sản cá nhân là tài sản như máy móc, thiết bị          vào nguyên giá của tài sản, thời điểm bạn bắt đầu              trú nhân Hoa Kỳ và cả hai người đều không
+hoặc đồ đạc, không phải là bất động sản.                  sử dụng tài sản đó, thời gian thu hồi chi phí của bạn          chọn được coi là thường trú nhân Hoa Kỳ,
+                                                          là bao lâu và bạn sử dụng phương pháp khấu hao                 được giải thích trong Người vợ/chồng là người
+    Lãi hoặc lỗ từ việc bán hoặc trao đổi tài sản cá      nào. Khấu trừ mức khấu hao là bất kỳ khoản khấu                tạm trú được coi như thường trú nhân.
+nhân thường có nguồn ở Hoa Kỳ nếu bạn có nơi làm          trừ mức khấu hao hoặc bất kỳ khoản khấu trừ cho
+việc chính ở Hoa Kỳ. Nếu bạn không có nơi làm việc                                                                  Trong những trường hợp này, bạn và người vợ/
+                                                          phép nào khác coi chi tiêu vốn là chi phí được khấu
+chính ở Hoa Kỳ thì lãi hoặc lỗ thường được coi là                                                                   chồng phải khai báo thu nhập chung của vợ chồng,
+                                                          trừ.
+đến từ các nguồn bên ngoài Hoa Kỳ.                                                                                  được giải thích ở phần sau.
+
+                                                          Tài sản vô hình. Tài sản vô hình gồm có bằng sáng
+Nơi làm việc chính. Nơi chọn để khai thuế là khu                                                                    Thu nhập kiếm được. Thu nhập kiếm được của
+                                                          chế, bản quyền, quy trình hoặc công thức bí mật, lợi
+vực chung của địa điểm kinh doanh chính, nơi làm                                                                    người vợ/chồng, ngoài thu nhập từ hoạt động
+                                                          thế thương mại, nhãn hiệu, tên thương mại hoặc các
+việc hoặc nơi đặt trụ sở, bất kể bạn duy trì nhà ở gia                                                              thương mại hay kinh doanh và thu nhập từ phần lời
+                                                          tài sản tương tự khác. Lợi nhuận từ hoạt động bán
+đình ở đâu. Nơi chọn để khai thuế là nơi bạn làm                                                                    phân phối trong công ty hợp danh của đối tác, sẽ
+                                                          tài sản vô hình có thể phân bổ hoặc khấu hao, cho
+việc lâu dài hoặc vô thời hạn với vai trò là nhân viên                                                              được coi là thu nhập của người vợ/chồng thực hiện
+                                                          đến khoản khấu trừ mức khấu hao cho phép trước
+hoặc cá nhân tự kinh doanh. Nếu bạn không có địa                                                                    các dịch vụ tạo ra thu nhập. Người vợ/chồng đó phải
+                                                          đó, có nguồn gốc tương tự như nguồn gốc của
+điểm kinh doanh chính hoặc thường xuyên do tính                                                                     khai báo tất cả những điều này trên tờ khai thuế
+                                                          khoản khấu trừ ban đầu. Điều này cũng giống như
+chất công việc thì nơi chọn để khai thuế là nơi bạn                                                                 riêng của họ.
+                                                          quy tắc về nguồn thu nhập từ hoạt động bán tài sản
+thường sinh sống. Nếu trường hợp của bạn không            phải khấu hao. Xem Tài sản phải khấu hao ở phần
+rơi vào một trong hai loại này thì bạn được coi là                                                                  Thu nhập từ hoạt động thương mại hay kinh
+                                                          trước để biết chi tiết về cách áp dụng quy tắc này.       doanh. Thu nhập từ hoạt động kinh doanh, ngoài
+người có công tác lưu động và nơi chọn để khai thuế            Lợi nhuận vượt quá các khoản khấu trừ mức
+là ở bất cứ nơi nào bạn làm việc.                                                                                   thu nhập từ phần lời phân phối trong công ty hợp
+                                                          khấu hao có nguồn gốc từ quốc gia nơi tài sản được        danh của đối tác, sẽ được coi là thu nhập của người
+                                                          sử dụng nếu thu nhập từ hoạt động bán tài sản phụ         vợ/chồng thực hiện hoạt động thương mại hay kinh
+Tài sản tồn kho. Tài sản tồn kho là tài sản cá nhân
+                                                          thuộc vào năng suất, hoạt động sử dụng hoặc               doanh. Người vợ/chồng đó phải khai báo tất cả
+tồn kho hoặc chủ yếu được giữ lại để bán cho khách
+                                                          chuyển nhượng tài sản đó. Nếu thu nhập không phụ          những điều này trên tờ khai thuế riêng của họ.
+hàng trong quá trình thương mại hoặc kinh doanh
+                                                          thuộc vào năng suất, hoạt động sử dụng hoặc
+thông thường. Thu nhập từ hoạt động bán hàng tồn
+                                                          chuyển nhượng tài sản thì thu nhập sẽ có nguồn gốc        Thu nhập (hoặc lỗ) từ công ty hợp danh. Thu
+kho mà bạn mua có nguồn gốc từ nơi bán tài sản.
+                                                          từ nơi chọn để khai thuế của bạn (được thảo luận ở        nhập (hoặc lỗ) từ phần lời phân phối trong công ty
+Đó thường là nơi người mua được chuyển quyền sở
+                                                          phần trước). Nếu các khoản thanh toán cho lợi thế         hợp danh của đối tác sẽ được coi là thu nhập (hoặc
+hữu tài sản. Ví dụ: thu nhập từ hoạt động bán hàng
+                                                          thương mại không phụ thuộc vào năng suất, hoạt            lỗ) của đối tác đó. Đối tác đó phải khai báo tất cả
+tồn kho ở Hoa Kỳ là thu nhập có nguồn gốc từ Hoa
+                                                          động sử dụng hoặc chuyển nhượng thì nguồn gốc             những điều này trên tờ khai thuế riêng của họ.
+Kỳ, cho dù bạn mua hàng ở Hoa Kỳ hay ở nước
+                                                          của chúng là từ quốc gia nơi tạo ra lợi thế thương
+ngoài.
+                                                          mại.                                                      Thu nhập từ tài sản riêng. Thu nhập từ tài sản
+    Thu nhập từ hoạt động bán tài sản tồn kho mà
+                                                                                                                    riêng của người vợ/chồng (không phải thu nhập
+bạn sản xuất ở Hoa Kỳ và bán bên ngoài Hoa Kỳ             Bán hàng qua văn phòng hoặc địa điểm kinh                 kiếm được, thu nhập từ hoạt động thương mại hay
+(hoặc ngược lại) có nguồn gốc từ nơi sản xuất tài         doanh cố định. Bất kể quy tắc nào trước đó, nếu           kinh doanh hoặc thu nhập từ phần lời phân phối
+sản đó.                                                   bạn không có nơi chọn để khai thuế ở Hoa Kỳ,              trong công ty hợp danh) sẽ được coi là thu nhập của
+    Quy tắc này được áp dụng ngay cả khi nơi chọn         nhưng bạn vẫn duy trì văn phòng hoặc địa điểm kinh        người vợ/chồng đó. Người vợ/chồng đó phải khai
+để khai thuế của bạn không phải ở Hoa Kỳ.                 doanh cố định khác ở Hoa Kỳ thì hãy coi thu nhập từ       báo tất cả những điều này trên tờ khai thuế riêng của
+                                                          bất kỳ hoạt động bán tài sản cá nhân nào (bao gồm         họ. Sử dụng luật tài sản chung thích hợp để xác định
+Tài sản có thể khấu hao. Để xác định nguồn gốc            cả tài sản tồn kho) có thể quy cho văn phòng hoặc         đâu là tài sản riêng.
+của bất kỳ khoản lãi nào từ hoạt động bán tài sản cá      địa điểm kinh doanh đó. Tuy nhiên, quy tắc này
+nhân phải khấu hao, trước tiên bạn phải tính phần lãi     không áp dụng cho hoạt động bán tài sản tồn kho để        Thu nhập chung khác. Toàn bộ thu nhập chung
+không vượt quá tổng số tiền điều chỉnh mức khấu           sử dụng, chuyển nhượng hoặc tiêu thụ bên ngoài            khác được coi như đã cung cấp theo luật tài sản
+hao của tài sản đó. Bạn phân bổ phần lãi này cho          Hoa Kỳ nếu văn phòng hoặc địa điểm kinh doanh cố          chung hiện hành.
+các nguồn ở Hoa Kỳ dựa trên tỷ lệ điều chỉnh mức          định khác bên ngoài Hoa Kỳ đã tham gia nhiều vào
+khấu hao ở Hoa Kỳ so với tổng tiền điều chỉnh mức         hoạt động bán.
+khấu hao. Phần còn lại của khoản lãi này được coi là          Nếu bạn có nơi chọn để khai thuế ở Hoa Kỳ
+đến từ các nguồn bên ngoài Hoa Kỳ.                        nhưng vẫn duy trì văn phòng hoặc địa điểm kinh
+     Theo mục đích này, “U.S. depreciation                doanh cố định khác ở bên ngoài Hoa Kỳ thì thu nhập
+adjustments (Khoản điều chỉnh mức khấu hao ở Hoa
+                                                                                                                    3.
+                                                          từ việc bán tài sản cá nhân, ngoài hàng tồn kho, tài
+Kỳ)” là khoản điều chỉnh mức khấu hao đến cơ sở tài       sản phải khấu hao hoặc tài sản vô hình, có thể quy
+sản được phép khi tính thu nhập chịu thuế từ các          cho văn phòng nước ngoài hoặc địa điểm kinh
+nguồn ở Hoa Kỳ. Tuy nhiên, nếu tài sản được sử            doanh đó có thể được coi là thu nhập có nguồn gốc
+
+                                                                                                                    Loại trừ khỏi tổng
+dụng chủ yếu ở Hoa Kỳ trong năm tính thuế thì toàn        từ Hoa Kỳ. Thu nhập được coi là có nguồn gốc từ
+bộ khoản khấu trừ mức khấu hao được phép trong            Hoa Kỳ nếu thuế thu nhập dưới 10% thu nhập từ
+năm đó được coi là điều chỉnh mức khấu hao ở Hoa          việc bán hàng đã nộp cho một quốc gia nước ngoài.
+Kỳ. Tuy nhiên, có một số ngoại lệ về vận tải, thông tin
+liên lạc và tài sản khác được sử dụng trên phạm vi
+                                                          Quy tắc này cũng áp dụng cho các khoản lỗ nếu
+                                                          quốc gia nước ngoài đó đánh thuế thu nhập dưới            thu nhập
+quốc tế.                                                  10% khi bán hàng sinh lời.
+     Lãi từ hoạt động bán tài sản phải khấu hao lớn
+hơn tổng số tiền điều chỉnh mức khấu hao trên tài
+sản đó có nguồn gốc như thể tài sản đó là tài sản tồn     Thu nhập cộng đồng                                        Giới thiệu
+kho, như đã thảo luận ở trên.                                                                                       Người nước ngoài thường trú và người nước ngoài
+     Tiền lỗ có nguồn gốc tương tự như nguồn gốc          Nếu bạn đã kết hôn và bạn hoặc người vợ/chồng             tạm trú được hưởng các khoản loại trừ khỏi tổng thu
+của khoản khấu trừ mức khấu hao. Tuy nhiên, nếu           phải tuân thủ luật tài sản cộng đồng của một quốc         nhập nếu họ đáp ứng một số điều kiện nhất định.
+tài sản được sử dụng chủ yếu ở Hoa Kỳ thì toàn bộ         gia nước ngoài, tiểu bang Hoa Kỳ hoặc lãnh thổ của        Khoản loại trừ khỏi tổng thu nhập thường là thu nhập
+tiền lỗ sẽ làm giảm thu nhập có nguồn gốc từ Hoa          Hoa Kỳ thì bạn thường phải tuân thủ các luật đó để        bạn nhận được không được tính vào thu nhập ở
+Kỳ.                                                       xác định thu nhập của bản thân và người vợ/chồng          Hoa Kỳ và không phải chịu thuế Hoa Kỳ. Chương
+
+14                                                              Chương 3      Loại trừ khỏi tổng thu nhập                                          Ấn phẩm 519 (2024)
+này bao quát một số khoản loại trừ phổ biến hơn áp         Ghi chú. Một số hiệp ước thuế cũng cung cấp            • Công trái được đăng ký cho cả tiền gốc và tiền
+dụng cho người nước ngoài thường trú và người           các loại trừ khỏi thu nhập (hoặc giảm thuế suất) cho          lãi đã tuyên bố với tổ chức phát hành hoặc đại
+nước ngoài tạm trú.                                     các cá nhân đủ điều kiện nhận lợi ích theo các hiệp           lý của tổ chức phát hành và có thể được
+                                                        ước thuế. Xem chương 9 để biết thêm thông tin.                chuyển giao cả bằng cách chuyển nhượng và
+Các chủ đề                                                                                                            phát hành lại và thông qua hệ thống ghi sổ.
+Chương này thảo luận về:                                Thu nhập từ tiền lãi                                          Công trái được coi là đã đăng ký sẽ không được
+                                                                                                                 coi là đã đăng ký vào một thời điểm cụ thể nếu công
+ • Tiền lãi không chịu thuế,                            Thu nhập từ tiền lãi không liên quan đến hoạt động       trái có thể được chuyển đổi bất cứ lúc nào trong
+ • Cổ tức không chịu thuế,                              thương mại hay kinh doanh ở Hoa Kỳ sẽ được miễn          tương lai thành công trái chưa đăng ký. Để biết thêm
+ • Một số tiền thù lao thanh toán bởi chủ lao động      trừ khỏi thu nhập nếu thu nhập này đến từ:               thông tin về liệu công trái có được coi là đã đăng ký
+     là người ngoại quốc,                                 • Tiền ký gửi (bao gồm cả chứng chỉ tiền gửi) với      hay không, xem phần thảo luận về lãi danh mục đầu
+ • Lãi từ việc bán nhà và                                     những người trong doanh nghiệp ngân hàng;          tư trong Withholding on Specific Income (Khấu lưu
+ • Học bổng và trợ cấp nghiên cứu sinh.                   • Tiền ký gửi hoặc tài khoản có thể rút được ở         trên thu nhập cụ thể) trong Ấn phẩm 515 (tiếng Anh).
+                                                              ngân hàng tiết kiệm tương hỗ, ngân hàng hợp
+                                                                                                                      Công trái chưa đăng ký. Đối với công trái
+                                                              tác, liên hiệp tín dụng, hiệp hội cho vay và xây
+Các mục hữu ích                                                                                                  được phát hành trước ngày 19 tháng 3, 2012, lãi
+                                                              dựng trong nước và các tổ chức tiết kiệm khác
+Bạn có thể muốn xem:                                                                                             trên một công trái chưa đăng ký (công trái vô danh)
+                                                              được giám định và giám sát như tiền tiết kiệm
+                                                                                                                 là lãi danh mục đầu tư nếu công trái này hướng đến
+                                                              và khoản cho vay hoặc các hiệp hội tương tự
+  Ấn phẩm                                                                                                        nước ngoài. Công trái vô danh hướng đến nước
+                                                              theo luật liên bang hoặc tiểu bang (nếu hiệp hội
+                                                                                                                 ngoài nếu:
+                                                              đó có thể khấu trừ tiền lãi đã trả hoặc ghi có);
+     54    Hướng dẫn thuế cho Công dân Hoa Kỳ
+           54
+
+
+
+
+                                                              và
+                                                                                                                   • Có các thỏa thuận để đảm bảo rằng công trái
+           và Người nước ngoài thường trú sống ở                                                                        sẽ được bán hoặc bán lại liên quan đến đợt
+                                                          • Khoản tiền mà một công ty bảo hiểm nắm giữ
+           nước ngoài                                                                                                   phát hành đầu tiên, chỉ áp dụng cho một người
+                                                              theo thỏa thuận để trả tiền lãi phát sinh từ các
+                                                                                                                        không phải là công dân Hoa Kỳ;
+                                                              khoản tiền này.
+     523 Bán nhà của bạn
+           523
+
+
+
+
+                                                                                                                   • Tiền lãi trên công trái chỉ được thanh toán ở
+                                                        Công trái của chính quyền tiểu bang và địa                      bên ngoài Hoa Kỳ và lãnh thổ của Hoa Kỳ; và
+Xem chương 12 để biết thông tin về việc lấy các ấn                                                                 • Một mặt của công trái cho biết rằng bất kỳ
+phẩm này.                                               phương. Tiền lãi trên công trái của một tiểu bang
+                                                        hoặc phân khu chính trị, Đặc khu Columbia hoặc                  người nào ở Hoa Kỳ nắm giữ công trái sẽ phải
+                                                        lãnh thổ của Hoa Kỳ, thường không được tính vào                 tuân thủ các giới hạn theo luật thuế thu nhập
+                                                                                                                        Hoa Kỳ.
+Người nước ngoài                                        thu nhập. Tuy nhiên, lãi suất trên một số trái phiếu
+                                                        hoạt động tư nhân, trái phiếu chênh lệch giá và một           Không bắt buộc phải cung cấp giấy tờ chứng
+thường trú                                              số trái phiếu chưa đăng ký sẽ được tính vào thu          minh tiền lãi trên công trái vô danh để đủ điều kiện là
+                                                        nhập.                                                    lãi danh mục đầu tư. Tuy nhiên, trong một số trường
+Người nước ngoài thường trú có thể loại trừ các                                                                  hợp, bạn có thể cần phải cung cấp giấy tờ chứng
+khoản sau đây khỏi tổng thu nhập của họ.                Lãi danh mục đầu tư. Tiền lãi và OID hội đủ điều         minh cho mục đích khai báo trên Mẫu 1099 và số
+                                                        kiện là lãi danh mục đầu tư sẽ không phải chịu thuế      tiền tạm giữ trên lương để đóng thuế hàng năm.
+                                                        khấu lưu ở chương 3 (của Bộ luật thuế vụ) trong các
+Thu nhập kiếm được ở nước                               đoạn 1441-1443. Tuy nhiên, khoản lãi đó có thể bị        Tiền lãi không đủ điều kiện là lãi danh mục đầu
+ngoài và chi phí nhà ở                                  khấu lưu nếu đó là khoản thanh toán phải khấu lưu        tư. Khoản thanh toán cho một số người và khoản
+                                                        và không áp dụng ngoại lệ về thuế khấu lưu ở             thanh toán tiền lãi dự phòng không đủ điều kiện là lãi
+                                                        chương 4 (của Bộ luật thuế vụ) trong đoạn                danh mục đầu tư. Bạn phải khấu lưu theo tỷ lệ luật
+Nếu bạn có mặt ở một quốc gia hoặc nhiều quốc gia
+                                                        1471-1474. Để biết thêm thông tin, xem phần thảo         định đối với các khoản thanh toán đó, trừ khi áp
+nước ngoài ít nhất 330 ngày trong bất kỳ khoảng thời
+                                                        luận về lãi danh mục đầu tư trong Withholding on         dụng một số ngoại lệ khác, chẳng hạn như điều
+gian nào của 12 tháng liên tục thì bạn có thể đủ điều
+                                                        Specific Income (Khấu lưu trên thu nhập cụ thể)          khoản trong hiệp ước.
+kiện được loại trừ thu nhập kiếm được ở nước
+                                                        trong Ấn phẩm 515 (tiếng Anh).
+ngoài. Số tiền loại trừ trong năm 2024 là $126.500.                                                                 Tiền lãi dự phòng. Lãi danh mục đầu tư không
+Ngoài ra, bạn có thể loại trừ hoặc khấu trừ một số          Để hội đủ điều kiện là lãi danh mục đầu tư thì lãi
+                                                                                                                 bao gồm tiền lãi dự phòng. Tiền lãi dự phòng thuộc
+chi phí nhà ở nước ngoài. Bạn cũng có thể đủ điều       phải được thanh toán trên công trái phát hành sau
+                                                                                                                 một trong các trường hợp sau.
+kiện nếu bạn là thường trú nhân chân thật của một       ngày 18 tháng 7, 1984. Nếu không, lãi sẽ bị khấu
+quốc gia nước ngoài và bạn là công dân hoặc quốc        lưu. Đối với công trái phát hành sau ngày 18 tháng 3,      1. Tiền lãi được xác định bằng cách tham chiếu
+dân của một quốc gia mà Hoa Kỳ đã ký hiệp ước           2012, lãi danh mục đầu tư không bao gồm lãi được              đến:
+thuế thu nhập. Để biết thêm thông tin, xem Ấn phẩm      thanh toán trên khoản nợ chưa đăng ký. Trước ngày               • Bất kỳ khoản thu, tiền bán hàng hoặc
+54 (tiếng Anh).                                         19 tháng 3, 2012, lãi danh mục đầu tư bao gồm lãi                   dòng tiền khác của bên nợ hoặc người
+                                                        trên một số trái phiếu đã đăng ký và chưa đăng ký                   có liên quan;
+Quốc gia nước ngoài. Quốc gia nước ngoài là bất         (vô danh) nếu công trái đáp ứng các yêu cầu được                • Thu nhập hoặc tiền lời của bên nợ hoặc
+kỳ lãnh thổ nào thuộc chủ quyền của một chính phủ       đưa ra dưới đây.                                                    người có liên quan;
+khác chính phủ Hoa Kỳ.                                                                                                  • Mỗi thay đổi trong giá trị của bất cứ tài
+                                                           Công trái ở dạng đã đăng ký. Lãi danh mục
+    Thuật ngữ “quốc gia nước ngoài” bao gồm lãnh                                                                            sản nào của bên nợ hoặc người có liên
+                                                        đầu tư bao gồm lãi thanh toán cho một công trái
+hải và vùng trời của quốc gia đó, nhưng không bao                                                                           quan; hoặc
+                                                        chưa đăng ký và bạn đã nhận được giấy tờ chứng
+gồm vùng biển quốc tế và vùng trời ở phía trên.                                                                         • Bất kỳ cổ tức, khoản đóng góp của công
+                                                        minh rằng chủ sở hữu công trái thụ hưởng không
+Quốc gia nước ngoài cũng bao gồm đáy biển và                                                                                ty hợp danh hoặc các khoản thanh toán
+                                                        phải là người Hoa Kỳ.
+lòng đất dưới đáy biển của những khu vực biển tiếp                                                                          tương tự của bên nợ hoặc người có liên
+                                                           Nhìn chung, công trái sẽ ở dạng đã đăng ký nếu:
+giáp với vùng lãnh hải của quốc gia đó và ở đó họ                                                                           quan.
+                                                          • Công trái được đăng ký cho cả tiền gốc và bất                 Để biết các ngoại lệ, xem đoạn 871(h)(4)
+độc quyền thăm dò và khai thác tài nguyên thiên               kỳ khoản lãi nào đã tuyên bố với tổ chức phát
+nhiên theo luật quốc tế.                                                                                              (C).
+                                                              hành (hoặc đại lý của tổ chức phát hành) và chỉ
+    Thuật ngữ “quốc gia nước ngoài” không bao                 có thể thực hiện bất kỳ chuyển giao công trái        2. Bất kỳ loại lãi dự phòng nào khác được Bộ
+gồm lãnh thổ của Hoa Kỳ. Quốc gia nước ngoài                  nào khi từ bỏ công trái cũ và cấp lại cho chủ sở        trưởng Bộ tài chính xác định trong các quy
+không bao gồm khu vực Nam Cực.                                hữu mới;                                                định.
+                                                          • Quyền đối với tiền gốc và tiền lãi đã tuyên bố
+                                                                                                                    Người có liên quan. Người có liên quan bao
+                                                              liên quan đến công trái chỉ có thể được chuyển
+Người nước ngoài tạm trú                                      giao thông qua hệ thống ghi sổ do tổ chức phát
+                                                                                                                 gồm những người sau đây.
+                                                                                                                  • Thành viên của một gia đình, chỉ bao gồm anh
+                                                              hành hoặc đại lý của tổ chức phát hành duy lưu
+                                                                                                                     chị em ruột, anh chị em cùng cha khác mẹ
+Người nước ngoài tạm trú có thể miễn trừ các khoản            giữ; hoặc
+                                                                                                                     hoặc cùng mẹ khác cha, người vợ/chồng, tổ
+sau khỏi tổng thu nhập.
+
+Ấn phẩm 519 (2024)                                            Chương 3      Loại trừ khỏi tổng thu nhập                                                              15
+     tiên (cha mẹ, ông bà, v.v.) và con cháu dòng họ         ty Hoa Kỳ, công ty hợp danh của Hoa Kỳ hoặc         nghiên cứu, chuyên gia hoặc nhà lãnh đạo trong lĩnh
+     (con, cháu, v.v.).                                      công dân hoặc thường trú nhân Hoa Kỳ.               vực kiến thức hoặc kỹ năng chuyên môn hoặc
+ •   Bất cứ người nào là một bên của bất kỳ thỏa
+                                                         2. Bạn thực hiện dịch vụ này trong khi bạn là
+                                                                                                                 những người có mô tả tương tự. Nhóm này cũng
+     thuận nào được thực hiện nhằm mục đích                                                                      bao gồm người vợ/chồng và con ở tuổi vị thành niên
+                                                            người nước ngoài tạm trú tạm thời có mặt ở
+     tránh các quy tắc về tiền lãi bất ngờ.                                                                      của người nước ngoài nếu họ đi cùng người nước
+                                                            Hoa Kỳ trong một khoảng thời gian hoặc các
+ •   Một số công ty, công ty hợp danh và các tổ
+                                                            khoảng thời gian không quá 90 ngày trong
+                                                                                                                 ngoài hoặc đến sau để đoàn tụ cùng người nước
+     chức khác. Để biết chi tiết, xem Nondeductible                                                              ngoài.
+                                                            năm tính thuế.
+     Loss (Lỗ không thể khấu trừ) trong chương 2                                                                     Người nước ngoài tạm trú tạm thời có mặt ở Hoa
+     của Ấn phẩm 544 (tiếng Anh).                        3. Bạn được trả cho các dịch vụ này không quá           Kỳ theo diện thị thực “J” bao gồm người nước ngoài
+                                                            $3.000.                                              nhập cảnh vào Hoa Kỳ với tư cách khách trao đổi
+    Ngoại lệ cho nợ hiện tại. Tiền lãi dự phòng
+                                                                                                                 theo Đạo luật Giáo dục tương hỗ và Trao đổi văn
+không bao gồm tiền lãi đã trả hoặc tích lũy trên bất   Nếu bạn không đáp ứng cả ba điều kiện thì thu nhập
+                                                                                                                 hóa năm 1961.
+kỳ khoản nợ nào có kỳ hạn cố định đã được phát         từ dịch vụ cá nhân được thực hiện tại Hoa Kỳ là thu
+hành:                                                  nhập có nguồn gốc từ Hoa Kỳ và chịu thuế theo các            Chủ lao động là người ngoại quốc. Chủ lao
+  • Vào ngày hoặc trước ngày 7 tháng 4, 1993;          quy tắc trong chương 4.                                   động là người ngoại quốc là:
+     hoặc                                                   Nếu bạn được trả cho các dịch vụ này nhiều hơn        • Người nước ngoài tạm trú, công ty hợp danh
+  • Sau ngày 7 tháng 4, 1993, theo hợp đồng ràng       $3.000 thì toàn bộ số tiền này là thu nhập từ hoạt            nước ngoài hoặc công ty nước ngoài; hoặc
+     buộc bằng văn bản có hiệu lực vào ngày đó và      động thương mại hay kinh doanh ở Hoa Kỳ. Để biết           • Văn phòng hoặc địa điểm kinh doanh được
+     vào mọi thời điểm sau đó trước khi khoản nợ       xem bạn có được trả nhiều hơn $3.000 hay không,               duy trì ở nước ngoài hoặc lãnh thổ của Hoa Kỳ
+     được phát hành.                                   không bao gồm bất kỳ khoản tiền nào bạn nhận                  bởi một công ty Hoa Kỳ, công ty hợp danh của
+                                                       được từ chủ lao động để ứng trước hoặc hoàn trả               Hoa Kỳ hoặc cá nhân là công dân hoặc thường
+Thu nhập cổ tức                                        chi phí đi công tác, nếu bạn được yêu cầu và đã
+                                                       hạch toán với chủ lao động về các chi phí đó. Nếu
+                                                                                                                     trú nhân Hoa Kỳ.
+                                                                                                                     Thuật ngữ “chủ lao động là người ngoại quốc”
+                                                       các khoản ứng trước hoặc hoàn trả nhiều hơn chi
+Thu nhập cổ tức sau đây được miễn thuế suất 30%.                                                                 không bao gồm một chính phủ nước ngoài. Khoản
+                                                       phí của bạn, hãy tính phần vượt mức vào tiền được
+                                                                                                                 thanh toán của chính phủ nước ngoài được miễn
+                                                       trả của bạn cho các dịch vụ này.
+Một số cổ tức do công ty nước ngoài trả. Không                                                                   thuế thu nhập Hoa Kỳ được thảo luận trong chương
+                                                            Một “ngày” có nghĩa là một ngày dương lịch
+áp dụng thuế suất 30% cho cổ tức có nguồn gốc từ                                                                 10.
+                                                       trong bất kỳ thời điểm nào mà bạn có mặt thực tế tại
+Hoa Kỳ mà bạn nhận được từ một công ty nước
+                                                       Hoa Kỳ.                                                   Thu nhập từ một số niên kim. Không tính vào thu
+ngoài. Xem Ngoại lệ trong mục Cổ tức ở chương 2
+để biết cách tính tiền cổ tức có nguồn gốc từ Hoa                                                                nhập bất kỳ niên kim nào nhận được theo chương
+                                                           Ví dụ 1. Trong năm 2024, Henry Smythe, một
+Kỳ. Việc miễn trừ này không áp dụng cho các khoản                                                                trình niên kim đủ điều kiện hoặc từ quỹ tín thác đủ
+                                                       người nước ngoài tạm trú đến từ một quốc gia
+thanh toán cổ tức tương đương.                                                                                   điều kiện được miễn thuế thu nhập Hoa Kỳ nếu bạn
+                                                       không ký hiệp ước với Hoa Kỳ, đã làm việc cho một
+                                                                                                                 đáp ứng cả hai điều kiện sau.
+                                                       văn phòng ở nước ngoài của công ty hợp danh Hoa
+Một số cổ tức liên quan đến tiền lãi. Không áp                                                                     1. Bạn chỉ nhận được niên kim do:
+                                                       Kỳ. Henry, người dùng năm dương lịch làm năm tính
+dụng thuế suất 30% cho cổ tức liên quan đến tiền lãi
+                                                       thuế, đã tạm thời có mặt ở Hoa Kỳ 60 ngày trong                  a. Bạn đã thực hiện dịch vụ cá nhân ở bên
+từ các nguồn ở Hoa Kỳ mà bạn nhận được từ quỹ
+                                                       năm 2024 để thực hiện dịch vụ cá nhân cho văn                       ngoài Hoa Kỳ khi bạn là người nước
+tương hỗ hoặc công ty đầu tư được quy định khác
+                                                       phòng ở nước ngoài của công ty hợp danh. Văn                        ngoài tạm trú; hoặc
+(RIC). Quỹ tương hỗ sẽ chỉ định bằng văn bản cổ
+                                                       phòng đó đã trả cho Henry tổng mức lương là
+tức nào là cổ tức liên quan đến tiền lãi.                                                                               b. Bạn đã thực hiện dịch vụ cá nhân ở Hoa
+                                                       $2.800 cho các dịch vụ đó. Trong năm 2024, Henry
+                                                       không tham gia vào hoạt động thương mại hay kinh                    Kỳ khi bạn là người nước ngoài tạm trú và
+Một số cổ tức lãi vốn ngắn hạn. Không áp dụng                                                                              đáp ứng ba điều kiện, được trình bày ở
+                                                       doanh ở Hoa Kỳ. Tiền lương không được coi là thu
+thuế suất 30% cho một số cổ tức lãi vốn ngắn hạn từ                                                                        phần trước trong Nhân viên của cá nhân,
+                                                       nhập có nguồn gốc từ Hoa Kỳ và được miễn thuế
+các nguồn ở Hoa Kỳ mà bạn nhận được từ quỹ                                                                                 tổ chức hoặc văn phòng nước ngoài.
+                                                       Hoa Kỳ.
+tương hỗ hoặc RIC. Quỹ tương hỗ sẽ chỉ định bằng
+văn bản cổ tức nào là cổ tức lãi vốn ngắn hạn. Mức                                                                 2. Tại thời điểm khoản tiền đầu tiên được thanh
+                                                           Ví dụ 2. Cơ sở lập luận cũng giống như trong Ví            toán dưới dạng niên kim theo chương trình
+giảm thuế này sẽ không áp dụng nếu bạn có mặt ở
+                                                       dụ 1, ngoại trừ tổng tiền lương của Henry cho các              (hoặc bằng quỹ tín thác), 90% nhân viên trở
+Hoa Kỳ 183 ngày trở lên trong năm tính thuế.
+                                                       dịch vụ được thực hiện ở Hoa Kỳ trong năm 2024 là              lên được cung cấp các khoản đóng góp hoặc
+                                                       $4.500. Henry đã lần lượt nhận được $2.875 và                  trợ cấp theo chương trình niên kim (hoặc theo
+Dịch vụ được thực hiện cho                             $1.625 trong năm 2024 và năm 2025. Trong năm                   chương trình có sự góp mặt của quỹ tín thác)
+chủ lao động là người ngoại                            2024, Henry đã tham gia vào hoạt động thương mại               là công dân hoặc thường trú nhân Hoa Kỳ.
+                                                       hay kinh doanh ở Hoa Kỳ do tiền thù lao từ các dịch
+quốc                                                   vụ cá nhân của Henry ở Hoa Kỳ là hơn $3.000. Tiền             Nếu niên kim đủ điều kiện theo điều kiện (1) chứ
+                                                       lương của Henry là thu nhập có nguồn gốc từ Hoa           không phải điều kiện (2) ở trên thì bạn không phải
+Nếu bạn được chủ lao động là người ngoại quốc trả      Kỳ và chịu thuế theo các quy tắc ở chương 4.              tính số tiền đó vào thu nhập nếu:
+tiền thì thu nhập có nguồn gốc từ Hoa Kỳ có thể                                                                     • Bạn là thường trú nhân của một quốc gia áp
+được miễn thuế Hoa Kỳ, nhưng chỉ khi bạn đáp ứng       Thuyền viên. Tiền thù lao cho dịch vụ do người                  dụng sự loại trừ bình đẳng cho công dân và
+được một trong các tình huống được thảo luận ở         nước ngoài tạm trú thực hiện liên quan đến sự có                thường trú nhân Hoa Kỳ về căn bản hoặc
+phần tiếp theo.                                        mặt tạm thời của cá nhân đó ở Hoa Kỳ với tư cách             • Bạn là thường trú nhân của một quốc gia đang
+                                                       thuyền viên thường trực của một con tàu nước ngoài              phát triển thụ hưởng theo Mục V của Đạo luật
+Nhân viên của cá nhân, tổ chức hoặc văn phòng          (ví dụ: thuyền hoặc tàu) tham gia vận chuyển giữa               Thương mại năm 1974.
+nước ngoài. Thu nhập từ dịch vụ cá nhân được           Hoa Kỳ và nước ngoài hoặc lãnh thổ của Hoa Kỳ
+                                                                                                                     Nếu bạn không chắc liệu niên kim có phải xuất
+thực hiện tại Hoa Kỳ với tư cách người nước ngoài      không phải là thu nhập có nguồn gốc từ Hoa Kỳ và
+                                                                                                                 phát từ một chương trình niên kim đủ điều kiện hay
+tạm trú không được coi là có nguồn gốc từ Hoa Kỳ       được miễn thuế Hoa Kỳ. Việc miễn trừ này không áp
+                                                                                                                 quỹ tín thác đủ tiêu chuẩn hay không, hãy hỏi người
+và được miễn thuế nếu bạn đáp ứng cả ba điều kiện      dụng cho tiền thù lao từ dịch vụ được thực hiện trên
+                                                                                                                 thanh toán.
+sau.                                                   máy bay nước ngoài.
+  1. Bạn thực hiện dịch vụ cá nhân với tư cách                                                                   Thu nhập chịu ảnh hưởng của các hiệp ước.
+                                                       Học sinh và khách trao đổi. Học sinh hoặc khách
+     nhân viên hoặc theo hợp đồng với người nước                                                                 Bất kỳ loại thu nhập nào được miễn thuế Hoa Kỳ
+                                                       trao đổi với tư cách người nước ngoài tạm trú có
+     ngoài tạm trú, công ty hợp danh nước ngoài                                                                  theo hiệp ước mà Hoa Kỳ là thành viên sẽ được
+                                                       mặt ở Hoa Kỳ theo diện thị thực “F,” “J,” “M,” hoặc “Q”
+     hoặc công ty nước ngoài không tham gia vào                                                                  miễn trừ khỏi tổng thu nhập. Tuy nhiên, thu nhập mà
+                                                       có thể loại trừ tiền lương khỏi tổng thu nhập nhận
+     hoạt động thương mại hay kinh doanh ở Hoa                                                                   thuế chỉ bị giới hạn bởi hiệp ước, sẽ được tính vào
+                                                       được từ chủ lao động là người ngoại quốc.
+     Kỳ; hoặc bạn làm việc cho một văn phòng                                                                     tổng thu nhập. Xem chương 9.
+     hoặc địa điểm kinh doanh được duy trì ở nước          Nhóm này bao gồm sinh viên, học sinh được cấp
+     ngoài hoặc lãnh thổ của Hoa Kỳ bởi một công       học bổng, người học việc, giáo viên, giáo sư, trợ lý
+
+
+16                                                           Chương 3      Loại trừ khỏi tổng thu nhập                                         Ấn phẩm 519 (2024)
+Tiền thắng cược từ đua chó                              Chi phí giáo dục đủ điều kiện. Đó là chi phí:
+                                                         • Học phí và lệ phí bắt buộc để ghi danh hoặc
+hoặc đua ngựa                                                theo học tại một cơ sở giáo dục đủ điều kiện;
+                                                             và
+                                                                                                                 4.
+Bạn có thể loại trừ khỏi tổng thu nhập tiền thắng        • Chi phí liên quan đến khóa học như lệ phí,
+cược từ cá cược hợp pháp được thực hiện ở bên                sách, đồ dùng và thiết bị cần thiết cho các khóa
+ngoài Hoa Kỳ trong một nhóm cá cược chung liên
+quan đến một cuộc đua ngựa hoặc đua chó trực tiếp
+                                                                                                         Thu nhập của
+                                                             học tại cơ sở giáo dục đủ điều kiện. Các hạng
+                                                             mục này bắt buộc với tất cả học sinh trong quá
+
+                                                                                                         người nước ngoài
+ở Hoa Kỳ.                                                    trình đào tạo.
+                                                     Tuy nhiên, để các hạng mục này trở thành chi phí
+Lãi do bán căn nhà chính
+                                                                                                         chịu thuế như thế
+                                                     giáo dục đủ điều kiện, điều khoản về học bổng hoặc
+                                                     trợ cấp nghiên cứu sinh không thể quy định dùng
+của bạn                                              học bổng hoặc trợ cấp nghiên cứu sinh cho các mục
+
+
+Nếu bạn đã bán căn nhà chính thì bạn có thể loại trừ
+                                                     đích khác như tiền ăn ở hoặc quy định không dùng
+                                                     học bổng hoặc trợ cấp nghiên cứu sinh để trang trải nào
+lên đến $250.000 lãi từ việc bán căn nhà. Nếu bạn       học phí hoặc chi phí liên quan đến khóa học.
+đã kết hôn và khai thuế chung thì bạn có thể loại trừ      Chi phí không đủ điều kiện. Chi phí giáo dục
+lên đến $500.000. Để biết thông tin về quy định miễn
+trừ này, xem Ấn phẩm 523 (tiếng Anh).
+                                                        đủ điều kiện không bao gồm chi phí:                      Giới thiệu
+                                                         • Ăn ở,
+                                                                                                                 Người nước ngoài thường trú và người nước ngoài
+          Miễn trừ này không áp dụng nếu bạn tuân        • Đi lại,
+                                                                                                                 không phải là thường trú nhân phải chịu thuế theo
+          thủ các quy tắc về thuế từ bỏ quốc tịch        • Nghiên cứu,
+   !      được thảo luận trong chương 4.                 • Hỗ trợ hành chính hoặc                                nhiều cách khác nhau. Người nước ngoài thường
+                                                                                                                 trú thường chịu thuế theo cách giống như công dân
+CAUTION
+                                                         • Trang thiết bị và các chi phí khác không bắt
+                                                             buộc để ghi danh hoặc theo học tại một cơ sở        Hoa Kỳ. Người nước ngoài tạm trú chịu thuế dựa
+                                                                                                                 trên nguồn thu nhập và liệu thu nhập có liên thông
+Học bổng và trợ cấp
+                                                             giáo dục đủ điều kiện.
+                                                                                                                 thực tế với hoạt động thương mại hay kinh doanh ở
+                                                        Điều này vẫn đúng ngay cả khi bạn phải nộp lệ phí        Hoa Kỳ hay không. Phần thảo luận sau đây sẽ giúp
+nghiên cứu sinh                                         cho tổ chức giáo dục như là một điều kiện để ghi         bạn xác định xem thu nhập nhận được trong năm
+                                                        danh hoặc theo học. Số tiền học bổng hoặc trợ cấp        tính thuế có liên thông thực tế với hoạt động thương
+Nếu bạn là ứng viên của một chương trình cấp bằng       nghiên cứu sinh dùng để thanh toán các chi phí này       mại hay kinh doanh ở Hoa Kỳ hay không và thu nhập
+thì bạn có thể loại trừ một phần hoặc toàn bộ số tiền   phải chịu thuế.                                          đó chịu thuế như thế nào.
+nhận được dưới dạng học bổng đủ điều kiện ra khỏi
+thu nhập. Các quy tắc được thảo luận ở đây áp dụng      Số tiền dùng để thanh toán chi phí không hội đủ
+                                                        điều kiện. Số tiền học bổng dùng để thanh toán bất
+                                                                                                                 Các chủ đề
+cho cả người nước ngoài thường trú và người nước
+                                                                                                                 Chương này thảo luận về:
+ngoài tạm trú.                                          kỳ chi phí nào không đủ điều kiện đều phải chịu thuế,
+                                                        ngay cả khi chi phí đó là lệ phí phải nộp cho tổ chức
+         Nếu người nước ngoài tạm trú nhận trợ          giáo dục như là một điều kiện để ghi danh hoặc theo       • Thu nhập liên thông thực tế với hoạt động
+ TIP     cấp không phải từ Hoa Kỳ thì người đó          học.                                                          thương mại hay kinh doanh ở Hoa Kỳ,
+         không phải chịu thuế Hoa Kỳ. Xem Học                                                                     • Thu nhập không liên thông thực tế với hoạt
+bổng, trợ cấp, giải thưởng và phần thưởng ở             Thanh toán dịch vụ. Bạn không thể loại trừ một                động thương mại hay kinh doanh ở Hoa Kỳ,
+chương 2 để xác định xem trợ cấp của bạn có phải        phần học bổng, trợ cấp nghiên cứu sinh hoặc tiền          • Thời gian cư trú bị gián đoạn và
+từ Hoa Kỳ hay không.                                    giảm bớt học phí thể hiện khoản thanh toán cho việc       • Thuế từ bỏ quốc tịch.
+                                                        giảng dạy, nghiên cứu hoặc các dịch vụ khác trong
+   Học bổng hoặc trợ cấp nghiên cứu sinh chỉ            quá khứ, hiện tại hoặc tương lai ra khỏi thu nhập.       Các mục hữu ích
+được loại trừ khỏi thu nhập nếu:                        Điều này vẫn đúng ngay cả khi tất cả các ứng viên        Bạn có thể muốn xem:
+                                                        của một chương trình cấp bằng phải thực hiện dịch
+  1. Bạn là ứng viên của một chương trình cấp
+                                                        vụ như là điều kiện để nhận bằng.
+     bằng tại một cơ sở giáo dục đủ điều kiện và                                                                   Ấn phẩm
+  2. Bạn dùng học bổng hoặc trợ cấp nghiên cứu               Ví dụ. Vào ngày 7 tháng 1, Maria Gomez được              544 Bán và cách xử lý khác của tài sản
+                                                                                                                            544
+
+
+
+
+     sinh để thanh toán chi phí giáo dục đủ điều        thông báo về học bổng trị giá $2.500 cho học kỳ mùa
+                                                                                                                      1212 Hướng dẫn cho các công cụ phát hành
+     kiện.                                              xuân. Là một điều kiện để nhận học bổng, Maria
+                                                                                                                                  1212
+
+
+
+
+                                                                                                                           gốc(OID)
+                                                        phải làm trợ giảng bán thời gian. Trong số $2.500
+Ứng viên của một chương trình cấp bằng. Bạn             tiền học bổng, $1.000 đại diện cho khoản thanh toán
+                                                                                                                   Mẫu đơn (và Hướng dẫn)
+là ứng viên của một chương trình cấp bằng nếu bạn:      các dịch vụ của Maria. Giả định rằng Maria đáp ứng
+                                                        tất cả các điều kiện khác, Maria có thể loại trừ không        6251 Thuế tối thiểu thay thế—Cá nhân
+  1. Theo học tại một trường tiểu học hoặc trung
+                                                                                                                                  6251
+
+
+
+
+                                                        quá $1.500 khỏi thu nhập được coi là học bổng đủ
+     học hoặc chương trình cao đẳng hoặc đại học;                                                                     Bảng D (Mẫu 1040) Lãi vốn và Lỗ vốn
+                                                        điều kiện.
+                                                                                                                                            Bảng D (Mẫu 1040)
+
+
+
+
+     hoặc
+                                                                                                                 Xem chương 12 để biết thông tin về việc lấy các ấn
+  2. Theo học tại một cơ sở giáo dục được công                                                                   phẩm và mẫu đơn này.
+     nhận có quyền cung cấp:
+       a. Một chương trình có thể chấp nhận toàn
+          bộ tín chỉ đối với bằng cử nhân trở lên                                                                Người nước ngoài
+          hoặc
+                                                                                                                 thường trú
+       b. Một chương trình đào tạo chuẩn bị hành
+          trang cho sinh viên có được việc làm                                                                   Người nước ngoài thường trú thường chịu thuế theo
+          trong ngành nghề được công nhận.                                                                       cách giống như công dân Hoa Kỳ. Điều này có nghĩa
+                                                                                                                 là thu nhập của họ từ những nơi khác trên toàn cầu
+Cơ sở giáo dục đủ điều kiện. Cơ sở giáo dục đủ                                                                   phải chịu thuế Hoa Kỳ và phải được khai báo trên tờ
+điều kiện là cơ sở duy trì đội ngũ giảng viên trong                                                              khai thuế Hoa Kỳ. Thu nhập của người nước ngoài
+biên chế chính thức và chương trình giảng dạy, cũng                                                              thường trú phải chịu thuế suất lũy tiến áp dụng cho
+như có một bộ phận sinh viên ghi danh thường                                                                     công dân Hoa Kỳ. Người nước ngoài thường trú sử
+xuyên để theo học tại nơi tổ chức này thực hiện hoạt                                                             dụng Bảng thuế hoặc Bảng tính thuế trong Hướng
+động giáo dục.                                                                                                   dẫn cho Mẫu 1040 áp dụng cho công dân Hoa Kỳ.
+
+Ấn phẩm 519 (2024)                              Chương 4      Thu nhập của người nước ngoài chịu thuế như thế nào                                                 17
+                                                              Ghi chú. Người nước ngoài tạm trú tạm thời có      thu nhập và thương mại hoặc kinh doanh đang được
+
+Người nước ngoài tạm trú
+                                                          mặt ở Hoa Kỳ theo diện thị thực “J” bao gồm người      thực hiện tại Hoa Kỳ trong năm tính thuế.
+                                                          nước ngoài tạm trú nhập cảnh vào Hoa Kỳ với tư
+                                                          cách khách trao đổi theo Đạo luật Giáo dục tương           Hai thử thách, được đề cập trong Thu nhập đầu
+Thu nhập của người nước ngoài tạm trú chịu thuế           hỗ và Trao đổi văn hóa năm 1961.                       tư ở phần sau, xác định xem một số khoản thu nhập
+thu nhập Hoa Kỳ phải được chia thành hai loại như                                                                đầu tư (chẳng hạn như tiền lãi, cổ tức và tiền bản
+sau.                                                      Hoạt động kinh doanh. Nếu bạn sở hữu và điều           quyền) có được coi là liên thông với hoạt động kinh
+                                                          hành một doanh nghiệp bán dịch vụ, sản phẩm hoặc       doanh đó hay không.
+  1. Thu nhập liên thông thực tế với hoạt động
+     thương mại hay kinh doanh ở Hoa Kỳ.                  hàng hóa tại Hoa Kỳ, với một số ngoại lệ nhất định,        Trong một số trường hợp hạn chế, một số loại
+                                                          bạn đã tham gia vào một hoạt động thương mại hay       thu nhập từ nước ngoài có thể được coi như liên
+  2. Thu nhập không liên thông thực tế với hoạt           kinh doanh ở Hoa Kỳ.                                   thông với thương mại hay kinh doanh ở Hoa Kỳ. Để
+     động thương mại hay kinh doanh ở Hoa Kỳ
+                                                                                                                 biết phần thảo luận về các quy tắc này, xem Thu
+     (được thảo luận trong Thuế suất 30%, ở phần          Công ty hợp danh. Nếu bạn là thành viên của một
+                                                                                                                 nhập từ nước ngoài ở phần sau.
+     sau).                                                công ty hợp danh mà tại bất kỳ thời điểm nào trong
+                                                          năm tính thuế bạn tham gia vào hoạt động thương
+    Sự khác biệt giữa hai loại này là thu nhập liên                                                              Thu nhập đầu tư
+                                                          mại hay kinh doanh ở Hoa Kỳ thì bạn được coi là đã
+thông thực tế, sau các khoản khấu trừ được phép,
+                                                          tham gia vào hoạt động thương mại hay kinh doanh
+chịu thuế suất lũy tiến. Đây là thuế suất giống như áp                                                           Thu nhập đầu tư có nguồn từ Hoa Kỳ có thể được
+                                                          ở Hoa Kỳ.
+dụng cho công dân và thường trú nhân Hoa Kỳ. Thu                                                                 hoặc không được coi như liên thông thực tế với
+nhập không liên thông thực tế chịu thuế suất cố định                                                             thương mại hay kinh doanh ở Hoa Kỳ thường thuộc
+                                                          Người thụ hưởng bất động sản hoặc quỹ tín
+30% (hoặc thấp hơn theo hiệp ước).                                                                               ba loại sau.
+                                                          thác. Nếu bạn là người thụ hưởng bất động sản
+         Nếu bạn từng là công dân Hoa Kỳ hoặc             hoặc quỹ tín thác tham gia vào hoạt động thương          1. Thu nhập cố định hoặc có thể xác định (lãi, cổ
+         người nước ngoài thường trú thì các quy          mại hay kinh doanh ở Hoa Kỳ thì bạn được coi như
+     !
+CAUTION tắc này có thể không được áp dụng. Xem            đã tham gia vào cùng một hoạt động thương mại
+                                                                                                                      tức, tiền cho thuê, tiền bản quyền, bảo phí,
+                                                                                                                      niên kim, v.v.).
+Thuế từ bỏ quốc tịch ở phần sau trong chương này.         hay kinh doanh.
+                                                                                                                   2. Lãi (một số hạng mục được coi là lãi vốn) từ
+                                                          Giao dịch cổ phiếu, chứng khoán và hàng hóa.                việc bán hoặc trao đổi các loại tài sản sau đây.
+Thương mại hay kinh doanh ở                               Nếu hoạt động kinh doanh duy nhất của bạn ở Hoa               • Gỗ, than hoặc quặng sắt trong nước
+                                                                                                                            mang lại lợi ích kinh tế giữ lại.
+Hoa Kỳ                                                    Kỳ là kinh doanh cổ phiếu, chứng khoán hoặc hàng
+                                                                                                                        • Bằng sáng chế, bản quyền và tài sản
+                                                          hóa (bao gồm cả giao dịch bảo hiểm rủi ro) thông
+                                                          qua một nhà môi giới thường trú tại Hoa Kỳ hoặc đại               tương tự mà trong đó bạn nhận được các
+Nhìn chung, bạn phải tham gia vào một hoạt động
+                                                          lý khác thì bạn không tham gia vào hoạt động giao                 khoản thanh toán dự phòng sau ngày 4
+thương mại hay kinh doanh trong năm tính thuế để
+                                                          dịch hay kinh doanh tại Hoa Kỳ.                                   tháng 10, 1966.
+có thể coi thu nhập nhận được trong năm đó là liên
+                                                               Đối với giao dịch cổ phiếu hoặc chứng khoán,             • Bằng sáng chế được chuyển giao trước
+thông thực tế với hoạt động thương mại hay kinh
+                                                          điều này áp dụng cho bất kỳ người nước ngoài tạm                  ngày 5 tháng 10, 1966.
+doanh đó. Việc bạn tham gia vào một hoạt động
+                                                          trú, bao gồm cả người buôn bán hoặc nhà môi giới              • Công trái OID.
+thương mại hoặc kinh doanh ở Hoa Kỳ hay không
+phụ thuộc vào bản chất hoạt động của bạn. Phần            cổ phiếu và chứng khoán.                                 3. Lãi vốn (và lỗ).
+thảo luận sau đó sẽ giúp bạn xác định xem bạn có               Đối với giao dịch hàng hóa, điều này áp dụng
+đang tham gia vào một hoạt động thương mại hay            cho hàng hóa thường được giao dịch trên sàn giao           Sử dụng hai thử thách được đề cập ở phần dưới
+kinh doanh ở Hoa Kỳ hay không.                            dịch hàng hóa có tổ chức và giao dịch thường được      để xác định xem một khoản thu nhập có nguồn gốc
+                                                          thực hiện tại sàn giao dịch đó.                        từ Hoa Kỳ có thuộc một trong ba loại trên và nhận
+                                                               Phần thảo luận này không áp dụng nếu bạn có       được trong năm tính thuế liên thông thực tế với hoạt
+Dịch vụ cá nhân
+                                                          văn phòng hoặc địa điểm kinh doanh cố định khác ở      động thương mại hay kinh doanh ở Hoa Kỳ hay
+Nếu bạn thực hiện dịch vụ cá nhân ở Hoa Kỳ vào bất        Hoa Kỳ vào bất kỳ thời điểm nào trong năm tính thuế    không. Nếu các thử thách cho biết rằng khoản thu
+kỳ thời điểm nào trong năm tính thuế thì bạn thường       mà qua đó bạn thực hiện các giao dịch cổ phiếu,        nhập là liên thông thực tế thì bạn phải tính khoản đó
+được coi là tham gia vào một hoạt động thương mại         chứng khoán hoặc hàng hóa.                             vào những thu nhập liên thông thực tế khác. Nếu
+hay kinh doanh ở Hoa Kỳ.                                                                                         khoản thu nhập không liên thông thực tế, hãy tính
+                                                              Giao dịch bằng tài khoản riêng của người           khoản đó vào tất cả các thu nhập khác được thảo
+         Tiền thù lao do chủ lao động là người ngoại      nước ngoài tạm trú. Bạn không tham gia vào một         luận trong Thuế suất 30% ở phần sau trong chương
+  TIP quốc trả cho người nước ngoài tạm trú sẽ            hoạt động thương mại hay kinh doanh ở Hoa Kỳ nếu       này.
+         không được tính vào tổng thu nhập. Để biết       giao dịch cổ phiếu, chứng khoán hoặc hàng hóa
+thêm thông tin, xem Dịch vụ được thực hiện cho chủ        bằng tài khoản riêng là hoạt động kinh doanh duy       Thử thách về sử dụng tài sản. Thử thách này
+lao động là người ngoại quốc trong chương 3.              nhất của bạn ở Hoa Kỳ. Điều này được áp dụng           thường áp dụng cho thu nhập không trực tiếp tạo ra
+                                                          ngay cả khi giao dịch diễn ra khi bạn có mặt ở Hoa     từ hoạt động thương mại hay kinh doanh. Theo thử
+                                                          Kỳ hoặc được thực hiện bởi nhân viên hoặc nhà môi      thách này, nếu một khoản thu nhập có nguồn gốc từ
+Hoạt động thương mại hay kinh                             giới của bạn hoặc đại lý khác.                         tài sản được dùng trong hoặc được giữ lại để sử
+doanh khác                                                    Điều này không được áp dụng cho giao dịch          dụng trong hoạt động thương mại hay kinh doanh ở
+                                                          bằng tài khoản riêng nếu bạn là người kinh doanh cổ    Hoa Kỳ thì khoản đó được coi là liên thông thực tế.
+Sau đây là ví dụ khác về việc tham gia vào một hoạt       phiếu, chứng khoán hoặc hàng hóa. Tuy nhiên, điều          Tài sản được dùng trong hoặc được giữ lại để
+động thương mại hay kinh doanh ở Hoa Kỳ.                  này không nhất thiết có nghĩa là với tư cách người     sử dụng trong hoạt động thương mại hay kinh doanh
+                                                          kinh doanh, bạn được coi là đã tham gia vào hoạt       ở Hoa Kỳ nếu tài sản đó:
+Học sinh và người tập sự. Nếu bạn tạm thời có             động thương mại hay kinh doanh ở Hoa Kỳ. Xác
+mặt ở Hoa Kỳ với tư cách người không định cư theo
+                                                                                                                   • Được giữ lại để thúc đẩy hoạt động thương
+                                                          định điều đó dựa trên thực tế và hoàn cảnh ở từng            mại hay kinh doanh ở Hoa Kỳ;
+diện thị thực “F,” “J,” “M,” hoặc “Q” và không tham gia   trường hợp hoặc theo các quy tắc nêu trên trong
+vào một hoạt động thương mại hay kinh doanh thì
+                                                                                                                   • Được mua lại và nắm giữ trong quá trình
+                                                          Giao dịch cổ phiếu, chứng khoán và hàng hóa.                 thương mại hay kinh doanh thông thường ở
+bạn sẽ được coi là đã tham gia vào hoạt động
+                                                                                                                       Hoa Kỳ (ví dụ: một khoản phải thu hoặc thương
+thương mại hay kinh doanh ở Hoa Kỳ nếu bạn có thu
+nhập chịu thuế từ học bổng hoặc trợ cấp nghiên cứu        Thu nhập liên thông thực tế                                  phiếu phải thu phát sinh từ hoạt động thương
+                                                                                                                       mại hay kinh doanh đó); hoặc
+sinh được đề cập trong đoạn 1441(b). Phần chịu
+thuế của bất kỳ học bổng hoặc trợ cấp nghiên cứu          Nếu bạn đang tham gia vào một hoạt động thương
+                                                                                                                   • Được giữ lại để đáp ứng nhu cầu hiện tại của
+                                                                                                                       hoạt động thương mại hay kinh doanh ở Hoa
+sinh nào là thu nhập có nguồn gốc từ Hoa Kỳ sẽ            mại hay kinh doanh ở Hoa Kỳ thì toàn bộ thu nhập,
+                                                                                                                       Kỳ chứ không phải nhu cầu dự kiến trong
+được coi là liên thông thực tế với hoạt động thương       lãi hoặc lỗ trong năm tính thuế mà bạn nhận được từ
+                                                                                                                       tương lai.
+mại hay kinh doanh ở Hoa Kỳ.                              các nguồn tại Hoa Kỳ (ngoài thu nhập đầu tư) được
+                                                          coi là thu nhập liên thông thực tế. Điều này áp dụng   Nhìn chung, cổ phiếu của một công ty không được
+                                                          cho dù có hay không có bất kỳ liên thông nào giữa      coi là tài sản được dùng trong hoặc được giữ lại để
+
+18                                                Chương 4     Thu nhập của người nước ngoài chịu thuế như thế nào                              Ấn phẩm 519 (2024)
+phục vụ cho mục đích thương mại hay kinh doanh ở        “Địa điểm kinh doanh cố định” thường là một nơi, địa      bất động sản ở Hoa Kỳ của công ty đó chiếm ít nhất
+Hoa Kỳ.                                                 điểm, kết cấu hoặc cơ sở tương tự khác mà qua đó          50% tổng giá trị thị trường hợp lý của:
+                                                        bạn tham gia vào một hoạt động thương mại hay              • Lợi ích của công ty từ bất động sản ở Hoa Kỳ;
+Thử thách về hoạt động kinh doanh. Thử thách            kinh doanh. “Vận tải thường xuyên theo lịch” có                cộng với
+này thường được áp dụng khi thu nhập, lãi hoặc lỗ       nghĩa là một con tàu hoặc máy bay tuân theo lịch đã        • Lợi ích của công ty từ bất động sản ở bên
+từ hoạt động thương mại hay kinh doanh đang diễn        công bố với các chuyến đi hoặc chuyến bay lặp lại              ngoài Hoa Kỳ; cộng với
+ra. Thử thách về hoạt động kinh doanh đóng vai trò      trong khoảng thời gian đều đặn giữa các điểm giống         • Các tài sản khác của công ty được dùng hoặc
+quan trọng nhất khi:                                    nhau trong các chuyến đi hoặc chuyến bay bắt đầu               được giữ lại để sử dụng trong một hoạt động
+  • Cổ tức hoặc tiền lãi mà người kinh doanh nhận       hoặc kết thúc ở Hoa Kỳ. Định nghĩa này áp dụng cho             thương mại hay kinh doanh.
+     được trong giao dịch cổ phiếu hoặc chứng           cả hoạt động vận chuyển hàng không theo lịch và
+                                                                                                                      Cổ phiếu trong bất kỳ công ty trong nước nào sẽ
+     khoán,                                             thuê chuyến.
+                                                                                                                  được coi như cổ phiếu trong một công ty sở hữu bất
+  • Tiền bản quyền nhận được trong hoạt động                                                                      động sản ở Hoa Kỳ, trừ khi bạn xác định rằng công
+     thương mại hay kinh doanh cấp bằng sáng chế            Nếu bạn không đáp ứng đủ hai điều kiện trên thì
+                                                                                                                  ty đó không phải là công ty sở hữu bất động sản ở
+     hoặc tài sản tương tự, hoặc                        thu nhập sẽ không liên thông thực tế và chịu thuế
+                                                                                                                  Hoa Kỳ.
+  • Phí dịch vụ mà một doanh nghiệp dịch vụ thu         suất 4%. Xem Thuế vận tải ở phần sau trong
+     được.                                              chương này.                                                   Ngoại lệ cho công ty đại chúng. Lợi ích từ bất
+Theo thử thách này, nếu hoạt động thương mại hay                                                                  động sản ở Hoa Kỳ không bao gồm một loại cổ
+kinh doanh ở Hoa Kỳ là một yếu tố quan trọng trong      Lãi và lỗ kinh doanh và giao dịch bán                     phiếu của một công ty được giao dịch thường xuyên
+việc tạo ra thu nhập thì thu nhập đó được coi là liên   hàng                                                      trên thị trường chứng khoán đã có, trừ khi bạn nắm
+thông thực tế.                                                                                                    giữ hơn 5% giá trị thị trường hợp lý của loại cổ phiếu
+                                                        Toàn bộ lãi hoặc lỗ có nguồn gốc từ Hoa Kỳ do hoạt        đó (hoặc hơn 10% cổ phiếu đó trong trường hợp
+                                                        động của một doanh nghiệp ở Hoa Kỳ là thu nhập            quỹ tín thác đầu tư bất động sản (REIT)). Lợi ích
+Thu nhập từ dịch vụ cá nhân                                                                                       trong một công ty nước ngoài sở hữu bất động sản
+                                                        liên thông thực tế với hoạt động thương mại hay kinh
+                                                        doanh ở Hoa Kỳ. Ví dụ: lợi nhuận từ việc bán tài sản      ở Hoa Kỳ thường không phải là tiền lãi từ bất động
+Bạn thường tham gia vào một hoạt động thương mại        tồn kho ở Hoa Kỳ được mua ở quốc gia này hoặc ở           sản ở Hoa Kỳ, trừ khi công ty đó chọn được coi như
+hay kinh doanh ở Hoa Kỳ khi thực hiện các dịch vụ       nước ngoài có liên thông thực tế đến thu nhập             một công ty trong nước.
+cá nhân ở Hoa Kỳ. Thu nhập từ dịch vụ cá nhân           thương mại hoặc kinh doanh. Một phần lợi nhuận
+trong năm tính thuế mà bạn tham gia vào một hoạt        hoặc lỗ có nguồn gốc từ Hoa Kỳ do hoạt động của           Thực thể đầu tư đủ điều kiện (QIE). Quy tắc đặc
+động thương mại hay kinh doanh ở Hoa Kỳ là liên         một công ty hợp danh tham gia vào hoạt động               biệt áp dụng cho QIE. QIE là bất kỳ REIT hoặc bất kỳ
+thông thực tế với hoạt động thương mại hay kinh         thương mại hay kinh doanh ở Hoa Kỳ cũng là liên           RIC nào được coi như một công ty sở hữu bất động
+doanh ở Hoa Kỳ. Thu nhập nhận được trong một            thông thực tế với hoạt động thương mại hay kinh           sản ở Hoa Kỳ (sau khi áp dụng một số quy tắc trong
+năm không phải là năm bạn thực hiện dịch vụ cũng        doanh ở Hoa Kỳ.                                           đoạn 897(h)(4)(A)(ii)). Xem U.S. Real Property
+được coi là liên thông thực tế nếu nó được liên                                                                   Interest (Lợi ích từ bất động sản) trong Ấn phẩm 515
+thông thực tế nếu nhận được trong năm bạn thực                                                                    (tiếng Anh) để biết thêm thông tin.
+hiện dịch vụ. Thu nhập từ dịch vụ cá nhân bao gồm       Lãi hoặc lỗ từ bất động sản
+tiền lương, tiền công, hoa hồng, lệ phí, phụ cấp công                                                                  Quy tắc ấn định thu nhập vào danh mục
+                                                        Lãi và lỗ từ việc bán hoặc trao đổi các lợi ích từ bất    riêng dành cho QIE. Trong hầu hết các trường
+tác phí, trợ cấp và tiền thưởng cho người lao động.
+                                                        động sản ở Hoa Kỳ (cho dù chúng là tài sản vốn hay        hợp, bất kỳ khoản phân phối nào từ QIE cho người
+Thu nhập có thể được thanh toán cho bạn dưới
+                                                        không) đều chịu thuế như thể bạn đang tham gia vào        nước ngoài tạm trú, công ty nước ngoài hoặc QIE
+dạng tiền mặt, dịch vụ hoặc tài sản.
+                                                        một hoạt động thương mại hay kinh doanh ở Hoa             khác có thể quy cho tiền lời của QIE từ việc bán
+                                                        Kỳ. Bạn phải coi lãi hoặc lỗ là liên thông thực tế với    hoặc trao đổi lợi ích từ bất động sản ở Hoa Kỳ sẽ
+    Nếu bạn tham gia vào một hoạt động thương           hoạt động thương mại hay kinh doanh đó.                   được coi như tiền lời được người nước ngoài tạm
+mại hay kinh doanh ở Hoa Kỳ chỉ vì bạn thực hiện
+                                                                                                                  trú, công ty nước ngoài hoặc QIE khác công nhân từ
+dịch vụ cá nhân tại Hoa Kỳ trong năm tính thuế thì      Lợi ích từ bất động sản ở Hoa Kỳ. Đó là bất kỳ            việc bán hoặc trao đổi lợi ích từ bất động sản ở Hoa
+thu nhập và lãi tài sản, cũng như lãi và lỗ do bán      lợi ích nào từ bất động sản ở Hoa Kỳ hoặc Quần đảo        Kỳ công nhận.
+hoặc trao đổi tài sản vốn, thường không liên thông      Virgin thuộc Mỹ hoặc bất kỳ lợi ích nào (ngoài tư              Một số ngoại lệ áp dụng cho quy tắc ấn định thu
+thực tế với hoạt động thương mại hay kinh doanh         cách chủ nợ) trong một công ty trong nước là công         nhập vào danh mục riêng dành cho các khoản phân
+của bạn. Tuy nhiên, nếu tồn tại mối quan hệ kinh tế     ty sở hữu bất động sản ở Hoa Kỳ. Bất động sản bao         phối theo QIE. Khoản phân phối của QIE liên quan
+trực tiếp giữa việc bạn nắm giữ tài sản và hoạt động    gồm các hạng mục sau.                                     đến cổ phiếu được giao dịch thường xuyên trên thị
+thương mại hay kinh doanh để thực hiện dịch vụ cá
+                                                           1. Đất đai và các sản phẩm tự nhiên chưa bao           trường chứng khoán đã có ở Hoa Kỳ không được
+nhân thì thu nhập, lãi hoặc lỗ là liên thông thực tế.
+                                                              phủ của đất như cây trồng và gỗ, mỏ, giếng và       coi như tiền lời từ việc bán hoặc trao đổi lợi ích bất
+                                                              các mỏ tự nhiên khác.                               động sản ở Hoa Kỳ nếu cổ đông sở hữu 5% cổ
+Lương hưu. Nếu bạn đã thực hiện dịch vụ cá nhân
+                                                                                                                  phiếu đó trở xuống (hoặc 10% cổ phiếu đó trở xuống
+ở Hoa Kỳ sau năm 1986 và trong năm tính thuế sau           2. Các hạng mục cải tạo trên đất như tòa nhà,          trong trường hợp REIT) vào bất cứ thời điểm nào
+đó, bạn nhận được lương hưu hoặc tiền hưu trí có              công trình kiên cố khác và các hợp phần kết         trong khoảng thời gian 1 năm kết thúc vào ngày
+thể quy cho các dịch vụ này khi bạn là người nước             cấu đi kèm.                                         phân phối.
+ngoài tạm trú thì các khoản phân phối đó là thu nhập
+                                                           3. Tài sản cá nhân gắn liền với việc sử dụng bất            Khoản phân phối do REIT thực hiện thường
+liên thông thực tế trong phạm vi có thể quy cho các
+                                                              động sản như thiết bị dùng trong nông nghiệp,       không được coi là tiền lời từ việc bán hoặc trao đổi
+khoản đóng góp. Điều này vẫn đúng cho dù bạn có
+                                                              khai thác mỏ, lâm nghiệp hoặc xây dựng hoặc         lợi ích từ bất động sản ở Hoa Kỳ nếu cổ đông đó là
+tham gia vào hoạt động thương mại hoặc kinh doanh
+                                                              tài sản dùng trong cơ sở lưu trú hoặc văn           cổ đông đủ điều kiện (như đã đề cập trong đoạn
+ở Hoa Kỳ trong năm bạn nhận được lương hưu
+                                                              phòng cho thuê, trừ khi tài sản cá nhân:            897(k)(3))).
+hoặc tiền hưu trí hay không.
+                                                                                                                       Khoản phân phối mà bạn không coi là tiền lời từ
+                                                               a. Được chuyển nhượng hơn 1 năm trước              việc bán hoặc trao đổi lợi ích từ bất động sản ở Hoa
+Thu nhập từ vận tải                                               khi hoặc sau khi chuyển nhượng bất động         Kỳ có thể được tính vào tổng thu nhập như cổ tức
+                                                                  sản, hoặc                                       thường xuyên.
+Thu nhập từ vận tải (được định nghĩa trong chương              b. Được bán riêng cho những người không
+                                                                                                                     Xử lý cổ phiếu REIT. Việc xử lý cổ phiếu trong
+2) là liên thông thực tế nếu bạn đáp ứng cả hai điều              liên quan đến người bán hoặc người mua
+                                                                                                                  REIT do một cổ đông đủ điều kiện nắm giữ trực tiếp
+kiện sau đây.                                                     bất động sản.
+                                                                                                                  (hoặc gián tiếp qua một hoặc nhiều công ty hợp
+  1. Bạn có địa điểm kinh doanh cố định ở Hoa Kỳ           Công ty sở hữu bất động sản ở Hoa Kỳ. Một              danh) sẽ không được coi như lợi ích từ bất động sản
+     tham gia vào quá trình kiếm thu nhập.              công ty sẽ trở thành công ty sở hữu bất động sản ở        ở Hoa Kỳ. Xem các đoạn 897(k)(2)-(4) để biết thêm
+                                                        Hoa Kỳ nếu giá trị thị trường hợp lý của các lợi ích từ   thông tin.
+  2. Ít nhất 90% thu nhập từ vận tải có nguồn gốc
+     từ Hoa Kỳ của bạn có thể quy cho hoạt động                                                                       QIE được kiểm soát trong nước. Bán lợi ích
+     vận tải thường xuyên theo lịch.                                                                              trong QIE được kiểm soát trong nước không phải là
+
+
+Ấn phẩm 519 (2024)                              Chương 4      Thu nhập của người nước ngoài chịu thuế như thế nào                                                    19
+bán lợi ích từ bất động sản ở Hoa Kỳ. Tổ chức này       Thuế tối thiểu thay thế. Có thể có một khoản thuế                sau ngày 27 tháng 9, 2010 từ việc thực hiện
+sẽ được kiểm soát trong nước nếu tại mọi thời điểm      tối thiểu trên thu nhập ròng từ việc xử lý lợi ích từ bất        hoạt động ngân hàng, tài trợ hoặc kinh doanh
+trong khoảng thời gian kiểm tra, có dưới 50% giá trị    động sản ở Hoa Kỳ. Tính thuế này (nếu có) trên Mẫu               tương tự ở Hoa Kỳ. Khoản thanh toán cổ tức
+cổ phiếu của đơn vị đó do người ngoại quốc nắm          6251.                                                            hoặc lãi thay thế nhận được trong giao dịch
+giữ trực tiếp hoặc gián tiếp. Thời gian kiểm tra ngắn                                                                    cho vay chứng khoán hoặc giao dịch mua đi
+hơn:                                                    Khấu lưu thuế. Nếu bạn xử lý lợi ích từ bất động                 bán lại được coi như tiền nhận được trên
+  • khoảng thời gian kéo dài 5 năm vào ngày             sản ở Hoa Kỳ thì người mua có thể phải khấu lưu                  chứng khoán đã chuyển nhượng.
+      chuyển nhượng, hoặc                               thuế. Xem phần thảo luận về Thuế bị khấu lưu trên
+                                                                                                                      3. Thu nhập, lãi hoặc lỗ từ việc bán hàng ở bên
+  • khoảng thời gian tồn tại của tổ chức đó.            hoạt động bán bất động sản trong chương 8.
+                                                                                                                         ngoài Hoa Kỳ thông qua văn phòng Hoa Kỳ
+   Để xác định xem QIE có được kiểm soát trong                                                                           hoặc địa điểm kinh doanh cố định khác của:
+nước hay không, các quy tắc sau sẽ được áp dụng.        Lãi hoặc lỗ của người ngoại quốc do
+                                                                                                                           a. Hàng tồn kho,
+                                                        bán hoặc trao đổi một số lợi ích trong
+  1. Một người nắm giữ dưới 5% cổ phiếu bất kỳ
+     của QIE, được giao dịch thường xuyên trên thị
+                                                        công ty hợp danh                                                   b. Tài sản sẽ được tính vào hàng tồn kho
+                                                                                                                              (nếu có) vào cuối năm tính thuế hoặc
+     trường chứng khoán đã có ở Hoa Kỳ mọi lúc
+                                                        Nếu bạn là đối tác nước ngoài trực tiếp hoặc gián
+     trong thời gian kiểm tra, sẽ được coi như                                                                             c. Tài sản chủ yếu được giữ lại để bán cho
+                                                        tiếp ở Hoa Kỳ hoặc công ty hợp danh tham gia (hoặc
+     người Hoa Kỳ, trừ khi QIE biết người đó không                                                                            khách hàng trong quá trình kinh doanh
+                                                        được coi như đã tham gia) vào hoạt động thương
+     phải là người Hoa Kỳ.                                                                                                    thông thường.
+                                                        mại hay kinh doanh ở Hoa Kỳ và bạn trực tiếp hoặc
+  2. Bất kỳ cổ phiếu nào trong QIE do một QIE           gián tiếp xử lý lợi ích đó thì lãi hoặc lỗ từ việc xử lý             Mục (3) sẽ không được áp dụng nếu bạn
+     khác nắm giữ sẽ được coi như do người ngoại        lợi ích hợp tác đó có thể ảnh hưởng đến nợ thuế liên             đã bán tài sản để sử dụng, tiêu thụ hoặc
+     quốc nắm giữ nếu:                                  bang của bạn. Theo đoạn 864(c)(8), lãi hoặc lỗ của               chuyển nhượng ở bên ngoài Hoa Kỳ và văn
+                                                        bạn từ việc bán, trao đổi hoặc xử lý khác về lợi ích             phòng hoặc địa điểm kinh doanh cố định khác
+       a. Bất kỳ loại cổ phiếu nào của QIE khác
+                                                        hợp tác đó được coi như liên thông thực tế với hoạt              ở nước ngoài là một yếu tố quan trọng trong
+          đều được giao dịch thường xuyên trên thị
+                                                        động thương mại hay kinh doanh ở Hoa Kỳ (“lãi liên               giao dịch mua bán.
+          trường chứng khoán đã có, hoặc
+                                                        thông thực tế” hoặc “lỗ liên thông thực tế”). Tuy
+       b. QIE khác là một RIC phát hành một số          nhiên, lãi hoặc lỗ liên thông thực tế sẽ giới hạn đến           Bất kỳ thu nhập nào từ nước ngoài tương đương
+          chứng khoán có thể mua lại.                   phần phân phối của bạn trong lãi hoặc lỗ liên thông         với bất kỳ khoản thu nhập nào được trình bày ở trên
+                                                        thực tế sẽ có công ty hợp danh bán tất cả các tài sản       đều được coi như liên thông thực tế với hoạt động
+         Bất chấp những điều trên, cổ phiếu của
+                                                        theo giá trị thị trường hợp lý kể từ ngày xử lý.            thương mại hay kinh doanh ở Hoa Kỳ. Ví dụ: lãi có
+     QIE sẽ được coi như do một người Hoa Kỳ
+     nắm giữ nếu QIE khác đó được kiểm soát                                                                         nguồn gốc từ nước ngoài và các khoản tương
+                                                            Đoạn 864(c)(8) áp dụng cho các giao dịch bán,
+     trong nước.                                                                                                    đương cổ tức được coi là thu nhập liên thông thực
+                                                        trao đổi hoặc chuyển nhượng khác diễn ra vào ngày
+                                                                                                                    tế ở Hoa Kỳ nếu thu nhập có nguồn gốc từ hoạt
+  3. Cổ phiếu trong QIE do bất kỳ QIE nào khác          hoặc sau ngày 27 tháng 11, 2017. Các quy định cuối
+                                                                                                                    động ngân hàng, tài chính hoặc kinh doanh tương tự
+     nắm giữ không được đề cập ở trên sẽ được           cùng trong đoạn 864(c)(8) đã được ban hành vào
+                                                                                                                    của người ngoại quốc ở Hoa Kỳ.
+     coi là do một người Hoa Kỳ nắm giữ, tương          ngày 6 tháng 11, 2020, áp dụng cho các giao dịch
+     ứng với cổ phiếu của QIE khác được nắm giữ         chuyển nhượng diễn ra vào ngày hoặc sau ngày 26
+     (hoặc coi như) được nắm giữ bởi một người          tháng 12, 2018. Xem Quy định đoạn 1.864(c)(8)-1(j).         Thuế trên thu nhập liên thông thực tế
+     Hoa Kỳ.
+                                                                                                                    Thu nhập bạn nhận được trong năm tính thuế liên
+   Bán khống. Nếu bạn xử lý lợi ích trong QIE           Thu nhập từ nước ngoài
+                                                                                                                    thông thực tế với hoạt động thương mại hay kinh
+được kiểm soát trong nước trong một giao dịch bán                                                                   doanh ở Hoa Kỳ, sau các khoản khấu trừ được
+                                                        Bạn phải coi ba loại thu nhập từ nước ngoài là liên
+khống hiện hành thì các quy tắc đặc biệt được áp                                                                    phép, sẽ chịu thuế theo mức áp dụng cho công dân
+                                                        thông thực tế với hoạt động thương mại hay kinh
+dụng. Giao dịch bán khống hiện hành là giao dịch                                                                    và thường trú nhân Hoa Kỳ.
+                                                        doanh ở Hoa Kỳ nếu:
+mà trong đó bạn:
+                                                          • Bạn có một văn phòng hoặc địa điểm kinh
+  1. Chuyển nhượng lợi ích trong QIE được kiểm               doanh cố định khác ở Hoa Kỳ mà thu nhập có                 Nhìn chung, bạn chỉ có thể nhận thu nhập liên
+     soát trong nước trong 30 ngày trước ngày                thể được phân bổ,                                      thông thực tế nếu bạn là người nước ngoài tạm trú
+     phân phối cổ tức cũ mà bạn (nhưng áp dụng            • Văn phòng hoặc địa điểm kinh doanh đó là một            tham gia vào hoạt động thương mại hay kinh doanh
+     cho việc xử lý) đã coi như tiền lời từ việc bán         yếu tố quan trọng để tạo ra thu nhập, và               ở Hoa Kỳ trong năm tính thuế. Tuy nhiên, nếu bạn
+     hoặc trao đổi lợi ích từ bất động sản ở Hoa Kỳ;      • Thu nhập được tạo ra trong quá trình thương             nhận được các khoản thanh toán từ việc bán hoặc
+     và                                                      mại hoặc kinh doanh thông thường được thực             trao đổi tài sản, thực hiện dịch vụ hoặc bất kỳ giao
+                                                             hiện thông qua văn phòng đó hoặc địa điểm              dịch nào khác trong năm tính thuế mà bạn không
+  2. Mua lại hoặc ký kết hợp đồng hoặc chọn mua
+                                                             kinh doanh cố định khác.                               tham gia vào hoạt động thương mại hay kinh doanh
+     lại lợi ích gần như tương tự trong tổ chức đó
+                                                                                                                    ở Hoa Kỳ, nhưng các khoản thanh toán đó sẽ được
+     trong 61 ngày kể từ ngày đầu tiên của khoảng
+                                                            Văn phòng hoặc địa điểm kinh doanh cố định              coi như thu nhập liên thông thực tế trong năm diễn
+     thời gian 30 ngày.
+                                                        khác là một yếu tố quan trọng nếu nơi đó đóng góp           ra giao dịch hoặc bạn đã thực hiện dịch vụ thì chúng
+Nếu tình huống này xảy ra, bạn sẽ được coi như đã       đáng kể và là một yếu tố kinh tế thiết yếu trong việc       được coi như thu nhập liên thông thực tế trong năm
+thu lời từ việc bán hoặc trao đổi lợi ích từ bất động   tạo ra thu nhập.                                            tính thuế mà bạn nhận được.
+sản ở Hoa Kỳ với một khoản tiền bằng khoản phân
+phối sẽ được coi như tiền lời. Điều này cũng áp            Có ba loại thu nhập từ nước ngoài được đề cập                Ví dụ. Ted Richards nhập cảnh vào Hoa Kỳ
+dụng cho bất kỳ khoản thanh toán thu nhập thay thế      dưới đây.                                                   trong tháng 8 năm 2023 để thực hiện dịch vụ cá
+nào.                                                                                                                nhân tại văn phòng Hoa Kỳ của một chủ lao động ở
+                                                           1. Tiền cho thuê và tiền bản quyền sử dụng hoặc
+    Một giao dịch sẽ không được coi như giao dịch                                                                   nước ngoài. Ted làm việc tại văn phòng Hoa Kỳ cho
+                                                              đặc quyền sử dụng tài sản cá nhân vô hình ở
+bán khống hiện hành nếu:                                                                                            đến ngày 25 tháng 12, 2023, nhưng Ted không rời
+                                                              bên ngoài Hoa Kỳ hoặc từ bất kỳ lợi ích nào từ
+  • Bạn thực sự nhận được tiền phân phối từ QIE               tài sản đó. Bao gồm tiền cho thuê hoặc tiền
+                                                                                                                    khỏi đất nước này cho đến ngày 11 tháng 1, 2024.
+      được kiểm soát trong nước liên quan đến lợi                                                                   Vào ngày 8 tháng 1, 2024, Ted đã nhận được séc trả
+                                                              bản quyền sử dụng hoặc đặc quyền sử dụng ở
+      ích được xử lý hoặc mua lại trong giao dịch                                                                   lương cuối cùng cho các dịch vụ được thực hiện ở
+                                                              bên ngoài Hoa Kỳ, bằng sáng chế, bản quyền,
+      hoặc                                                                                                          Hoa Kỳ trong năm 2023. Toàn bộ thu nhập của Ted
+                                                              quy trình và công thức bí mật, lợi thế thương
+  • Bạn xử lý bất kỳ loại cổ phiếu nào trong QIE              mại, nhãn hiệu, thương hiệu, nhượng quyền
+                                                                                                                    trong suốt thời gian lưu trú ở đây đều là thu nhập có
+      được giao dịch thường xuyên trên thị trường                                                                   nguồn gốc từ Hoa Kỳ.
+                                                              thương mại và các tài sản tương tự nếu tiền
+      chứng khoán đã có ở Hoa Kỳ nhưng chỉ khi                                                                          Trong năm 2023, Ted đã tham gia vào hoạt động
+                                                              cho thuê hoặc tiền bản quyền đến từ hoạt
+      bạn không sở hữu nhiều hơn 5% loại cổ phiếu                                                                   thương mại hay kinh doanh các dịch vụ cá nhân ở
+                                                              động thương mại hay kinh doanh ở Hoa Kỳ.
+      đó vào bất cứ thời điểm nào trong khoảng thời                                                                 Hoa Kỳ. Vì vậy, tất cả các khoản thanh toán cho Ted
+      gian 1 năm kết thúc vào ngày phân phối.              2. Cổ tức, tiền lãi hoặc số tiền nhận được khi           trong năm 2023 cho các dịch vụ được thực hiện ở
+                                                              cung cấp cam kết nhận nợ được phát hành               Hoa Kỳ trong năm 2023 đều là liên thông thực tế với
+
+20                                              Chương 4      Thu nhập của người nước ngoài chịu thuế như thế nào                                  Ấn phẩm 519 (2024)
+hoạt động thương mại hay kinh doanh đó trong năm              thể cao hơn khoản thanh toán trừ đi thuế trên     Xem Lãi hoặc lỗ từ bất động sản ở phần trước, trong
+2023.                                                         tiền lãi phải thanh toán trên công cụ nợ.         Thu nhập liên thông thực tế.
+    Tiền lương mà Ted nhận được trong tháng 1
+                                                           2. Bạn đã bán hoặc trao đổi công cụ nợ. Số tiền
+năm 2024 có nguồn gốc từ Hoa Kỳ trong năm 2024.                                                                    Tài sản vốn là tất cả mọi thứ mà bạn sở hữu,
+                                                              OID phải chịu thuế là số tiền OID được cộng
+Đây là thu nhập liên thông thực tế với hoạt động                                                                ngoại trừ:
+                                                              dồn trong khi bạn nắm giữ công cụ nợ trừ đi số
+thương mại hay kinh doanh vì Ted đã thực hiện các
+                                                              tiền OID đã chịu thuế trong (1) ở trên.            • Hàng tồn kho;
+dịch vụ mang lại thu nhập ở Hoa Kỳ trong năm 2023                                                                • Tài khoản kinh doanh hoặc tín phiếu phải thu;
+và do đó Ted được coi là đã tham gia vào một hoạt           Khai báo trên tờ khai thuế số tiền OID được ghi      • Tài sản khấu hao được dùng trong một hoạt
+động thương mại hay kinh doanh ở Hoa Kỳ trong           trong Mẫu 1042-S nếu bạn đã mua công cụ nợ trong             động thương mại hay kinh doanh;
+năm 2023.                                               đợt phát hành đầu tiên. Tuy nhiên, bạn phải tính lại     • Bất động sản được dùng trong một hoạt động
+                                                        phần OID thích hợp ghi trên Mẫu 1042-S nếu áp                thương mại hay kinh doanh;
+Thu nhập từ bất động sản. Bạn có thể chọn coi           dụng bất kỳ trường hợp nào sau đây.                      • Vật tư được dùng thường xuyên trong một hoạt
+toàn bộ thu nhập từ bất động sản là liên thông thực       • Bạn đã mua công cụ vay nợ ở mức giá cao                  động thương mại hay kinh doanh;
+tế. Xem Thu nhập từ bất động sản ở phần sau trong            hơn hoặc trả phí bảo hiểm mua lại.                  • Một số bản quyền, tác phẩm văn học hoặc âm
+chương này.                                               • Công cụ vay nợ là trái phiếu hoặc cuống phiếu            nhạc hoặc nghệ thuật, thư từ hoặc bản ghi nhớ
+                                                             không nhận lãi (bao gồm cả công cụ không                hoặc tài sản tương tự;
+Thuế suất 30%                                                hưởng lãi định kỳ được bảo lãnh bằng chứng          • Một số ấn phẩm của Chính phủ Hoa Kỳ;
+                                                             khoán Bộ Tài chính Hoa Kỳ).                         • Một số công cụ tài chính phái sinh hàng hóa
+                                                          • Công cụ vay nợ là khoản thanh toán dự phòng              được nắm giữ bởi một đại lý phái sinh hàng
+Thuế suất 30% (hoặc thấp hơn theo hiệp ước) chỉ              hoặc công cụ vay nợ được điều chỉnh theo lạm            hóa; hoặc
+áp dụng cho một số khoản thu nhập hoặc lãi có                phát.                                               • Giao dịch đặt rào.
+nguồn gốc từ Hoa Kỳ khi các khoản đó không liên
+thông thực tế với hoạt động thương mại hay kinh         Để biết định nghĩa về tiền chênh lệch và khoản
+                                                        thanh toán mua lại tăng thêm cũng như hướng dẫn            Lãi vốn là tiền lời thu được từ hoạt động bán
+doanh ở Hoa Kỳ.
+                                                        cách tính lại OID, xem Ấn phẩm 1212 (tiếng Anh).        hoặc trao đổi tài sản vốn. Lỗ vốn là tiền lỗ do bán
+                                                                                                                hoặc trao đổi tài sản vốn.
+Thu nhập cố định hoặc có thể xác
+định                                                    Tiền thắng cược                                            Để xác định tiền lời, nếu hoạt động bán được
+                                                                                                                thực hiện bằng ngoại tệ thì chi phí và giá bán tài sản
+                                                        Nhìn chung, người nước ngoài tạm trú phải chịu
+Thuế suất 30% (hoặc thấp hơn theo hiệp ước) áp                                                                  phải lần lượt được biểu thị bằng tiền tệ của Hoa Kỳ
+                                                        thuế suất 30% trên tổng số tiền thắng cược ở Hoa
+dụng cho tổng tiền lời, tiền lãi hoặc thu nhập có                                                               theo tỷ giá hối đoái hiện hành kể từ ngày mua và
+                                                        Kỳ nếu thu nhập đó không liên thông thực tế với hoạt
+nguồn gốc từ Hoa Kỳ cố định, có thể xác định,                                                                   ngày bán.
+                                                        động thương mại hay kinh doanh ở Hoa Kỳ và không
+thường niên, hoặc định kỳ (FDAP).
+                                                        được miễn thuế theo hiệp ước. Tuy nhiên, không có
+                                                                                                                    Bạn có thể xem Ấn phẩm 544 (tiếng Anh) để xác
+                                                        khoản thuế nào trên thu nhập cá cược phi kinh
+    Thu nhập cố định khi được thanh toán bằng các                                                               định thế nào là bán hoặc trao đổi tài sản vốn hoặc
+                                                        doanh mà người nước ngoài tạm trú thắng khi chơi
+khoản tiền biết trước. Thu nhập có thể xác định bất                                                             những gì được cho là như vậy. Đãi ngộ thuế cụ thể
+                                                        blackjack, baccarat, crap, roulette hoặc big 6 wheel
+cứ khi nào có cơ sở để xác định số tiền phải trả. Thu                                                           áp dụng cho công dân hoặc thường trú nhân Hoa Kỳ
+                                                        ở Hoa Kỳ.
+nhập có thể mang tính định kỳ nếu thỉnh thoảng                                                                  thường không áp dụng cho bạn.
+được thanh toán. Thu nhập không phải được thanh             Người nước ngoài tạm trú bị đánh thuế suất tăng
+toán thường niên hoặc theo định kỳ. Thu nhập có         dần vào thu nhập ròng từ tiền thắng cược ở Hoa Kỳ          Các khoản lời sau đây phải chịu thuế suất 30%
+thể xác định được hoặc định kỳ ngay cả khi khoảng       liên thông thực tế với hoạt động thương mại hay kinh    (hoặc thấp hơn theo hiệp ước) mà không liên quan
+thời gian thanh toán tăng lên hoặc giảm xuống.          doanh ở Hoa Kỳ. Thu nhập này được miễn theo một         đến quy tắc 183 ngày, được thảo luận ở phần sau.
+                                                        số hiệp ước thuế. Xem Bảng 1 trong Bảng Hiệp ước          1. Tiền lời từ việc bán gỗ, than hoặc quặng sắt
+    Các khoản được tính là thu nhập cố định hoặc        Thuế tại IRS.gov/TreatyTables (tiếng Anh), để biết           trong nước mang lại lợi ích kinh tế được giữ
+có thể xác định được là tiền lãi (ngoài OID), cổ tức,   danh sách các hiệp ước thuế miễn tiền thắng cược             lại.
+khoản thanh toán tương đương cổ tức (được định          khỏi thuế Hoa Kỳ. Để biết thêm thông tin, xem Ấn
+                                                                                                                  2. Tiền lời từ các khoản thanh toán dự phòng do
+nghĩa trong chương 2), tiền thuê, bảo phí, niên kim,    phẩm 915 (tiếng Anh)
+                                                                                                                     bán hoặc trao đổi bằng sáng chế, bản quyền
+tiền công, tiền lương và thù lao khác. Các khoản
+                                                                                                                     và tài sản tương tự sau ngày 4 tháng 10, 1966.
+thanh toán cổ tức hoặc lãi thay thế nhận được trong     Phúc lợi An sinh Xã hội
+giao dịch cho vay chứng khoán hoặc giao dịch mua                                                                  3. Tiền lời từ việc chuyển giao một số quyền
+đi bán lại được coi như tiền nhận được trên chứng       Người nước ngoài tạm trú phải tính 85% phúc lợi an           quan trọng hoặc tiền lãi chưa chia đối với bằng
+khoán đã chuyển nhượng. Các khoản thu nhập khác         sinh xã hội Hoa Kỳ (và phần tương đương an sinh              sáng chế nếu việc chuyển giao được thực hiện
+như tiền bản quyền cũng có thể phải chịu thuế suất      xã hội của trợ cấp hưu trí dành ngành đường sắt cấp          trước ngày 5 tháng 10, 1966.
+30%.                                                    1) vào thu nhập FDAP có nguồn gốc từ Hoa Kỳ.              4. Tiền lời từ việc bán hoặc trao đổi công trái
+         Một số thu nhập cố định hoặc có thể xác        Phúc lợi an sinh xã hội bao gồm phúc lợi hưu trí,            OID.
+                                                        phúc lợi cho người còn lại và phúc lợi khuyết tật
+ TIP định có thể được miễn thuế Hoa Kỳ. Xem
+         chương 3 Nếu bạn không chắc liệu thu           hằng tháng. Thu nhập này được miễn trừ theo một             Tiền lời trong (1) không chịu thuế suất 30%
+nhập có chịu thuế hay không.                            số hiệp ước thuế. Xem Bảng 1 trong Bảng Hiệp ước        (hoặc thấp hơn theo hiệp ước) nếu bạn chọn coi tiền
+                                                        thuế, có sẵn tại IRS.gov/TreatyTables (tiếng Anh) để    lời thu được là liên thông thực tế với hoạt động
+                                                        biết danh sách các hiệp ước thuế miễn trừ trợ cấp       thương mại hay kinh doanh ở Hoa Kỳ. Xem Thu
+Giảm giá phát hành gốc (OID). Nếu bạn đã bán,           an sinh xã hội Hoa Kỳ khỏi thuế Hoa Kỳ. Để biết         nhập từ bất động sản ở phần sau.
+trao đổi hoặc nhận một khoản thanh toán trên trái       thêm thông tin, xem Ấn phẩm 915 (tiếng Anh).
+phiếu hoặc công cụ nợ khác được phát hành ở mức
+                                                                                                                Quy tắc 183 ngày. Nếu bạn ở Hoa Kỳ 183 ngày trở
+chiết khấu thì toàn bộ hoặc một phần của OID (ngoài
+lãi danh mục đầu tư) có thể phải chịu thuế suất 30%.    Bán hoặc trao đổi tài sản vốn                           lên trong năm tính thuế thì lãi ròng của bạn từ việc
+                                                                                                                bán hoặc trao đổi tài sản vốn sẽ bị đánh thuế suất
+Số tiền OID là chênh lệch giữa giá mua lại đã công
+                                                        Quy tắc này chỉ được áp dụng cho lãi và lỗ vốn có       30% (hoặc thấp hơn theo hiệp ước). Khi xét đến
+bố khi đáo hạn và giá phát hành của công cụ nợ.
+                                                        nguồn gốc từ Hoa Kỳ không liên thông thực tế với        thuế suất 30% (hoặc thấp hơn theo hiệp ước), lãi
+Thuế suất 30% áp dụng cho các trường hợp sau
+                                                        hoạt động thương mại hay kinh doanh ở Hoa Kỳ.           ròng là phần vượt quá lãi vốn so với lỗ vốn có nguồn
+đây.
+                                                        Quy tắc này được áp dụng ngay cả khi bạn tham gia       gốc từ Hoa Kỳ. Quy tắc này được áp dụng ngay cả
+  1. Bạn đã nhận được một khoản thanh toán trên         vào một hoạt động thương mại hay kinh doanh nào         khi có bất kỳ giao dịch nào diễn ra khi bạn không ở
+     công cụ nợ. Trong trường hợp này, số tiền OID      ở Hoa Kỳ. Quy tắc này không áp dụng cho hoạt            Hoa Kỳ.
+     chịu thuế là số tiền OID được cộng dồn khi bạn     động bán hoặc trao đổi thu nhập bất động sản ở Hoa           Để xác định lãi ròng, xem xét lãi và lỗ của chỉ
+     nắm giữ công cụ nợ trừ đi số tiền OID được         Kỳ hoặc bán bất kỳ tài sản nào liên thông thực tế với   được ghi nhận và được tính nếu trong phạm vi đó,
+     tính trước đó. Tuy nhiên, thuế trên OID không      hoạt động thương mại hay kinh doanh ở Hoa Kỳ.           lãi và lỗ được ghi nhận và được tính nếu bạn đang
+
+Ấn phẩm 519 (2024)                              Chương 4      Thu nhập của người nước ngoài chịu thuế như thế nào                                                   21
+tham gia vào hoạt động thương mại hay kinh doanh        kinh doanh ở Hoa Kỳ. Bạn sở hữu một ngôi nhà            tải. Nếu bạn nhận thu nhập từ vận tải chịu thuế suất
+ở Hoa Kỳ trong năm, cũng như lãi và lỗ liên thông       dành cho một gia đình ở Hoa Kỳ mà bạn cho thuê.         4% thì bạn nên tính thuế và ghi số tiền này vào dòng
+thực tế với hoạt động thương mại hay kinh doanh đó      Thu nhập từ tiền cho thuê trong năm là $10.000. Đây     23c của Mẫu 1040-NR. Đính kèm bản tường trình
+trong năm tính thuế.                                    là thu nhập duy nhất của bạn có nguồn gốc từ Hoa        với tờ khai thuế bao gồm các thông tin sau (nếu có).
+    Để đạt được lãi ròng, không xem xét các hạng        Kỳ. Được thảo luận ở phần trước trong Thuế suất           • Tên, TIN và năm tính thuế.
+mục sau đây.                                            30%, thu nhập cho thuê phải chịu thuế suất 30%            • Mô tả về các loại dịch vụ được thực hiện (cho
+  • Bốn loại lãi được đề cập ở phần trước.              (hoặc thấp hơn theo hiệp ước). Bạn đã nhận Mẫu                dù trên tàu hay ngoài tàu).
+  • Khoản khấu trừ cho lỗ vốn được kết chuyển.          1042-S cho biết những người thuê nhà của bạn đã           • Tên con tàu hoặc số đăng kiểm máy bay mà
+  • Lỗ vốn vượt quá lãi vốn.                            khấu lưu loại thuế này một cách hợp lý từ thu nhập            bạn đã thực hiện dịch vụ.
+  • Loại trừ để thu lời từ việc bán hoặc trao đổi cổ    cho thuê. Bạn không phải nộp tờ khai thuế Hoa Kỳ          • Thu nhập vận tải từ Hoa Kỳ phát sinh từ mỗi
+     phiếu của doanh nghiệp nhỏ đủ điều kiện (loại      (Mẫu 1040-NR) do nợ thuế Hoa Kỳ của bạn được                  loại dịch vụ được thực hiện trên mỗi con tàu
+     trừ đoạn 1202).                                    trả bằng cách khấu lưu thuế.                                  hoặc máy bay trong năm.
+  • Lỗ do bán hoặc trao đổi tài sản được giữ lại để         Nếu bạn đưa ra lựa chọn được thảo luận ở phần         • Tổng thu nhập vận tải từ Hoa Kỳ phát sinh từ
+     sử dụng cho mục đích cá nhân. Tuy nhiên, lỗ        trước, bạn có thể bù đắp thu nhập $10.000 bằng một            tất cả các loại dịch vụ trong năm.
+     do thương vong hoặc trộm cắp được quy cho          số chi phí cho thuê. Xem Ấn phẩm 527 (tiếng Anh).)
+     một thiên tai được liên bang tuyên bố có thể       Bất kỳ thu nhập ròng có được chịu thuế tăng dần.             Thuế suất 4% áp dụng cho tổng thu nhập vận tải
+     được khấu trừ trên Bảng A (Mẫu 1040-NR).               Nếu bạn đưa ra lựa chọn này, hãy khai báo thu       từ Hoa Kỳ. Điều này chỉ bao gồm thu nhập vận tải
+     Xem Các khoản khấu trừ từng khoản trong            nhập và chi phí cho thuê trên Bảng E (Mẫu 1040).        được coi là phát sinh từ Hoa Kỳ nếu hoạt động vận
+     chương 5.                                          Điền thu nhập hoặc lỗ cho thuê ròng từ Bảng E (Mẫu      tải bắt đầu hoặc kết thúc ở Hoa Kỳ. Đối với thu nhập
+                                                        1040) trên Bảng 1 (Mẫu 1040), Phần I, dòng 5. Đính      vận tải phát sinh từ dịch vụ cá nhân, hoạt động vận
+    Nếu bạn không tham gia vào một hoạt động
+                                                        kèm Bảng 1 (Mẫu 1040) và Bảng E (Mẫu 1040) với          tải phải diễn ra giữa Hoa Kỳ và lãnh thổ của Hoa Kỳ.
+thương mại hay kinh doanh ở Hoa Kỳ và chưa thiết
+                                                        Mẫu 1040-NR. Trong năm đầu tiên mà bạn đưa ra           Đối với dịch vụ cá nhân do người nước ngoài tạm trú
+lập năm tính thuế trong một khoảng thời gian trước
+                                                        lựa chọn, hãy đính kèm thêm bản kê khai được thảo       cung cấp, điều này chỉ áp dụng cho thu nhập có
+đó thì năm tính thuế của bạn sẽ là năm theo lịch khi
+                                                        luận ở phần tiếp theo.                                  nguồn gốc từ hoặc liên quan đến máy bay.
+xét đến quy tắc 183 ngày. Ngoài ra, bạn cũng phải
+nộp tờ khai thuế theo năm..
+                                                        Thực hiện lựa chọn. Thực hiện lựa chọn đầu tiên
+    Nếu bạn ở Hoa Kỳ dưới 183 ngày trong năm tính
+thuế thì lãi vốn (ngoài các khoản lãi được liệt kê ở
+                                                        bằng cách đính kèm bản tường trình với tờ khai thuế     Thời gian cư trú bị gián
+                                                        của bạn hoặc tờ khai được điều chỉnh cho năm lựa
+phần trước được miễn thuế, trừ khi lãi vốn liên thông   chọn. Bao gồm các mục sau vào bản tường trình.          đoạn
+thực tế với hoạt động thương mại hay kinh doanh ở         • Bạn đang thực hiện lựa chọn.
+Hoa Kỳ trong năm tính thuế của bạn.                       • Cho dù lựa chọn có tuân theo đoạn 871(d)            Bạn phải chịu thuế theo một quy tắc đặc biệt nếu
+                                                             (được giải thích ở phần trước) hoặc hiệp ước       bạn có thời gian cư trú tại Hoa Kỳ bị gián đoạn với
+Khai báo. Khai báo lãi và lỗ từ việc bán hoặc trao           thuế hay không.                                    một khoảng thời gian không cư trú. Quy tắc đặc biệt
+đổi tài sản vốn không liên thông thực tế với một hoạt
+                                                          • Danh sách đầy đủ của các bất động sản hoặc          này được áp dụng nếu bạn đáp ứng tất cả các điều
+động thương mại hay kinh doanh ở Hoa Kỳ Bảng                 bất kỳ tiền lãi nào từ bất động sản ở Hoa Kỳ.      kiện sau đây.
+NEC (Mẫu 1040-NR). Khai báo lãi và lỗ từ việc bán            Cung cấp giấy tờ chứng minh hợp pháp của
+hoặc trao đổi tài sản vốn (bao gồm cả bất động sản)                                                               1. Bạn là thường trú nhân Hoa Kỳ trong một
+                                                             gỗ, than đá hoặc quặng sắt ở Hoa Kỳ mà bạn
+liên thông thực tế với một hoạt động thương mại hay                                                                  khoảng thời gian gồm ít nhất 3 năm liên tiếp.
+                                                             có lãi trong đó.
+kinh doanh ở Hoa Kỳ trên Bảng D riêng (Mẫu 1040)
+                                                          • Phạm vi sở hữu tài sản.                               2. Bạn là thường trú nhân Hoa Kỳ ít nhất 183
+hoặc Mẫu 4797 hoặc cả hai. Đính kèm với Mẫu
+                                                          • Địa điểm tài sản.                                        ngày trong từng năm đó.
+1040-NR.
+                                                          • Mô tả về bất kỳ cải tiến lớn nào đối với tài sản.     3. Bạn không còn được coi như thường trú nhân
+                                                          • Những ngày sở hữu tài sản.                               Hoa Kỳ.
+Thu nhập từ bất động sản                                  • Thu nhập từ tài sản.
+                                                          • Chi tiết về bất kỳ lựa chọn nào trước đó và các       4. Sau đó, bạn trở thành thường trú nhân Hoa Kỳ
+Nếu bạn có thu nhập từ bất động sản đặt ở Hoa Kỳ             lần rút lại lựa chọn thu nhập từ bất động sản.          trước khi kết thúc năm thứ ba sau khi kết thúc
+mà trong đó bạn có quyền sở hữu hoặc lợi ích và giữ                                                                  khoảng thời gian được mô tả trong (1) ở trên.
+                                                           Lựa chọn này vẫn có hiệu lực trong tất cả các
+lại để tạo ra thu nhập, bạn có thể chọn coi toàn bộ     năm tính thuế sau này, trừ khi bạn rút lại lựa chọn.        Theo quy tắc đặc biệt này, bạn phải chịu thuế
+thu nhập từ bất động sản đó là thu nhập liên thông                                                              trên tổng thu nhập có nguồn gốc từ Hoa Kỳ và thu
+thực tế với hoạt động thương mại hay kinh doanh ở       Rút lại lựa chọn. Bạn có thể rút lại lựa chọn mà        nhập thực tế theo tỷ lệ tăng dần áp dụng cho cá
+Hoa Kỳ. Lựa chọn này áp dụng cho toàn bộ thu nhập       không cần sự chấp thuận của IRS bằng cách nộp           nhân (với các khoản khấu trừ được phép) trong
+từ bất động sản ở Hoa Kỳ và được giữ lại để tạo ra      Mẫu 1040-X trong năm đưa ra lựa chọn và những           khoảng thời gian bạn là người nước ngoài tạm trú,
+thu nhập và cũng áp dụng cho toàn bộ thu nhập từ        năm tính thuế sau này. Bạn phải nộp Mẫu 1040-X          trừ khi bạn phải chịu mức thuế cao hơn theo đoạn
+bất kỳ khoản lãi nào trong bất động sản đó. Tiền lời    trong 3 năm kể từ ngày nộp tờ khai thuế hoặc 2 năm      871 (các quy tắc thường áp dụng cho việc đánh thuế
+bao gồm thu nhập từ tiền cho thuê, tiền bản quyền       kể từ thời điểm đóng thuế, tùy theo ngày nào muộn       thu nhập của người nước ngoài tạm trú, được thảo
+từ các mỏ, giếng dầu hoặc khí đốt hoặc các tài          hơn. Nếu khoảng thời gian này hết hạn trong năm         luận ở phần trước) sau khi tính bất kỳ trợ cấp hiện
+nguyên thiên nhiên khác. Tiền lời từ việc bán hoặc      lựa chọn thì bạn không thể rút lại lựa chọn cho năm     hành nào theo hiệp ước. Để biết thêm thông tin về
+trao đổi gỗ, than hoặc quặng sắt trong nước mang        đó. Tuy nhiên, bạn chỉ có thể rút lại lựa chọn cho      cách tính thuế đặc biệt, xem Thuế từ bỏ quốc tịch ở
+lại lợi ích kinh tế được giữ lại.                       những năm tính thuế sau này nếu bạn có sự chấp          phần sau.
+   Bạn chỉ có thể đưa ra lựa chọn này đối với thu       thuận của IRS. Để biết thêm thông tin về cách có
+nhập từ bất động sản không liên thông thực tế với       được sự chấp thuận của IRS, xem đoạn 1.871-10(a)            Ví dụ. John Willow, một công dân New Zealand,
+hoạt động thương mại hay kinh doanh ở Hoa Kỳ.           (2)) trong Quy định.                                    đã nhập cảnh vào Hoa Kỳ vào ngày 1 tháng 4, 2019,
+                                                                                                                với tư cách thường trú nhân hợp pháp. Vào ngày 1
+    Nếu bạn đưa ra lựa chọn này thì bạn có thể khai         Ghi chú. Ngây bây giờ bạn có thể nộp Mẫu            tháng 8, 2021, John không còn là thường trú nhân
+các khoản khấu trừ quy cho thu nhập bất động sản        1040-X bằng điện tử với phần mềm khai thuế để           hợp pháp và trở về New Zealand. Trong suốt thời
+và chỉ thu nhập ròng từ bất động sản của bạn mới bị     điều chỉnh Mẫu 1040 hoặc 1040–SR năm 2019 hoặc          gian cư trú, John đã có mặt ở Hoa Kỳ ít nhất 183
+đánh thuế.                                              sau đó, và Mẫu 1040–NR năm 2021 hoặc sau đó.            ngày trong mỗi 3 năm liên tiếp (2019, 2020 và 2021).
+    Lựa chọn này không coi người nước ngoài tạm         Để biết thêm thông tin, truy cập IRS.gov/Form1040X.     John đã trở lại Hoa Kỳ vào ngày 5 tháng 10, 2024,
+trú không tham gia vào một hoạt động thương mại                                                                 với tư cách thường trú nhân hợp pháp. John đã trở
+hay kinh doanh ở Hoa Kỳ là đã tham gia vào hoạt         Thuế vận tải                                            thành thường trú nhân trước khi kết thúc năm thứ ba
+                                                                                                                (2024) bắt đầu sau khi kết thúc thời gian cư trú đầu
+động thương mại hay kinh doanh ở Hoa Kỳ trong
+năm.                                                                                                            tiên (ngày 1 tháng 8, 2021). Vì vậy, John phải chịu
+                                                        Thuế suất 4% áp dụng cho thu nhập từ vận tải không
+                                                                                                                thuế theo quy tắc đặc biệt trong thời gian không cư
+                                                        liên thông thực tế do không đáp ứng hai điều kiện
+   Ví dụ. Bạn là người nước ngoài tạm trú và                                                                    trú (từ ngày 2 tháng 8, 2021 đến ngày 4 tháng 10,
+                                                        được đề cập ở phần trước trong Thu nhập từ vận
+không tham gia vào một hoạt động thương mại hay                                                                 2024) nếu tiền thuế nhiều hơn mức thuế thường áp
+
+22                                              Chương 4      Thu nhập của người nước ngoài chịu thuế như thế nào                             Ấn phẩm 519 (2024)
+dụng cho John với tư cách người nước ngoài tạm               nguyện đã được xác nhận bằng việc cấp giấy             Một số công dân song tịch. Bạn có thể đủ
+trú.                                                         chứng nhận mất quốc tịch).                         điều kiện được hưởng ngoại lệ đã trình bày ở trên
+                                                                                                                nếu áp dụng cả hai yêu cầu sau đây.
+                                                          3. Ngày Bộ Ngoại giao cấp giấy chứng nhận mất
+Yêu cầu khai báo. Nếu bạn phải chịu khoản thuế
+                                                             quốc tịch.
+                                                                                                                  • Khi sinh ra, bạn là công dân Hoa Kỳ và là công
+này cho bất kỳ năm nào trong khoảng thời gian bạn                                                                    dân của một quốc gia khác và kể từ ngày từ bỏ
+là người nước ngoài tạm trú thì bạn phải nộp Mẫu          4. Ngày mà một tòa án Hoa Kỳ hủy bỏ giấy                   quốc tịch, bạn tiếp tục là công dân của quốc
+1040-NR cho năm đó. Tờ khai thuế sẽ đến hạn                  chứng nhận nhập tịch.                                   gia khác và chịu thuế với tư cách thường trú
+chậm nhất là vào ngày đến hạn (bao gồm cả gia                                                                        nhân của quốc gia khác đó.
+                                                           Cựu LTR. Bạn được coi như đã kết thúc tình
+hạn) nộp tờ khai thuế thu nhập Hoa Kỳ cho năm bạn                                                                 • Bạn là thường trú nhân Hoa Kỳ không quá 10
+                                                       trạng cư trú dài hạn sớm nhất trong những ngày sau
+trở thành thường trú nhân Hoa Kỳ. Nếu bạn đã nộp                                                                     năm trong khoảng thời gian tính thuế 15 năm
+                                                       đây.
+tờ khai thuế cho khoảng thời gian đó thì bạn phải                                                                    kết thúc bằng năm tính thuế diễn ra việc từ bỏ
+nộp tờ khai thuế được điều chỉnh. Bạn phải đính           1. Ngày bạn tự nguyện từ bỏ tình trạng thường              quốc tịch. Để xác định tình trạng cư trú ở Hoa
+kèm bản tường trình với tờ khai thuế xác định nguồn          trú nhân hợp pháp bằng cách nộp Mẫu I-407               Kỳ, hãy sử dụng thử thách sự hiện diện đáng
+gốc của tất cả các thu nhập ở Hoa Kỳ và nước ngoài           của Bộ An ninh nội địa cho viên chức lãnh sự            kể được đề cập trong chương 1.
+và các khoản thu nhập tuân theo quy tắc đặc biệt             hoặc nhân viên di trú Hoa Kỳ.
+này.                                                                                                                Một số trẻ vị thành niên. Bạn có thể đủ điều
+                                                          2. Ngày bạn phải tuân thủ lệnh hành chính cuối        kiện được hưởng ngoại lệ được trình bày ở phần
+                                                             cùng mà trong đó bạn từ bỏ tình trạng thường       trước nếu bạn đáp ứng cả hai yêu cầu sau đây.
+Thuế từ bỏ quốc tịch                                         trú nhân hợp pháp (hoặc nếu lệnh đó đã bị
+                                                             kháng cáo, ngày ban hành lệnh tư pháp cuối
+                                                                                                                  • Bạn đã từ bỏ quốc tịch trước 18 tuổi1/2.
+                                                                                                                  • Bạn là thường trú nhân Hoa Kỳ trong hơn 10
+                                                             cùng liên quan đến lệnh hành chính đó).                 năm tính thuế trước khi từ bỏ quốc tịch. Để xác
+Các điều khoản về thuế từ bỏ quốc tịch áp dụng cho
+                                                          3. Ngày bạn phải tuân thủ lệnh hành chính cuối             định tình trạng cư trú ở Hoa Kỳ, hãy sử dụng
+công dân Hoa Kỳ đã từ bỏ quốc tịch và LTR đã kết
+                                                             cùng để trục xuất khỏi Hoa Kỳ theo Đạo luật             thử thách sự hiện diện đáng kể được đề cập
+thúc tình trạng cư trú. Đoạn sau đây mô tả các quy
+                                                             Nhập cư và Quốc tịch.                                   trong chương 1.
+tắc từ bỏ quốc tịch theo đoạn 877A, áp dụng cho cá
+nhân đã từ bỏ quốc tịch vào ngày hoặc sau ngày 17         4. Nếu bạn là thường trú nhân của Hoa Kỳ và
+tháng 6, 2008. Xem Từ bỏ quốc tịch sau ngày 16               quốc gia mà Hoa Kỳ ký hiệp ước thuế thu
+                                                                                                                Cách tính thuế từ bỏ quốc tịch nếu
+tháng 6, 2008 ở phần sau. Nếu bạn từ bỏ quốc tịch            nhập, ngày mà bạn bắt đầu được coi như             bạn là được bao quát từ bỏ quốc tịch
+trước ngày 17 tháng 6, 2008, hãy tham khảo Từ bỏ             thường trú nhân của quốc gia đó theo các điều
+quốc tịch sau ngày 3 tháng 6, 2004 và trước ngày 17          khoản trong hiệp ước và thông báo cho IRS về       Trong năm bạn từ bỏ quốc tịch, bạn phải chịu thuế
+tháng 6, 2008 trong chương 4 của Ấn phẩm 519                 cách đối xử đó trên Mẫu 8833 và Mẫu 8854.          thu nhập trên lãi (hoặc lỗ) ròng chưa thực hiện trong
+năm 2018 và Hướng dẫn cho Mẫu 519 năm 2018.                  Xem Ảnh hưởng của hiệp ước thuế trong              tài sản như thể tài sản đó đã được bán với giá trị thị
+                                                             chương 1 để biết thêm thông tin về người có        trường hợp lý vào ngày trước ngày từ bỏ quốc tịch
+         Nếu bạn từ bỏ quốc tịch hoặc chấm dứt
+                                                             tình trạng kép.                                    (“thuế điều chỉnh theo thị trường”). Điều này áp dụng
+         tình trạng cư trú dài hạn sau ngày 3 tháng
+   !
+ CAUTION 6, 2004 và trước ngày 17 tháng 6, 2008 thì
+                                                                                                                cho hầu hết các loại quyền lợi tài sản mà bạn nắm
+                                                       Bao quát từ bỏ quốc tịch. Nếu bạn từ bỏ quốc             giữ vào ngày từ bỏ quốc tịch hoặc kết thúc tình trạng
+bạn vẫn sẽ được coi là công dân Hoa Kỳ hoặc
+                                                       tịch sau ngày 16 tháng 6, 2008 thì bạn được coi là       cư trú. Tuy nhiên, xem Ngoại lệ ở phần sau.
+thường trú nhân Hoa Kỳ vì mục đích thuế cho đến
+                                                       bao quát từ bỏ quốc tịch và quy tắc từ bỏ quốc tịch
+khi bạn thông báo cho Bộ Ngoại giao hoặc Bộ An
+                                                       theo đoạn 877A sẽ được áp dụng nếu bạn đáp ứng               Lãi do bán hàng quy ước phải được tính trong
+ninh nội địa (nếu có) về việc từ bỏ quốc tịch và nộp
+                                                       bất kỳ điều kiện nào sau đây.                            năm tính thuế của lần bán hàng quy ước không liên
+Mẫu 8854 cho IRS.
+                                                          1. Thuế thu nhập ròng bình quân hằng năm trong        quan đến các luật Thuế vụ khác của Hoa Kỳ. Lỗ do
+                                                             5 năm kết thúc trước ngày từ bỏ quốc tịch          bán hàng quy ước phải được tính trong phạm vi
+Định nghĩa thường trú nhân dài hạn (LTR). Bạn
+                                                             hoặc kết thúc tình trạng cư trú nhiều hơn          được quy định theo luật Thuế vụ Hoa Kỳ. Tuy nhiên,
+là một LTR nếu bạn là thường trú nhân hợp pháp
+                                                             $201,000 nếu bạn từ bỏ quốc tịch hoặc hủy          đoạn 1091 (liên quan đến việc không cho phép lỗ do
+của Hoa Kỳ ít nhất 8 trong số 15 năm tính thuế cuối
+                                                             tình trạng cư trú trong năm 2024.                  bán khống cổ phiếu và chứng khoán) không được
+cùng kết thúc bằng năm kết thúc tình trạng cư trú
+                                                                                                                áp dụng. Lãi ròng mà bạn phải tính vào thu nhập bị
+của bạn. Để xác định xem bạn có đáp ứng quy định          2. Giá trị tài sản ròng của bạn là $2 triệu trở lên   giảm bởi $866,000 nếu bạn từ bỏ quốc tịch hoặc hủy
+8 năm hay không, vui lòng không tính bất kỳ năm              vào ngày từ bỏ quốc tịch hoặc kết thúc tình        tình trạng cư trú trong năm 2024.
+nào bạn được coi là thường trú nhân của một quốc             trạng cư trú.
+gia nước ngoài theo hiệp ước thuế và không khước                                                                Ngoại lệ. Thuế điều chỉnh theo thị trường không áp
+từ quyền lợi theo hiệp ước.                               3. Bạn không xác nhận trên Mẫu 8854 rằng bạn
+                                                             đã tuân thủ tất cả các nghĩa vụ thuế liên bang     dụng cho các trường hợp sau.
+                                                             Hoa Kỳ trong 5 năm trước ngày từ bỏ quốc tịch        1. Các khoản thù lao trả chậm đủ điều kiện.
+Từ bỏ quốc tịch sau ngày 16                                  hoặc kết thúc tình trạng cư trú.
+                                                                                                                  2. Các khoản thù lao trả chậm không đủ điều
+tháng 6, 2008                                                                                                        kiện.
+                                                       Quy trình miễn áp dụng cho một số cựu công
+Ngày từ bỏ quốc tịch. Ngày bạn từ bỏ quốc tịch là      dân. Nếu bạn là công dân Hoa Kỳ đã từ bỏ quốc              3. Tiền lãi từ quỹ ủy thác không cấp vốn.
+ngày bạn từ bỏ quốc tịch Hoa Kỳ (trong trường hợp      tịch sau ngày 18 tháng 3, 2010 thì bạn có thể đủ điều
+                                                                                                                  4. Các tài khoản hoãn thuế cụ thể.
+là cựu công dân) hoặc kết thúc tình trạng cư trú dài   kiện được hưởng một số quy trình miễn áp dụng
+hạn (trong trường hợp là cựu thường trú nhân Hoa       được đưa ra như một phương án thay thế để đáp            Thay vào đó, các mục (1) và (3) có thể bị khấu lưu
+Kỳ).                                                   ứng quá trình chứng nhận tuân thủ thuế. Để biết          tại nguồn. Trong trường hợp mục (2), bạn được coi
+                                                       thêm thông tin, xem Quy trình miễn áp dụng cho một       là nhận giá trị hiện tại của lợi nhuận tích lũy kể từ
+    Cựu công dân Hoa Kỳ. Bạn được coi như đã           số cựu công dân, có sẵn tại IRS.gov/Individuals/         ngày này trước ngày bạn từ bỏ quốc tịch. Trong
+từ bỏ quốc tịch Hoa Kỳ sớm nhất trong những ngày       International-Taxpayers/Relief-Procedures-for-           trường hợp mục (4), bạn được coi là phân phối toàn
+sau đây.                                               Certain-Former-Citizens (tiếng Anh).                     bộ tiền lãi trong trương mục vào ngày này trước
+  1. Ngày bạn từ bỏ quốc tịch Hoa Kỳ trước viên                                                                 ngày bạn từ bỏ quốc tịch. Xem Thông báo 2009-85
+     chức ngoại giao hoặc lãnh sự Hoa Kỳ (với điều     Ngoại lệ cho công dân song tịch và một số trẻ vị         và Hướng dẫn cho Mẫu 8854 để biết thêm thông tin.
+     kiện là việc tự nguyện từ bỏ đã được xác nhận     thành niên. Một số công dân song tịch và trẻ vị
+     bằng cách cấp giấy chứng nhận mất quốc            thành niên (được định nghĩa ở phần tiếp theo)
+                                                       không chịu thuế từ bỏ quốc tịch ngay cả khi họ đáp       Tờ khai thuế từ bỏ quốc tịch
+     tịch).
+                                                       ứng (1) hoặc (2) ở trên. Tuy nhiên, họ vẫn phải cung
+  2. Ngày bạn cung cấp cho Bộ Ngoại giao bản           cấp chứng nhận theo yêu cầu trong (3) ở trên.            Bạn phải nộp Mẫu 8854 ban đầu trong năm bạn từ
+     tuyên bố tự nguyện từ bỏ quốc tịch Hoa Kỳ có                                                               bỏ quốc tịch Hoa Kỳ hoặc kết thúc tình trạng cư trú
+     chữ ký xác nhận việc thực hiện hành động từ                                                                dài hạn, ngay cả khi bạn không phải là người từ bỏ
+     bỏ quốc tịch (với điều kiện là việc từ bỏ tự                                                               quốc tịch phải đóng thuế di dời trên tất cả tài sản vào
+                                                                                                                năm cuối cùng. Ngoài ra, bạn cũng phải nộp Mẫu
+
+Ấn phẩm 519 (2024)                             Chương 4      Thu nhập của người nước ngoài chịu thuế như thế nào                                                    23
+8854 hằng năm sau khi bạn từ bỏ quốc tịch nếu bạn     Các chủ đề                                                                         đơn xin cấp mã số thuế cá nhân (ITIN). Mã số thuế
+là người từ bỏ quốc tịch phải đóng thuế di dời trên   Chương này thảo luận về:                                                           của chủ lao động (EIN) là cần thiết nếu bạn đang
+tất cả tài sản trong năm cuối cùng và bạn:                                                                                               tham gia vào một hoạt động thương mại hoặc kinh
+                                                       •   Số nhận dạng,                                                                 doanh với tư cách là doanh nghiệp cá thể và có
+  1. Trả thuế điều chỉnh theo thị trường sau (xem
+                                                       •   Tư cách khai thuế,                                                            nhân viên hoặc chương trình hưu trí đủ điều kiện.
+     Hoãn thanh toán thuế điều chỉnh theo thị
+     trường, ở phần sau),                              •   Các khoản khấu trừ,                                                                Bạn phải cung cấp TIN nếu bạn là:
+                                                       •   Người phụ thuộc,                                                               • Người nước ngoài có thu nhập liên thông thực
+  2. Có khoản thù lao trả chậm đủ điều kiện hoặc
+                                                       •   Các khoản khấu trừ từng khoản,                                                      tế với việc thực hiện một hoạt động thương mại
+  3. Có tiền lãi trong quỹ tín thác không cấp vốn.     •   Tín thuế và các khoản thanh toán và                                                 hay kinh doanh ở Hoa Kỳ vào bất kỳ thời điểm
+                                                       •   Quy tắc đặc biệt áp dụng cho thường trú nhân                                        nào trong năm;
+Hoãn thanh toán thuế điều chỉnh theo thị                   chân thật của Samoa của Mỹ và Puerto Rico.                                     •    Người nước ngoài có văn phòng hoặc địa điểm
+trường. Bạn có thể đưa ra lựa chọn không hủy                                                                                                   kinh doanh ở Hoa Kỳ vào bất kỳ thời điểm nào
+ngang để trả thuế điều chỉnh theo thị trường sau áp   Các mục hữu ích                                                                          trong năm;
+dụng cho việc bán tài sản quy ước. Nếu bạn đưa ra     Bạn có thể muốn xem:                                                                •    Một người vợ/chồng tạm trú được coi như
+lựa chọn này, các quy tắc sau đây sẽ được áp dụng.                                                                                             thường trú nhân, như đã thảo luận trong
+  1. Bạn có thể đưa ra lựa chọn này theo từng tài       Ấn phẩm                                                                                chương 1; hoặc
+     sản.                                                                                                                                 •    Bất kỳ người nước ngoài nào khác nộp tờ khai
+                                                           463 Chi phí đi lại, quà tặng, và xe hơi                                             thuế, tờ khai thuế được điều chỉnh, hoặc yêu
+  2. Thuế trả sau có thể quy cho một tài sản cụ thể
+                                                                 463
+
+
+
+
+                                                           501 Người phụ thuộc, khấu trừ tiêu chuẩn và                                         cầu hoàn thuế (nhưng không phải tờ khai thông
+     sẽ đến hạn vào ngày khai thuế trong năm tính
+                                                                                                                                               tin).
+                                                                 501
+
+
+
+
+     thuế mà bạn quyết định chuyển nhượng tài                  thông tin khai thuế
+     sản đó.                                               521 Chi phí di chuyển
+                                                                 521
+
+
+
+
+                                                                                                                                         Số an sinh xã hội (SSN). Nhìn chung, bạn có thể
+  3. Tiền lãi được tính trong khoảng thời gian trả                                                                                       lấy SSN nếu bạn đã được nhập cảnh hợp pháp vào
+                                                           526 Đóng góp từ thiện
+     thuế sau.                                                                                                                           Hoa Kỳ với tư cách thường trú nhân hoặc theo các
+                                                                 526
+
+
+
+
+                                                           597 Thông tin về hiệp ước thuế thu nhập giữa                                  diện di trú khác cho phép làm việc tại Hoa Kỳ.
+  4. Ngày đến hạn thanh toán thuế được hoãn
+                                                                 597
+
+
+
+
+                                                               Hoa Kỳ và Canada                                                              Nếu bạn không có SSN, hãy liên hệ với Sở An
+     không thể được gia hạn sớm hơn các ngày
+                                                                                                                                         sinh Xã hội (SSA) để tìm hiểu xem bạn có đủ điều
+     sau đây.                                           Mẫu đơn (và Hướng dẫn)                                                           kiện để có SSN hay không. Để biết thêm thông tin,
+      a. Ngày đến hạn khai thuế bắt buộc trong                                                                                           hãy truy cập SSA.gov hoặc gọi số 800-772-1213 (đối
+                                                           W-7 Đơn xin cấp mã số thuế cá nhân của IRS
+         năm mất.                                                                                                                        với người khiếm thính hoặc khó nghe, hãy gọi số
+                                                                 W-7
+
+
+
+
+                                                           Mẫu 1040 Tờ khai thuế thu nhập Hoa Kỳ cho                                     TTY, 800-325-0778).
+       b. Thời gian đảm bảo tài sản không đủ. Xem
+                                                                              Mẫu 1040
+
+
+
+
+                                                                    Cá nhân
+          mục (6) dưới đây.                                                                                                                  Du học sinh. Nếu bạn có diện thị thực F-1, M-1
+                                                           Mẫu 1040-SR Tờ khai thuế Hoa Kỳ cho Người                                     hoặc J-1, xem Ấn phẩm 05-10181 của SSA, có sẵn
+  5. Bạn đưa ra lựa chọn trên Mẫu 8854.
+                                                                                         Mẫu 1040-SR
+
+
+
+
+                                                                       cao niên                                                          tại SSA.gov/Pubs/10181.html (tiếng Anh) để biết
+  6. Bạn phải cung cấp đảm bảo đầy đủ (chẳng                                                                                             thêm thông tin về các loại giấy tờ mà bạn phải cung
+     hạn như trái phiếu).                                  Mẫu 1040-NR Tờ khai thuế thu nhập Hoa Kỳ
+                                                                                                                                         cấp để chứng minh tình trạng nhập cư.
+                                                                                                       Mẫu 1040-NR
+
+
+
+
+                                                                       cho Người nước ngoài tạm trú
+  7. Bạn phải miễn trừ không hủy ngang mọi quyền
+     theo bất cứ hiệp ước nào của Hoa Kỳ ngăn              2106 Chi chi phí kinh doanh của Nhân viên
+                                                                       2106
+
+
+
+
+                                                                                                                                         Mã số thuế cá nhân (ITIN). Nếu bạn đã có ITIN,
+     cản hoạt động tính hoặc thu thuế điều chỉnh                                                                                         hãy điền ITIN vào bất kỳ chỗ nào yêu cầu cung cấp
+                                                           3903 Chi phí di chuyển
+     theo thị trường.                                                                                                                    SSN trên tờ khai thuế. Nếu bạn không có TIN và
+                                                                       3903
+
+
+
+
+                                                           4563 Loại trừ thu nhập đối với Thường trú                                     không đủ điều kiện lấy SSN thì bạn phải nộp đơn xin
+  Để biết thêm thông tin về việc trả sau, xem
+                                                                       4563
+
+
+
+
+                                                                nhân chân thật của Samoa của Mỹ                                          cấp ITIN. Để biết chi tiết về cách làm điều này, xem
+Hướng dẫn cho Mẫu 8854 (tiếng Anh).                                                                                                      Mẫu W-7 (tiếng Anh) và các hướng dẫn.
+                                                           8959 Thuế Medicare bổ sung
+                                                                                                                                              Nếu bạn đủ điều kiện nhận ITIN và đơn xin của
+                                                                       8959
+
+
+
+
+                                                           8990 Giới hạn chi phí tiền lãi kinh doanh trong
+                                                                       8990
+
+
+
+
+                                                                                                                                         bạn đầy đủ thì bạn thường sẽ nhận được thư chỉ
+                                                                Đoạn 163(j)                                                              định TIN từ IRS trong vòng 7 tuần. Nếu bạn chưa
+                                                                                                                                         nhận được ITIN hoặc thư từ khác trong vòng 7 tuần
+                                                      Xem chương 12 để biết thông tin về việc lấy các ấn
+                                                                                                                                         sau khi nộp đơn xin, hãy gọi đến số miễn phí của
+                                                      phẩm và mẫu đơn này.
+5.                                                                                                                                       IRS tại 800-829-1040 để yêu cầu cung cấp tình trạng
+                                                                                                                                         của đơn xin nếu bạn đang ở trong lãnh thổ Hoa Kỳ.
+
+                                                      Năm tính thuế                                                                      Nếu bạn đang ở ngoài lãnh thổ Hoa Kỳ, hãy gọi số
+                                                                                                                                         267-941-1000 (không phải số miễn phí).
+
+Tính thuế của bạn                                     Bạn phải tính thu nhập và nộp tờ khai thuế trên cơ
+                                                                                                                                              ITIN chỉ dùng cho mục đích thuế vụ. Việc này
+                                                                                                                                         không cho bạn quyền được hưởng trợ cấp an sinh
+                                                      sở kỳ kế toán hằng năm được gọi là năm tính thuế.                                  xã hội hay thay đổi tình trạng việc làm hoặc di trú
+                                                      Nếu bạn chưa từng thiết lập năm tính thuế tài chính                                theo pháp luật Hoa Kỳ.
+Giới thiệu                                            thì năm tính thuế của bạn sẽ là năm dương lịch. Năm
+                                                      dương lịch là 12 tháng liên tiếp kết thúc vào ngày 31
+                                                                                                                                              Bên cạnh việc người nước ngoài phải cung cấp
+                                                                                                                                         ITIN và không đủ điều kiện lấy SSN, bạn phải nộp
+Sau khi bạn xác định tình trạng người nước ngoài,     tháng 12. Nếu bạn từng thiết lập một năm tài chính
+                                                                                                                                         Mẫu W-7 dành cho người vợ/chồng hoặc người phụ
+nguồn thu nhập, nếu và cách thu nhập đó chịu thuế     thông thường (12 tháng liên tục kết thúc vào ngày
+                                                                                                                                         thuộc là người nước ngoài đủ điều kiện được quyền
+ở Hoa Kỳ thì bước tiếp theo là tính thuế. Thông tin   cuối cùng của tháng không phải tháng 12 hoặc một
+                                                                                                                                         lợi thuế và không đủ điều kiện lấy SSN.
+trong chương này không đầy đủ cho người nước          năm có 52-53 tuần) và được coi như thường trú
+                                                                                                                                              Thông tin khác về việc lấy ITIN có sẵn trong
+ngoài thường trú vì thông tin này dành cho người      nhân Hoa Kỳ trong bất kỳ năm nào thì bạn sẽ được
+                                                                                                                                         Hướng dẫn cho Mẫu W-7 và tại IRS.gov/ITIN.
+nước ngoài tạm trú. Người nước ngoài thường trú       coi như thường trú nhân Hoa Kỳ trong bất kỳ thời
+phải lấy các ấn phẩm, mẫu đơn và hướng dẫn dành       điểm nào của năm tài chính rơi vào năm đó.                                             ITIN đã hết hạn. Một số ITIN phải được gia
+cho công dân Hoa Kỳ do thông tin về việc nộp tờ                                                                                          hạn. Nếu bạn chưa sử dụng ITIN của mình trên tờ
+khai thuế dành cho người nước ngoài thường trú                                                                                           khai thuế liên bang ít nhất một lần cho năm tính thuế
+thường giống với công dân Hoa Kỳ.                     Số nhận dạng                                                                       2021, 2022, hoặc 2023 thì nó sẽ hết hạn vào ngày
+    Nếu bạn vừa là người nước ngoài tạm trú vừa là                                                                                       31 tháng 12, 2024, và phải được gia hạn nếu bạn
+người nước ngoài thường trú trong cùng một năm        Mã số thuế (TIN) được cung cấp trên tờ khai thuế,                                  cần nộp tờ khai thuế liên bang cho năm thuế 2024.
+tính thuế, xem chương 6 để xem phần thảo luận về      báo cáo, và các tài liệu thuế vụ khác. Đối với cá                                  Bạn không phải gia hạn ITIN nếu bạn không cần nộp
+người nước ngoài mang hai quốc tịch.                  nhân, đây là số an sinh xã hội (SSN). Nếu bạn không                                tờ khai thuế liên bang. Để gia hạn ITIN, xem Mẫu
+                                                      có và không đủ điều kiện nhận SSN thì bạn phải nộp
+
+24                                                              Chương 5                                             Tính thuế của bạn                                  Ấn phẩm 519 (2024)
+W-7 và các hướng dẫn tại IRS.gov/FormW7. Để biết        có thể được coi như đã kết hôn khi xét đến tín thuế           Ghi chú. Khi xét đến mục đích chủ gia đình,
+thêm thông tin, truy cập IRS.gov/ITIN.                  thu nhập kiếm được (EIC). Trong trường hợp đó,            ngay cả khi người vợ/chồng được coi như chưa kết
+                                                        bạn sẽ cần phải đáp ứng quy tắc đặc biệt để được          hôn vì bạn là người nước ngoài tạm trú thì bạn vẫn
+          ITIN được cấp trước năm 2013 đã hết hạn
+                                                        yêu cầu tín thuế. Xem Ấn phẩm 596 (tiếng Anh) để          có thể được coi như đã kết hôn khi xét đến EIC.
+ TIP      và phải được gia hạn nếu bạn cần khai
+                                                        biết thêm thông tin.                                      Trong trường hợp đó, người vợ/chồng của bạn sẽ
+          thuế cho năm thuế 2024. Nếu trước đó bạn
+                                                                                                                  không được hưởng tín thuế trừ khi họ đáp ứng quy
+đã nộp đơn xin gia hạn và đơn này đã được chấp
+                                                                                                                  định đặc biệt để yêu cầu tín thuế đó. Xem Ấn phẩm
+thuận, thì bạn không cần phải gia hạn lại trừ khi bạn   Người nước ngoài tạm trú                                  596 để biết thêm thông tin.
+chưa sử dụng ITIN của mình trên một khai thuế liên
+bang ít nhất một lần cho năm tính thuế 2021, 2022,      Nếu bạn là người nước ngoài tạm trú nộp Mẫu
+                                                                                                                  Di sản và quỹ tín thác. Bất động sản hoặc quỹ tín
+hoặc 2023.                                              1040-NR thì bạn có thể sử dụng một trong các tư
+                                                                                                                  thác của người nước ngoài tạm trú sử dụng Mẫu
+                                                        cách khai thuế được thảo luận ở phần sau.
+                                                                                                                  1040-NR phải dùng Bảng thuế suất W trong Hướng
+Mã số thuế của chủ lao động (EIN). Cá nhân có                                                                     dẫn cho Mẫu 1040-NR khi xác định thuế trên thu
+                                                        Người nước ngoài tạm trú đã kết hôn. Người
+thể dùng SSN (hoặc ITIN) đối với thuế cá nhân và                                                                  nhập liên thông thực tế với hoạt động kinh doanh
+                                                        nước ngoài tạm trú đã kết hôn với một người không
+EIN đối với thuế kinh doanh. Để biết thêm thông tin                                                               hay thương mại ở Hoa Kỳ.
+                                                        phải là công dân hoặc thường trú nhân Hoa Kỳ
+về EIN, truy cập IRS.gov/EIN.
+                                                        thường phải dùng cột Bảng thuế hoặc Bảng tính
+                                                                                                                  Các quy tắc đặc biệt áp dụng cho người nước
+                                                        thuế để khai thuế riêng khi xác định tiền thuế trên thu
+                                                                                                                  ngoài đến từ một số lãnh thổ của Mỹ. Người
+Tư cách khai thuế                                       nhập liên thông thực tế với hoạt động thương mại
+                                                        hay kinh doanh ở Hoa Kỳ.
+                                                                                                                  nước ngoài tạm trú là thường trú nhân Samoa của
+                                                                                                                  Mỹ hoặc Puerto Rico thực sự trong cả năm tính thuế
+Tiền thuế phụ thuộc vào tư cách khai thuế của bạn.          Ngoại lệ. Người nước ngoài tạm trú đã kết hôn         và đồng thời là người làm việc tạm thời ở Hoa Kỳ
+Tư cách khai thuế rất quan trọng khi xác định xem       thường không thể dùng cột Bảng thuế hoặc Bảng             nên xem Thường trú nhân chân thật của Samoa của
+bạn có được hưởng một số khấu trừ và tín thuế hay       tính thuế dành cho cá nhân độc thân. Tuy nhiên, bạn       Mỹ hoặc Puerto Rico ở cuối chương này để biết
+không. Quy tắc xác định tư cách khai thuế là khác       có thể khai thuế với tư cách người độc thân nếu bạn       thông tin về các quy tắc đặc biệt.
+nhau đối với người nước ngoài thường trú và người       sống xa người vợ/chồng trong 6 tháng cuối năm và
+nước ngoài tạm trú.                                     bạn là thường trú nhân Canada, Mexico hoặc Hàn
+                                                        Quốc đã kết hôn hoặc bạn là quốc dân Hoa Kỳ đã            Khai báo thu nhập của
+Người nước ngoài thường trú                             kết hôn. Xem Hướng dẫn cho Mẫu 1040-NR để xem
+                                                        liệu bạn có đủ điều kiện hay không. “Quốc dân Hoa         bạn
+                                                        Kỳ” được nêu rõ ở phần sau trong mục này.
+Người nước ngoài thường trú có thể sử dụng các tư           Người nước ngoài tạm trú thường không thể             Bạn phải khai báo từng khoản thu nhập chịu thuế
+cách khai thuế tương tự như công dân Hoa Kỳ. Xem        khai thuế theo diện đã kết hôn và khai thuế chung.        theo quy tắc trong các chương 2, 3 và 4. Đối với
+hướng dẫn cho mẫu đơn của chúng tôi hoặc Ấn             Tuy nhiên, người nước ngoài tạm trú đã kết hôn với        người nước ngoài thường trú, điều này bao gồm thu
+phẩm 501 (tiếng Anh) để biết thêm thông tin về tư       một công dân hoặc thường trú nhân Hoa Kỳ có thể           nhập có nguồn gốc ở trong và ngoài lãnh thổ Hoa
+cách khai thuế.                                         chọn được coi như thường trú nhân và khai thuế            Kỳ. Đối với người nước ngoài tạm trú, điều này bao
+                                                        chung trên Mẫu 1040 hoặc Mẫu 1040-SR. Để biết             gồm cả thu nhập liên thông thực tế với hoạt động
+Vợ chồng khai chung hồ sơ thuế. Nhìn chung,                                                                       thương mại hay kinh doanh ở Hoa Kỳ (chịu thuế suất
+                                                        thông tin về các lựa chọn này, xem chương 1. Nếu
+bạn chỉ có thể nộp tờ khai như vợ chồng khai chung                                                                tăng dần) và thu nhập có nguồn gốc từ Hoa Kỳ
+                                                        bạn không chọn khai thuế chung, nộp Mẫu 1040-NR
+hồ sơ thuế nếu cả bạn và người vợ/chồng đều là                                                                    không liên thông thực tế với hoạt động thương mại
+                                                        và dùng cột Bảng thuế hoặc Bảng tính thuế dành
+công dân Hoa Kỳ hoặc người nước ngoài thường trú                                                                  hay kinh doanh ở Hoa Kỳ (chịu thuế suất cố định
+                                                        cho cá nhân đã kết hôn và khai thuế riêng.
+trong cả năm tính thuế hoặc nếu bạn là người vợ/                                                                  30% hoặc thấp hơn theo hiệp ước).
+chồng tạm trú được coi như thường trú nhân như đã           Quốc dân Hoa Kỳ. Cá nhân, mặc dù không
+thảo luận trong chương 1.                               phải là công dân Hoa Kỳ nhưng có bổn phận đối với
+
+Người vợ/chồng còn lại đủ điều kiện. Nếu người
+                                                        chính phủ với Hoa Kỳ, được coi như công dân Hoa           Các khoản khấu trừ
+                                                        Kỳ. Ngoài ra, quốc dân Hoa Kỳ cũng bao gồm Người
+vợ/chồng mất năm 2022 hoặc 2023 và bạn không tái        Samoa của Mỹ và thường trú nhân Quần đảo Bắc
+                                                                                                                  Người nước ngoài thường trú và người nước ngoài
+hôn trước khi kết thúc năm 2024 thì bạn có thể đủ       Mariana chọn trở thành quốc dân Hoa Kỳ thay vì
+                                                                                                                  tạm trú có thể yêu cầu các khoản khấu trừ tương tự
+điều kiện nộp tờ khai thuế với tư cách người vợ/        công dân Hoa Kỳ.
+                                                                                                                  trên tờ khai thuế Hoa Kỳ. Tuy nhiên, người nước
+chồng còn lại đủ điều kiện và sử dụng thuế suất khai
+                                                                                                                  ngoài tạm trú thường chỉ có thể yêu cầu các khoản
+thuế chung. Điều này chỉ được áp dụng nếu bạn đã        Người vợ/chồng còn lại đủ điều kiện. Nếu vợ/
+                                                                                                                  khấu trừ liên quan đến thu nhập liên thông thực tế
+khai thuế chung với người vợ/chồng trong năm họ         chồng của bạn qua đời vào năm 2022 hoặc 2023 và
+                                                                                                                  với hoạt động thương mại hay kinh doanh ở Hoa Kỳ.
+mất.                                                    bạn chưa tái hôn trước cuối năm 2024 thì bạn có thể
+    Để biết thêm thông tin về tư cách khai thuế của     đủ điều kiện khai thuế với tư cách người vợ/chồng
+người vợ/chồng còn lại đủ điều kiện, xem Qualifying     còn lại đủ điều kiện và dùng thuế suất khai thuế          Người nước ngoài thường trú
+Surviving Spouse (Người vợ/chồng còn lại đủ điều        chung.
+kiện) trong Filing Status (Tư cách khai thuế) trong         Để biết thêm thông tin về tư cách khai thuế của       Bạn có thể yêu cầu các khoản khấu trừ tương tự
+Hướng dẫn cho Mẫu 1040 năm 2024.                        người vợ/chồng còn lại đủ điều kiện, xem Qualifying       như công dân Hoa Kỳ nếu bạn là người nước ngoài
+                                                        Surviving Spouse (Người vợ/chồng còn lại đủ điều          thường trú trong cả năm tính thuế. Xem phần thảo
+Chủ gia đình. Bạn có thể đủ điều kiện trở thành         kiện) ở mục Filing Status (Tư cách khai thuế) trong       luận trong Người nước ngoài tạm trú ở phần sau,
+chủ gia đình nếu bạn chưa kết hôn hoặc được coi         Hướng dẫn cho Mẫu 1040–NR năm 2024.                       trong đó có một số quy tắc và nguyên tắc tương tự
+như chưa kết hôn vào ngày cuối cùng của năm và                                                                    áp dụng cho bạn, đặc biệt là hướng đến người nước
+bạn phải trả hơn một nửa chi phí duy trì nhà ở cho      Chủ gia đình. Bạn không thể khai thuế với tư cách         ngoài tạm trú. Bạn nên xem Hướng dẫn cho Mẫu
+bạn và một người đủ điều kiện. Bạn phải là người        chủ gia đình nếu bạn là người nước ngoài tạm trú          1040 để biết thêm thông tin về cách yêu cầu các
+nước ngoài thường trú trong cả năm tính thuế.           vào bất kỳ thời điểm nào trong năm tính thuế. Tuy         khoản khấu trừ được phép.
+    Với mục đích này, bạn sẽ được coi như chưa kết      nhiên, nếu bạn đã kết hôn thì người vợ/chồng có thể
+hôn nếu người vợ/chồng là người nước ngoài tạm          đủ điều kiện là chủ gia đình nếu:
+trú vào bất kỳ thời điểm nào của năm và người vợ/         • Người vợ/chồng là người nước ngoài thường             Người nước ngoài tạm trú
+chồng không chọn được coi như thường trú nhân,               trú hoặc công dân Hoa Kỳ trong cả năm tính
+như đã thảo luận ở chương 1 trong Người vợ/chồng             thuế;                                                Bạn có thể yêu cầu các khoản khấu trừ để tính thu
+tạm trú được coi như thường trú nhân.                     • Bạn chọn không được coi như người nước                nhập liên thông thực tế (ECTI). Nhìn chung, bạn
+                                                             ngoài thường trú; và                                 không thể yêu cầu các khoản khấu trừ liên quan đến
+   Ghi chú. Khi xét đến mục đích chủ gia đình,            • Người vợ/chồng đáp ứng các yêu cầu khác về            thu nhập không liên thông thực tế với hoạt động kinh
+ngay cả khi bạn được coi như chưa kết hôn vì bạn             tư cách khai thuế này, như đã thảo luận ở phần       doanh ở Hoa Kỳ. Ngoại trừ một số khoản khấu trừ
+đã kết hôn với người nước ngoài tạm trú thì bạn vẫn          trước trong Người nước ngoài thường trú.             từng khoản được thảo luận ở phần sau, bạn chỉ có
+
+
+Ấn phẩm 519 (2024)                                                Chương 5       Tính thuế của bạn                                                                 25
+thể yêu cầu các khoản khấu trừ trong phạm vi liên         diện không khấu trừ vào IRA truyền thống trong năm        Nhìn chung, người phụ thuộc là trẻ đủ điều
+quan đến thu nhập liên thông thực tế.                     2024 thì bạn có thể khai báo chúng trên Mẫu 8606.      kiện hoặc thân nhân đủ điều kiện. Tuy nhiên, các
+                                                              Để biết thêm thông tin, xem Ấn phẩm 590-A          ngoại lệ sau đây sẽ được áp dụng.
+Chi phí kinh doanh cần thiết theo thông lệ. Bạn           (tiếng Anh).                                             1. Cá nhân là người phụ thuộc của người đóng
+có thể khấu trừ tất cả các chi phí cần thiết theo thông
+                                                                                                                      thuế được coi như không có người phụ thuộc.
+lệ trong hoạt động thương mại hay kinh doanh ở            Chi phí di chuyển. Chỉ khấu trừ chi phí di chuyển
+Hoa Kỳ trong phạm vi liên quan đến thu nhập liên          nếu bạn là thành viên của Lực lượng vũ trang Hoa         2. Cá nhân đã kết hôn vào cuối năm không thể
+thông thực tế với hoạt động thương mại hay kinh           Kỳ đang tại ngũ và di chuyển theo quân lệnh do thay         được khai là người phụ thuộc nếu cá nhân đó
+doanh đó. Để biết thêm thông tin về chi phí kinh          đổi lâu dài nơi đóng quân. Để biết thêm thông tin,          khai thuế chung, trừ khi chỉ nộp tờ khai thuế
+doanh khác, xem Hướng dẫn cho Tài nguyên về Chi           xem Ấn phẩm 3 (tiếng Anh). Nếu bạn hội đủ điều              chung để yêu cầu hoàn thuế thu nhập đã khấu
+phí kinh doanh (tiếng Anh).                               kiện, hãy sử dụng Mẫu 3903 để tính số tiền cần khấu         lưu hoặc thuế ước tính đã trả.
+                                                          trừ.                                                     3. Cá nhân được khai là người phụ thuộc phải là
+Khấu trừ thu nhập kinh doanh đủ điều kiện. Nếu
+                                                                                                                      công dân Hoa Kỳ, quốc dân Hoa Kỳ hoặc
+bạn có thu nhập liên thông thực tế với hoạt động          Dịch vụ hoặc các khoản bồi hoàn do chính phủ                thường trú nhân Hoa Kỳ hoặc Canada hoặc
+thương mại hay kinh doanh ở Hoa Kỳ thì bạn có thể         cung cấp cho thành viên của Lực lượng vũ                    Mexico.
+khấu trừ tối đa 20% thu nhập kinh doanh đủ điều           trang Hoa Kỳ. Không tính giá trị của dịch vụ di
+kiện từ hoạt động thương mại hay kinh doanh đủ            chuyển và lưu kho vào thu nhập được cung cấp bởi          Bạn phải cho biết SSN (hoặc ITIN) của bất kỳ
+điều kiện, cộng với 20% cổ tức REIT đủ điều kiện và       chính phủ do di chuyển theo quân lệnh thay đổi lâu     người phụ thuộc nào mà bạn ghi trong Người phụ
+thu nhập từ công ty hợp danh đại chúng đủ điều kiện       dài nơi đóng quân. Tương tự, không tính các khoản      thuộc trên Mẫu 1040-NR.
+(PTP). Để biết thêm thông tin, xem Dòng 13a trong         thu nhập nhận được như phụ cấp di dời, chi phí chỗ
+Hướng dẫn cho Mẫu 1040-NR (tiếng Anh).                                                                                    Nếu bạn không cung cấp SSN, ITIN, hoặc
+                                                          ở tạm thời, phụ cấp chỗ ở tạm thời hoặc phụ cấp
+                                                                                                                          ATIN trong phần Dependents (Người phụ
+    Để biết thêm thông tin về khấu trừ thu nhập kinh      nhà ở khi chuyển đến. Để biết thêm thông tin, xem         !
+                                                                                                                  CAUTION thuộc) của tờ khai thuế của bạn, hoặc nếu
+doanh đủ điều kiện, xem Mẫu 8995 (tiếng Anh), Mẫu         Ấn phẩm 3 (tiếng Anh).
+                                                                                                                 bạn cung cấp số không chính xác thì một số lợi ích
+8995-A và các bản khai, cũng như hướng dẫn cho
+                                                                                                                 thuế có thể không được cho phép. Xem Số nhận
+các mẫu đơn và bản khai liên quan.                        SEP, SIMPLE tự kinh doanh và chương trình
+                                                                                                                 dạng ở phần trước.
+                                                          hưu trí đủ điều kiện. Nếu bạn tự kinh doanh thì
+Lỗ. Bạn có thể khấu trừ lỗ phát sinh từ các giao dịch     bạn có thể khấu trừ các khoản đóng góp vào SEP,
+mà mình tham gia để kiếm lời và không được bảo
+hiểm bồi hoàn, v.v. trong phạm vi liên quan đến thu
+                                                          SIMPLE hoặc chương trình hưu trí đủ điều kiện để
+                                                          cung cấp trợ cấp hưu trí cho bản thân và nhân viên
+                                                                                                                 Người nước ngoài thường trú
+nhập liên thông thực tế với hoạt động thương mại          theo thông luật (nếu có). Để đóng góp theo diện
+hay kinh doanh ở Hoa Kỳ.                                  khấu trừ cho bản thân, bạn phải có thu nhập ròng từ    Nếu bạn là người nước ngoài thường trú thì người
+                                                          việc tự kinh doanh liên thông thực tế với hoạt động    phụ thuộc đủ điều kiện gồm có con đủ điều kiện
+   Ghi chú. Bắt đầu từ năm 2021 và trước năm              thương mại hay kinh doanh ở Hoa Kỳ.                    hoặc thân nhân đủ điều kiện. Con phải đáp ứng năm
+2026, bạn có thể sẽ không được khấu trừ lỗ do kinh            Xem Ấn phẩm 560 (tiếng Anh) để biết thêm           thử thách để trở thành con đủ điều kiện. Một người
+doanh vượt mức. Trong năm 2024, lỗ do kinh doanh          thông tin.                                             phải đáp ứng năm thử thách để trở thành thân nhân
+vượt mức là lỗ từ hoạt động thương mại hay kinh                                                                  đủ điều kiện. Để biết thêm thông tin, xem Hướng
+doanh của người đóng thuế không phải doanh                Phạt do rút tiền tiết kiệm sớm. Bạn phải tính toàn     dẫn cho Mẫu 1040.
+nghiệp lớn hơn ngưỡng $305.000 ($610.000 đối với          bộ thu nhập lãi liên thông thực tế mà bạn nhận được             Nếu bạn không cung cấp SSN, ITIN, hoặc
+người đóng thuế đã kết hôn và khai thuế chung).           hoặc được ghi có vào tài khoản trong năm. Không                 ATIN trong phần Dependents (Người phụ
+                                                          giảm số tiền này bằng tiền phạt mà bạn phải trả khi
+                                                                                                                    !
+                                                                                                                  CAUTION thuộc) của tờ khai thuế của bạn, hoặc nếu
+Chi phí của nhà giáo dục. Nếu bạn là nhà giáo             rút tiền sớm từ tài khoản tiết kiệm có kỳ hạn. Tuy     bạn cung cấp số không chính xác thì một số lợi ích
+dục đủ điều kiện trong năm 2024 thì bạn có thể khấu       nhiên, nếu thu nhập lãi liên thông thực tế với hoạt    thuế có thể không được cho phép. Xem Số nhận
+trừ dưới dạng khoản điều chỉnh thu nhập lên đến           động thương mại hay kinh doanh ở Hoa Kỳ trong          dạng ở phần trước.
+$300 trong chi phí chưa hoàn lại đủ điều kiện mà          năm thì bạn có thể khấu trừ trên dòng 18 của Bảng 1
+bạn trả hoặc phát sinh trong năm 2024 cho các khóa        (Mẫu 1040) tiền phạt do rút sớm mà tổ chức ngân
+học phát triển chuyên môn, sách, đồ dùng (không           hàng áp dụng. Đính kèm Bảng 1 (Mẫu 1040) với           Người nước ngoài tạm trú
+phải dụng cụ cho các khóa giảng dạy về giáo dục           Mẫu 1040-NR của bạn.
+sức khỏe hoặc thể chất), thiết bị máy tính (bao gồm
+                                                                                                                 Xem Ấn phẩm 501 (tiếng Anh) để biết thêm thông
+phần mềm và dịch vụ liên quan), thiết bị và tài liệu bổ   Khấu trừ lãi tiền vay sinh viên. Nếu bạn đã trả lãi
+                                                                                                                 tin.
+sung khác mà bạn dùng trong lớp học. Để biết thêm         năm 2024 cho một khoản vay sinh viên đủ điều kiện
+thông tin, xem hướng dẫn cho mẫu đơn khai thuế.           thì bạn có thể được khấu trừ lên đến $2.500 tiền lãi
+                                                                                                                 Thường trú nhân Mexico hoặc Canada hoặc
+                                                          đã trả. Nhìn chung, bạn có thể yêu cầu khấu trừ nếu
+        Chi phí hợp lệ bao gồm các khoản thanh                                                                   quốc dân Hoa Kỳ. Nếu bạn là thường trú nhân
+                                                          bạn đáp ứng tất cả các yêu cầu.
+ TIP toán hoặc phát sinh trong năm 2024 cho                                                                      Mexico hoặc Canada hoặc quốc dân Hoa Kỳ thì bạn
+        thiết bị bảo hộ, chất khử trùng và các vật            Khoản khấu trừ này được thực hiện trên dòng 21     có thể khai từng người phụ thuộc đáp ứng một số
+dụng khác dùng để ngăn chặn sự lây lan của vi-rút         của Bảng 1 (Mẫu 1040). Đính kèm Bảng 1 (Mẫu            thử thách nhất định. Thường trú nhân Mexico hoặc
+corona.                                                   1040) với Mẫu 1040-NR của bạn.                         Canada hoặc quốc dân Hoa Kỳ phải sử dụng các
+                                                              Để tính tiền khấu trừ, xem Hướng dẫn cho Mẫu       quy tắc tương tự như công dân Hoa Kỳ để xác định
+                                                          1040-NR (tiếng Anh). Để biết thêm thông tin, xem Ấn    ai là người phụ thuộc. Xem Ấn phẩm 501 (tiếng Anh)
+Quỹ hưu trí cá nhân (IRA). Nếu bạn đã đóng góp
+                                                          phẩm 970 (tiếng Anh).                                  để biết các quy tắc này.
+vào IRA truyền thống trong năm 2024 thì bạn có thể
+được khấu trừ IRA. Tuy nhiên, để làm được như vậy,
+                                                                                                                 Thường trú nhân Hàn Quốc. Người nước ngoài
+bạn phải có tiền thù lao chịu thuế liên thông thực tế
+với hoạt động thương mại hay kinh doanh ở Hoa Kỳ.
+                                                          Người phụ thuộc                                        tạm trú là thường trú nhân Hàn Quốc (không phải
+                                                                                                                 nhân viên của chính phủ Hàn Quốc) có thể khai con
+Mẫu 5498 sẽ được gửi cho bạn trước ngày 2 tháng
+                                                          Người nước ngoài thường trú có thể khai người phụ      của họ là người phụ thuộc đủ điều kiện. Bên cạnh
+6, 2025, trong đó cho biết tất cả các khoản đóng góp
+                                                          thuộc tương tự như công dân Hoa Kỳ. Tuy nhiên, chỉ     việc sử dụng các quy tắc tương tự như công dân
+vào IRA truyền thống trong năm 2024. Nếu bạn
+                                                          người nước ngoài tạm trú là quốc dân Hoa Kỳ;           Hoa Kỳ để xác định ai là người phụ thuộc, theo hiệp
+được một chương trình hưu trí (lương hưu đủ điều
+                                                          thường trú nhân Canada, Mexico và Hàn Quốc;            ước thuế thu nhập đã ký với Hàn Quốc, con cái phải
+kiện, chia sẻ lợi nhuận (bao gồm 401(k)), niên kim,
+                                                          hoặc thường trú nhân Ấn Độ từng là sinh viên hoặc      sống với người nước ngoài tạm trú tại Hoa Kỳ vào
+SEP, SIMPLE, v.v.) tại nơi làm việc hoặc thông qua
+                                                          người học nghề kinh doanh mới có thể có một người      một thời điểm nào đó trong năm chịu thuế.
+việc tự kinh doanh đài thọ thì khoản khấu trừ IRA có
+thể được giảm hoặc loại bỏ. Tuy nhiên, bạn vẫn có         phụ thuộc đủ điều kiện. Xem Người nước ngoài tạm
+                                                          trú ở phần sau.                                        Học sinh và người học nghề kinh doanh đến từ
+thể đóng góp vào IRA truyền thống ngay cả khi bạn
+                                                                                                                 Ấn Độ. Học sinh và người học nghề kinh doanh đủ
+không thể khấu trừ chúng. Nếu bạn đóng góp theo
+                                                                                                                 điều kiện được hưởng quyền lợi theo Điều 21(2) của
+                                                                                                                 Hiệp ước thuế thu nhập giữa Hoa Kỳ và Ấn Độ có
+
+26                                                                  Chương 5      Tính thuế của bạn                                           Ấn phẩm 519 (2024)
+thể khai người phụ thuộc nếu họ đáp ứng các quy         ước thuế thu nhập giữa Hoa Kỳ và Ấn Độ và bị ảnh         vong hoặc trộm cắp. Bạn có thể khấu trừ lỗ do trộm
+tắc tương tự như công dân Hoa Kỳ.                       hưởng bởi một số thiên tai lớn được liên bang tuyên      cắp trong năm phát hiện lỗ. Sử dụng Mẫu 4684 và
+                                                        bố trong năm 2024 (xem IRS.gov/DisasterTaxRelief         các hướng dẫn để tính mất mát do thiệt hại và trộm
+                                                        và FEMA.gov/Disasters (tiếng Anh)), bạn có thể           cắp phải khấu trừ. Để biết thêm thông tin, xem Ấn
+Các khoản khấu trừ từng                                 chọn tăng mức khấu trừ tiêu chuẩn bằng lỗ do             phẩm 547.
+                                                        thương vong cá nhân liên quan đến thiên tai đủ điều
+khoản                                                   kiện trên tờ khai thuế năm 2023. Sử dụng Bảng tính       Các khoản khấu trừ từng khoản khác. Bạn có
+                                                        5-1 để tính mức khấu trừ tiêu chuẩn trong năm 2024.      thể được khấu trừ một số khoản khấu trừ từng
+Người nước ngoài tạm trú có thể yêu cầu một số          Xem Mẫu 4684 (tiếng Anh) năm 2024 và các hướng           khoản khác chưa được thảo luận ở phần trước. Các
+khoản khấu trừ từng khoản tương tự như người            dẫn để biết thêm thông tin về khoản giảm thuế đối        khoản khấu trừ này bao gồm những mục sau.
+nước ngoài thường trú. Tuy nhiên, người nước            với lỗ do thương vong cá nhân liên quan đến thiên          • Lỗ ròng liên quan đến thiên tai đủ điều kiện.
+ngoài tạm trú chỉ có thể yêu cầu các khoản khấu trừ     tai đủ điều kiện.                                          • Lỗ tài sản tạo ra thu nhập do thương vong hoặc
+từng khoản nếu họ có thu nhập liên thông thực tế với                                                                  trộm cắp.
+hoạt động thương mại hay kinh doanh ở Hoa Kỳ.           Thuế thu nhập tiểu bang và địa phương. Bạn có              • Khấu trừ cho các khoản hoàn trả theo quy định
+                                                        thể khấu trừ thuế thu nhập tiểu bang và địa phương            người đóng thuế phải khai báo toàn bộ thu
+    Có thể có giới hạn ảnh hưởng đến khoản khấu         đã nộp, thuế này trên thu nhập liên thông thực tế với         nhập trong năm nếu số tiền này trên $3.000.
+trừ từng khoản mà bạn có thể yêu cầu trên Bảng A.       hoạt động thương mại hay kinh doanh ở Hoa Kỳ.                 Xem Ấn phẩm 525 (tiếng Anh) để biết chi tiết.
+Hãy xem hướng dẫn cho Bảng A (Mẫu 1040) hoặc            Khoản khấu trừ của bạn được giới hạn đến tổng tiền         • Khoản đầu tư chưa thu hồi vào lương hưu.
+Hướng dẫn cho Bảng A (Mẫu 1040–NR), Khấu trừ            khấu trừ là $10.000 ($5.000 nếu bạn đã kết hôn và          • Chi phí phải trả cho dụng cụ hoặc dịch vụ để
+từng khoản trong Hướng dẫn cho Mẫu 1040-NR              khai thuế riêng). Nếu bạn được hoàn thuế hoặc giảm            làm việc trong khi bị tàn phế.
+(tiếng Anh).                                            thuế trong năm 2024 đã nộp trong năm trước, vui
+                                                                                                                     Để biết thêm thông tin, xem hướng dẫn cho dòng
+                                                        lòng không giảm mức khấu trừ theo số tiền đó. Thay
+                                                                                                                 số 7 trong Hướng dẫn cho Bảng A (Mẫu 1040–NR),
+Người nước ngoài thường trú                             vào đó, bạn phải tính tiền hoàn lại hoặc tiền bớt vào
+                                                                                                                 Khấu trừ từng khoản trong Hướng dẫn cho Mẫu
+                                                        thu nhập nếu bạn đã khấu trừ các khoản thuế trong
+                                                                                                                 1040-NR (tiếng Anh). Xem thêm Ấn phẩm 529 (tiếng
+Bạn có thể yêu cầu các khoản khấu trừ từng khoản        năm trước và khoản khấu trừ đã làm giảm thuế. Xem
+                                                                                                                 Anh).
+tương tự như công dân Hoa Kỳ bằng cách sử dụng          Recoveries (Phục hồi) trong Ấn phẩm 525 (tiếng
+Bảng A (Mẫu 1040). Xem Hướng dẫn cho Bảng A             Anh) để biết chi tiết về cách tính số tiền được tính         Lỗ ròng liên quan đến thiên tai đủ điều kiện.
+(Mẫu 1040) để biết thêm thông tin.                      vào thu nhập.                                            Xem Hướng dẫn cho Mẫu 4684 (tiếng Anh) để biết
+                                                                                                                 thêm thông tin về lỗ do thiên tai đủ điều kiện. Để xác
+    Nếu bạn không ghi các khoản khấu trừ theo từng      Các khoản đóng góp từ thiện. Bạn có thể khấu             định xem bạn có bị ảnh hưởng bởi một thiên tai lớn
+khoản thì bạn có thể yêu cầu mức khấu trừ tiêu          trừ các khoản đóng góp từ thiện hoặc quà biếu cho        được liên bang tuyên bố hay không, truy cập
+chuẩn cho tư cách khai thuế cụ thể của mình. Để         các tổ chức đủ điều kiện theo một số giới hạn nhất       IRS.gov/DisasterTaxRelief.
+biết thêm thông tin, xem Hướng dẫn cho Mẫu 1040.        định. Tổ chức đủ điều kiện bao gồm các tổ chức có
+                                                        bản chất tôn giáo, từ thiện, giáo dục, khoa học hoặc         Lỗ từ tài sản tạo ra thu nhập. Các khoản lỗ
+                                                                                                                 này không tuân theo giới hạn áp dụng cho tài sản sử
+Người nước ngoài tạm trú                                văn học hoặc hoạt động nhằm ngăn chặn hành vi
+                                                                                                                 dụng cá nhân. Sử dụng Mục B trong Mẫu 4684 để
+                                                        tàn ác đối với trẻ em hoặc động vật. Một số tổ chức
+                                                        thúc đẩy hoạt động thi đấu thể thao nghiệp dư toàn       tính tiền khấu trừ cho các khoản lỗ này.
+Bạn có thể khấu trừ một số khoản khấu trừ từng
+khoản nếu bạn nhận thu nhập liên thông thực tế với      quốc hoặc quốc tế cũng là tổ chức đủ điều kiện.
+                                                            Để biết thêm thông tin về việc khấu trừ các
+hoạt động thương mại hay kinh doanh ở Hoa Kỳ.
+Nhìn chung, bạn chỉ có thể tính các khoản khấu trừ      khoản đóng góp từ thiện, xem Gifts to U.S. Charities     Tín thuế và các khoản
+và lỗ được phân bổ hợp lý vào thu nhập liên thông       (Quà biếu cho các tổ chức từ thiện Hoa Kỳ) trong
+                                                        Hướng dẫn cho Bảng A (Mẫu 1040–NR), Khấu trừ
+                                                                                                                 thanh toán
+thực tế với hoạt động thương mại hay kinh doanh ở
+Hoa Kỳ. Bạn không thể tính các khoản khấu trừ và/lỗ     từng khoản trong Hướng dẫn cho Mẫu 1040-NR
+                                                                                                                 Phần thảo luận này bao gồm tín thuế và các khoản
+liên quan đến thu nhập được miễn thuế hoặc thu          (tiếng Anh).
+                                                                                                                 thanh toán dành cho người nước ngoài thường trú,
+nhập không liên thông thực tế với hoạt động thương                                                               sau đó là phần thảo luận về tín thuế và khoản thanh
+                                                            Các tổ chức nước ngoài. Khoản đóng góp
+mại hay kinh doanh ở Hoa Kỳ. Tuy nhiên, bạn có thể                                                               toán dành cho người nước ngoài tạm trú.
+                                                        trực tiếp cho một tổ chức nước ngoài sẽ không
+khấu trừ một số khoản đóng góp từ thiện và mất mát
+                                                        được khấu trừ. Tuy nhiên, bạn có thể khấu trừ các
+do thiệt hại và trộm cắp ngay cả khi chúng không liên
+quan đến thu nhập liên thông thực tế. Sử dụng Bảng
+                                                        khoản đóng góp cho một tổ chức Hoa Kỳ chuyển
+                                                        tiền cho một tổ chức từ thiện nước ngoài nếu tổ
+                                                                                                                 Người nước ngoài thường trú
+A (Mẫu 1040-NR) để yêu cầu các khoản khấu trừ
+                                                        chức Hoa Kỳ quản lý việc sử dụng quỹ hoặc tổ chức
+từng khoản. Xem Hướng dẫn cho Mẫu 1040-NR                                                                        Người nước ngoài thường trú thường yêu cầu tín
+                                                        nước ngoài chỉ là một nhánh quản trị của tổ chức
+(tiếng Anh) để biết thêm thông tin.                                                                              thuế và khai báo các khoản thanh toán thuế, bao
+                                                        Hoa Kỳ.
+                                                                                                                 gồm cả tiền khấu lưu, trong đó sử dụng các quy tắc
+                                                            Theo số lượng hiệp ước thuế thu nhập giới hạn,
+Khấu trừ tiêu chuẩn. Người nước ngoài tạm trú                                                                    tương tự như công dân Hoa Kỳ.
+                                                        bạn có thể đủ điều kiện được khấu trừ các khoản
+không thể yêu cầu khấu trừ tiêu chuẩn. Tuy nhiên, có                                                                Sau đây là một số tín thuế mà bạn có thể yêu
+                                                        đóng góp cho một tổ chức từ thiện nước ngoài. Xem
+một quy tắc đặc biệt, được đề cập ở phần tiếp theo,                                                              cầu.
+                                                        Ấn phẩm 526 (tiếng Anh) để biết chi tiết.
+dành cho một số người nước ngoài tạm trú đến từ
+Ấn Độ.                                                                                                           Tín thuế đánh trên thu nhập thu được từ nước
+                                                        Mất mát do thiệt hại và trộm cắp. Bạn có thể
+                                                        khấu trừ mất mát do thiệt hại và trộm cắp trên tờ khai   ngoài. Bạn có thể yêu cầu tín thuế theo một số giới
+    Học sinh và người học nghề kinh doanh đến
+                                                        thuế.                                                    hạn áp dụng cho thuế thu nhập đã nộp hoặc cộng
+từ Ấn Độ. Quy tắc đặc biệt được áp dụng cho học
+                                                                                                                 dồn cho một quốc gia nước ngoài trên thu nhập có
+sinh và người học nghề kinh doanh đủ điều kiện                      Bạn chỉ có thể khấu trừ lỗ do thương vong    nguồn gốc từ nước ngoài. Bạn không thể yêu cầu tín
+nhận quyền lợi theo Điều 21(2) của Hiệp ước thuế                    hoặc trộm cắp ngoài kinh doanh nếu lỗ
+thu nhập giữa Hoa Kỳ và Ấn Độ. Bạn có thể yêu cầu          !        được quy cho một thiên tai được liên bang
+                                                                                                                 thuế đã nộp hoặc cộng dồn trên thu nhập kiếm được
+                                                        CAUTION
+                                                                                                                 ở nước ngoài được loại trừ. Để yêu cầu tín thuế thu
+mức khấu trừ tiêu chuẩn, miễn là bạn không yêu cầu      tuyên bố.                                                nhập đã nộp hoặc cộng dồn cho một quốc gia nước
+các khoản khấu trừ từng khoản.
+                                                           Nếu lỗ do thương vong hoặc trộm cắp được quy          ngoài, bạn thường phải nộp Mẫu 1116 cùng Mẫu
+    Sử dụng Bảng tính 5-1 để tính mức khấu trừ tiêu
+                                                        cho một thiên tai được liên bang tuyên bố thì bạn thể    1040 hoặc Mẫu 1040-SR.
+chuẩn trong năm 2023. Nếu bạn đã kết hôn và
+người vợ/chồng nộp tờ khai thuế và ghi các khoản        khấu trừ lỗ ngay cả khi tài sản của bạn không liên           Để biết thêm thông tin, xem Ấn phẩm 514 (tiếng
+khấu trừ theo từng khoản thì bạn không được             quan đến hoạt động thương mại hay kinh doanh ở           Anh).
+hưởng mức khấu trừ tiêu chuẩn.                          Hoa Kỳ. Tài sản có thể là tài sản sử dụng cá nhân
+                                                        hoặc tài sản tạo ra thu nhập không liên quan đến         Tín thuế chăm sóc trẻ em và người phụ thuộc.
+    Miễn giảm thuế do thiên tai. Nếu bạn là học         hoạt động thương mại hay kinh doanh ở Hoa Kỳ. Tài        Bạn có thể nhận tín thuế này nếu bạn trả tiền cho ai
+sinh hoặc người học nghề kinh doanh đủ điều kiện        sản phải đặt ở Hoa Kỳ vào thời điểm xảy ra thương        đó chăm sóc con đủ điều kiện là người phụ thuộc
+được hưởng quyền lợi theo Điều 21(2) của Hiệp                                                                    dưới 13 tuổi hoặc người phụ thuộc hoặc người vợ/
+
+Ấn phẩm 519 (2024)                                                  Chương 5      Tính thuế của bạn                                                                 27
+Bảng tính 5-1. Bảng tính mức khấu trừ tiêu chuẩn năm 2024 dành cho
+               Học sinh và Người học nghề kinh doanh đến từ Ấn Độ                                                                                         Lưu giữ cho hồ sơ của bạn
+ Ghi chú. Nếu bạn đã kết hôn và khai thuế riêng và người vợ/chồng ghi các khoản khấu trừ theo từng khoản, vui lòng không hoàn thành mẫu tính này.
+
+     1. Điền số tiền ghi dưới đây cho tư cách khai thuế của bạn.
+            • Độc thân hoặc vợ chồng khai thuế riêng—$14.600
+            • Người vợ/chồng còn lại đủ điều kiện—$29.200 . . . . . . . . . . . . . . . . . . . . . . . . . . 1.
+     2. Bạn có thể được khai là người phụ thuộc trên tờ khai thuế thu nhập Hoa Kỳ của người
+        khác không?
+            Không. Điền số tiền ghi ở dòng số 1 vào dòng số 4. Bỏ qua dòng số 3 và đi đến
+         dòng số 5.
+               Có. Đi đến dòng số 3.
+     3. Có phải thu nhập kiếm được* của bạn trên $750 không?
+
+               Có. Cộng $450 vào thu nhập kiếm được của bạn. Điền tổng cộng.
+
+               Không. Điền $1.300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.
+     4. Điền số tiền nhỏ hơn trong dòng số 1 hoặc dòng số 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                          4.
+     5. Nếu sinh trước ngày 2 tháng 1, 1960 HOẶC bị mù, nhập $1.550 ($1.950 nếu là độc thân). Nếu inh trước ngày 2
+        tháng 1, 1960 VÀ bị mù, nhập $3.100 ($3.900 nếu là độc thân). Nếu không, điền -0- . . . . . . . . . . . . . . . . . . . .                                        5.
+     6. Điền bất kỳ lỗ ròng nào do thiên tai trong Mẫu 4684 năm 2024, dòng số 15 . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 6.
+     7. Cộng các dòng số 4, 5 và 6. Điền tổng cộng ở đây và trên Mẫu 1040-NR, dòng số 12. Nhập “Standard Deduction
+        Allowed Under U.S.-India Income Tax Treaty (Khấu trừ tiêu chuẩn được phép theo Hiệp ước thuế thu nhập giữa
+        Hoa Kỳ-Ấn Độ)” trong chỗ trống ở bên trái dòng này. Đây là mức khấu trừ tiêu chuẩn của bạn trong
+        năm 2024 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   7.
+ *Thu nhập kiếm được bao gồm tiền công, tiền lương, tiền boa, phí dịch vụ chuyên môn và thù lao khác nhận được từ các dịch vụ cá nhân do bạn thực hiện. Thu
+ nhập do lao động cũng bao gồm bất kỳ khoản tiền nào nhận được dưới dạng học bổng mà bạn phải tính vào thu nhập. Nhìn chung, thu nhập kiếm được là tổng số
+ tiền bạn đã khai báo trên Mẫu 1040-NR, dòng 1z, cộng với Bảng 1 (Mẫu 1040), dòng 3, 6, và 8r trừ đi Bảng 1 (Mẫu 1040), dòng 15.
+
+chồng bị tàn tật để bạn có thể làm việc hoặc tìm việc                   • Là con trai, con gái, con riêng của vợ/chồng,                      Tín thuế cho người phụ thuộc khác. Tín thuế cho
+làm.                                                                        con nuôi tạm đủ điều kiện, anh/chị/em ruột,                      người phụ thuộc khác sẽ áp dụng cho những người
+   Để biết thêm thông tin, xem Mẫu 2441 (tiếng                              anh/chị/em là con riêng của cha mẹ kế,                           có người phụ thuộc không được yêu cầu tín thuế trẻ
+Anh) và Ấn phẩm 503 (tiếng Anh).                                            anh/chị/em cùng cha khác mẹ hoặc cùng mẹ                         em. Người phụ thuộc đủ điều kiện phải là công dân
+                                                                            khác cha, hoặc con cháu của bất kỳ ai trong số                   Hoa Kỳ, quốc dân Hoa Kỳ hoặc người nước ngoài
+Tín thuế cho người cao niên hoặc người tàn tật.                             họ (ví dụ: các cháu nội/ngoại, các cháu là con                   thường trú Hoa Kỳ và phải có SSN, ITIN hoặc ATIN
+Bạn có thể đủ điều kiện nhận tín thuế này nếu bạn từ                        của anh/chị/em);                                                 được cấp vào ngày hoặc trước ngày đến hạn nộp tờ
+65 tuổi trở lên hoặc nếu bạn đã nghỉ hưu do tàn tật                     •   Là công dân Hoa Kỳ, quốc dân Hoa Kỳ hoặc                         khai thuế năm 2024 (bao gồm cả gia hạn). Xem
+toàn bộ và vĩnh viễn. Để biết thêm thông tin về tín                         người nước ngoài thường trú;                                     Bảng 8812 (Mẫu 1040) và hướng dẫn để biết thêm
+thuế này, xem Ấn phẩm 524 (tiếng Anh) và Bảng R                         •   Không cung cấp hơn một nửa hỗ trợ cho bản                        thông tin..
+(Mẫu 1040).                                                                 thân trong năm 2024;
+                                                                        •   Đã sống với bạn hơn nửa năm 2024 (vắng mặt                       Tín thuế nhận con nuôi. Bạn có thể đủ điều kiện
+Tín thuế giáo dục. Bạn có thể đủ điều kiện nhận                             tạm thời chẳng hạn như phục vụ cho việc đi                       nhận tín thuế lên đến $16.810 đối với chi phí đủ điều
+các tín thuế này nếu bạn đã trả chi phí giáo dục đủ                         học, nghỉ dưỡng hoặc chăm sóc y tế, được tính                    kiện đã thanh toán để nhận nuôi một đứa trẻ đủ điều
+tiêu chuẩn cho bản thân, người vợ/chồng hoặc                                là thời gian sống cùng nhà);                                     kiện. Số tiền này có thể được cân nhắc khi nhận một
+người phụ thuộc. Có hai loại tín thuế giáo dục: tín                     •   Được khai là người phụ thuộc trên tờ khai thuế                   đứa trẻ có nhu cầu đặc biệt làm con nuôi, bất kể bạn
+thuế cơ hội người Mỹ và tín thuế giáo dục trọn đời.                         của bạn; và                                                      có chi phí đủ điều kiện hay không. Để yêu cầu tín
+Bạn không thể yêu cầu các loại tín thuế này nếu bạn                     •   Không khai thuế chung trong năm (hoặc chỉ                        thuế nhận con nuôi, nộp Mẫu 8839 cùng Mẫu 1040
+đã kết hôn và khai thuế riêng. Sử dụng Mẫu 8863 để                          nộp tờ khai để yêu cầu hoàn thuế thu nhập bị                     hoặc Mẫu 1040-SR.
+tính tín thuế. Để biết thêm thông tin, xem Ấn phẩm                          khấu lưu hoặc thuế ước tính đã nộp).
+970 (tiếng Anh).                                                                                                                             Tín thuế thu nhập kiếm được (EIC). EIC hay tín
+                                                                          Con nuôi luôn được coi như con ruột của bạn.
+    Người nước ngoài tạm trú, xem Tín thuế giáo                                                                                              thuế thu nhập kiếm được (EITC) là quyền lợi dành
+                                                                      Con nuôi là trẻ được pháp luật cho phép bạn nhận
+dục trong Người nước ngoài tạm trú ở phần sau.                                                                                               cho người đang làm việc có thu nhập từ thấp đến
+                                                                      nuôi hợp pháp.
+                                                                                                                                             trung bình. Để đủ điều kiện nhận EIC, bạn phải kiếm
+                                                                          Nếu bạn không có SSN (hoặc ITIN) được cấp                          được thu nhập kiếm được khi làm việc cho ai đó
+Tín thuế đóng góp tiết kiệm hưu trí. Bạn có thể
+                                                                      vào ngày hoặc trước ngày đến hạn khai thuế năm                         hoặc điều hành hoặc sở hữu một doanh nghiệp
+đủ điều kiện nhận tín thuế này (hay còn gọi là tín
+                                                                      2024 (bao gồm cả gia hạn) thì bạn không thể khai tín                   hoặc trang trại và đáp ứng các quy tắc cơ bản.
+thuế cho người tiết kiệm) nếu bạn đã có các khoản
+                                                                      thuế trẻ em trên bản gốc hoặc bản chỉnh sửa tờ khai                    Ngoài ra, bạn phải đáp ứng các quy tắc khác dành
+đóng góp đủ điều kiện cho chương trình hưu trí do
+                                                                      thuế năm 2024.                                                         cho người lao động không có con đủ tiêu chuẩn
+chủ lao động tài trợ hoặc IRA trong năm 2023. Sử
+                                                                          Nếu trẻ không có SSN hợp lệ để làm việc được                       hoặc có con đáp ứng tất cả các quy tắc về trẻ đủ tiêu
+dụng Mẫu 8880 và các hướng dẫn để tính tín thuế.
+                                                                      cấp trước ngày đến hạn khai thuế năm 2024 (bao                         chuẩn. EIC làm giảm tiền thuế bạn nợ và có thể
+Để biết thêm thông tin về các quy định về việc yêu
+                                                                      gồm cả gia hạn) thì bạn không thể yêu cầu tín thuế                     hoàn lại tiền cho bạn. Để biết thêm thông tin, xem
+cầu tín thuế, xem Ấn phẩm 590-A (tiếng Anh).
+                                                                      trẻ em cho đứa trẻ này nhưng có thể yêu cầu tín                        IRS.gov/EIC.
+Tín thuế trẻ em và tín thuế trẻ em bổ sung. “Trẻ                      thuế cho người phụ thuộc khác đối với đứa trẻ này.                         Nếu bạn (và vợ/chồng của bạn nếu khai thuế
+đủ điều kiện,” dựa trên tín thuế trẻ em và tín thuế trẻ               Xem Tín thuế cho người phụ thuộc khác dưới đây.                        chung) không có SSN được cấp vào ngày hoặc
+em bổ sung, là trẻ:                                                       Sử dụng Bảng 8812 (Mẫu 1040) và hướng dẫn                          trước ngày đến hạn khai thuế năm 2024 (bao gồm
+  • Dưới 17 tuổi vào cuối năm 2024;                                   để tính tín thuế.                                                      cả gia hạn) thì bạn không thể khai EIC trên bản gốc
+
+28                                                                                 Chương 5         Tính thuế của bạn                                                         Ấn phẩm 519 (2024)
+hoặc bản chỉnh sửa tờ khai thuế năm 2024. Ngoài          kiện là cá nhân đã kết hôn sống xa nhau (xem Joint         • Được khai là người phụ thuộc trên tờ khai thuế
+ra, nếu trẻ không có SSN được cấp vào ngày hoặc          Return Test (Thử thách khai thuế chung) trong Ấn                 của bạn; và
+trước ngày đến hạn khai thuế (bao gồm cả gia hạn)        phẩm 503 (tiếng Anh)).                                     • Không khai thuế chung trong năm (hoặc chỉ
+thì bạn không thể khai đứa trẻ đó là con đủ điều kiện        Tiền chi phí chăm sóc trẻ và người phụ thuộc đủ              nộp tờ khai để yêu cầu hoàn thuế thu nhập bị
+khi tính EIC trên bản gốc hoặc bản chỉnh sửa tờ khai     điều kiện nhận tín thuế trong bất kỳ năm tính thuế               khấu lưu hoặc thuế ước tính đã nộp).
+thuế năm 2024.                                           nào không được nhiều hơn thu nhập kiếm được từ                Con nuôi luôn được coi như con ruột của bạn.
+                                                         Hoa Kỳ trong năm tính thuế đó. Thu nhập do lao            Con nuôi là trẻ được pháp luật cho phép bạn nhận
+         Nếu thẻ an sinh xã hội có phần ghi chú cho
+                                                         động thường là tiền công, tiền lương và phí dịch vụ       nuôi hợp pháp.
+         biết “Not Valid for Employment (Không hợp
+   !
+ CAUTION lệ để làm việc)” và mã số được cấp để bạn
+                                                         chuyên môn nghề nghiệp đối với dịch vụ cá nhân
+                                                                                                                       Nếu bạn không có SSN (hoặc ITIN) được cấp
+                                                         được thực hiện.
+(hoặc người vợ/chồng hoặc con đủ điều kiện) có thể                                                                 vào ngày hoặc trước ngày đến hạn khai thuế năm
+nhận trợ cấp do liên bang tài trợ thì bạn không thể          Để biết thêm thông tin, xem Ấn phẩm 503 (tiếng        2024 (bao gồm cả gia hạn) thì bạn không thể khai tín
+yêu cầu EIC. Một ví dụ về trợ cấp do liên bang tài trợ   Anh).                                                     thuế trẻ em trên bản gốc hoặc bản chỉnh sửa tờ khai
+là Medicaid. Nếu thẻ có phần ghi chú này và tình                                                                   thuế.
+trạng nhập cư của cá nhân đã thay đổi tới mức cá         Tín thuế giáo dục. Nếu bạn là người nước ngoài
+                                                                                                                       Nếu trẻ không có SSN hợp lệ để làm việc được
+nhân đó hiện trở thành công dân Hoa Kỳ hoặc              tạm trú trong bất kỳ thời điểm nào của năm thì bạn
+                                                                                                                   cấp trước ngày đến hạn khai thuế năm 2024 (bao
+thường trú nhân hợp pháp, hãy yêu cầu SSA cấp thẻ        thường không thể yêu cầu tín thuế giáo dục. Tuy
+                                                                                                                   gồm cả gia hạn) thì bạn không thể yêu cầu tín thuế
+an sinh xã hội mới mà không có phần ghi chú.             nhiên, bạn có thể yêu cầu tín thuế giáo dục trong các
+                                                                                                                   trẻ em cho đứa trẻ này nhưng có thể yêu cầu tín
+                                                         trường hợp sau.
+   Để tìm hiểu xem liệu bạn có đủ điều kiện nhận                                                                   thuế cho người phụ thuộc khác đối với đứa trẻ này.
+                                                           1. Bạn đã kết hôn và chọn khai thuế chung với           Xem Tín thuế cho người phụ thuộc khác dưới đây.
+EIC hay không, truy cập IRS.gov/EITCAssistant.
+                                                              công dân Hoa Kỳ hoặc người vợ/chồng là                   Sử dụng Bảng 8812 (Mẫu 1040) và hướng dẫn
+    Thông tin khác. Có những quy định khác về                 thường trú nhân Hoa Kỳ như đã thảo luận              để tính tín thuế.
+tính đủ điều kiện không được thảo luận ở đây. Để              trong Người vợ/chồng là người tạm trú được
+biết thêm thông tin, xem Ấn phẩm 596 .                        coi như thường trú nhân trong chương 1.              Tín thuế cho người phụ thuộc khác. Người phụ
+                                                                                                                   thuộc không được yêu cầu tín thuế trẻ em vẫn có thể
+                                                           2. Bạn là người nước ngoài có tình trạng kép và
+Người nước ngoài tạm trú                                      chọn được coi như thường trú nhân Hoa Kỳ
+                                                                                                                   đủ điều kiện để bạn nhận tín thuế cho người phụ
+                                                                                                                   thuộc khác. Đây là tín thuế không hoàn lại trị giá
+                                                              trong cả năm. Xem Chọn tình trạng Người
+                                                                                                                   $500 cho mỗi người đủ tiêu chuẩn. Người phụ thuộc
+Bạn có thể yêu cầu một số tín thuế tương tự như               nước ngoài thường trú trong chương 1.
+                                                                                                                   đủ điều kiện là công dân Hoa Kỳ, quốc dân Hoa Kỳ
+người nước ngoài thường trú. Bạn cũng có thể khai            Thông tin khác về tín thuế chi phí giáo dục đủ        hoặc người nước ngoài thường trú Hoa Kỳ. Xem
+báo một số khoản thuế đã nộp, được coi là đã nộp         điều kiện của sinh viên trong bốn năm học đại học         Hướng dẫn cho Mẫu 1040-NR (tiếng Anh). Để yêu
+hoặc bị khấu lưu khỏi thu nhập.                          đầu tiên có sẵn tại IRS.gov/AOTC (tiếng Anh).             cầu tín thuế cho người phụ thuộc khác, người phụ
+                                                                                                                   thuộc phải có SSN, ITIN hoặc ATIN được cấp vào
+Tín thuế                                                 Tín thuế đóng góp tiết kiệm hưu trí. Bạn có thể           ngày hoặc trước ngày đến hạn nộp tờ khai thuế năm
+                                                         đủ điều kiện nhận tín thuế này (hay còn gọi là tín        2024 (bao gồm cả gia hạn).
+Chỉ cho phép tín thuế nếu bạn nhận thu nhập liên         thuế cho người tiết kiệm) nếu bạn đã có các khoản
+                                                                                                                             Chỉ người nước ngoài tạm trú là quốc dân
+thông thực tế. Bạn có thể yêu cầu một số tín thuế        đóng góp đủ điều kiện cho một chương trình hưu trí
+                                                                                                                             Hoa Kỳ; thường trú nhân Canada, Mexico
+sau.                                                     do chủ lao động tài trợ hoặc IRA trong năm 2024.             !
+                                                                                                                    CAUTION hoặc Hàn Quốc; hoặc học sinh và người
+                                                         Bạn không thể yêu cầu tín thuế này nếu:
+                                                                                                                   học nghề kinh doanh đến từ Ấn Độ đủ điều kiện
+Tín thuế nước ngoài. Nếu bạn nhận thu nhập có              • Bạn sinh sau ngày 1 tháng 1, 2007;
+                                                                                                                   nhận các quyền lợi theo Điều 21(2) của hiệp ước
+nguồn gốc từ nước ngoài liên thông thực tế với hoạt        • Bạn là học sinh/sinh viên toàn thời gian;
+                                                                                                                   thuế thu nhập đã ký với Ấn Độ mới có thể yêu cầu tín
+động thương mại hay kinh doanh ở Hoa Kỳ thì bạn            • Bạn đã được khai là người phụ thuộc trên tờ
+                                                                                                                   thuế cho người phụ thuộc khác.
+có thể yêu cầu tín thuế thu nhập đã trả hoặc cộng             khai thuế năm 2024 của người khác; hoặc
+dồn cho bất kỳ quốc gia nước ngoài nào hoặc lãnh           • Tổng thu nhập được điều chỉnh của bạn trong
+                                                              năm là $38.2500.                                     Tín thuế nhận con nuôi. Bạn có thể đủ điều kiện
+thổ của Hoa Kỳ trên thu nhập đó.
+                                                                                                                   nhận tín thuế lên đến $16.810 khi bạn đã trả chi phí
+    Nếu bạn không có thu nhập từ nước ngoài liên         Sử dụng Mẫu 8880 để tính tín thuế. Để biết thêm
+                                                                                                                   đủ điều kiện để nhận nuôi một đứa trẻ đủ tiêu chuẩn.
+thông thực tế với hoạt động thương mại hay kinh          thông tin, xem Ấn phẩm 590-A (tiếng Anh).
+                                                                                                                   Số tiền này có thể được cho phép để nhận nuôi một
+doanh ở Hoa Kỳ thì bạn không thể yêu cầu tín thuế
+                                                                                                                   đứa trẻ có nhu cầu đặc biệt, bất kể bạn có chi phí đủ
+Hoa Kỳ cho các khoản thuế đã nộp hoặc cộng dồn           Tín thuế trẻ em và tín thuế trẻ em bổ sung. Chỉ
+                                                                                                                   điều kiện hay không. Để yêu cầu tín thuế nhận con
+cho một quốc gia nước ngoài hoặc lãnh thổ của Hoa        có người nước ngoài tạm trú là quốc dân Hoa Kỳ,
+                                                                                                                   nuôi, nộp Mẫu 8839 cùng Mẫu 1040-NR.
+Kỳ.                                                      thường trú nhân của Canada, Mexico, hoặc Hàn
+                                                         Quốc; hoặc học sinh và thực tập sinh kinh doanh từ            Người nước ngoài tạm trú đã kết hôn chỉ có thể
+    Bạn không thể nhận bất kỳ tín thuế nào mà một
+                                                         Ấn Đọ mà đủ điều kiện hưởng lợi ích dưới Điều             yêu cầu tín thuế nếu họ chọn khai thuế chung với
+quốc gia nước ngoài hoặc lãnh thổ của Hoa Kỳ áp
+                                                         21(2) của hiệp ước thuế thu nhập với Ấn Độ có thể         người vợ/chồng là công dân hoặc thường trú nhân,
+đặt vào thu nhập có nguồn gốc từ Hoa Kỳ nếu các
+                                                         yêu cầu tín thuế trẻ em.                                  được thảo luận trong mục Người vợ/chồng là người
+khoản thuế đó chỉ được áp dụng vì bạn là công dân
+                                                                                                                   tạm trú được coi như thường trú nhânở chương 1
+hoặc thường trú nhân của quốc gia nước ngoài hoặc            “Trẻ đủ điều kiện,” dựa trên tín thuế trẻ em và tín
+                                                                                                                   hoặc nếu họ hội đủ điều kiện là cá nhân đã kết hôn
+lãnh thổ đó.                                             thuế trẻ em bổ sung, là trẻ:
+                                                                                                                   và sống xa nhau (xem Married Persons Not Filing
+    Nếu bạn yêu cầu tín thuế đánh trên thu nhập thu        • Dưới 17 tuổi vào cuối năm 2024;
+                                                                                                                   Jointly (Người đã kết hôn và khai thuế riêng) trong
+được từ nước ngoài thì bạn thường phải đính kèm            • Là con trai, con gái, con riêng của vợ/chồng,
+                                                                                                                   Hướng dẫn cho Mẫu 8839).
+tờ khai thuế với Mẫu 1116. Xem Ấn phẩm 514 (tiếng              con nuôi tạm đủ điều kiện, anh/chị/em ruột,
+Anh) để biết thêm thông tin.                                   anh/chị/em là con riêng của cha mẹ kế,
+                                                                                                                   Tín thuế cho thuế tối thiểu thay thế năm trước.
+                                                               anh/chị/em cùng cha khác mẹ hoặc cùng mẹ
+                                                                                                                   Nếu bạn đã trả tiền tối thuế thiểu thay thế vào năm
+Tín thuế chăm sóc trẻ em và người phụ thuộc.                   khác cha, hoặc con cháu của bất kỳ ai trong số
+                                                                                                                   trước, dùng Mẫu 8801 và hướng dẫn để biết liệu
+Bạn có thể nhận tín thuế này nếu bạn trả tiền cho ai           họ (ví dụ: các cháu nội/ngoại, các cháu là con
+                                                                                                                   bạn có đủ điều kiện nhận tín thuế này hay không.
+đó chăm sóc trẻ đủ điều kiện là người phụ thuộc                của anh/chị/em);
+dưới 13 tuổi hoặc người phụ thuộc bị tàn tật hoặc          • Là công dân Hoa Kỳ, quốc dân Hoa Kỳ hoặc              Tín thuế thu nhập kiếm được. Nếu bạn là người
+người vợ/chồng bị tàn tật để bạn có thể làm việc               người nước ngoài thường trú;
+                                                                                                                   nước ngoài tạm trú trong bất kỳ thời điểm nào của
+hoặc tìm việc làm. Để biết định nghĩa của các thuật        • Không cung cấp hơn một nửa hỗ trợ cho bản             năm thì bạn thường không thể yêu cầu EIC. Tuy
+ngữ này, xem Ấn phẩm 503 (tiếng Anh).                          thân trong năm 2024;
+                                                                                                                   nhiên, nếu bạn đã kết hôn và chọn khai thuế chung
+    Người nước ngoài tạm trú đã kết hôn chỉ có thể         • Đã sống với bạn hơn nửa năm 2024 (vắng mặt            với người vợ/chồng là công dân hoặc thường trú
+yêu cầu tín thuế nếu họ chọn khai thuế chung với               tạm thời chẳng hạn như phục vụ cho việc đi
+                                                                                                                   nhân Hoa Kỳ được thảo luận trong Người vợ/chồng
+công dân Hoa Kỳ hoặc người vợ/chồng là thường                  học, nghỉ dưỡng hoặc chăm sóc y tế, được tính
+                                                                                                                   là người tạm trú được coi như thường trú nhân trong
+trú nhân Hoa Kỳ như đã thảo luận trong mục Cách                là thời gian sống cùng nhà);
+                                                                                                                   chương 1, bạn có thể đủ điều kiện nhận tín thuế này.
+đưa ra lựa chọn ở chương 1 hoặc nếu họ đủ điều
+
+Ấn phẩm 519 (2024)                                                 Chương 5       Tính thuế của bạn                                                                  29
+    Nếu bạn và vợ/chồng của bạn không có SSN            bạn không khai là thu nhập liên thông thực tế. Tiền    chương 4. Người mua sẽ cung cấp cho bạn báo cáo
+được cấp vào ngày hoặc trước ngày đến hạn khai          lương hoặc tiền công có thể là thu nhập cố định        khoản khấu lưu trên Mẫu 8288-A. Khai thuế đã khấu
+thuế năm 2024 (bao gồm cả gia hạn) thì bạn không        hoặc có thể xác định được nhưng thường tùy thuộc       lưu là khoản thanh toán trên dòng 25f của Mẫu
+thể khai EIC trên tờ khai thuế gốc hoặc tờ khai thuế    vào khoản khấu lưu được thảo luận ở trên. Thuế         1040-NR.
+năm 2024 được điều chỉnh. Ngoài ra, nếu trẻ không       trên thu nhập cố định hoặc có thể xác định được sẽ
+có SSN được cấp vào ngày hoặc trước ngày đến            được khấu lưu ở mức 30% hoặc thấp hơn theo hiệp        Yêu cầu thuế đã khấu lưu trên tờ khai thuế. Khi
+hạn khai thuế (bao gồm cả gia hạn) thì bạn không        ước.                                                   bạn điền vào tờ khai thuế, hãy cẩn thận hơn khi điền
+thể khai đứa trẻ đó là con đủ điều kiện khi tính EIC                                                           số tiền thuế đã khấu lưu ghi trên tài liệu cung cấp
+trên bản gốc hoặc tờ khai được điều chình năm           Thuế đã khấu lưu trên thu nhập trong công ty           thông tin của bạn. Bảng sau liệt kê một số tài liệu
+2024.                                                   hợp danh. Nếu bạn là thành viên người nước             cung cấp thông tin phổ biến hơn và cho biết nơi tìm
+                                                        ngoài trong một công ty hợp danh thì công ty hợp       ra tiền thuế đã khấu lưu.
+         Nếu thẻ an sinh xã hội có chú thích cho biết
+                                                        danh đó sẽ khấu lưu ECTI từ công ty hợp danh.
+         “Not Valid for Employment (Không hợp lệ
+     !
+ CAUTION để làm việc)” và số đã được cấp để bạn
+                                                        Công ty hợp danh sẽ cung cấp cho bạn báo cáo trên
+                                                        Mẫu 8805 cho biết thuế bị khấu lưu. Công ty hợp                                                             Địa điểm
+(hoặc người vợ/chồng hoặc con đủ điều kiện) có thể
+                                                        danh đại chúng có thể khấu lưu vào khoản phân                                                               thuế
+nhận quyền lợi do liên bang tài trợ thì bạn không thể
+                                                        phối thực tế của thu nhập liên thông thực tế. Trong     Số mẫu đơn                                          đã khấu lưu
+yêu cầu EIC. Một ví dụ về quyền lợi do liên bang tài
+                                                        trường hợp này, công ty hợp danh sẽ cung cấp cho        RRB-1042S . . . . . . . . . . . . . . . . . . . . Ô số 13
+trợ là Medicaid. Nếu thẻ có chú thích này và tình
+                                                        bạn báo cáo trên Mẫu 1042-S. Khai thuế đã khấu          SSA-1042S . . . . . . . . . . . . . . . . . . . . Ô số 9
+trạng nhập cư của cá nhân đã thay đổi để hiện tại trở
+                                                        lưu là khoản thanh toán trên dòng 25e hoặc dòng         W-2 . . . . . . . . . . . . . . . . . . . . . . . . . Ô số 2
+thành công dân Hoa Kỳ hoặc thường trú nhân hợp                                                                  W-2c . . . . . . . . . . . . . . . . . . . . . . . . . Ô số 2
+                                                        25g của Mẫu 1040-NR nếu xét thấy phù hợp.
+pháp, hãy đề nghị SSA cấp thẻ an sinh xã hội mới                                                                1042-S . . . . . . . . . . . . . . . . . . . . . . . Ô số 10
+mà không cần chú thích.                                 Thuế đã khấu lưu trên lãi do bán hoặc trao đổi          8805 . . . . . . . . . . . . . . . . . . . . . . . . . Dòng 10
+                                                                                                                8288-A . . . . . . . . . . . . . . . . . . . . . . . Ô số 4
+    Xem Ấn phẩm 596 để biết thêm thông tin về tín       một số lợi ích trong công ty hợp danh. Nếu bạn
+thuế này.                                               là đối tác nước ngoài trực tiếp hoặc gián tiếp ở Hoa
+                                                        Kỳ hoặc công ty hợp danh tham gia (hoặc được coi
+Thuế đã khấu lưu                                        là tham gia) vào hoạt động thương mại hay kinh         Thường trú nhân chân
+                                                        doanh ở Hoa Kỳ và bạn trực tiếp hoặc gián tiếp
+                                                        chuyển nhượng lợi ích đó để thu lợi thì đối với các    thật của Samoa của Mỹ
+Bạn có thể khai thuế đã khấu lưu trong năm là khoản
+thanh toán tiền thuế Hoa Kỳ. Bạn có thể yêu cầu
+                                                        giao dịch chuyển nhượng diễn ra sau năm 2017,
+                                                        người nhận chuyển nhượng thường sẽ khấu trừ và
+                                                                                                               hoặc Puerto Rico
+thuế khấu lưu trên các dòng 25a-25g của Mẫu             thay mặt cho bạn trả tiền thuế bằng 10% số tiền thu
+1040-NR. Thuế bị khấu lưu sẽ làm giảm tiền thuế mà                                                             Nếu bạn là người nước ngoài tạm trú là thường trú
+                                                        được từ giao dịch mua bán. Quy tắc khấu lưu và
+bạn nợ bằng Mẫu 1040-NR.                                                                                       nhân Samoa của Mỹ hoặc thường trú nhân Puerto
+                                                        thanh toán số tiền này tương tự như việc bán các lợi
+                                                                                                               Rico thực sự trong cả năm tính thuế, bạn thường
+                                                        ích từ bất động sản ở Hoa Kỳ. Bạn sẽ nhận được
+Khấu lưu từ lương bổng. Bất kỳ khoản thuế thu                                                                  chịu thuế giống như người nước ngoài thường trú.
+                                                        Mẫu 8288-A phản ánh khoản khấu lưu mà bạn có
+nhập liên bang nào đã khấu lưu từ tiền lương trong                                                             Bạn nên nộp Mẫu 1040 hoặc Mẫu 1040-SR và khai
+                                                        thể khai ở dòng 25f của Mẫu 1040-NR là tín thuế mà
+năm tính thuế khi bạn là người nước ngoài tạm trú                                                              báo toàn bộ thu nhập từ các nguồn ở trong và ngoài
+                                                        bạn còn nợ khi thu tiền lời. Bạn có thể cung cấp một
+đều được coi là một khoản thanh toán nợ thuế thu                                                               lãnh thổ Hoa Kỳ. Tuy nhiên, bạn có thể loại trừ thu
+                                                        số thông tin cho người nhận chuyển nhượng để
+nhập Hoa Kỳ của bạn trong cùng một năm. Bạn có                                                                 nhập được thảo luận trong các đoạn sau.
+                                                        giảm bớt hoặc loại bỏ khoản khấu lưu. Ví dụ: nếu
+thể khai thuế thu nhập đã khấu lưu cho dù bạn có        điều khoản không ghi nhận trong Bộ luật thuế vụ áp         Tuy nhiên, với mục đích tính thuế, ngoài khai báo
+tham gia vào hoạt động thương mại hay kinh doanh        dụng cho toàn bộ tiền lời thu được từ giao dịch        thu nhập, bạn sẽ được coi như người nước ngoài
+ở Hoa Kỳ trong năm hay không và tiền lương (hoặc        chuyển nhượng thì người nhận chuyển nhượng             tạm trú. Ví dụ: bạn không được hưởng mức khấu trừ
+bất kỳ thu nhập nào khác) liên quan đến hoạt động       không cần khấu lưu nếu bạn đưa ra thông báo mô tả      tiêu chuẩn, bạn không thể khai thuế chung và bạn
+thương mại hay kinh doanh ở Hoa Kỳ.                     việc áp dụng điều khoản không ghi nhận. Nếu bạn là     không thể khai người phụ thuộc trừ khi người đó là
+                                                        người nhận chuyển nhượng không khấu lưu theo           công dân hoặc quốc dân Hoa Kỳ. Cũng có giới hạn
+Thuế an sinh xã hội vượt mức đã khấu lưu. Nếu
+                                                        đoạn 1446(f)(4), công ty hợp danh có thể khấu lưu      về khoản khấu trừ và tín thuế được phép. Xem
+bạn có hai chủ lao động trở lên, bạn có thể yêu cầu
+                                                        vào các khoản phân phối cho bạn.                       Người nước ngoài tạm trú trong Các khoản khấu trừ,
+khấu trừ nợ thuế thu nhập Hoa Kỳ đối với thuế an
+                                                            T.D. 9926 (85 FR 76910), có sẵn tại IRS.gov/irb/   Các khoản khấu trừ từng khoản và Tín thuế và các
+sinh xã hội đã khấu lưu vượt mức tối đa bắt buộc.
+                                                        2020-51_IRB#TD-9926 (tiếng Anh), được xuất bản         khoản thanh toán trong chương này.
+Xem Thuế An sinh Xã hội và thuế Medicare trong
+                                                        vào ngày 30 tháng 11, 2020 (như đã sửa tại 86 FR
+chương 8 để biết thêm thông tin.
+                                                        13191), bao gồm các quy định cuối cùng (quy định       Thường trú nhân Puerto Rico. Nếu bạn là
+                                                        mục 1446(f)) liên quan đến việc khấu lưu và khai       thường trú nhân Puerto Rico thực sự trong cả năm,
+Thuế Medicare bổ sung. Chủ lao động có trách
+                                                        báo theo yêu cầu của mục 1446(f) về việc chuyển        bạn có thể loại trừ toàn bộ thu nhập từ các nguồn
+nhiệm giữ lại 0.9% (0,009) thuế Medicare bổ sung
+                                                        nhượng lợi ích trong một số lợi ích nhất định của      trong lãnh thổ Puerto Rico (trừ số tiền thanh toán
+trên tiền lương Medicare hoặc tiền thù lao của Đạo
+                                                        hợp danh, bao gồm yêu cầu giữ lại áp dụng cho các      cho các dịch vụ được thực hiện với tư cách là nhân
+luật Hưu trí đường sắc (RRTA) trả cho bạn vượt quá
+                                                        nhà môi giới thực hiện chuyển nhượng lợi ích trong     viên của Hoa Kỳ hoặc bất kỳ cơ quan nào của Hoa
+$200.000 trong năm 2024. Nếu bạn không nợ thuế
+                                                        PTP. Mặc dù khoản khấu lưu theo mục 1446(f)            Kỳ) khỏi tổng thu nhập.
+Medicare bổ sung, bạn có thể yêu cầu khấu trừ thuế
+                                                        thường áp dụng cho các khoản chuyển nhượng diễn            Nếu bạn khai báo thu nhập theo năm và không
+Medicare bổ sung nào đã khấu lưu trong tổng tiền
+                                                        ra vào hoặc sau ngày 1 tháng 1, 2018, nhưng một số     có tiền lương được khấu lưu trong năm 2024, vui
+nợ thuế ghi trên tờ khai thuế bằng cách nộp Mẫu
+                                                        điều khoản nhất định của quy định mục 1446(f) lại      lòng nộp tờ khai thuế và đóng thuế trước ngày 16
+8959.
+                                                        áp dụng cho các khoản chuyển khoản vào hoặc sau        tháng 6, 2025. Bạn cũng phải thực hiện thanh toán
+                                                        ngày 1 tháng 1, 2024.. Để biết thêm thông tin, xem     thuế ước tính đầu tiên trong năm 2025 chậm nhất là
+Thuế đã nộp trên lãi vốn dài hạn chưa phân
+                                                        Ấn phẩm 515 (tiếng Anh).                               vào ngày 16 tháng 6, 2025. Bạn không thể khai thuế
+phối. Nếu bạn là cổ đông của quỹ tương hỗ (hoặc
+RIC khác) hoặc REIT, bạn có thể yêu cầu khấu trừ            Để được hướng dẫn bổ sung về một số vấn đề         thu nhập chung hoặc thanh toán thuế ước tính
+phần thuế do công ty thanh toán trên lãi vốn dài hạn    nhất định liên quan đến quy định 1446(f), xem Thông    chung. Tuy nhiên, nếu bạn đã kết hôn với công dân
+chưa phân phối. Bạn sẽ nhận được thông tin trên         báo 2023-8 (tiếng Anh).                                hoặc thường trú nhân Hoa Kỳ, xem Người vợ/chồng
+Mẫu 2439, trong đó bạn phải đính kèm với tờ khai                                                               là người tạm trú được coi như thường trú nhân trong
+thuế.                                                   Thuế đã khấu lưu trên chuyển nhượng lợi ích            chương 1.
+                                                        từ bất động sản ở Hoa Kỳ. Bạn có thể khai là               Nếu tiền lương bạn kiếm được chịu khấu lưu, tờ
+Thuế khấu lưu tại nguồn. Bạn có thể khai là             khoản thanh toán thuế đã khấu lưu liên quan đến        khai thuế thu nhập Hoa Kỳ của bạn sẽ đến hạn trước
+khoản thanh toán bất kỳ thuế khấu lưu tại nguồn trên    giao dịch chuyển nhượng lợi ích từ bất động sản ở      ngày 15 tháng 4, 2025. Bạn cũng phải thực hiện
+hoạt động đầu tư và thu nhập FDAP được đã trả cho       Hoa Kỳ (hoặc thu nhập được coi là có nguồn gốc từ      thanh toán thuế ước tính đầu tiên trong năm 2025
+bạn. Thu nhập cố định hoặc xác định được bao gồm        giao dịch chuyển nhượng lợi ích từ bất động sản ở      chậm nhất là vào ngày 15 tháng 4, 2025. Để biết
+tiền lãi, cổ tức, tiền cho thuê và tiền bản quyền mà    Hoa Kỳ). Xem Lãi hoặc lỗ bất động sản trong
+
+30                                                                Chương 5      Tính thuế của bạn                                                        Ấn phẩm 519 (2024)
+thông tin về thuế khấu lưu và thuế ước tính, xem             575 Thu nhập lương hưu và niên kim
+                                                                   575                                                                                   khoản trong hiệp ước thuế. Nhìn chung, các điều
+chương 8.                                                                                                                                                khoản trong hiệp ước thuế chỉ áp dụng cho một thời
+                                                          Mẫu đơn (và Hướng dẫn)                                                                         điểm của năm bạn không phải là thường trú nhân.
+Thường trú nhân Samoa của Mỹ. Nếu bạn là                                                                                                                 Tuy nhiên, trong một số trường hợp, các điều khoản
+                                                             1040 Tờ khai thuế thu nhập Hoa Kỳ cho Cá
+thường trú nhân chân thật của Samoa của Mỹ trong                                                                                                         trong hiệp ước thuế có thể áp dụng khi bạn là người
+                                                                         1040
+
+
+
+
+                                                                  nhân
+cả năm, bạn có thể loại trừ toàn bộ thu nhập từ các                                                                                                      nước ngoài thường trú. Xem chương 9 để biết thêm
+nguồn trong lãnh thổ Samoa của Mỹ (trừ số tiền               1040-SR Tờ khai thuế Hoa Kỳ cho Người cao
+                                                                                                   1040-SR
+
+
+
+
+                                                                                                                                                         thông tin.
+thanh toán cho các dịch vụ được thực hiện với tư                     niên
+                                                                                                                                                             Khi xác định thu nhập nào phải chịu thuế Hoa
+cách nhân viên của Chính phủ Hoa Kỳ hoặc bất kỳ
+                                                             1040-C Tờ khai thuế thu nhập Hoa Kỳ cho                                                     Kỳ, bạn phải xem xét các khoản miễn trừ theo luật
+cơ quan nào trực thuộc Chính phủ Hoa Kỳ). Nhân
+                                                                                1040-C
+
+
+
+
+                                                                    Người nước ngoài xuất cảnh                                                           thuế Hoa Kỳ, cũng như thuế suất đã giảm và miễn
+viên của Chính phủ Samoa của Mỹ không được coi
+                                                                                                                                                         trừ theo hiệp ước thuế giữa Hoa Kỳ và một số quốc
+như nhân viên của Chính phủ Hoa Kỳ hoặc bất kỳ cơ            1040-ES Thuế ước tính cho Cá nhân
+                                                                                                                                                         gia nước ngoài. Để biết thêm thảo luận về các hiệp
+                                                                                         1040-ES
+
+
+
+
+quan nào trực thuộc Chính phủ Hoa Kỳ khi xét đến
+                                                             1040-ES (NR) Tờ khai thuế ước tính cho Cá                                                   ước thuế, xem chương 9.
+việc miễn thuế. Để biết thêm thông tin về khoản miễn
+                                                                                                                          1040-ES (NR)
+
+
+
+
+                                                                          nhân là Người nước ngoài tạm
+thuế này, xem Mẫu 4563 và Ấn phẩm 570 (tiếng
+                                                                  trú
+Anh).
+                                                             1040-NR Tờ khai thuế thu nhập Hoa Kỳ cho
+                                                                                                                                                         Hạn chế cho người đóng
+                                                                                                                                                         thuế có tình trạng kép
+                                                                                                             1040-NR
+
+
+
+
+                                                                     Người nước ngoài tạm trú
+                                                             1116 Tín thuế nước ngoài
+                                                                         1116
+
+
+
+
+                                                                                                                                                         Các hạn chế sau đây sẽ áp dụng nếu bạn đang khai
+                                                        Xem chương 12 để biết thông tin về việc lấy các ấn                                               thuế cho năm tính thuế với tình trạng kép.
+
+6.
+                                                        phẩm và mẫu đơn này.
+                                                                                                                                                         Mức khấu trừ tiêu chuẩn. Bạn không thể dùng
+                                                                                                                                                         mức khấu trừ tiêu chuẩn được phép trên Mẫu 1040
+                                                        Năm tính thuế                                                                                    hoặc Mẫu 1040-SR. Tuy nhiên, bạn có thể ghi bất kỳ
+
+Năm tính thuế có                                        Bạn phải nộp tờ khai thuế theo kỳ kế toán hàng năm
+                                                                                                                                                         khoản khấu trừ nào được phép thành từng khoản.
+
+                                                                                                                                                         Chủ gia đình. Bạn không thể sử dụng cột Bảng
+tình trạng kép
+                                                        được gọi là năm tính thuế. Nếu bạn chưa từng thiết
+                                                        lập năm tính thuế tài chính thì năm tính thuế của bạn                                            thuế hoặc Bảng tính thuế cho chủ gia đình.
+                                                        sẽ là năm dương lịch. Năm dương lịch là 12 tháng
+                                                        liên tiếp kết thúc vào ngày 31 tháng 12. Nếu bạn đã                                              Khai thuế chung. Bạn không thể nộp tờ khai thuế
+                                                        từng thiết lập một năm tài chính thông thường (12                                                chung. Tuy nhiên, xem Chọn tình trạng Người nước
+Giới thiệu                                              tháng liên tục kết thúc vào ngày cuối cùng của tháng                                             ngoài thường trú trong Người nước ngoài có tình
+                                                        không phải tháng 12 hoặc một năm có 52-53 tuần)                                                  trạng kép trong chương 1.
+Bạn có một năm tính thuế với tình trạng kép khi bạn
+                                                        và được coi như thường trú nhân Hoa Kỳ trong bất
+vừa là người nước ngoài thường trú vừa là người                                                                                                          Thuế suất. Nếu bạn đã kết hôn và không phải là
+                                                        kỳ năm nào thì bạn sẽ được coi như thường trú nhân
+nước ngoài tạm trú trong cùng một năm. Tình trạng                                                                                                        thường trú nhân của Hoa Kỳ trong toàn bộ hoặc một
+                                                        Hoa Kỳ trong bất kỳ thời điểm nào của năm tài chính
+kép không nhắc đến quốc tịch của bạn; tình trạng                                                                                                         phần của năm tính thuế và bạn không chọn khai thuế
+                                                        rơi vào năm đó.
+kép chỉ nhắc đến tình trạng cư trú liên quan đến thuế                                                                                                    chung được thảo luận trong chương 1, bạn phải xem
+của bạn ở Hoa Kỳ. Khi xác định nợ thuế thu nhập                                                                                                          cột Bảng thuế hoặc Bảng tính thuế cho người đã kết
+Hoa Kỳ của bạn trong một năm tính thuế với tình
+trạng kép, nhiều quy tắc khác nhau sẽ áp dụng trong
+                                                        Thu nhập chịu thuế                                                                               hôn và khai thuế riêng khi tính thuế trên thu nhập liên
+                                                                                                                                                         thông thực tế với hoạt động thương mại hay kinh
+một thời điểm của năm bạn là thường trú nhân Hoa                                                                                                         doanh ở Hoa Kỳ. Bạn không thể dùng cột Bảng thuế
+Kỳ và một thời điểm của năm bạn là tạm trú.             Trong một thời điểm của năm bạn là người nước
+                                                                                                                                                         hoặc Bảng tính thuế cho người đã kết hôn và khai
+    Các năm tính thuế với tình trạng kép phổ biến       ngoài thường trú, bạn phải chịu thuế thu nhập từ tất
+                                                                                                                                                         thuế chung hoặc người độc thân. Tuy nhiên, bạn có
+nhất là năm nhập cảnh và năm xuất cảnh. Xem             cả các nguồn. Thu nhập từ các nguồn ở ngoài lãnh
+                                                                                                                                                         thể khai thuế với tư cách người độc thân nếu bạn đã
+Người nước ngoài có tình trạng kép trong chương 1.      thổ Hoa Kỳ phải chịu thuế nếu bạn nhận được với tư
+                                                                                                                                                         sống xa người vợ/chồng trong 6 tháng cuối năm và
+    Nếu bạn đã kết hôn và chọn là người vợ/chồng        cách người nước ngoài thường trú. Thu nhập phải
+                                                                                                                                                         bạn là:
+tạm trú được coi như thường trú nhân được giải          chịu thuế ngay cả khi bạn kiếm được với tư cách
+                                                        người nước ngoài tạm trú hoặc nếu bạn trở thành                                                    • Thường trú nhân Canada, Mexico hoặc Hàn
+thích ở chương 1 thì quy tắc trong chương này                                                                                                                 Quốc đã kết hôn; hoặc
+không áp dụng cho bạn trong năm đó.                     người nước ngoài tạm trú sau khi nhận được và
+                                                        trước khi kết thúc năm.                                                                            • Quốc dân Hoa Kỳ đã kết hôn.
+                                                                                                                                                         Xem Hướng dẫn cho Mẫu 1040-NR để xem liệu bạn
+Các chủ đề                                                  Trong một thời điểm của năm bạn là người nước
+                                                                                                                                                         có đủ điều kiện hay không.
+Chương này thảo luận về:                                ngoài tạm trú, bạn chịu thuế thu nhập từ các nguồn
+                                                                                                                                                             Quốc dân Hoa Kỳ là cá nhân, mặc dù không phải
+                                                        ở Hoa Kỳ và thu nhập từ nguồn nước ngoài nhất
+                                                                                                                                                         là công dân Hoa Kỳ có bổn phận đối với chính phủ
+ • Thu nhập chịu thuế,                                  định được coi là liên thông thực tế với hoạt động
+                                                                                                                                                         với Hoa Kỳ. Quốc dân Hoa Kỳ bao gồm Người
+ • Hạn chế đối với người đóng thuế có tình trạng        thương mại hay kinh doanh ở Hoa Kỳ. Quy tắc coi
+                                                                                                                                                         Samoa của Mỹ và thường trú nhân Quần đảo Bắc
+     kép,                                               thu nhập từ nguồn nước ngoài là liên thông thực tế
+                                                                                                                                                         Mariana chọn trở thành quốc dân Hoa Kỳ thay vì
+ •   Cách tính thuế,                                    được thảo luận ở chương 4 trong Thu nhập từ nước
+                                                                                                                                                         công dân Hoa Kỳ.
+ •   Các mẫu đơn cần nộp,                               ngoài.
+ •   Thời gian và địa điểm nộp                              Thu nhập từ các nguồn ở ngoài Hoa Kỳ không
+ •   Cách để điền vào tờ khai cho người có tình
+     trạng kép.
+                                                        liên thông thực tế với hoạt động thương mại hay kinh                                             Người phụ thuộc
+                                                        doanh ở Hoa Kỳ sẽ không chịu thuế nếu bạn nhận
+                                                        được với tư cách người nước ngoài tạm trú. Thu                                                   Với tư cách người đóng thuế có tình trạng kép, bạn
+Các mục hữu ích                                         nhập này không chịu thuế ngay cả khi bạn đã kiếm                                                 có thể khai người phụ thuộc trên tờ khai thuế. Nhìn
+Bạn có thể muốn xem:                                    được với tư cách người nước ngoài thường trú hoặc                                                chung, người phụ thuộc là con đủ điều kiện hoặc
+                                                        nếu bạn đã trở thành người nước ngoài thường trú                                                 thân nhân đủ điều kiện. Bạn có thể được quyền yêu
+  Ấn phẩm                                               hoặc công dân Hoa Kỳ sau khi nhận được và trước                                                  cầu khấu trừ và tín thuế bổ sung nếu bạn có một
+                                                        khi kết thúc năm.                                                                                người phụ thuộc đủ điều kiện. Xem Hướng dẫn cho
+     503 Chi phí chăm sóc trẻ em và Người phụ                                                                                                            Mẫu 1040 hoặc Hướng dẫn cho Mẫu 1040-NR
+                                                            Thu nhập từ các nguồn ở Hoa Kỳ phải chịu thuế
+           503
+
+
+
+
+         thuộc                                                                                                                                           (tiếng Anh) để biết thêm thông tin.
+                                                        cho dù bạn nhận được với tư cách người nước
+                                                        ngoài tạm trú hay người nước ngoài thường trú, trừ                                                  Nếu bạn là quốc dân Hoa Kỳ hoặc thường trú
+     514 Tín thuế nước ngoài cho Cá nhân
+                                                        khi được miễn thuế theo Bộ luật thuế vụ hoặc điều                                                nhân Canada hoặc Mexico, bạn có thể khai một
+           514
+
+
+
+
+Ấn phẩm 519 (2024)                                         Chương 6                                                    Năm tính thuế có tình trạng kép                                                       31
+người phụ thuộc theo điều khoản tương tự như công       Tín thuế và các khoản thanh                                    khác cha, hoặc con cháu của bất kỳ ai trong số
+dân Hoa Kỳ. Nếu bạn là thường trú nhân Hoa Kỳ                                                                          họ (ví dụ: các cháu nội/ngoại, các cháu là con
+hoặc Ấn Độ, xem chương 5.
+                                                        toán                                                           của anh/chị/em);
+                                                                                                                   •   Là công dân Hoa Kỳ, quốc dân Hoa Kỳ hoặc
+                                                        Phần thảo luận này đề cập đến tín thuế và các khoản
+                                                                                                                       người nước ngoài thường trú;
+Cách tính thuế                                          thanh toán cho người nước ngoài có tình trạng kép.
+                                                                                                                   •   Không tự cung cấp hơn một nửa hỗ trợ cho
+                                                                                                                       bản thân trong năm 2024;
+Khi bạn tính thuế Hoa Kỳ cho năm có tình trạng kép,     Tín thuế                                                   •   Đã sống với bạn hơn nửa năm 2024 (vắng mặt
+bạn phải tuân thủ nhiều quy tắc khác nhau cho một                                                                      tạm thời chẳng hạn như đi học, nghỉ dưỡng
+                                                        Là người nước ngoài có tình trạng kép, bạn thường              hoặc chăm sóc y tế, được tính là thời gian sống
+thời điểm của năm bạn là thường trú nhân và một
+                                                        có thể yêu cầu tín thuế bằng cách sử dụng các quy              cùng nhà);
+khoảng thời điểm của năm bạn không phải là
+thường trú nhân.
+                                                        tắc tương tự như người nước ngoài thường trú. Có           •   Được khai là người phụ thuộc trên tờ khai thuế
+                                                        một số hạn chế có thể được áp dụng. Các hạn chế                của bạn; và
+                                                        này được thảo luận ở đây, cùng với phần giải thích         •   Không nộp tờ khai thuế trong năm (hoặc chỉ
+Thu nhập                                                ngắn gọn về các tín thuế thường được cá nhân yêu               nộp để yêu cầu hoàn thuế thu nhập đã khấu
+                                                        cầu.                                                           lưu hoặc thuế ước tính đã nộp); và
+Toàn bộ thu nhập trong thời gian bạn cư trú và toàn
+bộ thu nhập liên thông thực tế với hoạt động thương              Bạn không thể yêu cầu tín thuế giáo dục,             Con nuôi luôn được coi như con ruột của bạn.
+                                                                 EIC, hoặc tín thuế cho người cao niên hoặc       Con nuôi là trẻ được pháp luật cho phép bạn nhận
+mại hay kinh doanh ở Hoa Kỳ trong thời gian bạn            !
+                                                        CAUTION người tàn tật, trừ khi bạn đã kết hôn và bạn      nuôi hợp pháp.
+không cư trú, sau các khoản khấu trừ được phép, sẽ
+được cộng và đánh thuế theo mức áp dụng cho             chọn được coi như thường trú nhân trong cả năm                Nếu bạn không có SSN (hoặc ITIN) được cấp
+công dân và thường trú nhân Hoa Kỳ. Thu nhập            2024 bằng cách khai thuế chung với người vợ/              vào ngày hoặc trước ngày đến hạn khai thuế năm
+không liên thông thực tế với hoạt động thương mại       chồng là công dân hoặc thường trú nhân Hoa Kỳ,            2024 (bao gồm cả gia hạn), bạn không thể khai tín
+hay kinh doanh ở Hoa Kỳ trong thời gian bạn không       được thảo luận trong chương 1.                            thuế trẻ em trên tờ khai thuế ban đầu hoặc tờ khai
+cư trú phải chịu thuế suất cố định 30% hoặc thấp                                                                  thuế năm 2024 đã chỉnh sửa.
+hơn theo hiệp ước. Bạn không nhận được bất kỳ           Tín thuế nước ngoài. Nếu bạn đã thanh toán hoặc               Nếu trẻ không có SSN hợp lệ để làm việc được
+khoản khấu trừ nào đối với thu nhập này.                có trách nhiệm thanh toán thuế thu nhập cho một           cấp trước ngày đến hạn khai thuế năm 2024 (bao
+                                                        quốc gia nước ngoài trên thu nhập từ các nguồn            gồm cả gia hạn), bạn không thể yêu cầu tín thuế trẻ
+Phúc lợi an sinh xã hội và hưu trí ngành đường          nước ngoài, bạn có thể yêu cầu tín thuế nước ngoài.       em cho trẻ nhưng có thể yêu cầu tín thuế cho người
+sắt. Trong một thời điểm của năm bạn là người               Nếu bạn yêu cầu tín thuế nước ngoài, bạn              phụ thuộc khác đối với đứa trẻ này. Xem Tín thuế
+nước ngoài tạm trú, 85% phúc lợi an sinh xã hội Hoa     thường phải nộp Mẫu 1116 cùng tờ khai thuế thu            cho người phụ thuộc khác dưới đây.
+Kỳ (và phần tương đương của trợ cấp hưu trí ngành       nhập. Để biết thêm thông tin, vui lòng xem Hướng              Dùng Bảng 8812 (Mẫu 1040) và hướng dẫn để
+đường sắt cấp 1) mà bạn nhận được phải chịu thuế        dẫn cho Mẫu 1116 và Ấn phẩm 514 (tiếng Anh).              tính tín thuế.
+suất 30%, trừ khi được miễn thuế hoặc phải chịu
+thuế suất thấp hơn theo hiệp ước. Xem Thuế suất         Tín thuế chăm sóc trẻ em và người phụ thuộc.              Tín thuế cho người phụ thuộc khác. Tín thuế cho
+30% trong chương 4).                                    Bạn có thể đủ điều kiện nhận tín thuế này nếu bạn         người phụ thuộc khác sẽ áp dụng cho người có
+    Trong một thời điểm của năm bạn là người nước       trả tiền cho ai đó chăm sóc con đủ điều kiện là người     người phụ thuộc không được yêu cầu tín thuế trẻ
+ngoài thường trú, một phần an sinh xã hội và một        phụ thuộc dưới 13 tuổi hoặc người phụ thuộc bị tàn        em. Người phụ thuộc đủ điều kiện phải là công dân
+phần tương đương của phúc lợi hưu trí ngành             tật hoặc người vợ/chồng bị tàn tật, để bạn có thể         Hoa Kỳ, quốc dân Hoa Kỳ hoặc người nước ngoài
+đường sắt cấp 1 sẽ chịu thuế suất lũy tiến nếu tổng     làm việc hoặc tìm việc làm.                               thường trú Hoa Kỳ và phải có SSN, ITIN hoặc ATIN
+thu nhập được điều chỉnh đã sửa đổi của bạn cộng             Người nước ngoài có tình trạng kép và đã kết         được cấp vào ngày hoặc trước ngày đến hạn nộp tờ
+với một nửa trợ cấp này cao hơn số tiền cơ sở nhất      hôn chỉ có thể yêu cầu tín thuế nếu họ chọn nộp tờ        khai thuế năm 2024 (bao gồm cả gia hạn).
+định.                                                   khai thuế được thảo luận trong chương 1 hoặc nếu
+                                                        họ đủ điều kiện là cá nhân đã kết hôn sống xa nhau.       Tín thuế nhận con nuôi. Bạn có thể đủ điều kiện
+   Sử dụng Bảng tính Phúc lợi An sinh Xã hội trong                                                                nhận tín thuế lên đến $16.810 đối với chi phí đủ điều
+                                                             Chi phí chăm sóc trẻ em và người phụ thuộc đủ
+Hướng dẫn cho Mẫu 1040 để giúp bạn xác định                                                                       kiện đã thanh toán để nhận nuôi một đứa trẻ đủ điều
+                                                        điều kiện nhận tín thuế trong bất kỳ năm tính thuế
+phần chịu thuế của an sinh xã hội và trợ cấp hưu trí                                                              kiện. Số tiền này có thể được phép để nhận con nuôi
+                                                        nào không được nhiều hơn thu nhập kiếm được
+ngành đường sắt cấp 1 tương đương trong một thời                                                                  có nhu cầu đặc biệt, bất kể bạn có chi phí đủ điều
+                                                        trong năm tính thuế đó.
+điểm của năm bạn là người nước ngoài thường trú.                                                                  kiện hay không. Để yêu cầu tín thuế nhận con nuôi,
+                                                             Để biết thêm thông tin, xem Ấn phẩm 503 (tiếng
+                                                                                                                  nộp Mẫu 8839 cùng tờ khai thuế thu nhập Hoa Kỳ.
+    Nếu bạn nhận được phúc lợi an sinh xã hội Hoa       Anh) và Mẫu 2441.
+Kỳ khi bạn là người nước ngoài tạm trú, SSA sẽ gửi                                                                    Người nước ngoài mang hai quốc tịch và đã kết
+cho bạn Mẫu SSA-1042S cho biết các quyền lợi kết        Tín thuế đóng góp tiết kiệm hưu trí. Bạn có thể           hôn chỉ có thể yêu cầu tín thuế nếu họ chọn Người
+hợp của bạn trong cả năm và thuế đã khấu lưu. Bạn       đủ điều kiện nhận tín thuế này (hay còn gọi là tín        vợ/chồng là người tạm trú được coi như thường trú
+sẽ không nhận được báo cáo riêng về các quyền lợi       thuế cho người tiết kiệm) nếu bạn đã có các khoản         nhân như đã thảo luận trong chương 1 hoặc nếu họ
+nhận được trong thời gian bạn cư trú và không cư        đóng góp đủ điều kiện vào chương trình hưu trí do         đủ điều kiện là cá nhân đã kết hôn và sống xa nhau
+trú ở Hoa Kỳ. Vì vậy, điều quan trọng là bạn phải lưu   chủ lao động tài trợ hoặc IRA trong năm 2024. Bạn         (xem Married Persons Not Filing Jointly (Người đã
+hồ sơ cẩn thận các khoản tiền này. Bạn cần thông tin    không thể yêu cầu tín thuế này nếu:                       kết hôn và khai thuế riêng) trong Hướng dẫn cho
+này để điền vào tờ khai thuế đúng cách và tính nợ         • Bạn sinh sau ngày 1 tháng 1, 2006;                    Mẫu 8839).
+thuế của mình.                                            • Bạn là học sinh/sinh viên toàn thời gian;
+                                                          • Bạn đã được khai là người phụ thuộc trên tờ           Khoản thanh toán
+    Nếu bạn nhận được trợ cấp hưu trí ngành                  khai thuế năm 2024 của người khác hoặc
+đường sắt khi bạn là người nước ngoài tạm trú thì
+                                                          • Tổng thu nhập đã điều chỉnh của bạn trong             Bạn cũng có thể khai báo là khoản thanh toán nợ
+Ban Hưu trí đường sắt Hoa Kỳ (RRB) sẽ gửi cho bạn            năm là $38.250.
+Mẫu RRB-1042S, Bản kê khai cho người nhận là                                                                      thuế thu nhập Hoa Kỳ đã nộp, được coi là đã thanh
+Người nước ngoài tạm trú từ Ban Hưu trí đường sắt       Dùng Mẫu 8880 để tính tín thuế. Để biết thêm thông        toán hoặc đã khấu lưu khỏi thu nhập của bạn. Các
+và/hoặc Mẫu RRB-1099-R, Niên kim hoặc lương             tin, xem Ấn phẩm 590-A (tiếng Anh).                       tùy chọn này bao gồm:
+hưu từ Ban Hưu trí đường sắt. Nếu quốc gia cư trú                                                                   • Thuế đã khấu lưu từ lương bổng kiếm được ở
+hợp pháp hoặc thuế suất của bạn thay đổi trong năm      Tín thuế trẻ em và tín thuế trẻ em bổ sung. “Trẻ               Hoa Kỳ,
+tính thuế, bạn có thể nhận được nhiều mẫu đơn.          đủ điều kiện,” dựa trên tín thuế trẻ em và tín thuế trẻ     • Thuế khấu lưu tại nguồn từ các khoản thu nhập
+                                                        em bổ sung, là trẻ:                                            khác nhau có nguồn gốc từ Hoa Kỳ ngoài
+                                                          • Dưới 17 tuổi vào cuối năm 2024;                            lương bổng,
+                                                          • Là con trai, con gái, con riêng của vợ/chồng,           • Thuế ước tính đã nộp cùng Mẫu 1040-ES hoặc
+                                                             con nuôi tạm đủ điều kiện, anh/chị/em ruột,               Mẫu 1040-ES (NR) và
+                                                             anh/chị/em là con riêng của cha mẹ kế,                 • Tiền thuế đã nộp cùng Mẫu 1040-C tại thời
+                                                             anh/chị/em cùng cha khác mẹ hoặc cùng mẹ                  điểm khởi hành từ Hoa Kỳ.
+
+32                                                         Chương 6       Năm tính thuế có tình trạng kép                                        Ấn phẩm 519 (2024)
+                                                       khi kết thúc năm tính thuế. Nếu bạn khai báo thu                              Người nước ngoài thường trú
+Các Mẫu đơn cần nộp
+                                                       nhập không phải theo năm, nộp tờ khai thuế không
+                                                       muộn hơn ngày 15 của tháng thứ 6 sau khi kết thúc                             Người nước ngoài thường trú phải nộp Mẫu 1040
+                                                       năm tính thuế của bạn. Trong mọi trường hợp, hãy                              hoặc Mẫu 1040-SR tại địa chỉ ghi trong Hướng dẫn
+Tờ khai thuế thu nhập Hoa Kỳ mà bạn phải nộp với       gửi tờ khai thuế qua đường bưu điện đến địa chỉ:                              cho Mẫu 1040 . Ngày đến hạn nộp tờ khai thuế và
+tư cách người nước ngoài mang hai quốc tịch phụ                                                                                      thanh toán mọi khoản thuế đến hạn là ngày 15 tháng
+thuộc vào việc bạn là người nước ngoài thường trú           Department of the Treasury                                               4 của năm tiếp theo mà bạn sẽ nộp tờ khai (nhưng
+hoặc người nước ngoài tạm trú vào cuối năm tính             Internal Revenue Service                                                 xem MẸO trước đó).
+thuế hay không.                                             Austin, TX 73301-0215
+                                                                                                                                         Theo luật di trú Hoa Kỳ, thường trú nhân hợp
+Thường trú nhân vào cuối năm. Bạn phải nộp                                                                                           pháp phải nộp tờ khai thuế với tư cách thường trú
+                                                           Nếu bạn gửi kèm một khoản thanh toán, hãy gửi
+Mẫu 1040 hoặc Mẫu 1040-SR nếu bạn là người                                                                                           nhân. Nếu họ không làm như vậy thì họ có thể được
+                                                       tờ khai thuế qua đường bưu điện đến địa chỉ:
+đóng thuế mang hai quốc tịch trở thành thường trú                                                                                    coi là đã từ bỏ tình trạng và có thể mất tình trạng
+nhân trong năm và là thường trú nhân Hoa Kỳ vào                                                                                      thường trú nhân.
+                                                            Internal Revenue Service
+ngày cuối cùng của năm tính thuế. Viết “Dual-Status         P.O. Box 1303
+Return (Tờ khai thuế cho Người có tình trạng kép)” ở                                                                                 Gia hạn thời gian nộp. Bạn có thể được gia hạn tự
+                                                            Charlotte, NC 28201-1303
+trên đầu tờ khai thuế. Đính kèm bản tường trình với                                                                                  động 6 tháng (ngày 15 tháng 10 đối với người đóng
+tờ khai thuế của bạn để cho biết thu nhập trong một                                                                                  thuế theo năm) nếu không muộn hơn ngày đến hạn
+khoảng thời gian của năm bạn không phải là thường               Nếu ngày đến hạn nộp tờ khai thuế thông                              khai thuế, bạn nộp Mẫu 4868 (tiếng Anh). Để biết
+trú nhân. Bạn có thể dùng Mẫu 1040-NR làm bản           TIP     thường rơi vào Thứ Bảy, Chủ Nhật hoặc                                thêm thông tin, xem Mẫu 4868.
+tường trình. Tuy nhiên, hãy đảm bảo rằng bạn viết               ngày lễ hợp pháp thì ngày đến hạn sẽ là
+                                                       ngày tiếp theo không phải Thứ Bảy, Chủ Nhật hoặc                                       Việc tự động gia hạn 6 tháng sẽ không kéo
+“Dual-Status Statement (Bản tường trình cho Người
+                                                                                                                                              dài thời gian trả tiền thuế của bạn. Nếu bạn
+có tình trạng kép” ở trên đầu.                         ngày lễ hợp pháp.                                                                !
+                                                                                                                                     CAUTION không trả tiền thuế trước ngày đến hạn ban
+
+                                                                                                                                     đầu của tờ khai, bạn sẽ nợ lãi trên khoản thuế chưa
+Tạm trú vào cuối năm. Bạn phải nộp Mẫu
+                                                                                                                                     nộp và có thể bị phạt.
+1040-NR nếu bạn là người đóng thuế mang hai quốc
+tịch từ bỏ tình trạng cư trú tại Hoa Kỳ trong năm và                                                                                     Bạn được tự động gia hạn nộp cho đến ngày 15
+không phải là thường trú nhân Hoa Kỳ vào ngày cuối                                                                                   tháng 6 nếu địa điểm kinh doanh chính và ngôi nhà
+cùng của năm tính thuế. Nhập “Dual-Status Return                                                                                     bạn đang sống ở bên ngoài Hoa Kỳ và Puerto Rico
+(Tờ khai thuế cho Người có tình trạng kép)” ở trên
+đầu tờ khai thuế. Đính kèm bản tường trình với tờ
+                                                       7.                                                                            vào ngày 15 tháng 4. Nếu bạn cần thêm thời gian
+                                                                                                                                     vào cuối khoảng thời gian 2 tháng, bạn có thể được
+khai thuế của bạn để thể hiện thu nhập trong một                                                                                     thêm 4 tháng cho đến ngày 15 tháng 10 nếu không
+
+                                                       Thông tin khai thuế
+thời điểm của năm bạn là thường trú nhân. Bạn có                                                                                     muộn hơn ngày 15 tháng 6, bạn nộp Mẫu 4868.
+thể dùng Mẫu 1040 hoặc Mẫu 1040-NR làm bản                                                                                               Ngoài thời gian gia hạn 6 tháng, người đóng
+tường trình. Tuy nhiên, hãy đảm bảo rằng bạn đánh                                                                                    thuế ở nước ngoài (được định nghĩa trong Hướng
+dấu “Dual-Status Statement (Bản tường trình cho                                                                                      dẫn cho Mẫu 4868) có thể yêu cầu gia hạn nộp tờ
+Người có tình trạng kép)” ở trên đầu.
+                                                       Giới thiệu
+                                                                                                                                     khai thuế thêm 2 tháng tùy ý (ngày 15 tháng 12 đối
+    Nếu bạn từ bỏ quốc tịch hoặc chấm dứt tình                                                                                       với người đóng thuế theo năm). Để yêu cầu gia hạn,
+trạng cư trú trong năm 2024, bạn có thể phải nộp       Chương này cung cấp thông tin khai thuế cơ bản mà                             bạn phải gửi thư cho IRS giải thích lý do tại sao bạn
+bản tường trình cho người từ bỏ quốc tịch (Mẫu         bạn có thể cần đến.                                                           cần thêm 2 tháng. Gửi thư trước ngày đến hạn đã
+8854) cùng tờ khai thuế. Để biết thêm thông tin, xem                                                                                 gia hạn (ngày 15 tháng 10 đối với người trả tiền thuế
+Thuế từ bỏ quốc tịch trong chương 4.                                                                                                 theo năm) đến địa chỉ sau.
+                                                       Các chủ đề
+Báo cáo. Bất kỳ báo cáo nào cũng phải có tên, địa      Chương này thảo luận về:                                                             Department of the Treasury
+chỉ và số nhận dạng người đóng thuế trên đó. Bạn                                                                                            Internal Revenue Service
+không cần phải ký vào báo cáo riêng hoặc bảng liệt      •   Các mẫu đơn mà người nước ngoài phải nộp,                                       Austin, TX 73301-0215
+kê đi kèm tờ khai thuế do chữ ký của bạn trên tờ        •   Thời gian và địa điểm nộp,
+khai thuế cũng áp dụng cho báo cáo và bảng liệt kê.     •   Tiền phạt và                                                                 Bạn sẽ không nhận được bất kỳ thông báo nào
+                                                        •   Tờ khai được điều chỉnh và yêu cầu hoàn thuế.                            từ IRS, trừ khi yêu cầu của bạn bị từ chối do không
+                                                                                                                                     nộp đúng hạn.
+Thời gian và địa điểm nộp                              Các mục hữu ích                                                                   Việc gia hạn thêm 2 tháng tùy ý không áp dụng
+                                                       Bạn có thể muốn xem:                                                          cho người đóng thuế được gia hạn thời gian nộp
+Nếu bạn là người nước ngoài thường trú vào ngày                                                                                      Mẫu 2350 (dành cho công dân Hoa Kỳ và người
+cuối cùng của năm tính thuế và khai báo thu nhập         Mẫu đơn (và Hướng dẫn)                                                      nước ngoài thường trú ở nước ngoài dự kiến sẽ đủ
+theo năm thì bạn phải nộp không muộn hơn ngày 15                                                                                     điều kiện được hưởng ưu đãi thuế đặc biệt).
+tháng 4 của năm sau khi kết thúc năm tính thuế của          Mẫu 1040 Tờ khai thuế thu nhập Hoa Kỳ cho
+                                                                                                                                              Nếu ngày đến hạn nộp tờ khai thuế rơi vào
+                                                                        Mẫu 1040
+
+
+
+
+bạn (nhưng xem MẸO, ở phần sau). Nếu bạn khai                        Cá nhân
+                                                                                                                                      TIP     Thứ Bảy, Chủ Nhật hoặc ngày lễ hợp pháp
+báo thu nhập không phải theo năm, hay nộp tờ khai           Mẫu 1040-SR Tờ khai thuế Hoa Kỳ cho Người                                         thì ngày đến hạn sẽ là ngày tiếp theo không
+thuế không muộn hơn ngày 15 của tháng thứ 4 sau
+                                                                                   Mẫu 1040-SR
+
+
+
+
+                                                                        cao niên                                                     phải Thứ Bảy, Chủ Nhật hoặc ngày lễ hợp pháp.
+khi kết thúc năm tính thuế của bạn. Trong cả hai
+trường hợp, nộp tờ khai thuế đến địa chỉ này dành           Mẫu 1040-NR Tờ khai thuế thu nhập Hoa Kỳ
+                                                                                                                                                             Bạn có thể nộp tờ khai thuế
+                                                                                                 Mẫu 1040-NR
+
+
+
+
+cho người nước ngoài người mang hai quốc tịch ghi                       cho Người nước ngoài tạm trú
+                                                                                                                                                             bằng phương thức điện tử.
+ở mặt sau của Hướng dẫn cho Mẫu 1040.
+                                                       Xem chương 12 để biết thông tin về việc lấy các                               Truy cập IRS.gov/Efile để biết thêm thông tin.
+    Nếu bạn là người nước ngoài tạm trú vào ngày       mẫu đơn này.
+cuối cùng của năm tính thuế và khai báo thu nhập
+theo năm thì bạn phải nộp tờ khai thuế không muộn                                                                                    Người nước ngoài tạm trú
+hơn ngày 15 tháng 4 của năm sau khi kết thúc năm       Nội dung, thời gian và địa
+tính thuế nếu bạn nhận được tiền lương đã khấu                                                                                       Người nước ngoài tạm trú phải khai thuế thu nhập
+lưu. Nếu bạn khai báo thu nhập không phải theo         điểm nộp                                                                      nên dùng Mẫu 1040-NR.
+năm, nộp tờ khai thuế không muộn hơn ngày 15 của
+                                                                                                                                         Nếu bạn thuộc trường hợp nào trong số các
+tháng thứ 4 sau khi kết thúc năm tính thuế của bạn.    Tờ khai thuế phải nộp, thời gian và địa điểm nộp tờ
+                                                                                                                                     trường hợp sau thì bạn phải nộp tờ khai thuế.
+Nếu bạn không nhận được tiền lương đã khấu lưu         khai đó, tùy vào tình trạng của bạn vào cuối năm tính
+và khai báo thu nhập theo năm, bạn phải nộp tờ khai    thuế với tư cách người nước ngoài thường trú hay                                1. Người nước ngoài tạm trú đã tham gia hoặc
+thuế không muộn hơn ngày 15 tháng 6 của năm sau        người nước ngoài tạm trú.                                                          được coi là sẽ tham gia vào hoạt động thương
+
+Ấn phẩm 519 (2024)                                              Chương 7                                       Thông tin khai thuế                                                     33
+         mại hay kinh doanh ở Hoa Kỳ trong năm 2024.               Ngay cả khi bạn đã rời khỏi Hoa Kỳ và nộp      2023 và năm 2024 không phải là năm đầu tiên bạn
+         (Tuy nhiên, xem Ngoại lệ ở phần sau).                     Mẫu 1040-C khi xuất cảnh thì bạn vẫn phải      phải nộp tờ khai thuế thì tờ khai thuế năm 2024
+             Bạn phải nộp ngay cả khi:
+                                                             !
+                                                          CAUTION nộp tờ khai thuế thu nhập Hoa Kỳ hàng           được coi là nộp đúng hạn cho mục đích này nếu tờ
+                                                          năm. Nếu bạn đã kết hôn và cả bạn và người vợ/          khai được nộp trước:
+          a. Thu nhập của bạn không đến từ hoạt
+             động thương mại hay kinh doanh ở Hoa
+                                                          chồng đều phải nộp tờ khai thuế thì mỗi người phải        • Ngày nằm trong khoảng thời gian 16 tháng sau
+                                                          nộp một tờ khai riêng.                                       ngày đến hạn nộp tờ khai thuế năm 2024 hoặc
+             Kỳ,
+                                                                                                                    • Ngày IRS thông báo cho bạn rằng tờ khai thuế
+          b. Bạn không có thu nhập có nguồn gốc từ                                                                     năm 2024 chưa được nộp và bạn không thể
+                                                          Thực thể không xét đến (DE) nội địa thuộc sở
+             Hoa Kỳ hoặc                                                                                               yêu cầu một số khoản khấu trừ và tín thuế.
+                                                          hữu nước ngoài. Nếu người ngoại quốc sở hữu
+          c. Thu nhập của bạn được miễn thuế thu          toàn DE nội địa thì DE nội địa sẽ được coi là công ty   Mức miễn thuế cho các tín dụng sau không bị ảnh
+             nhập.                                        trong nước tách biệt với chủ sở hữu (người ngoại        hưởng bởi quy định về thời gian này.
+  2. Cá nhân là người nước ngoài tạm trú không
+                                                          quốc) khi xét đến các mục đích hạn chế của quy           • Tín thuế đã khấu lưu.
+     tham gia vào hoạt động thương mại hay kinh
+                                                          định này theo đoạn 6038A áp dụng cho 25% công ty         • Tín thuế tiêu thụ đặc biệt trên một số mục đích
+                                                          trong nước thuộc sở hữu nước ngoài. DE trong                sử dụng xăng và nhiên liệu đặc biệt.
+     doanh ở Hoa Kỳ có thu nhập từ Hoa Kỳ mà nợ
+     thuế không được thanh toán do khấu trừ thuế
+                                                          nước thuộc sở hữu nước ngoài phải nộp Mẫu 1120           • Tín thuế do một quỹ tương hỗ (hoặc RIC khác)
+                                                          chiếu lệ cùng Mẫu 5472 kèm theo trước ngày đến              hoặc REIT thanh toán trên lãi vốn dài hạn chưa
+     tại nguồn.
+                                                          hạn (bao gồm cả gia hạn) nộp tờ khai. Thông tin duy         phân phối.
+  3. Người đại diện chịu trách nhiệm nộp tờ khai          nhất phải điền vào Mẫu 1120 là tên và địa chỉ của
+     thuế của cá nhân được mô tả trong (1) hoặc           DE trong nước thuộc sở hữu nước ngoài và các                 Tờ khai thuế có tính bảo hộ. Nếu hoạt động
+     (2).                                                 mục B và E ở phần đầu tiên. DE trong nước thuộc         của bạn ở Hoa Kỳ bị hạn chế và bạn không tin rằng
+                                                          sở hữu nước ngoài có thể đã có quy định khai báo        mình có tổng thu nhập liên thông thực tế với hoạt
+  4. Người được ủy thác về di sản hoặc quỹ tín                                                                    động thương mại hay kinh doanh ở Hoa Kỳ trong
+                                                          trước năm 2017 nếu pháp nhân này đã thực hiện
+     thác của người nước ngoài tạm trú.                                                                           năm thì bạn có thể nộp tờ khai thuế có tính bảo hộ
+                                                          hoạt động thương mại hay kinh doanh ở Hoa Kỳ
+     Bạn cũng phải nộp tờ khai thuế nếu bạn muốn:         hoặc hoạt động khác đòi hỏi phải khai báo. Xem          (Mẫu 1040-NR) chậm nhất là vào ngày đến hạn
+ • Yêu cầu hoàn thuế đã khấu lưu hoặc nộp thừa            Hướng dẫn cho Mẫu 5472 để biết thêm thông tin và        được giải thích ở trên. Bằng cách nộp tờ khai thuế
+         hoặc                                             kết hợp với Mẫu 5472 do DE trong nước nộp. Cũng         có tính bảo hộ, bạn sẽ bảo vệ quyền được hưởng lợi
+ • Yêu cầu quyền lợi khấu trừ hoặc tín thuế. Ví dụ:       xin lưu ý rằng do DE trong nước thường là một pháp      về các khoản khấu trừ và tín thuế trong trường hợp
+         nếu bạn không có hoạt động kinh doanh nào ở      nhân minh bạch nên người ngoại quốc sẽ điền (hoặc       sau này người ta xác định rằng một số hoặc toàn bộ
+         Hoa Kỳ nhưng có thu nhập từ bất động sản mà      tiếp tục tính) bất kỳ khoản thuế nào phải khai báo      thu nhập của bạn liên thông thực tế. Bạn không phải
+         bạn chọn coi là Thu nhập liên thông thực tế      của DE trong nước vào Mẫu 1040-NR. DE (nước             khai báo bất kỳ khoản thu nhập nào liên thông thực
+         (được thảo luận trong chương 4) thì bạn phải     ngoài hoặc trong nước) cũng có thể có quy định báo      tế hoặc bất kỳ khoản khấu trừ nào trên tờ khai thuế
+         nộp tờ khai thuế chính xác đúng hạn để được      cáo riêng liên quan đến việc làm hoặc thuế tiêu thụ     có tính bảo hộ, nhưng bạn phải cho biết lý do nộp tờ
+         hưởng bất kỳ khoản khấu trừ nào cho phép đối     đặc biệt. Xem Quy định đoạn 301.7701-2(c)(2)(iv) và     khai thuế có tính bảo hộ.
+         với thu nhập đó. Để biết thông tin về các hạng   (v).                                                         Nếu bạn tin rằng một số hoạt động của bạn dẫn
+         mục nào đúng hạn, xem Khi nào nộp để được                                                                đến thu nhập liên thông thực tế, nộp tờ khai thuế báo
+         hưởng các khoản khấu trừ và tín thuế trong                                                               cáo thu nhập đó và các khoản khấu trừ liên quan
+                                                          Thời gian nộp                                           trước ngày đến hạn thông thường. Để bảo vệ quyền
+         Thời gian nộp ở phần sau.
+                                                                                                                  yêu cầu khấu trừ hoặc tín thuế từ các hoạt động
+                                                          Nếu bạn là nhân viên và nhận tiền lương khấu lưu
+Ngoại lệ. Bạn không cần phải nộp Mẫu 1040-NR                                                                      khác, hãy đính kèm bản tường trình với tờ khai thuế
+                                                          thuế thu nhập Hoa Kỳ, bạn thường sẽ nộp tờ khai
+nếu bạn đáp ứng bất kỳ điều kiện nào sau đây.                                                                     đó, trong đó giải thích rằng bạn muốn bảo vệ quyền
+                                                          thuế trước ngày 15 của tháng thứ 4 sau khi kết thúc
+                                                                                                                  yêu cầu khấu trừ và tín thuế nếu sau này người ta
+         Ngoại lệ trước đây cho phép người nước           năm tính thuế của bạn. Trong năm 2024, nộp tờ khai
+                                                                                                                  xác định rằng các hoạt động khác tạo ra thu nhập
+         ngoài tạm trú chỉ thực hiện hoạt động            thuế chậm nhất là vào ngày 15 tháng 4, 2025.
+     !
+ CAUTION thương mại hay kinh doanh ở Hoa Kỳ là
+                                                                                                                  liên thông thực tế.
+                                                                                                                       Bạn có thể làm theo quy trình tương tự nếu bạn
+thực hiện các dịch vụ cá nhân và có thu nhập tiền             Nếu bạn không phải là nhân viên nhận tiền
+                                                                                                                  tin rằng mình không nợ thuế Hoa Kỳ theo hiệp ước
+lương không vượt mức miễn trừ cá nhân và không            lương khấu lưu thuế thu nhập Hoa Kỳ, bạn phải nộp
+                                                                                                                  thuế của Hoa Kỳ. Hãy đảm bảo rằng bạn cũng hoàn
+phải nộp Mẫu 1040-NR hiện không còn khả dụng              tờ khai thuế trước ngày 15 của tháng thứ 6 sau khi
+                                                                                                                  thành mục L trên Bảng OI (Mẫu 1040-NR).
+nữa. Bạn phải thỏa mãn (1), (2) hoặc (3) dưới đây         kết thúc năm tính thuế của bạn. Trong năm 2024,
+để được miễn nộp Mẫu 1040-NR năm 2024.                    nộp tờ khai thuế chậm nhất là vào ngày 16 tháng 6,          Miễn hạn nộp tờ khai thuế. IRS có thể miễn
+                                                          2025.                                                   hạn nộp tờ khai thuế nếu bạn xác định rằng dựa trên
+  1. Bạn là học sinh/sinh viên, giáo viên hoặc                                                                    thực tế và hoàn cảnh, bạn đã thực hiện hành động
+     người tập sự là người nước ngoài tạm trú tạm         Gia hạn thời gian nộp. Nếu bạn không thể nộp tờ         hợp lý và có thiện chí trong việc không nộp tờ khai
+     trú ở Hoa Kỳ theo diện thị thực “F”, “J”, “M”        khai thuế vào ngày đến hạn, nộp Mẫu 4868 hoặc sử        thuế thu nhập Hoa Kỳ (bao gồm cả tờ khai thuế có
+     hoặc “Q” và bạn không có thu nhập chịu thuế          dụng một trong các lựa chọn nộp tờ khai thuế điện       tính bảo hộ) và bạn hợp tác với IRS khi xác định nợ
+     như tiền lương, tiền boa, học bổng và trợ cấp        tử được giải thích trong Hướng dẫn cho Mẫu 4868.        thuế thu nhập Hoa Kỳ cho năm tính thuế mà bạn
+     nghiên cứu sinh, cổ tức, v.v.                        Trong năm 2024, thời gian này sẽ gia hạn đến ngày       không khai thuế.
+                                                          15 tháng 10, 2025. Nếu ngày đáo hạn bình thường
+  2. Bạn là học sinh/sinh viên hoặc người học việc
+                                                          của bạn là 16 tháng 6, 2025 thì ngày này sẽ được
+     kinh doanh đủ điều kiện hưởng quyền lợi theo                                                                 Địa điểm nộp
+                                                          gia hạn đến ngày 15 tháng 12, 2025. Bạn phải xin
+     Điều 21(2) của Hiệp ước thuế thu nhập giữa                                                                            Nếu bạn không gửi kèm một khoản thanh
+                                                          gia hạn trước ngày đến hạn nộp tờ khai thuế thông
+     Hoa Kỳ và Ấn Độ, bạn là người độc thân hoặc                                                                           toán, nộp Mẫu 1040-NR tại địa chỉ sau.
+                                                          thường.
+     người vợ/chồng còn lại và tổng thu nhập của
+     bạn trong năm 2024 thấp hơn hoặc bằng                         Việc tự động gia hạn 6 tháng sẽ không kéo           Department of the Treasury
+     $14.600 nếu độc thân ($29.200 nếu bạn là                      dài thời gian trả tiền thuế của bạn. Nếu bạn
+     người vợ/chồng còn lại).
+                                                             !
+                                                          CAUTION không trả tiền thuế trước ngày đến hạn ban
+                                                                                                                       Internal Revenue Service
+                                                                                                                       Austin, TX 73301-0215
+                                                          đầu của tờ khai, bạn sẽ nợ lãi trên khoản thuế chưa
+  3. Bạn là đối tác của một công ty hợp danh Hoa
+                                                          nộp và có thể bị phạt. Xem Mẫu 4868.
+     Kỳ không tham gia vào hoạt động thương mại
+     hay kinh doanh ở Hoa Kỳ trong năm 2024 và                                                                    Nếu bạn gửi kèm một khoản thanh toán, hãy gửi tờ
+     Bảng K-1 (Mẫu 1065) chỉ bao gồm thu nhập từ          Thời gian nộp để được khấu trừ và tín thuế.             khai thuế qua đường bưu điện đến địa chỉ:
+     các nguồn ở Hoa Kỳ không liên thông thực tế          Bạn phải nộp tờ khai thuế chính xác đúng hạn để
+     với hoạt động thương mại hay kinh doanh ở            nhận quyền lợi về bất kỳ khoản khấu trừ hoặc tín             Internal Revenue Service
+     Hoa Kỳ.                                              thuế nào được phép. Với mục đích này, tờ khai thuế           P.O. Box 1303
+                                                          được coi là nộp đúng hạn nếu bạn nộp trong vòng              Charlotte, NC 28201-1303
+                                                          16 tháng kể từ ngày đến hạn vừa được thảo luận.
+                                                          Tuy nhiên, nếu bạn không nộp tờ khai thuế năm
+
+34                                                                 Chương 7      Thông tin khai thuế                                             Ấn phẩm 519 (2024)
+Người nước ngoài đến từ Quần đảo Virgin                 ngày đến hạn cuối cùng được coi là đã nộp vào          báo”). Ngưỡng khai báo khác nhau tùy vào việc bạn
+thuộc Mỹ. Khai báo toàn bộ thu nhập từ các nguồn        ngày đến hạn.                                          sống ở Hoa Kỳ, đã kết hôn hay khai thuế thu nhập
+ở Hoa Kỳ, cũng như thu nhập từ các nguồn khác, khi                                                             chung với người vợ/chồng. Tài sản tài chính nước
+bạn khai thuế. Để biết thông tin về việc nộp tờ khai        Ghi chú. Giờ đây, bạn có thể nộp Mẫu 1040-X        ngoài được chỉ định gồm bất kỳ tài khoản tài chính
+thuế Quần đảo Virgin thuộc Mỹ, hãy liên hệ với          bằng điện tử với phần mềm khai thuế để điều chỉnh      nào được duy trì bởi một tổ chức tài chính nước
+Phòng Thuế vụ Quần đảo Virgin thuộc Mỹ.                 Mẫu 1040 và 1040-SR năm 2019 và sau đó và Mẫu          ngoài và trong phạm vi được giữ lại để đầu tư bất kỳ
+                                                        1040-NR 2021 và sau đó. Để biết thêm thông tin,        cổ phiếu, chứng khoán hoặc quyền lợi nào khác
+         Nếu bạn là thường trú nhân Quần đảo
+                                                        truy cập IRS.gov/Form1040X.                            trong một pháp nhân nước ngoài và bất kỳ công cụ
+         Virgin thuộc Mỹ thực sự trong toàn bộ năm
+                                                                                                               tài chính hoặc hợp đồng nào với tổ chức phát hành
+         tính thuế và làm việc tạm thời ở Hoa Kỳ,
+bạn phải trả tiền thuế thu nhập cho Quần đảo Virgin     Các mẫu đơn khác mà bạn có                             hoặc đối tác không phải là người Hoa Kỳ.
+
+thuộc Mỹ và nộp tờ khai thuế thu nhập tại địa chỉ sau   thể phải nộp                                               Bạn có thể phải nộp phạt nếu bạn phải nộp Mẫu
+đây.
+                                                                                                               8938 nhưng không nộp hoặc nếu bạn khai giảm bớt
+                                                        Bạn có thể phải nộp tờ khai cung cấp thông tin để
+     Virgin Islands Bureau of Internal Revenue                                                                 tiền thuế do bất kỳ giao dịch nào liên quan đến tài
+                                                        khai báo một số thu nhập hoặc tài sản nước ngoài
+     6115 Estate Smith Bay                                                                                     sản tài chính nước ngoài chưa công bố.
+                                                        hoặc các giao dịch tiền tệ.
+     Suite 225
+     St. Thomas, VI 00802                                                                                         Bạn có thể biết thêm thông tin về việc nộp Mẫu
+                                                        FinCEN Mẫu 105, Báo cáo Hoạt động                      8938 trong Hướng dẫn cho Mẫu 8938 (tiếng Anh).
+                                                        vận chuyển tiền hoặc Công cụ tiền tệ
+                                                        quốc tế (CMIR)
+Chương 8 thảo luận về khấu lưu từ tiền lương của
+thường trú nhân Quần đảo Virgin thuộc Mỹ.
+                                                                                                               Hình phạt
+                                                        FinCEN Mẫu 105 là bắt buộc theo 31 U.S.C. 5316 và
+                                                        quy định của Bộ Tài chính (31 CFR, chương X).          Pháp luật quy định các hình phạt do không nộp tờ
+Người nước ngoài đến từ Guam hoặc Khối
+Thịnh vượng chung của Quần đảo Bắc Mariana                                                                     khai hoặc không trả tiền thuế theo yêu cầu.
+                                                        Những người sau đây phải nộp FinCEN Mẫu
+(CNMI). Nếu bạn là thường trú nhân chân thật của        105.
+Guam hoặc CNMI trong toàn bộ năm tính thuế, bạn
+                                                          1. Người vận tải, gửi thư hoặc vận chuyển hoặc
+                                                                                                               Hình phạt Dân sự
+phải khai thuế và nộp bất kỳ khoản thuế nào đến hạn
+cho Guam hoặc CNMI. Khai báo toàn bộ thu nhập,               buộc phải vận tải, gửi thư hoặc vận chuyển
+                                                             tiền hoặc các công cụ tiền tệ khác có tổng trị    Nếu bạn không nộp tờ khai thuế và trả tiền thuế
+bao gồm cả thu nhập có nguồn gốc từ Hoa Kỳ trên
+                                                             giá hơn $10.000 cùng một lúc từ Hoa Kỳ đến        trước ngày đến hạn, bạn có thể phải trả tiền phạt.
+tờ khai thuế của bạn. Không cần phải nộp tờ khai
+                                                             bất cứ nơi đâu bên ngoài lãnh thổ Hoa Kỳ          Bạn cũng có thể phải trả tiền phạt nếu bạn khai báo
+thuế thu nhập Hoa Kỳ riêng.
+                                                             hoặc vào Hoa Kỳ từ bất cứ nơi đâu bên ngoài       thiếu thuế đáng kể, nộp tờ khai phù phiếm, hoặc
+         Thường trú nhân chân thật của Guam phải             lãnh thổ Hoa Kỳ.                                  không cung cấp TIN của bạn. Nếu bạn cung cấp
+         nộp tờ khai thuế Guam theo địa chỉ sau.                                                               thông tin gian lận trên tờ khai thuế, bạn có thể phải
+                                                          2. Người nhận tiền hoặc các công cụ tiền tệ khác     trả tiền phạt dân sự do gian lận.
+     Department of Revenue and Taxation                      của Hoa Kỳ có tổng trị giá hơn $10.000 tại một
+     Government of Guam                                      thời điểm từ bất cứ nơi đâu bên ngoài lãnh thổ    Nộp trễ. Nếu bạn không nộp tờ khai trước ngày
+     P.O. Box 23607                                          Hoa Kỳ.                                           đến hạn (bao gồm cả gia hạn), bạn có thể phải trả
+     Barrigada, GU 96921                                                                                       tiền phạt do không nộp tờ khai. Tiền phạt dựa trên
+                                                        Giao dịch chuyển tiền thông qua các thủ tục ngân
+                                                                                                               tiền thuế chưa trả trước hạn (không tính gia hạn).
+                                                        hàng thông thường, không liên quan đến hoạt động
+                                                                                                               Tiền phạt thường là 5% cho mỗi tháng hoặc một
+                                                        vận chuyển tiền hoặc các công cụ tiền tệ, không bắt
+         Thường trú nhân chân thật của CNMI nên                                                                phần trong tháng nếu bạn khai thuế trễ, nhưng
+                                                        buộc phải khai báo.
+         nộp tờ khai thuế CNMI đến địa chỉ sau.                                                                không quá 25%.
+                                                        Hình phạt. Hình phạt dân sự và hình sự sẽ được áp          Gian lận. Nếu bạn không nộp tờ khai thuế do
+     Saipan Central Office                              dụng nếu không nộp báo cáo, nộp báo cáo có thiếu       gian lận, bạn sẽ bị phạt 15% cho mỗi tháng hoặc
+     Division of Revenue and Taxation                   sót hoặc sai sót trọng yếu hoặc báo cáo sai sự thật    một phần trong tháng bạn khai thuế trễ, tối đa là
+     P.O. Box 5234 CHRB                                 hoặc gian lận. Ngoài ra, toàn bộ tiền hoặc công cụ     75%.
+     Saipan, MP 96950                                   tiền tệ có thể bị thu giữ và tịch thu.
+                                                                                                                   Tờ khai trễ hơn 60 ngày. Nếu bạn nộp tờ khai
+                                                        Thêm thông tin. Mẫu đơn này có sẵn tại                 thuế hơn 60 ngày sau ngày đến hạn hoặc ngày đến
+   Nếu bạn không phải là thường trú nhân Guam
+                                                        FinCEN.gov/resources/filing-information (tiếng Anh).   hạn đã gia hạn thì tiền phạt tối thiểu sẽ là số nhỏ hơn
+hoặc CNMI thực sự, xem Ấn phẩm 570 (tiếng Anh)
+                                                        Để biết thêm thông tin về E—Filing của BSA, xem        của $510 hoặc 100% số tiền thuế chưa trả.
+để biết thông tin về địa điểm nộp tờ khai thuế.
+                                                        mục E—Filing tại BSAefiling.fincen.treas.gov/
+                                                                                                                   Ngoại lệ. Bạn sẽ không phải trả tiền phạt nếu
+                                                        main.html (tiếng Anh).
+Tờ khai được điều chỉnh và                                                                                     bạn chứng minh rằng bạn đã không thể nộp tờ khai
+                                                                                                               thuế đúng hạn vì có lý do hợp lý chứ không phải do
+Yêu cầu hoàn thuế                                       Mẫu 8938                                               cố tình sơ suất.
+
+Nếu bạn nhận thấy thay đổi trong thu nhập, khoản        Bạn có thể phải nộp Mẫu 8938 để khai báo quyền sở      Trả tiền thuế trễ. Bạn sẽ phải trả tiền phạt do
+khấu trừ hoặc tín thuế sau khi nộp tờ đơn khai thuế     hữu các tài sản tài chính nước ngoài được chỉ định     không trả thuế của 1/2 của 1% (0,005) tiền thuế chưa
+qua đường bưu điện, nộp Mẫu 1040-X . Đồng thời          nếu bạn là một trong những cá nhân sau.                trả cho mỗi tháng hoặc một phần trong tháng, sau
+dùng Mẫu 1040-X nếu lẽ ra bạn phải nộp Mẫu 1040          • Người nước ngoài thường trú Hoa Kỳ trong bất        ngày đến hạn mà khoản thuế đó chưa trả. Tiền phạt
+hoặc Mẫu 1040-SR thay vì Mẫu 1040-NR hoặc                    kỳ thời điểm nào của năm tính thuế.               này không áp dụng trong thời gian tự động gia hạn 6
+ngược lại.                                               • Người nước ngoài tạm trú chọn được coi như          tháng của thời gian nộp tờ khai thuế nếu bạn đã
+                                                             thường trú nhân với mục đích nộp tờ khai thuế     thanh toán ít nhất 90% nợ thuế thực tế của mình vào
+    Nếu bạn chỉnh sửa Mẫu 1040-NR hoặc nộp tờ                thu nhập chung. Xem chương 1 để biết thông        ngày hoặc trước ngày đến hạn khai thuế và thanh
+khai thuế đã sửa, nhập “Amended (Được điều                   tin về lựa chọn này.                              toán số nợ khi bạn nộp tờ khai.
+chỉnh)” ở trên cùng và đính kèm tờ khai được điều        • Người nước ngoài tạm trú là thường trú nhân             Mức tiền phạt hàng tháng do không trả thuế
+chỉnh (Mẫu 1040, Mẫu 1040-SR hoặc Mẫu                        Samoa của Mỹ hoặc Puerto Rico thực sự. Xem        bằng một nửa mức phạt thông thường 1/4% (0,0025
+1040-NR) với Mẫu 1040-X. Thông thường, tờ khai               Ấn phẩm 570 (tiếng Anh) để biết định nghĩa về     thay vì 1/2% (0,005)) nếu thỏa thuận trả góp có hiệu
+được điều chỉnh yêu cầu hoàn thuế phải được nộp              thường trú nhân thực sự.                          lực trong tháng đó. Bạn đã phải nộp tờ khai thuế
+trong vòng 3 năm kể từ ngày nộp tờ khai thuế hoặc                                                              trước ngày đến hạn (bao gồm cả gia hạn) để đủ điều
+trong vòng 2 năm kể từ thời điểm trả tiền thuế, tùy          Bạn phải nộp Mẫu 8938 nếu tổng giá trị của các    kiện được giảm tiền phạt này.
+theo ngày nào muộn hơn. Tờ khai thuế nộp trước          tài sản đó vượt quá ngưỡng áp dụng ( “ngưỡng khai
+
+Ấn phẩm 519 (2024)                                               Chương 7      Thông tin khai thuế                                                                 35
+    Nếu thông báo về ý định áp thuế được ban hành,        điểm thẩm quyền đáng kể, nhưng chỉ khi bạn tin         cho thấy rõ ràng rằng khoản thuế bạn đã khai báo về
+mức phạt sẽ tăng lên 1% vào đầu tháng đầu tiên bắt        tưởng một cách hợp lý rằng xử lý thuế có thể là cách   căn bản là không chính xác. Để biết thêm thông tin
+đầu ít nhất 10 ngày sau ngày ban hành thông báo.          xử lý thích hợp.                                       về tờ khai thuế phù phiếm và nội dung nộp tờ khai
+Nếu thông báo và yêu cầu thanh toán ngay được                                                                    thuế phù phiếm và danh sách các quan điểm được
+phát hành, mức phạt sẽ tăng lên 1% vào đầu tháng              Thẩm quyền đáng kể. Việc có hay không có           xác định là phù phiếm, truy cập IRS.gov/irb/
+đầu tiên bắt đầu sau ngày ban hành thông báo và           thẩm quyền đáng kể về việc xử lý thuế đối với một      2010-17_IRB#NOT-2010-33 (tiếng Anh) (hoặc các
+yêu cầu.                                                  mục phụ thuộc vào thực tế và hoàn cảnh. Phán           phiên bản kế tiếp).
+                                                          quyết tòa án, quy định Bộ Tài chính, phán quyết thuế
+    Tiền phạt này không được nhiều hơn 25% tiền                                                                      Bạn sẽ phải nộp phạt nếu bạn nộp tờ khai thuế
+                                                          vụ, quy trình thuế vụ, thông báo và tuyên bố được
+thuế bạn chưa trả. Bạn sẽ không phải trả tiền phạt                                                               loại này dựa trên một vị thế phù phiếm hoặc mong
+                                                          đưa ra bởi IRS và được phát hành trong Bản tin
+nếu bạn có thể chứng minh rằng bạn có lý do hợp lý                                                               muốn trì hoãn hoặc can thiệp vào công tác quản lý
+                                                          Thuế vụ liên quan đến các trường hợp giống nhau
+cho việc không trả thuế đúng hạn.                                                                                các luật thuế liên bang. Điều này bao gồm việc thay
+                                                          hoặc tương tự như trường hợp của bạn sẽ được
+                                                                                                                 đổi hoặc làm nổi bật ngôn ngữ in sẵn phía trên
+                                                          xem xét.
+Tiền phạt kết hợp. Nếu cả tiền phạt do không nộp                                                                 khoảng trống được cung cấp để bạn ký tên.
+tờ khai và tiền phạt do không trả thuế (được thảo             Tường trình tiết lộ. Để tiết lộ đầy đủ thông tin       Tiền phạt này được cộng vào bất kỳ tiền phạt
+luận ở phần trước) áp dụng trong bất kỳ tháng nào,        liên quan về cách xử lý thuế đối với một mục, hãy sử   nào khác theo luật định.
+tiền phạt 5% (hoặc 15%) do không nộp tờ khai sẽ           dụng Mẫu 8275, Tường trình tiết lộ. Bạn cũng phải
+giảm xuống bằng tiền phạt do không trả thuế. Tuy          có cơ sở hợp lý để xử lý khoản đó theo cách bạn        Gian lận. Nếu có bất kỳ khoản thuế nào trả thiếu
+nhiên, nếu bạn nộp tờ khai hơn 60 ngày sau ngày           từng làm.                                              trên tờ khai do gian lận thì tiền phạt bằng 75% khoản
+đến hạn hoặc ngày đến hạn đã gia hạn thì tiền phạt            Trong trường hợp khai giảm bớt tiền thuế đáng      thuế trả thiếu do gian lận sẽ được cộng vào tiền thuế
+tối thiểu sẽ nhỏ hơn $510 hoặc 100% tiền thuế chưa        kể, chỉ có các khoản đáp ứng yêu cầu của Quy trình     của bạn.
+trả.                                                      Thuế vụ 2024–44, có sẵn tại IRS.gov/irb/
+                                                          2024-52_IRB#REV-PROC-2024-44           (tiếng   Anh)   Không cung cấp TIN. Nếu bạn không cung cấp
+Tiền phạt liên quan đến tính chính xác của tờ             (hoặc phiên bản kế tiếp) mới được coi là đã tiết lộ    SSN hoặc ITIN hay SSN hoặc ITIN của người khác
+khai. Bạn có thể phải trả tiền phạt liên quan đến tính    đầy đủ trên tờ khai thuế của bạn.                      theo yêu cầu trên tờ khai thuế, báo cáo hoặc tài liệu
+chính xác nếu bạn trả thiếu tiền thuế do:                     Quy trình Thuế vụ 2024–44 không xét đến hiệu       khác thì bạn có thể bị phạt $50 cho từng hành vi
+  • Bạn thể hiện thái độ sơ suất hoặc coi thường          lực của những thay đổi trong luật thuế có hiệu lực     không thực hiện. Bạn cũng có thể bị phạt $50 nếu
+     các quy tắc hoặc quy định,                           trong các năm thuế bắt đầu sau ngày 31 tháng 12,       bạn không cung cấp SSN hoặc ITIN cho người khác
+  • Bạn khai giảm đi tiền thuế thu nhập đáng kể,          2024. Nếu tham chiếu một dòng trong quy trình thuế     theo yêu cầu trên tờ khai thuế, báo cáo hoặc tài liệu
+  • Bạn yêu cầu quyền lợi thuế cho một giao dịch          vụ này bị ảnh hưởng bởi thay đổi đó và yêu cầu khai    khác.
+     thiếu tính kinh tế hoặc                              báo bổ sung thì người đóng thuế có thể phải nộp            Ví dụ: nếu bạn có tài khoản ngân hàng sinh lãi thì
+  • Bạn không tiết lộ tài sản tài chính nước ngoài.       Mẫu 8275 hoặc Mẫu 8275-R, Tường trình tiết lộ theo     bạn phải cung cấp SSN hoặc ITIN cho ngân hàng.
+Tiền phạt bằng 20% số tiền trả thiếu. Tiền phạt bằng      Quy định cho đến khi quy định hoặc hướng dẫn           Số này phải được ghi trên Mẫu 1099-INT hoặc sao
+40% của bất kỳ phần tiền thanh toán thiếu liên quan       khác được ban hành nhằm tuân thủ quy định đó.          kê khác mà ngân hàng gửi cho bạn. Nếu bạn không
+đến một giao dịch phi kinh tế chưa tiết lộ hoặc một           Tường trình đầy đủ và chính xác quan điểm thuế     cung cấp SSN hoặc ITIN cho ngân hàng thì bạn sẽ
+giao dịch tài sản tài chính nước ngoài chưa công bố.      trên Bảng UTP (Mẫu 1120), Tường trình quan điểm        bị phạt $50. (Bạn cũng có thể chịu khấu lưu dự
+Tiền phạt sẽ không được tính trên bất kỳ phần tiền        thuế không chắc chắn của năm thích hợp, sẽ được        phòng của thuế thu nhập).
+thanh toán thiếu bị phạt do gian lận,                     coi như thể công ty cổ phần đã nộp Mẫu 8275 hoặc           Bạn sẽ không phải nộp phạt nếu bạn có thể
+được thảo luận ở phần sau.                                Mẫu 8275-R liên quan đến quan điểm thuế. Tuy           chứng minh rằng việc không thực hiện là do có lý do
+                                                          nhiên, việc nộp Mẫu 8275 hoặc Mẫu 8275-R sẽ            hợp lý và không cố ý bỏ qua.
+     Sơ suất hoặc coi thường. Thuật ngữ “sơ suất”         không được coi như thể công ty cổ phần đã nộp
+bao gồm việc không thực hiện nỗ lực hợp lý để tuân        Bảng UTP (Mẫu 1120).
+thủ luật thuế hoặc không có sự cẩn trọng hợp lý khi           Dùng Mẫu 8275-R để tiết lộ các mục hoặc quan
+                                                                                                                 Phạt Hình sự
+chuẩn bị khai thuế. Hành động sơ suất cũng bao            điểm trái với quy định.
+gồm việc không lưu sổ sách và hồ sơ đầy đủ. Bạn sẽ                                                               Bạn có thể bị truy tố hình sự (đưa ra xét xử) cho
+không phải trả tiền phạt do sơ suất nếu bạn có cơ sở         Giao dịch thiếu tính kinh tế. Để tìm hiểu thêm      những hành vi như:
+hợp lý cho vị trí mà bạn đảm nhận hoặc nếu bạn có         thông tin về tính kinh tế, xem đoạn 7701(o).
+                                                                                                                    1. Trốn thuế;
+thể cho biết một lý do hợp lý và hành động một cách
+                                                              Tài sản tài chính nước ngoài. Để biết thêm            2. Cố ý không khai thuế, cung cấp thông tin hoặc
+thiện chí.
+                                                          thông tin về tài sản tài chính nước ngoài chưa công          nộp bất kỳ khoản thuế nào đến hạn;
+     Thuật ngữ “coi thường” bao gồm bất kỳ hành vi
+                                                          bố, xem đoạn 6662(j) hoặc Hướng dẫn cho Mẫu
+lơ là bất cẩn, thiếu thận trọng hoặc cố ý coi thường.                                                               3. Gian lận hoặc khai man; hoặc
+                                                          8938 (tiếng Anh).
+    Tiết lộ đầy đủ. Bạn có thể tránh bị phạt do bỏ                                                                  4. Chuẩn bị và khai thuế gian lận.
+                                                              Lý do hợp lý. Bạn sẽ không phải trả tiền phạt
+qua các quy tắc hoặc quy định nếu bạn tiết lộ trên tờ
+                                                          nếu bạn đưa ra lý do tốt (lý do hợp lý) cho cách bạn
+khai của mình một quan điểm có ít nhất một cơ sở
+                                                          xử lý một mục. Bạn cũng phải chứng minh rằng bạn
+hợp lý. Xem Tường trình tiết lộ ở phần sau.
+                                                          đã hành động một cách thiện chí. Điều này không áp
+    Ngoại lệ này sẽ không áp dụng cho một khoản
+                                                          dụng cho một giao dịch thiếu tính kinh tế.
+có thể quy cho trốn thuế. Ngoài ra, ngoại lệ này cũng
+sẽ không được áp dụng nếu bạn không lưu hồ sơ và
+sổ sách đầy đủ hoặc chứng minh cho các khoản một
+cách hợp lý.
+                                                          Nộp yêu cầu hoàn thuế hoặc tín thuế có sai sót.
+                                                          Bạn có thể phải trả tiền phạt nếu bạn nộp yêu cầu      8.
+                                                          hoàn thuế hoặc tín thuế có sai sót. Tiền phạt tương
+    Khai báo thuế thu nhập thiếu đáng kể. Bạn             đương với 20% số tiền không được phép trong yêu
+khai báo thiếu thuế nếu tiền thuế hiển thị trên tờ khai
+ít hơn tiền thuế đúng. Việc khai báo thiếu là đáng kể
+                                                          cầu, trừ khi bạn có thể chứng minh rằng bạn có lý do
+                                                          hợp lý để nộp yêu cầu. Tuy nhiên, bất kỳ số tiền nào   Trả tiền thuế qua
+                                                          không được phép do giao dịch thiếu tính kinh tế sẽ
+                                                                                                                 Khấu lưu hoặc Thuế
+nếu cao hơn 10% tiền thuế đúng hoặc $5.000. Tuy
+nhiên, số tiền khai báo thiếu được giảm xuống bằng        không được coi là có lý do hợp lý. Tiền phạt sẽ
+số tiền khai báo thiếu do:                                không được tính trên bất kỳ phần tiền nào không
+
+                                                                                                                 ước tính
+                                                          được phép trong yêu cầu chịu phạt liên quan đến
+  1. Thẩm quyền đáng kể,                                  tính chính xác hoặc gian lận.
+  2. Tiết lộ đầy đủ và dựa trên cơ sở hợp lý, hoặc
+                                                          Nộp tờ khai thuế phù phiếm. Bạn có thể phải nộp
+  3. Lý do hợp lý và có thiện chí.                        phạt $5.000 nếu bạn nộp tờ khai thuế phù phiếm
+    Nếu một mục trên tờ khai có thể bị quy cho tránh      hoặc nội dung nộp phù phiếm khác. Tờ khai thuế         Giới thiệu
+thuế thì bạn sẽ không được giảm thuế khi tiết lộ đầy      phù phiếm là tờ khai không có đủ thông tin để xác      Chương này thảo luận về cách trả tiền thuế thu nhập
+đủ. Tuy nhiên, có khoản giảm nhẹ cho một quan             định tiền thuế chính xác hoặc chứa đựng thông tin      Hoa Kỳ khi bạn kiếm được hoặc nhận được thu
+
+36                                                    Chương 8      Trả tiền thuế qua Khấu lưu hoặc Thuế ước tính                               Ấn phẩm 519 (2024)
+nhập trong năm. Nhìn chung, thuế thu nhập liên                                                 13930 Đơn xin Thỏa thuận khấu lưu thuế thu
+                                                                                                      13930                                      cách nhân viên thực hiện các dịch vụ cá nhân của
+bang là khoản phải thanh toán ngay. Có hai cách để                                                   nhập Hoa Kỳ dựa trên thu nhập của           người phụ thuộc tại Hoa Kỳ. Tiền thù lao từ dịch vụ
+thanh toán ngay.                                                                                    Người tạm trú                                cá nhân được thực hiện thay mặt người khác gồm
+                                                                                                                                                 các khoản thanh toán như tiền công, tiền lương, phí,
+  1. Khấu lưu. Nếu bạn là nhân viên thì chủ lao                                           Xem chương 12 để biết thông tin về việc lấy các ấn
+                                                                                                                                                 tiền thưởng, hoa hồng, học bổng, trợ cấp nghiên
+     động có thể khấu lưu thuế thu nhập từ tiền                                           phẩm và mẫu đơn này.
+                                                                                                                                                 cứu sinh và các chỉ định tương tự về số tiền đã trả
+     lương. Thuế cũng có thể bị khấu lưu từ một số
+                                                                                                                                                 cho nhân viên.
+     thu nhập khác — bao gồm lương hưu, tiền
+     thưởng, hoa hồng và tiền thắng bài bạc. Trong                                        Thông báo về tình trạng                                    Để xem liệu bạn có cần phải tăng hoặc giảm tiền
+     từng trường hợp, số tiền bị khấu lưu sẽ được
+     trả cho Bộ Tài chính Hoa Kỳ dưới tên của bạn.                                        Người nước ngoài                                       khấu lưu hay không, hãy sử dụng IRS Công cụ Ước
+                                                                                                                                                 tính khấu lưu thuế.
+  2. Thuế ước tính. Nếu bạn không trả tiền thuế
+                                                                                          Bạn phải báo cho chủ lao động biết bạn là thường          Xem Khấu lưu từ học bổng và trợ cấp nghiên
+     thông qua việc khấu lưu hoặc không nộp đủ
+                                                                                          trú nhân hay người nước ngoài tạm trú để họ có thể     cứu sinh ở phần sau để biết cách điền vào Mẫu W-4
+     thuế theo cách đó thì bạn có thể phải trả tiền
+                                                                                          khấu lưu thuế chính xác từ tiền lương của bạn.         nếu bạn nhận được học bổng hoặc trợ cấp nghiên
+     thuế ước tính. Người tư doanh thường sẽ phải
+                                                                                                                                                 cứu sinh có nguồn gốc từ Hoa Kỳ không phải là
+     trả tiền thuế theo cách này. Bạn có thể phải trả                                         Nếu bạn là người nước ngoài thường trú theo        khoản thanh toán cho các dịch vụ.
+     tiền thuế ước tính nếu bạn nhận được thu                                             quy tắc được thảo luận trong chương 1, bạn phải
+     nhập như cổ tức, tiền lãi, tiền cho thuê và tiền                                     nộp Mẫu W-9 hoặc báo cáo tương tự cho chủ lao          Học sinh và người học nghề kinh doanh đến từ
+     bản quyền. Thuế ước tính được dùng để trả                                            động. Nếu bạn là người nước ngoài tạm trú theo quy     Ấn Độ. Nếu bạn đủ điều kiện được hưởng quyền
+     tiền thuế thu nhập, thuế trên công việc tự kinh                                      tắc đó thì bạn phải cung cấp cho chủ lao động Mẫu      lợi theo Điều 21(2) của Hiệp ước thuế thu nhập giữa
+     doanh và thuế tối thiểu thay thế.                                                    8233 hoặc Mẫu W-8BEN, trong đó xác nhận rằng           Hoa Kỳ và Ấn Độ thì bạn có thể yêu cầu khấu lưu
+                                                                                          bạn là người ngoại quốc hoặc Mẫu W-4, trong đó         thêm đối với mức khấu trừ tiêu chuẩn.
+Các chủ đề                                                                                xác nhận rằng tiền thù lao của bạn phải chịu khấu
+Chương này thảo luận về:                                                                  lưu lũy tiến ở mức tương tự như người nước ngoài       Nhân viên tại gia. Nếu bạn là nhân viên tại gia thì
+                                                                                          thường trú hoặc công dân Hoa Kỳ.                       chủ lao động không phải khấu lưu thuế thu nhập. Tuy
+ • Cách thông báo cho chủ lao động về tình trạng                                              Nếu bạn là người nước ngoài thường trú và          nhiên, bạn có thể đồng ý tự nguyện khấu lưu thuế
+     người nước ngoài của bạn,                                                            nhận được thu nhập ngoài tiền lương (chẳng hạn         thu nhập bằng cách nộp Mẫu W-4 cho chủ lao động.
+ •   Thu nhập chịu khấu lưu thuế thu nhập,                                                như cổ tức và tiền bản quyền) từ các nguồn ở Hoa       Hợp đồng này có hiệu lực khi chủ lao động chấp
+ •   Miễn tiền khấu lưu,                                                                  Kỳ, nộp Mẫu W-9 hoặc báo cáo tương tự cho đại lý       nhận hợp đồng bằng cách bắt đầu khấu lưu. Bạn
+ •   Thuế an sinh xã hội và thuế Medicare và                                              khấu lưu (thường là người trả thu nhập) để họ không    hoặc chủ lao động có thể kết thúc hợp đồng bằng
+ •   quy tắc về thuế ước tính.                                                            khấu lưu thuế trên thu nhập với thuế suất 30% (hoặc    cách thông báo bằng văn bản cho người kia biết.
+                                                                                          thấp hơn theo hiệp ước). Nếu bạn nhận được thu
+                                                                                                                                                 Công nhân ngành nông nghiệp. Nếu bạn là công
+Các mục hữu ích                                                                           nhập loại này với tư cách là người nước ngoài tạm
+                                                                                                                                                 nhân ngành nông nghiệp theo diện thị thực H-2A thì
+Bạn có thể muốn xem:                                                                      trú, nộp Mẫu W-8BEN cho đại lý khấu lưu để họ
+                                                                                                                                                 chủ lao động không phải khấu lưu thuế thu nhập. Tuy
+                                                                                          khấu lưu thuế với thuế suất 30% (hoặc thấp hơn
+                                                                                                                                                 nhiên, chủ lao động sẽ khấu lưu thuế thu nhập chỉ
+                                                                                          theo hiệp ước). Tuy nhiên, nếu thu nhập liên thông
+  Ấn phẩm                                                                                                                                        khi bạn và chủ lao động đồng ý khấu lưu. Trong
+                                                                                          thực tế với hoạt động thương mại hay kinh doanh ở
+                                                                                                                                                 trường hợp đó, bạn phải cung cấp cho chủ lao động
+     515 Khấu lưu thuế cho Người nước ngoài                                               Hoa Kỳ, nộp Mẫu W-8ECI.
+           515
+
+
+
+
+                                                                                                                                                 Mẫu W-4 đã điền đầy đủ thông tin. Bạn có thể tìm
+         tạm trú và Thực thể nước ngoài                                                                                                          thêm thông tin về việc không có thuế khấu lưu tại
+     901 Hiệp uớc thuế Hoa Kỳ
+           901
+
+
+
+
+                                                                                          Khấu lưu từ Thù lao                                    IRS.gov/ForeignAgriculturalWorkers (tiếng Anh).
+
+
+  Mẫu đơn (và Các Hướng dẫn)                                                              Phần thảo luận sau đây thường chỉ áp dụng cho          Tiền lương được miễn thuế khấu lưu
+                                                                                          người nước ngoài tạm trú. Thuế được khấu lưu đối
+     W-4 Chứng nhận Khấu lưu thuế của Nhân                                                                                                       Tiền lương được miễn thuế thu nhập Hoa Kỳ theo
+                                                                                          với người nước ngoài thường trú theo cách tương
+           W-4
+
+
+
+
+         viên                                                                                                                                    hiệp ước thuế thu nhập thường được miễn khấu lưu.
+                                                                                          tự như công dân Hoa Kỳ.
+                                                                                                                                                 Để biết thông tin về cách yêu cầu miễn thuế khấu
+     Thông báo 1392 Hướng dẫn bổ sung cho
+                                                                                              Tiền lương và tiền thù lao khác trả cho người      lưu, xem Thu nhập được hưởng quyền lợi theo hiệp
+                                                   Thông báo 1392
+
+
+
+
+                     Mẫu W-4 dành cho Người
+                                                                                          nước ngoài tạm trú đối với các dịch vụ được thực       ước thuế ở phần sau.
+         nước ngoài tạm trú
+                                                                                          hiện với tư cách nhân viên thường phải chịu khấu
+     W-8BEN Giấy chứng nhận tình trạng Người                                              lưu lũy tiến ở mức tương tự như người nước ngoài           Tiền lương trả cho người nước ngoài là thường
+                                                                                          thường trú và công dân Hoa Kỳ. Do đó, tiền thù lao     trú nhân Samoa của Mỹ, Canada, Mexico, Puerto
+                                          W-8BEN
+
+
+
+
+             ngoại quốc của Chủ sở hữu thụ
+         hưởng để khấu lưu và khai báo thuế Hoa                                           của bạn, trừ khi được loại trừ khỏi điều khoản “tiền   Rico hoặc Quần đảo Virgin thuộc Mỹ có thể được
+         Kỳ (Cá nhân)                                                                     lương” theo luật định hoặc được miễn thuế theo hiệp    miễn khấu lưu thuế. Các đoạn sau sẽ giải thích
+                                                                                          ước, phải chịu thuế khấu lưu lũy tiến.                 khoản miễn trừ này.
+     W-8ECI Giấy chứng nhân của Người ngoại
+                                 W-8ECI
+
+
+
+
+            quốc tuyên bố rằng thu nhập đó liên
+         thông thực tế với hoạt động thương mại
+                                                                                          Khấu lưu từ tiền lương                                 Thường trú nhân Canada hoặc Mexico đã tham
+                                                                                                                                                 gia vào hoạt động vận chuyển. Một số thường trú
+         hay kinh doanh ở Hoa Kỳ                                                                                                                 nhân Canada hoặc Mexico nhập cảnh hoặc rời khỏi
+                                                                                          Nếu bạn là nhân viên và nhận tiền lương chịu khấu
+                                                                                                                                                 Hoa Kỳ thường xuyên sẽ không bị khấu lưu thuế trên
+     W-9 Yêu cầu cấp Mã số thuế và Chứng nhận                                             lưu lũy tiến thì bạn sẽ phải điền vào Mẫu W-4. Đồng
+                                                                                                                                                 tiền lương. Họ:
+                                                                                          thời, hãy điền vào Mẫu W-4 để nhận học bổng hoặc
+           W-9
+
+
+
+
+                                                                                          trợ cấp nghiên cứu sinh trong phạm vi thể hiện
+                                                                                                                                                    • Thực hiện nhiệm vụ trong dịch vụ vận chuyển
+     Mẫu 1040-ES (NR) Thuế ước tính Hoa Kỳ
+                                                                                                                                                       giữa Hoa Kỳ và Canada hoặc Mexico; hoặc
+                                                                    Mẫu 1040-ES (NR)
+
+
+
+
+                       dành cho Cá nhân là                                                khoản thanh toán cho các dịch vụ trước đây, hiện tại
+                                                                                          hoặc tương lai và bạn không yêu cầu miễn khấu lưu
+                                                                                                                                                    • Thực hiện nhiệm vụ liên quan đến việc xây
+          Người nước ngoài tạm trú
+                                                                                                                                                       dựng, bảo trì hoặc vận hành đường thủy, cầu
+                                                                                          theo hiệp ước thuế trên Mẫu 8233 (được thảo luận ở
+     8233 Miễn khấu lưu thù lao cho Dịch vụ cá                                                                                                         cạn, đập hoặc cầu bắc qua ranh giới giữa Hoa
+                                                                                          phần sau trong Thu nhập được hưởng quyền lợi
+                                                                                                                                                       Kỳ và Canada hoặc ranh giới giữa Hoa Kỳ và
+                 8233
+
+
+
+
+           nhân độc lập (và một số Người phụ                                              theo hiệp ước thuế). Đây là những dịch vụ mà bạn
+          thuộc nhất định) của Người nước ngoài                                                                                                        Mexico.
+                                                                                          phải thực hiện với tư cách nhân viên và là điều kiện
+          tạm trú                                                                         để nhận học bổng hoặc trợ cấp nghiên cứu sinh                       Việc làm này phải chịu khấu lưu thuế an
+                                                                                          (hoặc giảm học phí).                                                sinh xã hội và thuế Medicare, trừ khi các
+     8288-B Đơn xin cấp Giấy chứng nhận khấu
+                        8288-B
+                                                                                                                                                      !       dịch vụ được thực hiện cho đường sắt.
+              lưu thuế đối với Hoạt động chuyển                                              Người nước ngoài tạm trú phải tuân thủ hướng
+                                                                                                                                                    CAUTION
+
+
+          nhượng của Người ngoại quốc sở hữu                                              dẫn đặc biệt trong Thông báo 1392 (tiếng Anh) khi         Để đủ điều kiện được miễn khấu lưu thuế trong
+          lợi ích từ bất động sản ở Hoa Kỳ                                                hoàn thành Mẫu W-4 về tiền thù lao được trả với tư     một năm tính thuế, thường trú nhân Canada hoặc
+
+Ấn phẩm 519 (2024)                                                                     Chương 8     Trả tiền thuế qua Khấu lưu hoặc Thuế ước tính                                                   37
+Mexico phải cung cấp cho chủ lao động báo cáo có        nhân độc lập có hiệu lực cho khoản thanh toán theo             thông thực tế với hoạt động thương mại hay
+tên, địa chỉ và TIN, trong đó xác nhận rằng thường      thỏa thuận sau khi được tất cả các bên đồng ý. Bạn             kinh doanh ở Hoa Kỳ trong năm tính thuế hiện
+trú nhân:                                               phải đồng ý nộp tờ khai thuế thu nhập đúng hạn cho             tại.
+  • Không phải là công dân hay thường trú nhân          năm tính thuế hiện tại.                                    •   Tiền thuế đã khấu lưu hoặc đã trả theo bất kỳ
+      Hoa Kỳ;                                                                                                          điều khoản nào khác của Bộ luật thuế vụ hoặc
+  • Là thường trú nhân Canada hoặc Mexico, tùy          Thỏa thuận khấu lưu tập trung (CWA). Nếu bạn                   quy định về bất kỳ thu nhập nào liên thông thực
+      theo từng trường hợp; và                          là nghệ sĩ giải trí hoặc vận động viên biểu diễn hoặc          tế với hoạt động thương mại hay kinh doanh ở
+  • Dự kiến sẽ thực hiện nhiệm vụ được mô tả ở          tham gia các sự kiện thể thao ở Hoa Kỳ với tư cách             Hoa Kỳ trong năm tính thuế hiện tại.
+      phần trước trong năm tính thuế được đề cập.       người nước ngoài tạm trú thì bạn có thể điền vào           •   Tiền nợ thuế chưa nộp (nếu có) bao gồm cả
+                                                        CWA và sau đó nộp cho IRS để được giảm thuế                    tiền lãi và tiền phạt, kể từ năm tính thuế hiện tại
+   Báo cáo có thể dưới bất kỳ hình thức nào, nhưng
+                                                        khấu lưu, miễn là đáp ứng một số yêu cầu nhất định.            hoặc các kỳ tính thuế trước đó.
+phải đề ngày tháng và có chữ ký của nhân viên và
+bao gồm một văn bản tuyên bố rằng bản báo cáo
+                                                        Trong mọi trường hợp, thỏa thuận khấu trừ đó sẽ            •   Bất kỳ điều khoản nào của hiệp ước thuế thu
+                                                        không làm giảm các khoản thuế khấu trừ xuống mức               nhập mà theo đó có thể được miễn thuế một
+được lập theo hình phạt nếu khai man.
+                                                        thấp hơn tiền thuế thu nhập dự kiến phải nộp.                  phần hoặc toàn bộ tiền thuế, quốc gia nơi bạn
+Thường trú nhân của Samoa của Mỹ và Puerto                   Sử dụng Mẫu 13930 để nộp đơn xin CWA cho                  cư trú và báo cáo có đủ cơ sở lập luận để
+Rico. Nếu bạn là nhân viên là người nước ngoài          nghệ sĩ giải trí hoặc vận động viên là người nước              chứng minh việc miễn thuế theo hiệp ước.
+tạm trú và là thường trú nhân Samoa của Mỹ hoặc         ngoài tạm trú có tổng thu nhập hàng năm ở Hoa Kỳ ít        •   Bản tường trình có chữ ký của bạn và được
+Puerto Rico thì tiền lương trong các dịch vụ được       nhất là $10.000. Mẫu 13930 có thể được gửi qua fax             xác minh bằng tuyên bố rằng bản tường trình
+thực hiện ở Samoa của Mỹ hoặc Puerto Rico               tại 866–715–1507 hoặc đường bưu điện đến địa chỉ               được thực hiện theo hình phạt nếu khai man và
+thường không bị khấu lưu, trừ khi bạn là nhân viên      sau đây.                                                       tất cả các thông tin được cung cấp là đúng sự
+của Hoa Kỳ hoặc bất kỳ cơ quan nào của Hoa Kỳ ở                                                                        thật và theo hiểu biết của bạn, không có thông
+Hoa Kỳ tại Samoa của Mỹ hoặc Puerto Rico.                      Central Withholding Agreement Program                   tin liên quan nào bị bỏ sót.
+                                                               Internal Revenue Service
+                                                                                                                    Nếu IRS cảm thấy hài lòng về thông tin, IRS sẽ
+Thường trú nhân của Quần đảo Virgin thuộc                      25520 Commercentre Dr.
+                                                                                                                xác định tiền thuế thu nhập dự kiến của bạn trong
+Mỹ. Người nước ngoài tạm trú là thường trú nhân                Lake Forest, CA 92630–8884
+                                                                                                                năm tính thuế trên tổng thu nhập liên thông thực tế
+Quần đảo Virgin thuộc Mỹ thực sự không bị khấu trừ                                                              với hoạt động thương mại hay kinh doanh của bạn ở
+thuế Hoa Kỳ trên thu nhập kiếm được khi làm việc                  Chúng tôi đã tạm thời từ bỏ quy định về thu   Hoa Kỳ. Chi phí kinh doanh cần thiết theo thông lệ
+tạm thời ở Hoa Kỳ. Đó là do người này trả tiền thuế               nhập đối với mẫu đơn được sử dụng khi
+thu nhập cho Quần đảo Virgin thuộc Mỹ. Để tránh
+                                                           !
+                                                         CAUTION nộp đơn xin CWA. Mẫu 13930-A hiện
+                                                                                                                có thể được tính nếu được chứng minh theo cách
+                                                                                                                khiến Ủy viên hoặc người đại diện của Ủy viên hài
+chịu thuế khấu lưu trên thu nhập kiếm được ở Hoa        không khả dụng. Khi việc miễn trừ có hiệu lực, cá       lòng.
+Kỳ, thường trú nhân Quần đảo Virgin thuộc Mỹ nên        nhân có thu nhập dưới $10.000 có thể nộp đơn xin            Ủy viên hoặc đại diện của Ủy viên sẽ gửi cho
+viết thư gửi chủ lao động, trong đó cho biết họ là      CWA bằng Mẫu 13930, Hướng dẫn cách nộp đơn              bạn một bức thư được gửi trực tiếp đến đại lý khấu
+thường trú nhân Quần đảo Virgin thuộc Mỹ thực sự        xin Thỏa thuận khấu lưu tập trung. Để biết thêm         lưu, trong đó cho biết khoản thanh toán tiền thù lao
+và dự kiến sẽ trả tiền thuế trên toàn bộ thu nhập cho   thông tin về cách nộp đơn xin CWA, xem Mẫu              cuối cùng được miễn thuế khấu lưu và số tiền có thể
+Quần đảo Virgin thuộc Mỹ.                               13930. Để biết thêm thông tin, truy cập IRS.gov/        được trả cho bạn do miễn thuế. Bạn phải cung cấp
+                                                        Individuals/International-Taxpayers/Central-            hai bản sao của bức thư cho đại lý khấu lưu và cũng
+                                                        Withholding-Agreements (tiếng Anh).
+Khấu lưu từ lương hưu                                                                                           phải đính kèm một bản sao của bức thư vào tờ khai
+                                                            Yêu cầu CWA phải được IRS tiếp nhận ít nhất 45      thuế thu nhập cho năm tính thuế mà khoản miễn
+                                                        ngày trước khi thỏa thuận có hiệu lực để đảm bảo        thuế có hiệu lực. Để biết thêm thông tin, xem Ấn
+Nếu bạn nhận được tiền phân phối lương hưu từ
+                                                        được thực hiện trước khi chuyến đi bắt đầu hoặc sự      phẩm 515 (tiếng Anh).
+Hoa Kỳ thì khoản thanh toán thường phải chịu mức
+khấu lưu thuế 30% (hoặc thấp hơn theo hiệp ước).        kiện đầu tiên xảy ra và phải chứa đựng tất cả các
+Tuy nhiên, bạn có thể bị khấu trừ theo thuế suất lũy    chứng từ được chỉ định trong hướng dẫn. Nếu             Hoàn thuế bị khấu lưu do nhầm lẫn
+tiến trên phần lương hưu phát sinh từ việc thực hiện    không, bạn sẽ không được xem xét tham gia CWA.
+các dịch vụ ở Hoa Kỳ sau năm 1986. Bạn phải điền        Ngoại lệ sẽ được xem xét tùy theo từng trường hợp.      Tiếp thị đa cấp. Nếu bạn là nhà phân phối của một
+vào Mẫu W-8BEN hoặc Mẫu 8233 và sau đó nộp                                                                      công ty tiếp thị đa cấp chịu thuế khấu lưu do nhầm
+cho đại lý khấu lưu hoặc người thanh toán trước khi     Miễn khoản thanh toán cuối cùng. Khoản thanh            lẫn, nộp tờ khai thuế thu nhập Hoa Kỳ (Mẫu
+thu nhập được trả hoặc ghi có cho bạn.                  toán tiền thù lao cuối cùng của bạn trong năm tính      1040-NR hoặc Mẫu 1120-F) hoặc nếu bạn đã nộp tờ
+                                                        thuế cho dịch vụ cá nhân độc lập có thể được miễn       khai thuế, hãy yêu cầu hoàn thuế (Mẫu 1040-X hoặc
+                                                        thuế khấu lưu hoàn toàn hoặc một phần. Việc miễn        Mẫu 1120-F sửa đổi) để thu hồi số tiền bị khấu lưu
+Khấu lưu trên thu nhập từ tiền                          trừ này (không áp dụng cho tiền lương) chỉ áp dụng      do nhầm lẫn. Bạn cũng phải đính kèm với tờ khai
+boa                                                     một lần trong năm tính thuế của bạn và áp dụng cho      thuế thu nhập Hoa Kỳ hoặc thông tin chứng minh
+                                                        tiền thù lao tối đa là $5.000. Để được hưởng mức        yêu cầu hoàn thuế bao gồm nhưng không giới hạn
+Tiền boa bạn nhận được trong năm cho các dịch vụ        miễn trừ này, bạn hoặc đại lý phải cung cấp báo cáo     đến các khoản sau.
+được thực hiện ở Hoa Kỳ phải chịu thuế thu nhập         và thông tin sau đây cho Ủy viên hoặc đại diện của        • Bản sao của Mẫu W-2, Mẫu 1042-S hoặc Mẫu
+Hoa Kỳ. Tính chúng vào thu nhập chịu thuế. Ngoài        Ủy viên.                                                      1099 để chứng minh tiền thuế khấu lưu.
+ra, tiền boa nhận được trong khi làm việc cho một          • Bản tường trình từ mỗi đại lý khấu lưu mà bạn        • Báo cáo giải thích lý do tại sao thu nhập được
+chủ lao động, lên tới $20 trở lên một tháng, sẽ chịu          nhận tổng thu nhập liên thông thực tế với hoạt          khai báo trên Mẫu W-2, Mẫu 1042-S hoặc Mẫu
+thuế khấu lưu lũy tiến.                                       động thương mại hay kinh doanh ở Hoa Kỳ                 1099 của bạn không chịu thuế Hoa Kỳ.
+                                                              trong năm tính thuế, cho biết số tiền thu nhập      • Báo cáo liệt kê tất cả các ngày bạn nhập cảnh
+                                                              đã trả và thuế đã khấu lưu. Mỗi báo cáo phải            và rời khỏi Hoa Kỳ trong năm tính thuế. Nếu
+Nhà thầu độc lập                                              được ký bởi đại lý khấu lưu và được xác minh            tiền thù lao là tiền thù lao trong nhiều năm thì
+                                                              bằng tuyên bố rằng bản báo cáo được lập theo            báo cáo phải liệt kê tất cả các ngày bạn nhập
+Nếu không tồn tại mối quan hệ nhân viên-chủ lao               hình phạt nếu khai man.                                 cảnh và rời khỏi Hoa Kỳ trong từng năm chịu
+động giữa bạn và người mà bạn thực hiện dịch vụ            • Bản tường trình từ đại lý khấu lưu mà bạn dự             thuế mà tiền thù lao được phân bổ.
+thì tiền thù lao của bạn phải chịu thuế suất khấu lưu         kiến sẽ nhận khoản thanh toán tiền thù lao cuối     • Bản sao của bất kỳ tài liệu hoặc hồ sơ nào thể
+30% (hoặc thấp hơn theo hiệp ước). Tuy nhiên, nếu             cùng, cho biết số tiền thanh toán và thuế sẽ            hiện số ngày bạn có mặt ở Hoa Kỳ trong các
+bạn tham gia vào hoạt động thương mại hay kinh                được khấu lưu nếu không được miễn trừ                   năm được đề cập.
+doanh ở Hoa Kỳ trong năm tính thuế thì tiền thù lao           khoản thanh toán cuối cùng. Báo cáo này cũng        • Báo cáo cung cấp (a) số ngày (hoặc đơn vị thời
+của bạn trong các dịch vụ cá nhân với tư cách là nhà          phải có chữ ký của đại lý khấu lưu và được xác          gian ít hơn một ngày nếu thích hợp) mà các
+thầu độc lập (dịch vụ cá nhân độc lập) có thể được            minh bằng tuyên bố rằng bản báo cáo được lập            dịch vụ cá nhân được thực hiện tại Hoa Kỳ liên
+miễn hoàn toàn hoặc một phần thuế khấu lưu nếu                theo hình phạt nếu khai man.                            quan đến việc tuyển dụng, đào tạo và hỗ trợ
+bạn đạt được thỏa thuận với IRS về số tiền khấu lưu        • Bản tường trình cho biết bạn không có ý định             các nhà phân phối cấp thấp hơn; và (b) tổng số
+bắt buộc. Thỏa thuận bạn đạt được với IRS liên                nhận bất kỳ khoản thu nhập nào khác liên                ngày (hoặc đơn vị thời gian dưới một ngày nếu
+quan đến việc giữ lại tiền thù lao trong dịch vụ cá
+
+38                                                  Chương 8       Trả tiền thuế qua Khấu lưu hoặc Thuế ước tính                                  Ấn phẩm 519 (2024)
+     thích hợp) mà các dịch vụ cá nhân được thực        Thu nhập khác không bị khấu lưu ở mức thuế              thuế mà bạn không khấu lưu(cộng với tiền lãi, nếu
+     hiện trên toàn cầu liên quan đến việc tuyển        suất 30% (hoặc thấp hơn theo hiệp ước).                 có)..
+     dụng, đào tạo và hỗ trợ các nhà phân phối cấp      Nguồn thu nhập sau đây không bị khấu lưu ở mức               Vào ngày 30 tháng 11, 2020, Bộ Tài chính và
+     thấp hơn.                                          thuế suất 30% (hoặc thấp hơn theo hiệp ước) nếu         IRS đã ban hành các quy định cuối cùng trong đoạn
+ •   Bất kỳ tài liệu hoặc hồ sơ liên quan nào khác      bạn nộp Mẫu W-8ECI cho người trả thu nhập.              1446(f) trong T.D. 9926 (tiếng Anh) (85 FR 76910) để
+     chứng minh yêu cầu mà trong đó tiền thuế bị          • Thu nhập (ngoài tiền thù lao) liên thông thực tế    chuyển cả lợi ích không phải PTP và PTP. Các quy
+     khấu lưu do nhầm lẫn.                                   với hoạt động thương mại hay kinh doanh ở          định cuối cùng yêu cầu bất kỳ bên nhận chuyển
+                                                             Hoa Kỳ của bạn.                                    nhượng nào phải khấu lưu khoản thuế bằng 10% số
+Hoàn thuế khấu lưu do nhầm lẫn trên phúc lợi              • Thu nhập từ bất động sản mà bạn chọn coi            tiền nhận được từ bất kỳ hoạt động chuyển nhượng
+an sinh xã hội trả cho người nước ngoài                      như liên thông thực tế với hoạt động thương        lợi ích hợp tác nào (ngoài một số lợi ích PTP nhất
+thường trú. Trợ cấp an sinh xã hội trả cho thường            mại hay kinh doanh ở Hoa Kỳ. Xem Thu nhập          định) theo đoạn 1446(f)(1), trừ khi áp dụng ngoại lệ
+trú nhân hợp pháp (chủ thẻ xanh) không phải chịu             từ bất động sản trong chương 4 để biết chi tiết    đối với việc khấu lưu. Các quy định này thường áp
+thuế khấu lưu 30%. Với mục đích tính thuế thu nhập           về lựa chọn này.                                   dụng cho các giao dịch chuyển tiền diễn ra vào hoặc
+Hoa Kỳ, chủ thẻ xanh tiếp tục là người nước ngoài                                                               sau ngày 29 tháng 1, 2021. Tuy nhiên, theo Thông
+                                                            Quy tắc đặc biệt về tiền khấu lưu trên thu nhập
+thường trú cho đến khi tình trạng thường trú nhân                                                               báo 2021-51, 2021-36 I.R.B. 361, các quy tắc liên
+                                                        trong công ty hợp danh, học bổng và trợ cấp nghiên
+hợp pháp của họ theo luật nhập cư bị tước bỏ hoặc                                                               quan đến việc khấu lưu theo đoạn 1446(f)(4) và
+                                                        cứu sinh sẽ được giải thích ở phần sau.
+được xác định là đã từ bỏ về mặt hành chính hoặc                                                                chuyển nhượng lợi ích PTP sẽ áp dụng cho các giao
+tư pháp. Xem Thử thách thẻ xanh trong chương 1.                                                                 dịch chuyển nhượng diễn ra vào hoặc sau ngày 1
+Nếu bạn là chủ thẻ xanh và thuế khấu lưu do nhầm        Khấu lưu thuế từ thu nhập của                           tháng 1, 2023. Ngoài ra, các quy định cuối cùng đã
+lẫn trên trợ cấp an sinh xã hội do bạn có địa chỉ ở     Công ty hợp danh                                        sửa đổi một số điều khoản trong Quy định đoạn
+nước ngoài thì IRS sẽ hoàn lại thuế khấu lưu. Để                                                                1.1446-4 về việc khấu lưu theo đoạn 1446(a) về
+được hoàn thuế, bạn phải nộp Mẫu 1040 hoặc Mẫu                                                                  phân phối PTP. Cũng theo Thông báo 2021-51,
+                                                        Nếu bạn là đối tác nước ngoài trong công ty hợp
+1040-SR. Để xác định xem bạn có được hoàn thuế                                                                  những sửa đổi này áp dụng cho việc phân phối PTP
+                                                        danh Hoa Kỳ hoặc nước ngoài thì công ty hợp danh
+hay không, hãy gửi tờ khai thuế đến:                                                                            được thực hiện vào hoặc sau ngày 1 tháng 1, 2023.
+                                                        đó sẽ khấu lưu thuế trên phần thu nhập chịu thuế
+                                                        liên thông thực tế với ECTI từ công ty hợp danh.        Thông báo 2018-8 và 2018-29 áp dụng cho các giao
+     Department of the Treasury                                                                                 dịch chuyển tiền diễn ra trước ngày có hiệu lực của
+                                                        Công ty hợp danh có thể giảm thuế khấu lưu trên
+     Internal Revenue Service                                                                                   quy định cuối cùng hoặc như đã mô tả trước đây ,
+                                                        phần ECTI của bạn bằng cách xem xét một số khoản
+     Austin, TX 73301                                                                                           người đóng thuế có thể áp dụng quy định đề xuất
+                                                        khấu trừ ở cấp đối tác. Nhìn chung, bạn phải gửi
+                                                        Mẫu 8804-C cho mục đích này. Để biết thêm thông         chuyển nhượng các khoản lãi không thuộc PTP
+  Bạn cũng phải đính kèm các thông tin sau vào          tin, xem Hướng dẫn cho Mẫu 8804-C.                      trong thời gian này. .
+Mẫu 1040 hoặc Mẫu 1040-SR.                                                                                           Để biết thêm hướng dẫn về một số vấn đề nhất
+ • Bản sao Mẫu SSA-1042S, Báo cáo quyền lợi                 Tỷ lệ khấu lưu trên phần thu nhập liên thông thực   định liên quan đến quy định của đoạn 1446(f), xem
+    An sinh Xã hội.                                     tế thường là thuế suất cao nhất theo quy định trong     Thông báo 2023-8 (tiếng Anh).
+ • Bản sao thẻ xanh.                                    đoạn 1 (37%). Tuy nhiên, công ty hợp danh có thể
+ • Tuyên bố có chữ ký bao gồm các phát biểu
+    sau: “The SSA should not have withheld
+                                                        khấu lưu ở mức cao nhất áp dụng cho một loại thu        Khấu lưu trên học bổng và trợ
+                                                        nhập cụ thể có thể phân bổ cho bạn nếu bạn đã
+    income tax from my social security benefits         cung cấp cho công ty hợp danh tài liệu thích hợp. Lãi
+                                                                                                                cấp nghiên cứu sinh
+    because I am a U.S. lawful permanent resident       vốn dài hạn là ví dụ về một loại thu nhập cụ thể áp
+    and my green card has been neither revoked                                                                  Không có tiền khấu trừ vào học bổng đủ điều kiện
+                                                        dụng thuế suất cao nhất. Yêu cầu thuế khấu trừ dưới
+    nor administratively or judicially determined to                                                            được nhận bởi ứng viên của một chương trình cấp
+                                                        dạng tín thuế trên Mẫu 1040-NR năm 2024 của bạn.
+    have been abandoned. I am filing a U.S.                                                                     bằng. Xem chương 3.
+    income tax return for the tax year as a resident        Công ty hợp danh sẽ cung cấp cho bạn báo cáo            Nếu bạn là học sinh hoặc người thụ hưởng là
+    alien reporting all of my worldwide income. I       trên Mẫu 8805 cho biết thuế khấu lưu. Công ty hợp       người nước ngoài tạm trú theo diện thị thực “F,” “J,”
+    have not claimed benefits for the tax year under    danh đại chúng sẽ khấu lưu các khoản phân phối          “M,” hoặc “Q” và bạn nhận được trợ cấp hoặc học
+    an income tax treaty as the resident of a           thực tế của thu nhập liên thông thực tế. Trong trường   bổng có nguồn gốc từ Hoa Kỳ không được miễn
+    country other than the United States. (Lẽ ra        hợp này, công ty hợp danh sẽ cung cấp cho bạn báo       thuế hoàn toàn, đại lý khấu lưu (thường là người trả
+    SSA không nên khấu lưu thuế thu nhập từ trợ         cáo trên Mẫu 1042-S.                                    học bổng) khấu lưu ở mức thuế suất 14% (hoặc thấp
+    cấp an sinh xã hội do tôi là thường trú nhân
+                                                                                                                hơn theo hiệp ước) trong phần chịu thuế của trợ cấp
+    hợp pháp của Hoa Kỳ và thẻ xanh của tôi             Thuế khấu lưu trên lãi do bán hoặc trao đổi một         hoặc học bổng không phải là khoản thanh toán các
+    không bị thu hồi mà cũng không xác định là đã       số lợi ích của công ty hợp danh. Nếu bạn là đối         dịch vụ. Tuy nhiên, nếu bạn không phải là ứng viên
+    từ bỏ về mặt hành chính hoặc tư pháp. Tôi           tác nước ngoài trực tiếp hoặc gián tiếp ở Hoa Kỳ        của một chương trình cấp bằng và trợ cấp không
+    đang nộp tờ khai thuế thu nhập Hoa Kỳ trong         hoặc đối tác nước ngoài tham gia (hoặc được coi là      đáp ứng một số yêu cầu nhất định thì thuế sẽ bị khấu
+    năm tính thuế với tư cách người nước ngoài          tham gia) vào hoạt động thương mại hay kinh doanh       lưu ở mức 30% (hoặc thấp hơn theo hiệp ước).
+    thường trú khai báo toàn bộ thu nhập của tôi        ở Hoa Kỳ và bạn trực tiếp hoặc gián tiếp chuyển
+    trên toàn thế giới. Tôi đã không yêu cầu quyền      nhượng lợi ích đó để thu lợi thì đối với giao dịch         Bất kỳ phần nào của học bổng hoặc trợ cấp
+    lợi trong năm tính thuế theo hiệp ước thuế thu      chuyển nhượng diễn ra sau năm 2017, người nhận          nghiên cứu sinh là khoản thanh toán các dịch vụ đều
+    nhập với tư cách thường trú nhân của quốc gia       chuyển nhượng thường sẽ khấu trừ và thay mặt bạn        phải chịu thuế khấu lưu lũy tiến như đã thảo luận ở
+    khác không phải Hoa Kỳ.)”                           trả cho IRS tiền thuế bằng 10% số tiền thu được từ      phần trước trong Khấu lưu từ Tiền lương.
+                                                        giao dịch mua bán. Quy tắc khấu lưu và thanh toán
+                                                        số tiền này tương tự như quy tắc bán các lợi ích từ     Quy trình khấu lưu khác
+Khấu lưu từ Thu nhập                                    bất động sản ở Hoa Kỳ. Bạn sẽ nhận được Mẫu
+
+khác                                                    8288-A phản ánh số tiền khấu lưu mà bạn có thể
+                                                        khai ở dòng 25f của Mẫu 1040-NR là tín dụng đối với
+                                                                                                                Đại diện khấu lưu có thể chọn sử dụng một quy trình
+                                                                                                                thay thế bằng cách yêu cầu bạn điền vào Mẫu W-4.
+                                                        tiền thuế mà bạn còn nợ khi thu lợi. Bạn có thể cung    Xem bên dưới để biết các mục có thể giảm thuế
+Thu nhập khác chịu thuế khấu lưu 30% (hoặc thấp         cấp một số thông tin cho người chuyển nhượng để         khấu lưu của bạn.
+hơn theo hiệp ước) thường bao gồm thu nhập cố           giảm bớt hoặc loại bỏ tiền khấu lưu. Ví dụ: nếu điều
+định hoặc có thể xác định được, chẳng hạn như tiền      khoản không ghi nhận trong Bộ luật thuế vụ áp dụng      Chi phí. Bao gồm chi phí sẽ được khấu lưu trên tờ
+lãi (ngoài lãi danh mục đầu tư), cổ tức, lương hưu,     cho toàn bộ tiền lời thu được từ giao dịch chuyển       khai thuế của bạn. Chi phí này bao gồm cả tiền khấu
+niên kim và thu nhập do mua bán và trao đổi, được       nhượng thì người nhận chuyển nhượng không cần           trừ IRA được thảo luận trong Khoản khấu trừ trong
+thảo luận trong chương 4. Thu nhập này cũng bao         khấu lưu nếu bạn đưa ra thông báo mô tả việc áp         chương 5.
+gồm 85% trợ cấp an sinh xã hội đã trả cho người         dụng điều khoản không ghi nhận. Nếu bạn là người
+nước ngoài tạm trú.                                     nhận chuyển nhượng không khấu lưu theo đoạn             Trợ cấp hoặc học bổng không chịu thuế. Bạn có
+                                                        1446(f)(4) thì công ty hợp danh phải khấu trừ các       thể loại trừ một phần trợ cấp hoặc học bổng không
+                                                        khoản phân phối cho bạn số tiền bằng với khoản          chịu thuế theo luật Hoa Kỳ hoặc hiệp ước thuế.
+
+Ấn phẩm 519 (2024)                                   Chương 8     Trả tiền thuế qua Khấu lưu hoặc Thuế ước tính                                                   39
+Khấu trừ tiêu chuẩn. Nếu bạn là học sinh đủ điều        hiệp ước có thể không xác định được cho đến sau              Số tiền thực thu là tổng:
+kiện theo Điều 21(2) của Hiệp ước thuế thu nhập         khi kết thúc năm tính thuế. Trong trường hợp này,          • Tiền mặt đã trả hoặc phải trả (chỉ tiền gốc);
+giữa Hoa Kỳ và Ấn Độ, bạn có thể được hưởng mức         bạn phải nộp Mẫu 1040-NR để phục hồi bất kỳ                • Giá trị thị trường hợp lý của tài sản khác đã
+khấu trừ tiêu chuẩn. Số tiền khấu trừ tiêu chuẩn        khoản thuế nào bị khấu lưu quá mức và cung cấp                 chuyển nhượng hoặc sẽ chuyển nhượng; và
+trong năm 2023 là $14.600.                              cho IRS bằng chứng bạn được hưởng miễn trừ theo            • Bất kỳ khoản nợ nào mà người nhận chuyển
+                                                        hiệp ước.                                                      nhượng hoặc tài sản phải chịu ngay trước và
+Mẫu W-4. Hoàn thành các dòng thích hợp trong                                                                           sau khi chuyển nhượng.
+Mẫu W-4. Ký và đề ngày tháng vào mẫu đơn và sau             Sinh viên, giáo viên, và nghiên cứu viên.
+đó nộp mẫu đơn này cho đại lý khấu lưu.                 Sinh viên, giáo viên, và nghiên cứu viên phải đính           Nếu tài sản được chuyển nhượng thuộc sở hữu
+                                                        kèm báo cáo thích hợp được hiển thị trong Phụ lục A       chung của Hoa Kỳ và người ngoại quốc thì số tiền
+    Nếu bạn nộp Mẫu W-4 để giảm bớt hoặc loại bỏ
+                                                        (cho sinh viên) hoặc Phụ lục B (cho giáo viên và          thực nhận được phân bổ giữa các bên chuyển
+tiền khấu lưu vào học bổng hoặc trợ cấp, bạn phải
+                                                        nghiên cứu viên) ở cuối ấn phẩm này vào Mẫu 8233          nhượng dựa trên phần vốn góp của mỗi bên chuyển
+khai thuế thu nhập hàng năm Hoa Kỳ để được
+                                                        và đưa nó cho đại lý khấu lưu. Đối với các điều ước       nhượng.
+hưởng bất kỳ khoản khấu trừ nào mà bạn khai trên
+                                                        không được liệt kê trong phụ lục, đính kèm một báo
+mẫu đơn đó. Nếu bạn ở Hoa Kỳ trong hơn 1 năm
+                                                        cáo ở định dạng tương tự như các điều ước quốc tế             Tiền phân phối của QIE cho cổ đông là người
+tính thuế, bạn phải đính kèm báo cáo hàng năm với
+                                                        khác.                                                     nước ngoài tạm trú được coi như lãi do bán hoặc
+Mẫu W-4 cho biết bạn đã nộp tờ khai thuế thu nhập
+                                                            Nếu bạn nhận được học bổng hoặc trợ cấp               trao đổi quyền lợi bất động sản ở Hoa Kỳ của cổ
+Hoa Kỳ trong năm trước. Nếu bạn chưa ở Hoa Kỳ
+                                                        nghiên cứu sinh, cũng như thu nhập dịch vụ cá             đông này phải chịu thuế suất khấu lưu ở mức 21%.
+đủ dài để được yêu cầu khai thuế, bạn phải đính
+                                                        nhân, từ cùng một đại lý khấu lưu, sử dụng Mẫu            Khấu lưu thuế cũng là bắt buộc trên một số khoản
+kèm báo cáo với Mẫu W-4 cho biết bạn sẽ khai thuế
+                                                        8233 để yêu cầu miễn khấu lưu dựa trên hiệp ước           phân phối và các giao dịch khác của công ty, công ty
+thu nhập Hoa Kỳ khi được yêu cầu.
+                                                        thuế cho cả hai loại thu nhập.                            hợp danh, quỹ tín thác và bất động sản trong nước
+                                                                                                                  hoặc nước ngoài. Các quy tắc này nằm trong Ấn
+    Sau khi đại lý khấu lưu chấp nhận Mẫu W-4, thuế
+                                                            Ghi chú. Mẫu 8233 có thể được sử dụng khi             phẩm 515 (tiếng Anh) và trong Hướng dẫn cho Mẫu
+sẽ bị khấu lưu vào học bổng hoặc trợ cấp của bạn ở
+                                                        bạn yêu cầu miễn thu nhập từ học bổng hoặc trợ cấp        8288.
+mức lũy tiến áp dụng cho tiền lương. Tổng thu nhập
+                                                        nghiên cứu (không phải là thù lao) chỉ khi bạn cũng
+bị giảm theo các khoản tiền áp dụng trên Mẫu W-4                                                                      Để biết thông tin về việc xử lý thuế đối với xử lý
+                                                        yêu cầu miễn thuế khấu lưu theo hiệp ước đối với
+và thuế khấu lưu được tính trên phần còn lại.                                                                     bất động sản của Hoa Kỳ, xem Lãi hoặc lỗ từ bất
+                                                        thu nhập từ dịch vụ cá nhân. Nếu không, bạn phải
+                                                        sử dụng Mẫu W-8BEN.                                       động sản trong chương 4.
+    Bạn sẽ nhận được Mẫu 1042-S từ đại lý khấu
+lưu (thường là người trả trợ cấp cho bạn) cho biết                                                                    Nếu bạn là đối tác trong công ty hợp danh trong
+                                                        Các sự kiện và khuyến mãi đặc biệt. Khấu lưu ở
+tổng số tiền học bổng hoặc trợ cấp nghiên cứu sinh                                                                nước và công ty hợp danh chuyển nhượng quyền lợi
+                                                        mức đầy đủ 30% là bắt buộc đối với các khoản
+chịu thuế trừ đi bất kỳ khoản khấu lưu nào, thuế suất                                                             bất động sản ở Hoa Kỳ khi thu lời, công ty hợp danh
+                                                        thanh toán cho một người nước ngoài tạm trú hoặc
+và thuế khấu lưu. Sử dụng mẫu này để chuẩn bị tờ                                                                  sẽ khấu trừ thuế trên tiền lời được phân bổ cho các
+                                                        công ty nước ngoài đối với các khoản thu tại cổng
+khai thuế thu nhập hàng năm Hoa Kỳ của bạn.                                                                       đối tác nước ngoài. Phần thu nhập và thuế khấu lưu
+                                                        (hoặc truyền hình hoặc các khoản thu khác) từ các lễ
+                                                                                                                  sẽ được khai báo cho bạn trên Mẫu 8805 hoặc Mẫu
+                                                        hội âm nhạc, khuyến mãi quyền anh và các sự kiện
+     Để biết thêm thông tin, xem IRS.gov/FormW4.                                                                  1042-S (trong trường hợp của PTP).
+                                                        giải trí hoặc thể thao khác, trừ khi đại lý khấu lưu đã
+                                                        được thông báo cụ thể khác bằng thư từ IRS. Tùy              Không bắt buộc phải khấu lưu trong các tình
+
+Thu nhập được hưởng
+                                                        thuộc vào năm dương lịch mà tổng thu nhập kiếm            huống sau.
+                                                        được từ Hoa Kỳ, Mẫu 13930 có thể được sử dụng
+                                                                                                                    1. Tài sản được mua lại bởi người mua để sử
+quyền lợi theo hiệp ước                                 để yêu cầu giảm khấu lưu. Việc khấu lưu vẫn có thể
+                                                        được yêu cầu ngay cả khi thu nhập có thể được
+                                                                                                                       dụng làm nơi cư trú và số tiền thực nhận
+thuế                                                    miễn thuế theo quy định của hiệp ước thuế. Một lý
+                                                                                                                       không quá $300.000.
+                                                        do cho điều này là việc miễn trừ một phần hoặc toàn         2. Tài sản được chuyển nhượng là quyền lợi
+Nếu hiệp ước thuế giữa Hoa Kỳ và quốc gia cư trú        phần thường dựa trên các yếu tố không thể xác định             trong công ty trong nước nếu bất kỳ loại cổ
+của bạn có việc miễn, hoặc giảm thuế suất, đánh         cho đến sau khi kết thúc năm tính thuế.                        phiếu nào của công ty đó được giao dịch
+thuế trên một số khoản thu nhập nhất định, bạn nên                                                                     thường xuyên trên thị trường chứng khoán đã
+                                                                  Chúng tôi đã tạm thời từ bỏ quy định về thu
+thông báo cho người trả tiền (đại lý khấu lưu) tình                                                                    có. Tuy nhiên, ngoại lệ này không áp dụng cho
+                                                                  nhập đối với mẫu đơn được sử dụng khi
+trạng người nước ngoài của mình để yêu cầu miễn            !
+                                                         CAUTION nộp đơn xin CWA. Mẫu 13930-A hiện
+                                                                                                                       một số giao dịch chuyển nhượng lợi ích lớn
+khấu lưu do hiệp ước thuế hoặc giảm tỷ lệ khấu lưu.                                                                    không được giao dịch công khai trong các
+                                                        không khả dụng. Khi việc miễn trừ có hiệu lực, cá
+Thông thường, bạn thực hiện việc này bằng cách                                                                         công ty đại chúng.
+                                                        nhân có thu nhập dưới $10.000 có thể nộp đơn xin
+nộp Mẫu W-8BEN hoặc Mẫu 8233 cho đại lý khấu            CWA bằng Mẫu 13930, Hướng dẫn cách nộp đơn                  3. Tài sản được chuyển nhượng là lợi ích trong
+lưu.                                                    xin Thỏa thuận Khấu lưu tập trung. Để biết thêm                công ty Hoa Kỳ không giao dịch thường xuyên
+                                                        thông tin về cách nộp đơn xin CWA, xem Mẫu                     trên một thị trường đã có và bạn (người bán)
+    Nộp Mẫu W-8BEN cho thu nhập nào không phải
+                                                        13930. Để biết thêm thông tin, truy cậpIRS.gov/                cung cấp cho người mua báo cáo do công ty
+là thu nhập từ dịch vụ cá nhân. Nộp Mẫu 8233 cho
+                                                        Individuals/International-Taxpayers/Central-                   phát hành xác nhận rằng lợi ích đó không phải
+thu nhập từ dịch vụ cá nhân, sẽ được thảo luận tiếp
+                                                        Withholding-Agreements (tiếng Anh).                            là quyền sở hữu bất động sản tại Hoa Kỳ.
+theo.
+                                                                                                                    4. Bạn (người bán) cung cấp cho người mua giấy
+        Nếu bạn đủ điều kiện để được miễn trừ                     Bạn sẽ được yêu cầu trả tiền thuế Hoa Kỳ
+                                                                                                                       chứng nhận theo hình phạt nếu khai man,
+ TIP theo hiệp ước thuế nhưng không gửi Mẫu                       tại thời điểm rời Hoa Kỳ đối với bất kỳ thu
+        8233 cho đại lý khấu lưu của mình để yêu
+                                                           !
+                                                         CAUTION nhập nào mà bạn đã khai không chính xác
+                                                                                                                       trong đó nêu rõ bạn không phải là người ngoại
+                                                                                                                       quốc và có tên, TIN của Hoa Kỳ và địa chỉ nhà
+cầu miễn khấu lưu, bạn vẫn có thể nhận được lợi ích     về khoản miễn trừ theo hiệp ước. Để biết thêm chi
+                                                                                                                       riêng của bạn.
+của việc miễn trừ bằng cách nộp Mẫu 1040-NR.            tiết về các điều khoản của hiệp ước áp dụng cho thù
+                                                                                                                           Bạn có thể cung cấp chứng nhận cho
+Làm theo hướng dẫn cho dòng 1a của Mẫu                  lao, xem Ấn phẩm 901 (tiếng Anh).
+                                                                                                                       người thay thế đủ điều kiện. Người thay thế đủ
+1040-NR..
+                                                                                                                       điều kiện cung cấp cho người mua báo cáo
+                                                        Khấu lưu thuế cho việc bán bất động sản. Nếu                   theo hình phạt nếu khai man rằng giấy chứng
+Nhân viên và nhà thầu độc lập Nếu bạn thực hiện         bạn là người nước ngoài tạm trú và bạn xử lý bất               nhận thuộc quyền sở hữu của người thay thế
+các dịch vụ cá nhân với tư cách là một nhân viên        động sản ở Hoa Kỳ, người nhận chuyển nhượng                    đủ điều kiện. Với mục đích này, một “người
+hoặc một nhà thầu độc lập và bạn yêu cầu miễn           (người mua) bất động sản thông thường phải khấu                thay thế đủ điều kiện” là:
+khấu lưu đối với thu nhập dịch vụ cá nhân đó do hiệp    lưu thuế bằng 15% số tiền thực thu được từ việc xử
+ước thuế, cung cấp Mẫu 8233 cho mỗi đại lý khấu         lý.                                                              a. Người (bao gồm cả bất kỳ luật sư hoặc
+lưu mà từ đó số tiền sẽ được nhận.                                                                                          công ty xác minh quyền sở hữu nào) chịu
+                                                             Tuy nhiên, nếu tài sản được người mua dùng để
+                                                                                                                            trách nhiệm kết thúc giao dịch, không phải
+    Ngay cả khi bạn nộp Mẫu 8233, đại lý khấu lưu       làm nơi cư trú và số tiền thực thu không vượt quá $1
+                                                                                                                            là đại lý của bạn; hoặc
+vẫn có thể phải khấu lưu thuế từ thu nhập của bạn.      triệu, tỷ lệ khấu lưu là 10%.
+Điều này là do các yếu tố làm căn cứ miễn trừ theo                                                                       b. Đại diện của người mua.
+
+40                                                  Chương 8      Trả tiền thuế qua Khấu lưu hoặc Thuế ước tính                                  Ấn phẩm 519 (2024)
+  5. Người mua nhận chứng nhận khấu lưu thuế từ             3. Bạn hoặc người mua ký thỏa thuận với IRS về        lãnh thổ Hoa Kỳ. Chủ lao động có thể cho bạn biết
+     IRS.                                                      việc trả tiền thuế và cung cấp bảo đảm cho nợ      liệu thuế an sinh xã hội và thuế Medicare có áp dụng
+                                                               thuế.                                              cho tiền lương của bạn hay không. Bạn không thể
+  6. Bạn thông báo cho người mua bằng văn bản
+                                                                                                                  thực hiện thanh toán tự nguyện nếu không có khoản
+     rằng bạn không phải công nhận bất kỳ khoản               Xem Ấn phẩm 515 (tiếng Anh) và IRS.gov/             thuế nào đến hạn.
+     lãi hoặc lỗ nào khi chuyển nhượng do điều            Individuals/International-Taxpayers/Withholding-
+     khoản không ghi nhận trong Bộ luật thuế vụ           Certificates (tiếng Anh) để biết thông tin về các thủ   Thuế Medicare bổ sung. Ngoài thuế Medicare,
+     hoặc một điều khoản trong hiệp ước thuế Hoa          tục yêu cầu cung cấp chứng nhận khấu lưu thuế.          thuế Medicare bổ sung 0.9% (0.009) áp dụng cho
+     Kỳ. Người mua phải nộp bản sao thông báo
+                                                                                                                  tiền lương Medicare, tiền thù lao theo RRTA và thu
+     này cho Ogden Service Center, P.O. Box               Khấu giảm cho thuế đã khấu lưu. Người mua               nhập tự kinh doanh cao hơn:
+     409101, Ogden, UT 84409. Bạn phải xác minh           phải khai báo và trả tiền thuế khấu lưu trong vòng 20
+                                                                                                                     • $250.000 nếu là vợ chồng khai chung hồ sơ
+     thông báo là đúng sự thật và ký vào thông báo        ngày sau khi chuyển nhượng bằng cách sử dụng                  thuế,
+     đó theo hình phạt nếu khai man.                      Mẫu 8288. Mẫu này được nộp cho IRS cùng bản
+                                                                                                                     • $125.000 nếu là vợ chồng khai riêng hồ sơ
+          Xem Quy định đoạn 1.1445-2(d)(2) để biết        sao A và bản sao B của Mẫu 8288-A. Bản sao B của              thuế, hoặc
+     thêm thông tin về thông báo không ghi nhận           báo cáo này sẽ được đóng dấu sau khi IRS nhận
+                                                                                                                     • $200.000 cho tất cả các tư cách khai thuế
+     của bên chuyển nhượng.                               được và gửi lại cho bạn (người bán) nếu báo cáo               khác.
+          Bạn không được cung cấp cho người mua           này đầy đủ và bao gồm TIN. Bạn phải nộp Bản sao
+     văn bản thông báo về bất kỳ chuyển nhượng            B cùng tờ khai thuế để được khấu giảm cho thuế đã           Không có quy tắc đặc biệt nào áp dụng cho
+     nào.                                                 khấu lưu.                                               người nước ngoài tạm trú nhằm mục đích tính thuế
+                                                              Bản sao Mẫu 8288-A có con dấu sẽ không được         Medicare bổ sung. Tiền lương, tiền thù lao RRTA và
+      a. Bán căn nhà chính mà bạn loại trừ lợi
+                                                          cung cấp cho bạn nếu mã TIN không được bao gồm          thu nhập tự kinh doanh phải chịu thuế Medicare
+         nhuận.
+                                                          trên mẫu đó. IRS sẽ gửi cho bạn thư yêu cầu cung        cũng sẽ phải chịu thuế Medicare bổ sung nếu vượt
+       b. Giao dịch trao đổi đồng hạng loại không         cấp TIN và hướng dẫn về cách xin TIN. Khi bạn           quá ngưỡng áp dụng.
+          hội đủ điều kiện được xử lý theo điều           cung cấp TIN cho IRS thì IRS sẽ cung cấp cho bạn            Chủ lao động có trách nhiệm khấu lưu 0.9%
+          khoản không công nhận toàn bộ.                  Bản sao B của Mẫu 8288-A có con dấu.                    (0.009) thuế Medicare bổ sung trên tiền lương
+       c. Giao dịch trao đổi đồng hạng loại hoãn                                                                  Medicare hoặc tiền thù lao RRTA trả cho bạn vượt
+          thuế chưa được hoàn tất vào thời điểm           Hoàn thuế của một số khoản khấu lưu bị trì              quá $200.000 trong năm. Nếu bạn dự định khai thuế
+          người mua phải nộp Mẫu 8288.                    hoãn. Yêu cầu hoàn lại tiền thuế bị khấu lưu và         chung và dự đoán rằng tiền lương cá nhân của bạn
+                                                          khai báo trên Mẫu 1042-S, Mẫu 8288-A hoặc Mẫu           và người vợ/chồng sẽ không quá $200.000 nhưng
+     Thay vào đó, bạn phải xin chứng thư cho phép         8805 có thể cần thêm thời gian để xử lý. Cho phép       tiền lương kết hợp và thu nhập tự kinh doanh của
+     khấu lưu thuế (mô tả ở phần sau).                    tối đa 6 tháng để các khoản hoàn thuế này được          bạn sẽ hơn $250.000 thì bạn có thể muốn yêu cầu
+                                                          phát hành.                                              khấu lưu bổ sung trên Mẫu W-4 và/hoặc thực hiện
+  7. Số tiền bạn nhận được khi chuyển nhượng lợi
+                                                                                                                  thanh toán thuế ước tính.
+     ích bất động sản ở Hoa Kỳ bằng không.
+                                                                                                                      Nếu bạn nộp Mẫu 1040-NR, bạn phải trả tiền
+  8. Tài sản được mua lại bởi Hoa Kỳ, một tiểu
+     bang của Hoa Kỳ hoặc lãnh thổ của Hoa Kỳ,
+                                                          Thuế An sinh Xã hội và                                  thuế Medicare bổ sung nếu tổng tiền lương và thu
+                                                                                                                  nhập tự kinh doanh là hơn $125.000 nếu đã kết hôn
+     một phân khu chính trị hoặc Đặc khu                  Medicare                                                (bạn đã đánh dấu vào ô Vợ chồng khai riêng hồ sơ
+     Columbia.                                                                                                    thuế ở đầu trang một của Mẫu 1040- NR) hoặc
+  9. Tiền phân phối đến từ QIE được kiểm soát             Nếu bạn là nhân viên ở Hoa Kỳ, bạn phải trả tiền        $200.000 nếu người độc thân hoặc người vợ/chồng
+     trong nước và được coi là phân phối quyền lợi        thuế an sinh xã hội và thuế Medicare trong hầu hết      còn lại đủ điều kiện (bạn đã đánh dấu vào ô Single
+     bất động sản ở Hoa Kỳ chỉ vì lợi ích trong pháp      các trường hợp. Khoản thanh toán tiền thuế sẽ đóng      (Người độc thân) hoặc Qualifying surviving spouse
+     nhân nhận chuyển nhượng trong một giao dịch          góp vào bảo hiểm của bạn theo hệ thống an sinh xã       (Người vợ/chồng còn lại đủ điều kiện ở đầu trang 1
+     bán rửa hiện hành. Để biết định nghĩa của            hội Hoa Kỳ. Bảo hiểm an sinh xã hội cung cấp trợ        của Mẫu 1040-NR).
+     QIE, xem Thực thể đầu tư đủ điều kiện trong          cấp hưu trí, trợ cấp cho người sống sót và người tàn        Xem Mẫu 8959 và các hướng dẫn để xác định
+     Lãi hoặc Lỗ từ Bất Động Sản ở phần trước.            tật, cũng như quyền lợi bảo hiểm y tế (Medicare) cho    xem bạn có phải trả tiền thuế Medicare bổ sung hay
+     Xem Bán khống trong Lãi hoặc Lỗ từ Bất Động          cá nhân đáp ứng một số yêu cầu về tính đủ điều          không. Để biết thêm thông tin về thuế Medicare bổ
+     Sản trong chương 4.                                  kiện.                                                   sung, truy cập IRS.gov/ADMT (tiếng Anh).
+                                                                                                                      Cá nhân tự kinh doanh cũng có thể phải trả tiền
+     Chứng nhận ở (3) và (4) không xét đến nếu                Trong hầu hết các trường hợp, $168.600 tiền
+                                                                                                                  thuế Medicare bổ sung. Xem Thuế tự kinh doanh ở
+người mua hoặc người thay thế đủ điều kiện có kiến        lương chịu thuế đầu tiên trong năm 2024 cho các
+                                                                                                                  phần sau.
+thức thực tế hoặc nhận được thông báo từ đại diện         dịch vụ được thực hiện ở Hoa Kỳ phải chịu thuế an
+của người bán hoặc người mua (hoặc người thay             sinh xã hội. Toàn bộ tiền lương chịu thuế đều phải
+thế) rằng chứng nhận là sai. Điều này cũng áp dụng        chịu thuế Medicare. Chủ lao động khấu lưu các           Học sinh và Khách trao đổi
+cho báo cáo của người thay thế đủ điều kiện theo          khoản thuế này trong mỗi lần trả lương. Chủ lao
+(4).                                                      động phải khấu lưu các khoản thuế này ngay cả khi       Nhìn chung, dịch vụ do bạn thực hiện với tư cách
+                                                          bạn không dự định hội đủ điều kiện nhận phúc lợi an     người nước ngoài tạm trú tạm thời ở Hoa Kỳ theo
+Chứng nhận khấu lưu. Thuế phải khấu lưu cho               sinh xã hội hoặc Medicare. Bạn có thể yêu cầu tín       diện người không định cư trong tiểu đoạn (F), (J),
+một sự xử lý có thể được giảm bớt hoặc loại bỏ theo       thuế an sinh xã hội vượt mức trên tờ khai thuế thu      (M) hoặc (Q) của đoạn 101(a)(15), Đạo luật Di Trú và
+chứng nhận khấu lưu thuế do IRS cấp. Trong hầu hết        nhập nếu bạn có nhiều chủ lao động và số tiền bị        Quốc Tịch không được bao gồm trong chương trình
+các trường hợp, bạn hoặc người mua có thể yêu cầu         khấu trừ từ tiền lương kết hợp trong năm 2024 là        an sinh xã hội nếu dịch vụ được thực hiện để thực
+cung cấp chứng nhận khấu lưu thuế.                        hơn $10.435,20.                                         hiện mục đích mà bạn được nhập cảnh vào Hoa Kỳ.
+    Chứng nhận khấu lưu thuế có thể được cấp vì                                                                   Điều này có nghĩa là bạn sẽ không bị khấu lưu thuế
+                                                              Nếu bất kỳ chủ lao động nào khấu trừ hơn
+bất kỳ lý do nào sau đây.                                                                                         an sinh xã hội hoặc thuế Medicare từ khoản tiền bạn
+                                                          $10.435,20, bạn không thể yêu cầu tín thuế cho số
+                                                                                                                  nhận được cho dịch vụ này. Các loại hình dịch vụ
+  1. IRS xác định rằng khấu lưu được giảm xuống           tiền đó. Yêu cầu chủ lao động của bạn hoàn trả tiền
+                                                                                                                  này rất hạn chế và thường chỉ bao gồm công việc
+     là phù hợp do:                                       vượt mức. Nếu chủ lao động không hoàn trả số tiền
+                                                                                                                  trong trường, đào tạo thực hành và việc làm trong
+                                                          vượt mức, bạn có thể yêu cầu hoàn thuế bằng Mẫu
+      a. Số tiền phải khấu lưu sẽ vượt quá nợ thuế                                                                tình hình khó khăn về tài chính.
+                                                          843.
+         tối đa của bạn hoặc
+                                                                                                                      Thuế an sinh xã hội và thuế Medicare sẽ được
+                                                              Thông thường, thuế an sinh xã hội và thuế
+       b. Khấu lưu số tiền được giảm xuống sẽ                                                                     khấu lưu từ tiền lương của bạn trong dịch vụ này nếu
+                                                          Medicare của Hoa Kỳ áp dụng cho khoản thanh toán
+          không gây nguy hiểm cho việc thu thuế.                                                                  bạn được coi như người nước ngoài thường trú
+                                                          tiền lương cho các dịch vụ được thực hiện với tư
+                                                                                                                  được thảo luận trong chương 1, ngay cả khi phân
+  2. Toàn bộ lợi nhuận thực thu sẽ được miễn thuế         cách nhân viên ở Hoa Kỳ, bất kể quốc tịch hoặc nơi
+                                                                                                                  loại không định cư của bạn (“F,” “J,” “M,” hoặc “Q”)
+     Hoa Kỳ và bạn không có nợ thuế khấu lưu              cư trú của nhân viên hay chủ lao động. Trong các
+                                                                                                                  vẫn giống nhau.
+     không thỏa đáng.                                     trường hợp hạn chế, các loại thuế này áp dụng cho
+                                                          tiền lương từ các dịch vụ được thực hiện ở ngoài
+
+Ấn phẩm 519 (2024)                                     Chương 8     Trả tiền thuế qua Khấu lưu hoặc Thuế ước tính                                                  41
+    Dịch vụ do người vợ/chồng hoặc trẻ vị thành        tiền lương của công việc, trừ khi người nước ngoài       Thuế tự kinh doanh
+niên của người nước ngoài tạm trú thực hiện theo       được coi như người nước ngoài thường trú.
+diện thị thực “F-2,” “J-2,” “M-2,” và “Q-3” được phủ
+                                                                                                                Thuế tự kinh doanh là thuế an sinh xã hội và thuế
+bởi an sinh xã hội.                                    Hoàn thuế bị khấu lưu do nhầm lẫn                        Medicare cho cá nhân tự kinh doanh. Người nước
+                                                                                                                ngoài tạm trú không chịu thuế tự kinh doanh trừ khi
+Học sinh là Người nước ngoài tạm                       Nếu thuế an sinh xã hội hoặc thuế Medicare bị khấu       thỏa thuận an sinh xã hội quốc tế có hiệu lực xác
+trú                                                    lưu do nhầm lẫn từ tiền lương không phải chịu các        định rằng họ được đài thọ theo hệ thống an sinh xã
+                                                       loại thuế này, hãy liên hệ với chủ lao động đã khấu      hội của Hoa Kỳ. Thường trú nhân Quần đảo Virgin
+Nếu bạn là người nước ngoài tạm trú tạm thời được      lưu thuế để được hoàn thuế. Nếu bạn không được           thuộc Mỹ, Puerto Rico, Guam, CNMI, hoặc Samoa
+nhập cảnh vào Hoa Kỳ với tư cách học sinh, bạn         hoàn lại đầy đủ tiền từ chủ lao động, nộp đơn yêu        của Mỹ được coi là thường trú nhân Hoa Kỳ theo
+thường không được phép làm việc hưởng lương            cầu hoàn thuế cho IRS trên Mẫu 843. Đính kèm các         mục đích này và phải chịu thuế tự kinh doanh. Bạn
+hoặc tham gia vào hoạt động kinh doanh khi bạn ở       mục sau với Mẫu 843.                                     có thể tìm thông tin về thỏa thuận an sinh xã hội
+Hoa Kỳ. Trong một số trường hợp, học sinh nhập           • Bản sao Mẫu W-2 để chứng minh số tiền an             quốc tế ở phần sau.
+cảnh vào Hoa Kỳ theo diện “F-1,” “M-1,” hoặc “J-1”           sinh xã hội và thuế Medicare bị khấu lưu.
+                                                                                                                    Người nước ngoài thường trú phải trả tiền thuế
+được cấp phép làm việc. Thuế an sinh xã hội và thuế      • Bản sao thị thực của bạn.
+                                                                                                                tự kinh doanh theo quy tắc tương tự như công dân
+Medicare không bị khấu lưu từ tiền lương của công        • Mẫu I-94 (hoặc tài liệu khác cho biết ngày đến
+việc, trừ khi học sinh được coi như người nước               hoặc ngày đi của bạn).                             Hoa Kỳ. Tuy nhiên, người nước ngoài thường trú
+                                                                                                                làm việc cho một tổ chức quốc tế, chính phủ nước
+ngoài thường trú.                                        • Nếu bạn có thị thực J-1, đính kem một bản sao
+                                                             của Mẫu DS-2019                                    ngoài hoặc công cụ thuộc sở hữu hoàn toàn của
+         Bất kỳ học sinh nào đã ghi danh và thường                                                              chính phủ nước ngoài sẽ không phải chịu thuế tự
+         xuyên tham gia các lớp học tại một trường
+                                                         • Nếu bạn có thị thực F-1 hoặc M1, đính kèm
+ TIP                                                         bản sao của Mẫu I-20 đã hoàn tất.                  kinh doanh trên thu nhập kiếm được tại Hoa Kỳ.
+         học đều có thể được miễn thuế an sinh xã
+hội và thuế Medicare trên tiền lương của dịch vụ
+                                                         • Nếu bạn đang tham gia vào khóa đào tạo thực              Thu nhập tự kinh doanh mà bạn nhận được với
+                                                             hành tùy chọn, đính kèm Mẫu I-776.
+được thực hiện cho trường đó.                                                                                   tư cách người nước ngoài thường trú phải chịu thuế
+                                                         • Nếu bạn đã tham gia vào việc làm do nhu cầu          tự kinh doanh ngay cả khi thu nhập được trả cho
+                                                             về tài chính nghiêm trọng, hồ sơ cho biết bạn
+                                                                                                                dịch vụ mà bạn đã thực hiện với tư cách người nước
+    USCIS cho phép học sinh làm việc trong trường            được phép làm việc ở Hoa Kỳ.
+                                                                                                                ngoài tạm trú.
+theo diện “F-1” nếu công việc đó không khiến cho         • Báo cáo của chủ lao động cho biết số tiền hoàn
+thường trú nhân Hoa Kỳ không bị thay thế. “Công              trả mà chủ lao động đã cung cấp và tín thuế
+                                                                                                                    Ví dụ. Bill Jones là một tác giả. Bill có một số
+việc trong trường” có nghĩa là công việc được thực           hoặc tiền hoàn thuế mà chủ lao động đã yêu
+                                                                                                                cuốn sách được xuất bản ở nước ngoài khi Bill là
+hiện tại trường. Công việc trong trường bao gồm              cầu hoặc bạn đã ủy quyền cho chủ lao động
+                                                                                                                công dân và thường trú nhân của quốc gia đó. Bill
+công việc được thực hiện tại một địa điểm ngoài              yêu cầu. Nếu bạn không nhận được báo cáo
+                                                                                                                nhập cảnh vào Hoa Kỳ năm 2024 với tư cách người
+trường được liên kết về mặt giáo dục với nhà                 này từ chủ lao động thì bạn phải cung cấp
+                                                                                                                nước ngoài thường trú. Sau khi trở thành thường trú
+trường. Công việc trong trường theo điều khoản của           thông tin này trên bản tường trình và giải thích
+                                                                                                                nhân Hoa Kỳ, Bill tiếp tục nhận được tiền bản quyền
+học bổng, trợ cấp nghiên cứu sinh hoặc học bổng              lý do tại sao bạn không đính kèm báo cáo của
+                                                                                                                từ nhà xuất bản nước ngoài. Bill khai báo thu nhập
+trợ giảng được coi là một phần chương trình học tập          chủ lao động hoặc Mẫu 8316 yêu cầu chủ lao
+                                                                                                                và chi phí trên cơ sở tiền mặt (Bill khai báo thu nhập
+của một học sinh chính quy và được USCIS cho                 động sẽ không hoàn thuế.
+                                                                                                                nhận được trên tờ khai thuế và khấu trừ chi phí khi
+phép. Thuế an sinh xã hội và thuế Medicare không bị      • Nếu bạn chỉ được miễn thuế an sinh xã hội và         được thanh toán). Thu nhập tự kinh doanh năm
+khấu lưu từ tiền lương của công việc, trừ khi học            thuế Medicare trong một khoảng thời gian của
+                                                                                                                2024 của Bill bao gồm tiền bản quyền sau khi Bill trở
+sinh được coi như người nước ngoài thường trú.               năm, báo cáo tiền lương cho biết khoản thuế
+                                                                                                                thành thường trú nhân Hoa Kỳ mặc dù sách đã
+                                                             đã nộp trong thời gian bạn được miễn thuế.
+                                                                                                                được xuất bản khi Bill là người nước ngoài tạm trú.
+    Nếu dịch vụ được thực hiện bởi một học sinh là                                                              Thu nhập từ tiền bản quyền phải chịu thuế tự kinh
+người nước ngoài tạm trú không được coi như đã             Gửi Mẫu 843 (cùng đính kèm) đến:                     doanh.
+thực hiện để thực hiện mục đích mà học sinh đó
+được nhập cảnh vào Hoa Kỳ, thuế an sinh xã hội và              Department of the Treasury                       Khai báo thuế tự kinh doanh. Dùng Bảng SE
+thuế Medicare sẽ được khấu lưu từ tiền lương của               Internal Revenue Service                         (Mẫu 1040) để khai báo và tính thuế tự kinh doanh.
+dịch vụ, trừ khi tiền lương đó được miễn thuế theo             Ogden, UT 84201-0038                             Sau đó, hãy điền thuế vào Bảng 2 (Mẫu 1040), dòng
+Bộ luật thuế vụ.                                                                                                4. Đính kèm Bảng SE (Mẫu 1040) với Mẫu 1040,
+                                                       .                                                        Mẫu 1040-SR hoặc Mẫu 1040-NR.
+Khách trao đổi
+                                                                Không dùng Mẫu 843 để yêu cầu hoàn              Thuế Medicare bổ sung. Cá nhân tự kinh doanh
+                                                                thuế Medicare bổ sung. Nếu thuế Medicare
+Khách trao đổi tạm thời được nhập cảnh vào Hoa Kỳ          !
+                                                        CAUTION bổ sung bị khấu lưu khỏi tiền lương do
+                                                                                                                phải trả tiền thuế Medicare bổ sung 0.9% (0.009)
+theo đoạn 101(a)(15)(J) của Đạo luật Di Trú và Quốc                                                             trên thu nhập tự kinh doanh vượt quá một trong các
+                                                       nhầm lẫn, bạn có thể yêu cầu tín thuế Medicare bổ        ngưỡng sau (dựa trên tình trạng nộp tờ khai thuế
+Tịch. Thuế an sinh xã hội và thuế Medicare không
+                                                       sung đã khấu lưu trong tổng tiền nợ thuế ghi trên tờ     của bạn).
+được khấu lưu vào tiền lương từ dịch vụ của khách
+                                                       khai bằng cách nộp Mẫu 8959 cùng Mẫu 1040, Mẫu             • Vợ chồng khai chung hồ sơ thuế — $250.000
+trao đổi được phép làm việc và người sở hữu hoặc
+                                                       1040-SR hoặc Mẫu 1040-NR. Nếu thuế Medicare bổ             • Vợ chồng khai riêng hồ sơ thuế — $125.000
+có thư ủy quyền của nhà tài trợ, trừ khi khách trao
+                                                       sung bị khấu lưu do nhầm lẫn trong năm trước mà                hoặc
+đổi được coi như người nước ngoài thường trú.
+                                                       bạn nộp Mẫu 1040, Mẫu 1040-SR hoặc Mẫu                     • Độc thân, Chủ gia đình hoặc Người vợ/chồng
+                                                       1040-NR, bạn phải nộp Mẫu 1040-X trong năm                     còn lại đủ điểu kiện — $200.000.
+    Nếu dịch vụ được thực hiện bởi khách trao đổi      trước nhận được tiền lương hoặc tiền thù lao ban
+được coi như đã thực hiện để thực hiện mục đích        đầu để thu hồi thuế Medicare bổ sung bị khấu lưu do          Nếu bạn có cả tiền lương và thu nhập tự kinh
+mà học sinh đó được nhập cảnh vào Hoa Kỳ, thuế         nhầm lẫn. Xem Hướng dẫn cho Mẫu 1040-X.                  doanh thì ngưỡng áp dụng thuế Medicare bổ sung
+an sinh xã hội và thuế Medicare sẽ được khấu lưu từ                                                             trên thu nhập tự kinh doanh sẽ giảm (nhưng không
+tiền lương của dịch vụ, trừ khi tiền lương đó được                                                              dưới 0) bằng tiền lương phải chịu thuế Medicare bổ
+miễn thuế theo Bộ luật thuế vụ.                        Công nhân ngành nông nghiệp                              sung. Không nên xem xét việc mất việc làm tự do
+                                                                                                                theo mục đích của loại thuế này.
+    Người nước ngoài tạm trú tạm thời được nhập        Công nhân ngành nông nghiệp tạm thời được nhập               Nếu bạn nộp Mẫu 1040-NR, bạn phải trả tiền
+cảnh vào Hoa Kỳ với tư cách người tham gia các         cảnh vào Hoa Kỳ theo diện thị thực H-2A được miễn        thuế Medicare bổ sung nếu tổng tiền lương và thu
+chương trình trao đổi văn hóa quốc tế theo đoạn        thuế an sinh xã hội và thuế Medicare trên tiền thù lao   nhập tự kinh doanh là hơn $125.000 nếu đã kết hôn
+101(a)(15)(Q) của Đạo luật Di Trú và Quốc Tịch có      được trả cho dịch vụ được thực hiện liên quan đến        (bạn đã đánh dấu vào ô Vợ chồng khai riêng hồ sơ
+thể được miễn thuế an sinh xã hội và thuế Medicare.    diện thị thực H-2A. Bạn có thể tìm thấy thông tin        thuế ở đầu trang một của Mẫu 1040- NR) hoặc
+Chủ lao động phải là người đề nghị mà qua đó           khác về việc không có thuế bị khấu lưu tại IRS.gov/      $200.000 nếu người độc thân hoặc người vợ/chồng
+người nước ngoài có được “diện thị thực” Q. Thuế       ForeignAgriculturalWorkers (tiếng Anh).                  còn lại đủ điều kiện (bạn đã đánh dấu vào ô Single
+an sinh xã hội và thuế Medicare không bị khấu lưu từ                                                            (Người độc thân) hoặc Qualifying surviving spouse
+
+42                                                 Chương 8        Trả tiền thuế qua Khấu lưu hoặc Thuế ước tính                               Ấn phẩm 519 (2024)
+(Người vợ/chồng còn lại đủ điều kiện ở đầu trang 1      Giấy chứng nhận Bảo hiểm, truy cập SSA.gov/             trong hướng dẫn cho Mẫu 1040-ES (NR). Nếu bạn
+của Mẫu 1040-NR).                                       international/CoC_link.html (tiếng Anh).                đã không nộp tờ khai thuế năm 2024 hoặc nếu thu
+    Xem Mẫu 8959 và các hướng dẫn riêng để xác                                                                  nhập, tiền khấu trừ hoặc tín thuế sẽ khác trong năm
+định xem bạn phải trả tiền thuế Medicare bổ sung        Cá nhân tự kinh doanh. Theo hầu hết các thỏa            2025, bạn phải ước tính các khoản tiền này. Tính nợ
+hay không. Để biết thêm thông tin về thuế Medicare      thuận, cá nhân tự kinh doanh được bảo hiểm theo         thuế ước tính của bạn bằng cách dùng Bảng thuế
+bổ sung, truy cập IRS.gov/ADMTfaqs (tiếng Anh).         hệ thống an sinh xã hội của quốc gia nơi họ cư trú.     Suất năm 2025 hướng dẫn cho Mẫu 1040-ES (NR)
+                                                        Tuy nhiên, theo một số thỏa thuận, bạn có thể được      để biết tư cách khai thuế của bạn.
+Khấu trừ phần thuế tự kinh doanh tương                  miễn thuế tự kinh doanh Hoa Kỳ nếu bạn tạm thời
+đương với chủ lao động. Nếu bạn phải trả tiền           chuyển hoạt động kinh doanh đến Hoa Kỳ hoặc từ             Ghi chú. Nếu bạn dự định trở thành thường trú
+thuế tự kinh doanh, bạn có thể khấu trừ một phần        Hoa Kỳ.                                                 nhân Puerto Rico trong cả năm, xem Mẫu 1040-ES.
+thuế tự kinh doanh đã nộp để tính tổng thu nhập đã          Nếu bạn cho rằng thu nhập tự kinh doanh chỉ
+điều chỉnh. Mức khấu trừ này được tính trên Bảng        chịu thuế tự kinh doanh Hoa Kỳ và được miễn thuế        Thời điểm trả tiền thuế ước tính. Thực hiện
+SE (Mẫu 1040).                                          an sinh xã hội nước ngoài, hãy yêu cầu cấp Giấy         thanh toán thuế ước tính đầu tiên trước ngày đến
+                                                        chứng nhận Bảo hiểm từ SSA Xem đường dẫn trong          hạn nộp Mẫu 1040-NR của năm trước. Nếu bạn có
+   Ghi chú. Không có phần thuế Medicare bổ sung         Ghi chú ở trên. Giấy chứng nhận này sẽ giúp bạn         tiền lương tuân thủ quy tắc khấu lưu tương tự như
+nào phải khấu trừ cho thuế tự kinh doanh.               được miễn thuế an sinh xã hội nước ngoài.               công dân Hoa Kỳ, bạn phải nộp Mẫu 1040-NR và
+                                                            Để chứng minh rằng thu nhập từ việc tư doanh        thực hiện thanh toán thuế ước tính đầu tiên trước
+Thông tin khác. Xem Ấn phẩm 334 để biết thêm            của bạn chỉ phải chịu thuế an sinh xã hội nước ngoài    ngày 15 tháng 4, 2025. Nếu bạn không có tiền lương
+thông tin về thuế tự kinh doanh.                        và được miễn thuế tự kinh doanh của Hoa Kỳ, hãy         bị khấu lưu, nộp tờ khai thuế thu nhập và nộp khoản
+                                                        yêu cầu Giấy chứng nhận Bảo hiểm từ cơ quan thích       thuế ước tính đầu tiên trước ngày 16 tháng 6, 2025.
+
+Thỏa thuận An sinh Xã hội                               hợp của nước ngoài.                                         Nếu thuế ước tính đầu tiên phải nộp đến hạn vào
+                                                                                                                ngày 15 tháng 4, 2025, bạn có thể nộp toàn bộ thuế
+quốc tế                                                     Ghi chú. Một số quốc gia mà Hoa Kỳ có thỏa          ước tính vào thời điểm đó hoặc trả tiền thuế bằng
+                                                        thuận sẽ không cấp giấy chứng nhận bảo hiểm.            nhau trong bốn đợt vào các ngày ghi ở phần tiếp
+Hoa Kỳ đã ký hiệp ước an sinh xã hội, thường được       Trong trường hợp này, bạn nên yêu cầu bản tường         theo.
+gọi là “thỏa thuận cộng chung,” với nước ngoài để       trình rằng thu nhập từ việc tự kinh doanh của bạn
+điều phối bảo hiểm an sinh xã hội và đánh thuế đối      không được hệ thống an sinh xã hội Hoa Kỳ chi trả.        trả góp lần 1 . . . . . . . . . . . . . . .   Ngày 15 tháng 4, 2025
+với người lao động được thuê trong một phần hoặc        Để biết thêm thông tin và cách xin Chứng nhận Bảo         trả góp lần 2 . . . . . . . . . . . . . . .   Ngày 16 tháng 6, 2025
+toàn bộ sự nghiệp làm việc của họ tại một trong các     hiểm,    hãy    truy   cập    SSA.gov/international/      trả góp lần 3 . . . . . . . . . . . . . . .   Ngày 15 tháng 9, 2025
+nước này. Theo thỏa thuận này, bảo hiểm kép và          CoC_link.html (tiếng Anh).                                trả góp lần 4 . . . . . . . . . . . . . .     Ngày 15 tháng 1, 2026
+khoản đóng góp kép (thuế) cho cùng một công việc
+sẽ bị loại bỏ. Thỏa thuận này thường đảm bảo rằng                Nếu bạn có thắc mắc về các quy tắc bao         Nếu khoản thanh toán đầu tiên chưa đến hạn cho
+thuế an sinh xã hội (bao gồm cả thuế tự kinh doanh)      TIP     phủ, hãy gọi số 410-965-7306.                  đến ngày 16 tháng 6, 2025, bạn có thể nộp toàn bộ
+chỉ được nộp cho một quốc gia.                                                                                  thuế ước tính vào thời điểm đó hoặc:
+                                                                                                                   1. 1/2 thuế ước tính của bạn trước ngày 16 tháng
+    Để biết danh sách các thỏa thuận an sinh xã hội
+quốc tế, truy cập SSA.gov/international/status.html     Thuế ước tính Mẫu                                             6, 2025;
+                                                                                                                   2. 1/4 thuế chậm nhất là vào ngày 15 tháng 9,
+(tiếng Anh). Khi thỏa thuận với các quốc gia khác có
+hiệu lực, thỏa thuận này sẽ được đăng lên trang web     1040-ES (NR)                                                  2025; và
+này. Để biết thêm thông tin về các thỏa thuận an sinh                                                              3. 1/4 chậm nhất là vào ngày 15 tháng 1, 2026.
+xã hội quốc tế, truy cập SSA.gov/international/         Bạn có thể có thu nhập mà không bị khấu trừ thuế
+totalization_agreements.html (tiếng Anh).               thu nhập Hoa Kỳ. Hoặc số tiền thuế bị khấu lưu có                Bạn không phải thực hiện thanh toán đến
+                                                        thể ít hơn số tiền thuế thu nhập mà bạn ước tính sẽ       TIP    hạn vào ngày 15 tháng 1, 2026 nếu bạn
+Nhân viên. Theo thỏa thuận này, bạn thường chỉ          nợ vào cuối năm. Nếu vậy thì bạn có thể phải trả tiền            nộp Mẫu 1040-NR năm 2025 trước ngày 2
+phải chịu thuế an sinh xã hội tại quốc gia nơi bạn      thuế ước tính.                                          tháng 2, 2026 và thanh toán toàn bộ số nợ đến hạn
+đang làm việc. Tuy nhiên, nếu bạn tạm thời được gửi                                                             bằng tờ khai thuế.
+                                                            Nhìn chung, bạn phải trả tiền thuế ước tính cho
+đi làm việc cho cùng một chủ lao động tại Hoa Kỳ và
+                                                        năm 2025 nếu bạn dự kiến sẽ nợ ít nhất $1.000 tiền
+tiền lương thường phải chịu thuế an sinh xã hội ở cả                                                                Năm tài chính. Nếu tờ khai thuế của bạn không
+                                                        thuế và bạn mong đợi tiền khấu lưu và một số tín
+hai quốc gia thì hầu hết các thỏa thuận đều quy định                                                            theo năm, ngày đến hạn sẽ là ngày 15 của tháng thứ
+                                                        thuế hoàn lại ít hơn số tiền nhỏ hơn:
+rằng bạn chỉ được hưởng bảo hiểm theo hệ thống                                                                  4, 6 và 9 trong năm tài chính và tháng đầu tiên của
+an sinh xã hội của quốc gia mà từ đó bạn đã được          1. 90% (0.90) thuế ghi trên tờ khai thuế thu nhập     năm tài chính tiếp theo. Nếu bất kỳ ngày nào rơi vào
+gửi đi làm việc.                                             năm 2025 của bạn hoặc                              Thứ Bảy, Chủ Nhật hoặc ngày lễ hợp pháp, hãy
+     Để xác nhận tiền lương của bạn chỉ phải chịu                                                               dùng ngày tiếp theo không phải Thứ Bảy, Chủ Nhật
+                                                          2. 100% (1.00) tiền thuế ghi trên tờ khai thuế thu
+thuế an sinh xã hội nước ngoài và được miễn thuế                                                                hoặc ngày lễ hợp pháp.
+                                                             nhập năm 2024 của bạn (nếu tờ khai năm
+an sinh xã hội Hoa Kỳ (bao gồm cả thuế Medicare)             2024 của bạn bao gồm tất cả 12 tháng trong
+theo thỏa thuận, bạn hoặc chủ lao động nên yêu cầu                                                              Thay đổi trong thu nhập hoặc mức khấu trừ.
+                                                             năm).
+cấp giấy chứng nhận bảo hiểm từ cơ quan chức                                                                    Ngay cả khi bạn không phải trả tiền thuế ước tính
+năng của nước ngoài. Điều này thường sẽ là cùng         Nếu tổng thu nhập đã điều chỉnh của bạn cho năm         vào tháng 4 hoặc tháng 6, hoàn cảnh của bạn có thể
+một cơ quan mà bạn hoặc chủ lao động đóng thuế          2024 là hơn $150.000 ($75.000 nếu tình trạng nộp        thay đổi đến mức bạn sẽ phải trả tiền thuế ước tính
+an sinh xã hội nước ngoài. Cơ quan nước ngoài có        tờ khai thuế của bạn cho năm 2025 là Vợ chồng khai      sau này. Điều này có thể xảy ra nếu bạn nhận thêm
+thể cho bạn biết thông tin cần thiết mà họ cần để cấp   riêng hồ sơ thuế), hãy thay thế 110% (1,10) bằng        thu nhập hoặc nếu có bất kỳ khoản khấu trừ nào của
+giấy chứng nhận. Chủ lao động nên giữ lại một bản       100% (1,00) trong (2) ở trên nếu bạn không phải là      bạn bị giảm bớt hoặc bị loại bỏ. Nếu vậy, xem hướng
+sao giấy chứng nhận do giấy chứng nhận có thể cần       nông dân hoặc ngư dân. Mục (2) không áp dụng nếu        dẫn cho Mẫu 1040-ES (NR) và Ấn phẩm 505 (tiếng
+thiết để cho biết lý do tại sao bạn được miễn thuế an   bạn đã không nộp tờ khai thuế năm 2024.                 Anh) để biết thông tin về tính thuế ước tính.
+sinh xã hội của Hoa Kỳ. Chỉ tiền lương được trả vào
+                                                           Học sinh là người nước ngoài tạm trú nên dùng        Thuế ước tính được điều chỉnh. Nếu sau khi trả
+ngày hoặc sau ngày thỏa thuận có hiệu lực mới có
+                                                        Mẫu 1040-ES (NR) để tính và trả tiền thuế tư doanh.     tiền thuế ước tính, bạn nhận thấy thuế ước tính của
+thể được miễn thuế an sinh xã hội Hoa Kỳ.
+                                                        Nếu bạn thanh toán bằng séc, hãy thanh toán cho         mình tăng lên hoặc giảm bớt đáng kể do thay đổi
+                                                        "United States Treasury (Bộ Tài chính Hoa Kỳ)".         trong thu nhập hoặc các khoản miễn trừ thì bạn nên
+    Ghi chú. Một số quốc gia mà Hoa Kỳ đã ký thỏa
+thuận sẽ không cấp giấy chứng nhận bảo hiểm.                                                                    điều chỉnh thuế ước tính còn lại. Để làm điều này,
+                                                        Cách ước tính thuế năm 2025. Nếu bạn đã nộp             xem Hướng dẫn cho Mẫu 1040-ES (NR) và Ấn
+Trong trường hợp này, bạn hoặc chủ lao động nên
+                                                        tờ khai thuế năm 2024 trên Mẫu 1040-NR và dự kiến       phẩm 505 (tiếng Anh).
+yêu cầu cung cấp báo cáo cho biết rằng tiền lương
+                                                        thu nhập và tổng tiền khấu trừ năm 2025 gần bằng
+của bạn không được hệ thống an sinh xã hội Hoa Kỳ
+                                                        nhau, bạn nên dùng tờ khai thuế năm 2024 làm
+đài thọ. Để biết thêm thông tin và cách nộp đơn xin
+                                                        hướng dẫn để hoàn thành Bảng tính thuế Ước Tính
+
+Ấn phẩm 519 (2024)                                  Chương 8      Trả tiền thuế qua Khấu lưu hoặc Thuế ước tính                                                                    43
+Phạt do không trả tiền thuế thu nhập ước tính.          Các mục hữu ích                                                          Tổng tiền thù lao      . . . . . . . . . . . . . . . . . . . . .   $24.500
+Bạn sẽ phải chịu phạt do nộp thiếu tiền trả góp thuế    Bạn có thể muốn xem:
+ước tính thấp hơn, trừ một số trường hợp nhất định.                                                                              Dưới: Khoản khấu trừ         . . . . . . . . . . . . . . . . .           0
+Các tình huống này được giải thích trên Mẫu 2210.         Ấn phẩm
+                                                                                                                                 Thu nhập chịu thuế          . . . . . . . . . . . . .              $24.500
+                                                              901 Hiệp ước thuế Hoa Kỳ
+                                                                       901
+
+
+
+
+                                                                                                                                 Thuế được xác định theo tỷ lệ lũy tiến (cột Bảng
+                                                          Mẫu đơn (và Hướng dẫn)                                                                                                                     $2.708
+                                                                                                                                 thuế cho người đóng thuế độc thân) . . . . . . . .
+                                                              1040-NR Tờ khai thuế thu nhập cho Người
+
+9.
+                                                                                    1040-NR
+
+
+
+
+                                                                      nước ngoài tạm trú Hoa Kỳ                                  Cộng: Thuế trên tổng cổ tức ($1.400 ×
+                                                                                                                                 (0,30)) . . . . . . . . . . . . . . . . . . . . . . . . . . .         420
+                                                              8833 Công bố Quan điểm khai thuế dựa trên
+                                                                             8833
+
+
+
+
+                                                                   hiệp ước thuế vụ theo đoạn 6114 hoặc                          Thuế được xác định như thể hiệp ước chưa
+                                                                                                                                                                                                     $3.128
+
+Quyền lợi theo hiệp
+                                                                   7701(b)                                                       có hiệu lực . . . . . . . . . . . . . . . . .
+
+                                                        Xem chương 12 để biết thông tin về việc xin các ấn                          Nợ thuế của Arthur, được xác định bằng cách
+
+ước thuế
+                                                        phẩm và mẫu đơn này.                                                    tính tỷ lệ giảm trên thu nhập cổ tức theo quy định của
+                                                                                                                                hiệp ước thuế, là $2.918 được xác định như sau.
+
+                                                        Thu nhập theo hiệp ước                                                   Thuế được xác định theo tỷ lệ lũy tiến (tương tự
+
+Giới thiệu                                                                                                                       như ở trên) . . . . . . . . . . . . . . . . . . . . . . . .         $2.708
+                                                        Thu nhập theo hiệp ước thuế của người nước ngoài
+                                                        tạm trú là tổng thu nhập mà thuế bị giới hạn bởi hiệp                    Cộng: Thuế trên tổng cổ tức ($1.400 ×
+Người nước ngoài tạm trú (và một số người nước                                                                                                                                                         210
+                                                        ước thuế. Thu nhập theo hiệp ước bao gồm cổ tức                          (0,15)) . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ngoài thường trú) từ một quốc gia mà Hoa Kỳ đã ký
+hiệp ước thuế thu nhập có thể đủ điều kiện được         từ các nguồn ở Hoa Kỳ phải chịu thuế suất theo hiệp
+                                                                                                                                 Thuế trên tiền thù lao và cổ tức . . . . . . .                      $2.918
+hưởng một số quyền lợi nhất định. Hầu hết các hiệp      ước không vượt quá 15%. Thu nhập ngoài hiệp ước
+ước quy định người nước ngoài tạm trú phải là           là tổng thu nhập của người nước ngoài tạm trú mà
+                                                                                                                                   Do đó, nợ thuế của Arthur được giới hạn ở mức
+thường trú nhân của quốc gia đã ký hiệp ước để hội      thuế không bị giới hạn bởi hiệp ước thuế được áp
+                                                                                                                                $2.918, nợ thuế được tính bằng thuế suất theo hiệp
+đủ điều kiện trong năm yêu cầu quyền lợi. Tuy nhiên,    dụng.
+                                                                                                                                ước thuế trên cổ tức.
+trong trường hợp một số học sinh, thực tập sinh,            Để xác định thuế đối với các khoản thu nhập
+giáo viên hoặc nhà nghiên cứu, một số hiệp ước chỉ      chịu mức thuế suất thấp hơn theo hiệp ước, hãy tính
+quy định người nước ngoài tạm trú phải là thường
+trú nhân của quốc gia đã ký hiệp ước ngay trước khi
+                                                        thuế đối với từng khoản thu nhập riêng biệt với mức                     Một số quyền lợi điển
+                                                        thuế suất giảm áp dụng cho khoản đó theo hiệp ước.
+đến Hoa Kỳ.                                                                                                                     hình theo hiệp ước thuế
+                                                            Để xác định thuế trên thu nhập ngoài hiệp ước,
+Bảng hiệp ước thuế. Bạn có thể truy cập bảng            hãy tính thuế ở mức cố định 30% hoặc thuế suất lũy                      Các đoạn dưới đây giải thích ngắn gọn khoản miễn
+hiệp ước thuế bằng cách truy cập IRS.gov/               tiến, tùy thuộc vào thu nhập có liên thông thực tế với                  trừ có sẵn theo hiệp ước thuế đối với thu nhập từ
+TreatyTables (tiếng Anh). Bạn có thể truy cập bản       hoạt động thương mại hay kinh doanh ở Hoa Kỳ hay                        dịch vụ cá nhân, kiều hối, học bổng, trợ cấp nghiên
+văn hiệp ước thuế thu nhập Hoa Kỳ, quy định và          không.                                                                  cứu sinh và thu nhập từ lãi vốn. Các điều kiện yêu
+thỏa thuận trao đổi thông tin thuế (TIEA) đã ký gần                                                                             cầu miễn trừ thay đổi tùy theo từng hiệp ước thuế.
+đây và giải thích kỹ thuật về hiệp ước thuế quan của        Nợ thuế là tổng tiền thuế trên thu nhập theo hiệp
+                                                        ước cộng với thuế trên thu nhập ngoài hiệp ước, nợ                      Để biết thêm thông tin về các điều kiện theo hiệp
+Bộ Tài chính đi kèm khi được công bố rộng rãi cũng                                                                              ước thuế cụ thể, hãy tải xuống toàn bộ bản văn của
+như ở Hoa Kỳ. Hội nghị Thuế thu nhập điển hình tại      thuế không thể nhiều hơn nợ thuế được tính như thể
+                                                        hiệp ước thuế chưa có hiệu lực.                                         hầu hết các hiệp ước thuế Hoa Kỳ tại IRS.gov/
+Home.Treasury.gov/Policy-Issues/Tax-Policy/                                                                                     Businesses/International-Businesses/United-States-
+International-Tax (tiếng Anh).                                                                                                  Income-Tax-Treaties-A-to-Z (tiếng Anh). Giải thích kỹ
+                                                            Ví dụ. Arthur Banks là một người nước ngoài
+             Xin lưu ý rằng tài liệu hiệp ước và TIEA   tạm trú là người độc thân và là thường trú nhân của                     thuật về nhiều hiệp ước trong số đó cũng có sẵn tại
+             được đăng trên trang web này sau khi ký                                                                            trang web đó. Xem thêm Ấn phẩm 901 (tiếng Anh).
+     !       và trước khi phê chuẩn và có hiệu lực.
+                                                        một quốc gia nước ngoài đã ký hiệp ước thuế với
+                                                        Hoa Kỳ. Arthur nhận được tổng thu nhập là $25.900                           Quyền lợi theo hiệp ước thuế cũng bao gồm thu
+CAUTION
+
+                                                        trong năm tính thuế từ các nguồn ở Hoa Kỳ, bao                          nhập như cổ tức, tiền lãi, tiền cho thuê, tiền bản
+     Toàn bộ bản văn hiệp ước thuế quan cá nhân
+                                                        gồm các khoản sau đây.                                                  quyền, lương hưu và niên kim. Các loại thu nhập này
+cũng có sẵn tại IRS.gov/Businesses/International-
+Businesses/United-States-Income-Tax-Treaties-A-to-                                                                              có thể được miễn thuế Hoa Kỳ hoặc được hưởng
+Z (tiếng Anh). Để biết thêm thông tin về các hiệp        Cổ tức mà thuế được giới hạn ở mức 15% theo                            thuế suất giảm. Để biết thêm thông tin, xem Ấn
+                                                         hiệp ước thuế . . . . . . . . . . . . . . . . . . . . . .     $1.400
+ước thuế, truy cập IRS.gov/Individuals/International-                                                                           phẩm 901 (tiếng Anh) hoặc hiệp ước thuế hiện hành.
+Taxpayers/Tax-Treaties (tiếng Anh).
+                                                         Tiền thù lao cho dịch vụ cá nhân mà thuế không
+     Thông thường, bạn có thể thu xếp để được giảm
+bớt hoặc loại bỏ thuế khấu lưu trên tiền lương và thu
+                                                         bị giới hạn bởi hiệp ước thuế . . . . . . . . . . . . .       24.500   Dịch vụ cá nhân
+nhập khác đủ điều kiện được hưởng quyền lợi theo         Tổng thu nhập . . . . . . . . . . . . . . . .                $25.900   Theo hầu hết các hiệp ước thuế thu nhập, người
+hiệp ước thuế. Xem Thu nhập được hưởng quyền
+                                                                                                                                nước ngoài tạm trú đến từ các quốc gia đã ký hiệp
+lợi theo hiệp ước thuế trong chương 8.                      Arthur tham gia vào hoạt động kinh doanh ở Hoa                      ước và người nước ngoài có tình trạng kép buộc
+                                                        Kỳ trong năm tính thuế. Cổ tức của Arthur không liên                    phải phá vỡ thiên về quốc gia đã ký hiệp ước (xem
+Các chủ đề                                              thông thực tế với hoạt động kinh doanh đó. Arthur                       chương 1) có mặt tạm thời ở Hoa Kỳ để thực hiện
+Chương này thảo luận về:                                không có khoản khấu trừ.                                                dịch vụ có thể đủ điều kiện được miễn trừ một số
+                                                            Nợ thuế được xem như hiệp ước thuế chưa có                          hoặc toàn bộ thu nhập từ dịch vụ cá nhân khỏi thuế
+ • Quyền lợi theo hiệp ước thuế điển hình,              hiệu lực, là $3.128 được xác định như sau.                              Hoa Kỳ nếu họ đáp ứng yêu cầu của điều khoản
+ • Cách xin bản sao các hiệp ước thuế và                                                                                        trong hiệp ước hiện hành.
+ • Cách yêu cầu quyền lợi theo hiệp ước thuế
+         trên tờ khai thuế.                                                                                                     Thu nhập từ việc làm. Hầu hết các hiệp ước thuế
+                                                                                                                                thu nhập đều có điều khoản “thu nhập từ việc làm”,
+                                                                                                                                đôi khi được gọi là điều khoản dịch vụ cá nhân phụ
+                                                                                                                                thuộc, trong đó cho phép thường trú nhân của quốc
+                                                                                                                                gia đã ký hiệp ước được miễn thuế thu nhập kiếm
+
+
+
+
+44                                                           Chương 9                         Quyền lợi theo hiệp ước thuế                                                    Ấn phẩm 519 (2024)
+được khi là nhân viên ở Hoa Kỳ nếu họ đáp ứng tất      nhiều hiệp ước, người nước ngoài là thường trú          dòng 1a trong trường hợp tiền cộng hoặc tiền lương
+cả những điều sau đây.                                 nhân Hoa Kỳ không hội đủ điều kiện. Theo hầu hết        được báo cáo trong ô 1 của Mẫu W-2). Điền số tiền
+  • Họ có mặt ở Hoa Kỳ không quá 183 ngày trong        các hiệp ước, người nước ngoài không phải là quốc       mà quyền lợi theo hiệp ước thuế được yêu cầu
+     thời gian 12 tháng.                               dân hoặc chủ thể của quốc gia nước ngoài không          (trong ngoặc) trên Bảng 1 (Mẫu 1040), dòng 8z. .
+  • Thu nhập này được chủ lao động nước ngoài          hội đủ điều kiện. Nhân viên của chính phủ nước          Nhập “Exempt income (Thu nhập được miễn thuế),”
+     thanh toán.                                       ngoài nên đọc kỹ hiệp ước liên quan để xác định         tên quốc gia đã ký hiệp ước và điều khoản của hiệp
+  • Thu nhập này không được cơ sở thường trú           xem liệu họ có đủ điều kiện được hưởng quyền lợi        ước cho phép miễn thuế.
+     Hoa Kỳ của chủ lao động nước ngoài thanh          hay không. Chương 10 trong ấn phẩm này chứa
+     toán.                                             đựng thông tin về nhân viên của chính phủ nước              Đối với thu nhập được giảm thuế suất thay vì
+                                                       ngoài.                                                  miễn thuế theo hiệp ước, đính kèm bản tường trình
+Một số hiệp ước thuế thu nhập có các yêu cầu khác
+như khoảng thời gian hiện diện tối đa khác. Để biết                                                            với Mẫu 1040 hoặc Mẫu 1040-SR thể hiện việc tính
+thêm thông tin, xem Ấn phẩm 901 (tiếng Anh).           Học sinh, Người học nghề và                             thuế theo thuế suất giảm, tên quốc gia đã ký hiệp
+                                                                                                               ước và điều khoản của hiệp ước quy định về thuế
+                                                       Người học việc                                          suất giảm. Điền thuế này vào Mẫu 1040 hoặc Mẫu
+Dịch vụ cá nhân độc lập. Một số hiệp ước thuế
+thu nhập có điều khoản “dịch vụ cá nhân độc lập”                                                               1040-SR, dòng số 16. Đánh dấu ô 3 và nhập (“Thuế
+                                                       Theo một số hiệp ước thuế thu nhập, học sinh,
+cho phép thường trú nhân của quốc gia đã ký hiệp                                                               từ báo cáo đính kèm.”
+                                                       người học nghề và người tập sự được miễn thuế đối
+ước miễn thu nhập kiếm được với tư cách nhà thầu       với tiền nhận được từ nước ngoài dùng để học tập
+độc lập hoặc cá nhân tự kinh doanh khỏi thuế Hoa                                                                   Ví dụ. Jacques Dubois, thường trú nhân Hoa Kỳ
+                                                       và duy trì cuộc sống. Ngoài ra, theo một số hiệp        theo Điều 4 của Hiệp ước thuế thu nhập giữa Hoa
+Kỳ nếu họ có mặt ở Hoa Kỳ trong một khoảng thời        ước, học bổng và trợ cấp nghiên cứu sinh và một số
+gian không vượt quá một số ngày nhất định và nếu                                                               Kỳ và Pháp, nhận trợ cấp an sinh xã hội của Pháp.
+                                                       khoản thù lao hạn chế mà học sinh, người học nghề       Theo Điều 18(1) của hiệp ước, trợ cấp an sinh xã hội
+họ không có cơ sở cố định thường xuyên ở Hoa Kỳ.       và người học việc nhận được có thể được miễn            của Pháp không bị đánh thuế Hoa Kỳ. Quyền lợi
+                                                       thuế.                                                   được quy định tại Điều 18(1) được loại trừ khỏi điều
+     Ghi chú. Một số hiệp ước không có điều khoản
+dịch vụ độc lập. Theo hiệp ước này, thu nhập từ dịch       Nếu bạn đã nhập cảnh vào Hoa Kỳ với tư cách         khoản tiết kiệm theo Điều 29(3) của hiệp ước.
+vụ cá nhân độc lập có thể được bao gồm trong điều      người nước ngoài tạm trú nhưng hiện tại bạn là          Jacques không bắt buộc phải khai báo phúc lợi an
+khoản lợi nhuận kinh doanh. Theo điều khoản lợi        người nước ngoài thường trú thì miễn thuế theo hiệp     sinh xã hội Pháp trên Mẫu 1040 hoặc Mẫu 1040-SR.
+nhuận kinh doanh, cá nhân thường có thể miễn lợi       ước có thể vẫn được áp dụng. Xem Học sinh, Người
+nhuận kinh doanh khỏi thuế Hoa Kỳ, trừ khi họ có cơ    học nghề, Người học việc, Giáo viên, Giáo sư và         Quy tắc đặc biệt về quyền lợi An sinh
+sở thường trú tại Hoa Kỳ nơi phân bổ lợi nhuận kinh    Nhà nghiên cứu trở thành Người nước ngoài thường        Xã hội Canada và Đức
+doanh. Để biết thêm thông tin, bao gồm cả định         trú ở phần sau trong Người nước ngoài thường trú.
+nghĩa về thuật ngữ “cơ sở cố định” và “cơ sở thường                                                            Theo hiệp ước thuế thu nhập giữa Canada và Đức,
+trú”, xem Ấn phẩm 901 (tiếng Anh).
+                                                       Lãi vốn                                                 nếu thường trú nhân Hoa Kỳ nhận được phúc lợi an
+                                                                                                               sinh xã hội từ Canada hoặc Đức thì phúc lợi đó sẽ
+Giáo viên, Giáo sư và Nhà                              Hầu hết các hiệp ước đều cho phép miễn thuế tiền        được xử lý với mục đích tính thuế thu nhập Hoa Kỳ
+                                                                                                               như thể họ được nhận theo luật an sinh xã hội Hoa
+nghiên cứu                                             lời do bán hoặc trao đổi tài sản cá nhân. Tiền lời do
+                                                                                                               Kỳ. Nếu bạn nhận được phúc lợi an sinh xã hội từ
+                                                       bán hoặc trao đổi bất động sản ở Hoa Kỳ có thể chịu
+                                                       thuế.                                                   Canada hoặc Đức, bao gồm trong dòng số 1 của
+Theo nhiều hiệp ước thuế thu nhập, giáo viên hoặc
+                                                                                                               Bảng tính Quyền Lợi An sinh Xã hội trong Hướng
+giáo sư là người nước ngoài tạm trú tạm thời đến
+                                                                                                               dẫn cho Mẫu 1040 nhằm xác định số tiền chịu thuế
+Hoa Kỳ với mục đích chính là giảng dạy tại một         Người nước ngoài thường trú                             ghi trên Mẫu 1040 hoặc Mẫu 1040-SR, dòng 6b. Bạn
+trường đại học hoặc cơ sở giáo dục khác được
+                                                                                                               không phải nộp Mẫu 8833 về các quyền lợi này.
+công nhận không phải chịu thuế thu nhập Hoa Kỳ đối     Người nước ngoài thường trú có thể đủ điều kiện
+với tiền thù lao giảng dạy trong 2 hoặc 3 năm đầu      được hưởng quyền lợi theo hiệp ước thuế trong các
+tiên sau khi họ đến Hoa Kỳ. Nhiều hiệp ước cũng        tình huống được thảo luận dưới đây.                     Học sinh, Người học nghề, Người
+cho phép miễn thuế khi tham gia nghiên cứu.                                                                    học việc, Giáo viên, Giáo sư và Nhà
+                                                                                                               nghiên cứu trở thành Người nước
+                                                       Quy tắc chung cho Người nước
+    Nhìn chung, giáo viên hoặc giáo sư phải ở Hoa                                                              ngoài thường trú
+Kỳ với mục đích chính là dạy học, giảng bài, hướng     ngoài thường trú
+dẫn hoặc tham gia nghiên cứu. Một phần đáng kể                                                                 Nhìn chung, bạn phải là học sinh, người học nghề,
+thời gian của người đó phải dành cho các nhiệm vụ      Người nước ngoài thường trú không đủ điều kiện
+                                                       được hưởng quyền lợi theo hiệp ước thuế vì hầu hết      người học việc, giáo viên, giáo sư hoặc nhà nghiên
+đó. Nhiệm vụ thông thường của giáo viên hoặc giáo                                                              cứu là người nước ngoài tạm trú để yêu cầu miễn
+sư không chỉ bao gồm công việc chính thức trên lớp     các hiệp ước thuế đều có "điều khoản tiết kiệm"
+                                                       nhằm bảo lưu hoặc "tiết kiệm" quyền của Hoa Kỳ          trừ theo hiệp ước thuế đối với tiền gửi từ nước ngoài
+liên quan đến các bài giảng theo thời gian biểu, thử                                                           để học tập và duy trì cuộc sống tại Hoa Kỳ, học
+nghiệm hoặc hoạt động khác có sự tham gia của          trong việc đánh thuế công dân và thường trú nhân
+                                                       như thể hiệp ước thuế chưa có hiệu lực. Tuy nhiên,      bổng, trợ cấp nghiên cứu sinh và nghiên cứu và tiền
+học sinh mà còn bao gồm phương pháp trình bày ý                                                                lương hoặc thù lao khác từ dịch vụ cá nhân. Sau khi
+tưởng trong các hội thảo hoặc nhóm không chính         nhiều hiệp ước thuế có ngoại lệ về điều khoản tiết
+                                                       kiệm. Điều này có thể cho phép người nước ngoài         bạn trở thành người nước ngoài thường trú, bạn có
+thức khác và trong các nỗ lực chung tại phòng thí                                                              thể không yêu cầu miễn thuế thu nhập này theo hiệp
+nghiệm.                                                thường trú tiếp tục yêu cầu quyền lợi theo hiệp ước
+                                                       thuế.                                                   ước thuế được nữa.
+    Nếu bạn đã nhập cảnh vào Hoa Kỳ với tư cách
+người nước ngoài tạm trú nhưng hiện tại bạn là             Một số ngoại lệ về điều khoản tiết kiệm áp dụng         Tuy nhiên, nếu bạn nhập cảnh vào Hoa Kỳ với tư
+người nước ngoài thường trú thì miễn thuế theo hiệp    cho tất cả người nước ngoài thường trú (ví dụ: theo     cách người nước ngoài tạm trú nhưng hiện bạn là
+ước có thể vẫn được áp dụng. Xem Học sinh, Người       hiệp ước giữa Hoa Kỳ và Trung Quốc); các ngoại lệ       người nước ngoài thường trú với mục đích tính thuế
+học nghề, Người học việc, Giáo viên, Giáo sư và        khác chỉ áp dụng cho người nước ngoài thường trú        Hoa Kỳ thì miễn thuế theo hiệp ước sẽ tiếp tục được
+Nhà nghiên cứu trở thành Người nước ngoài thường       không phải là thường trú nhân hợp pháp của Hoa Kỳ       áp dụng nếu điều khoản tiết kiệm trong hiệp ước
+trú ở phần sau trong Người nước ngoài thường trú.      (người có thẻ xanh).                                    thuế (đã giải thích ở phần trước) có ngoại lệ và bạn
+                                                                                                               không đáp ứng được yêu cầu miễn thuế theo hiệp
+                                                           Trong một số trường hợp, bạn không cần phải         ước (bao gồm bất kỳ giới hạn về thời gian yêu cầu
+Nhân viên của Chính phủ                                khai báo thu nhập trên Mẫu 1040 hoặc Mẫu                miễn thuế theo hiệp ước, được giải thích dưới đây).
+nước ngoài                                             1040-SR do thu nhập sẽ được miễn thuế Hoa Kỳ            Điều này vẫn đúng ngay cả khi bạn là người nước
+                                                       theo hiệp ước. Tuy nhiên, nếu thu nhập đã được          ngoài tạm trú chọn nộp tờ khai thuế đã giải thích
+Tất cả hiệp ước đều có điều khoản miễn thuế thu        khai báo là thu nhập chịu thuế trên Mẫu W-2, Mẫu        trong chương 1.
+nhập cho một số nhân viên của chính phủ nước           1042-S, Mẫu 1099 hoặc tờ khai cung cấp thông tin
+ngoài. Tuy nhiên, có sự khác biệt giữa các hiệp ước    khác thì bạn nên khai báo thu nhập này trên dòng           Nếu bạn đủ điều kiện theo ngoại lệ về điều
+về việc ai đủ điều kiện nhận quyền lợi này. Theo       thích hợp của Mẫu 1040 hoặc Mẫu 1040-SR (ví dụ:         khoản tiết kiệm trong hiệp ước thì bạn có thể tránh
+
+Ấn phẩm 519 (2024)                                         Chương 9      Quyền lợi theo hiệp ước thuế                                                            45
+khấu lưu thuế thu nhập bằng cách cung cấp cho           • Bạn yêu cầu tín dụng đối với một khoản thuế          Thông tin khác. Để biết thêm thông tin, xem Quy
+người trả tiền Mẫu W-9 kèm theo bản tường trình             nước ngoài cụ thể mà trong đó tín thuế nước        định đoạn 301.6114-1(c)
+bắt buộc theo hướng dẫn cho Mẫu W-9.                        ngoài sẽ không được phép theo Bộ Luật thuế
+                                                            vụ.
+Giới hạn về thời gian yêu cầu miễn thuế theo            •   Bạn nhận được khoản thanh toán hoặc thu
+hiệp ước. Nhiều hiệp ước giới hạn số năm mà bạn             nhập với tổng trị giá hơn $100.000 và bạn xác
+có thể yêu cầu miễn thuế theo hiệp ước. Đối với học         định quốc gia nơi mình cư trú theo hiệp ước và
+
+                                                                                                               10.
+sinh, người học nghề và người học việc, giới hạn            không theo quy tắc cư trú được thảo luận trong
+thường là 4-5 năm. Đối với giáo viên, giáo sư và nhà        chương 1.
+nghiên cứu, giới hạn thường là 2-3 năm. Sau khi bạn
+                                                          Đây là những tình huống thường gặp hơn yêu
+đạt đến giới hạn này, bạn không thể yêu cầu miễn
+                                                       cầu nộp Mẫu 8833. Để biết các điều khoản khác,
+
+                                                                                                        Nhân viên Chính
+thuế theo hiệp ước được nữa. Xem hiệp ước hoặc
+                                                       xem hướng dẫn cho Mẫu 8833.
+Ấn phẩm 901 (tiếng Anh) để biết giới hạn về thời
+gian áp dụng.
+
+                                                                                                        phủ nước ngoài và
+                                                   Ngoại lệ. Bạn không phải nộp Mẫu 8833 để biết bất
+                                                   kỳ tình huống nào sau đây.
+Cách khai báo thu nhập trên tờ khai thuế. Trong
+một số trường hợp, bạn không cần phải khai báo thu   1. Bạn yêu cầu giảm thuế khấu lưu theo hiệp ước
+nhập trên Mẫu 1040 hoặc Mẫu 1040-SR do thu nhập
+sẽ được miễn thuế Hoa Kỳ theo hiệp ước. Tuy
+                                                         trên lãi suất, cổ tức, tiền cho thuê, tiền bản
+                                                         quyền hoặc thu nhập FDAP khác, thường phải
+                                                                                                        Tổ chức quốc tế
+nhiên, nếu thu nhập đã được khai báo là thu nhập            chịu thuế suất 30%.
+chịu thuế trên Mẫu W-2, Mẫu 1042-S, Mẫu 1099
+                                                                                                               Giới thiệu
+                                                         2. Bạn yêu cầu hiệp ước giảm bớt hoặc điều
+hoặc tờ khai cung cấp thông tin khác thì bạn nên
+                                                            chỉnh khi đánh thuế thu nhập từ dịch vụ cá
+khai báo thu nhập này trên dòng thích hợp của Mẫu
+                                                            nhân được thực hiện cho người khác, lương          Nhân viên của chính phủ nước ngoài (bao gồm cả
+1040 hoặc Mẫu 1040-SR (ví dụ: dòng 1a, số tiền báo
+                                                            hưu, niên kim, an sinh xã hội và lương hưu         phân khu chính trị nước ngoài) có thể được miễn
+cáo trong ô 1 của Mẫu W-2). Điền số tiền mà quyền
+                                                            công cộng khác hoặc thu nhập của nghệ sĩ,          thuế thu nhập của chính phủ nước ngoài khỏi thuế
+lợi theo hiệp ước thuế được yêu cầu trên Bảng 1
+                                                            vận động viên, học sinh, người tập sự hoặc         thu nhập Hoa Kỳ nếu họ đáp ứng yêu cầu của bất kỳ
+(Mẫu 1040), dòng 8z. . Nhập “Exempt income (Thu
+                                                            giáo viên. Điều này bao gồm học bổng và trợ        điều nào sau đây.
+nhập được miễn thuế),” tên quốc gia đã ký hiệp ước
+                                                            cấp nghiên cứu sinh chịu thuế.
+và điều khoản của hiệp ước cho phép miễn thuế.                                                                   1. Điều khoản áp dụng trong Công ước Vienna
+                                                         3. Bạn yêu cầu giảm bớt hoặc điều chỉnh thuế thu           về Quan Hệ Ngoại Giao đa phương, Công
+    Ví dụ. Một công dân Trung Quốc nhập cảnh vào            nhập theo Thỏa Thuận An sinh Xã hội Quốc Tế             ước Vienna về Quan Hệ Lãnh Sự đa phương
+Hoa Kỳ với tư cách học sinh là người nước ngoài             hoặc Hiệp Ước Ngoại Giao hoặc Lãnh Sự.                  hoặc công ước lãnh sự song phương, nếu có,
+tạm trú vào ngày 1 tháng 1, 2020. Học sinh này là        4. Bạn là đối tác trong một công ty hợp danh               giữa Hoa Kỳ và nước ngoài.
+người nước ngoài tạm trú cho đến năm 2024 và có             hoặc bên thụ hưởng di sản hoặc quỹ tín thác
+thể loại trừ học bổng ra khỏi thuế Hoa Kỳ trong                                                                  2. Điều khoản áp dụng trong hiệp ước thuế song
+                                                            và công ty hợp danh, di sản hoặc quỹ tín thác           phương, nếu có, giữa Hoa Kỳ và nước ngoài.
+những năm đó theo Điều 20 của hiệp ước thuế thu             khai báo thông tin cần thiết trên tờ khai thuế.
+nhập giữa Hoa Kỳ và Trung Quốc. Vào ngày 1 tháng                                                                 3. Yêu cầu để được miễn thuế thu nhập Hoa Kỳ
+1, 2025, học sinh này trở thành người nước ngoài         5. Khoản thanh toán hoặc thu nhập bắt buộc phải            đối với tiền lương từ chính phủ nước ngoài
+thường trú theo thử thách sự hiện diện đáng kể do           tiết lộ có tổng trị giá không quá $10.000.              được quy định theo luật thuế Hoa Kỳ.
+thời gian học sinh nầy ở Hoa Kỳ quá 5 năm. Mặc dù        6. Bạn đang yêu cầu quyền lợi theo hiệp ước đối
+học sinh này hiện là người nước ngoài thường trú,                                                                  Nhân viên của tổ chức quốc tế có thể được miễn
+                                                            với các khoản tiền:
+quy định trong Điều 20 vẫn được áp dụng do ngoại                                                               thuế tiền lương theo một điều khoản (nếu có) trong
+lệ về điều khoản tiết kiệm trong đoạn 2 của Nghị              a. Đã khai báo cho bạn trên Mẫu 1042-S; và       thỏa thuận quốc tế tạo ra tổ chức quốc tế hoặc bằng
+định thư về hiệp ước giữa Hoa Kỳ và Trung Quốc ký                                                              việc đáp ứng yêu cầu để được miễn thuế tiền lương
+                                                              b. Đã tiếp nhận bởi bạn:
+vào ngày 30 tháng 4, 1984. Học sinh này phải khai                                                              đó theo luật thuế Hoa Kỳ.
+báo thu nhập học bổng của họ được thể hiện trên                    i. Là một bên liên quan của công ty             Tổ chức “quốc tế” là tổ chức được Tổng thống
+Mẫu 1042-S hoặc Mẫu 1098-T trên Bảng 1 (Mẫu                           khai báo trong phạm vi ý nghĩa thuộc     Hoa Kỳ chỉ định thông qua Lệnh Hành pháp hội đủ
+1040), dòng 8r. Sau đó, họ phải khai báo số tiền yêu                  đoạn 6038A (liên quan đến bản khai       điều kiện được hưởng đặc quyền, ưu đãi và miễn
+cầu hưởng quyền lợi hiệp định, trong ngoặc đơn,                       thông tin trên Mẫu 5472 được nộp         trừ được quy định trong Đạo luật Miễn trừ cho Tổ
+trên Bảng 1 (Mẫu 1040), dòng 8z. Họ nên nhập                          bởi công ty Hoa Kỳ thuộc sở hữu          chức Quốc Tế.
+"Exempt income (Thu nhập được miễn trừ)" tên của                      25% của người ngoại quốc), hoặc              Miễn trừ được thảo luận trong chương này chỉ
+quốc gia trong hiệp ước và điều khoản của hiệp ước                 ii. Là người chủ hưởng lợi là chủ tài       áp dụng cho tiền lương từ dịch vụ chính thức được
+quy định sự miễn trừ.                                                  khoản trực tiếp của tổ chức tài chính   thực hiện cho một chính phủ nước ngoài hoặc tổ
+                                                                       Hoa Kỳ hoặc tổ chức trung gian đủ       chức quốc tế. Thu nhập khác có nguồn gốc từ Hoa
+                                                                       điều kiện hoặc đối tác trực tiếp,       Kỳ của người đủ điều kiện được miễn trừ có thể bị
+Khai báo quyền lợi được                                                người thụ hưởng hoặc chủ sở hữu         đánh thuế đầy đủ hoặc được hưởng ưu đãi thuế
+                                                                                                               theo điều khoản trong hiệp ước thuế hiện hành.
+yêu cầu theo Hiệp ước
+                                                                       một công ty hợp danh hoặc quỹ tín
+                                                                       thác nước ngoài khấu lưu, từ tổ chức    Cách xử lý thu nhập loại này (tiền lãi, cổ tức, v.v.)
+                                                                       tài chính Hoa Kỳ, tổ chức trung gian    phù hợp được thảo luận ở phần trước trong ấn
+Nếu bạn yêu cầu quyền lợi theo hiệp ước ghi đè                         đủ điều kiện hoặc công ty hợp danh      phẩm này.
+hoặc sửa đổi bất kỳ điều khoản nào trong Bộ luật                       hoặc quỹ tín thác nước ngoài khấu
+thuế vụ và bằng việc yêu cầu các quyền lợi này, tiền                   lưu đó.                                 Các chủ đề
+thuế sẽ hoặc có thể giảm xuống thì bạn phải đính                                                               Chương này thảo luận về:
+kèm Mẫu 8833 đã điền đầy đủ thông tin cùng tờ khai                   Ngoại lệ được mô tả trong (6) ở trên
+thuế. Xem Ngoại lệ dưới đây để biết các tình huống               không áp dụng cho bất kỳ khoản tiền nào
+                                                                 bắt buộc phải tiết lộ trên tờ khai thuế dựa    • Miễn cho nhân viên của Chính phủ nước ngoài
+bạn không phải nộp Mẫu 8833.
+                                                                 trên hiệp ước theo hướng dẫn cho Mẫu           • Miễn cho nhân viên của các Tổ chức quốc tế
+Quy định nộp Mẫu 8833. Bạn phải nộp tờ khai                      8833.
+thuế Hoa Kỳ và Mẫu 8833 nếu bạn yêu cầu bất kỳ                                                                 Các mục hữu ích
+quyền lợi theo hiệp ước sau.                           Tiền phạt do không cung cấp thông tin bắt buộc          Bạn có thể muốn xem:
+  • Bạn yêu cầu giảm bớt hoặc điều chính khi đánh      trên Mẫu 8833. Nếu bạn bắt buộc phải khai báo
+     thuế tiền lời hoặc lỗ do chuyển nhượng quyền      quyền lợi theo hiệp ước nhưng không làm như vậy           Ấn phẩm
+     lợi bất động sản ở Hoa Kỳ theo hiệp ước.          thì bạn có thể bị phạt $1.000 cho mỗi lần không thực
+                                                       hiện.                                                        15-A Hướng dẫn bổ sung cho thuế của Chủ
+                                                                                                                          15-A
+
+
+
+
+                                                                                                                         lao động
+
+46                                              Chương 10     Nhân viên Chính phủ nước ngoài và Tổ chức quốc tế                               Ấn phẩm 519 (2024)
+       901 Hiệp ước thuế của Hoa Kỳ
+            901                                       phủ nước ngoài ở Hoa Kỳ thì tiền lương từ chính                 Mức miễn thuế này không áp dụng cho nhà
+                                                      phủ nước ngoài sẽ được miễn thuế thu nhập Hoa Kỳ                thầu độc lập. Các quy tắc trong thông luật
+       1779 Nhà thầu độc lập hay Nhân viên
+                  1779
+
+
+
+
+                                                      nếu:
+                                                                                                                !
+                                                                                                              CAUTION được áp dụng để xác định xem bạn là
+Xem chương 12 để biết thông tin về việc lấy các ấn                                                           nhân viên hay nhà thầu độc lập. Xem Ấn phẩm 1779
+                                                        1. Bạn thực hiện dịch vụ có tính chất tương tự
+phẩm này.                                                                                                    (tiếng Anh) và Ấn phẩm 15-A (tiếng Anh).
+                                                           như dịch vụ được thực hiện bởi nhân viên của
+                                                           Chính phủ Hoa Kỳ ở nước ngoài và                      Để yêu cầu miễn thuế, bạn phải chứng minh
+
+Nhân viên của Chính phủ                                 2. Quốc gia của chủ lao động là chính phủ nước
+                                                                                                             được rằng bạn đáp ứng yêu cầu của điều khoản
+                                                                                                             thỏa thuận tổ chức quốc tế hoặc luật thuế Hoa Kỳ.
+                                                           ngoài miễn trừ tương đương cho nhân viên
+nước ngoài                                                 của Chính phủ Hoa Kỳ thực hiện dịch vụ tương
+                                                                                                             Bạn nên biết số điều khoản miễn thuế của hiệp ước
+                                                                                                             tổ chức quốc tế (nếu có) và số Lệnh Hành pháp chỉ
+                                                           tự ở quốc gia của bạn.
+Miễn trừ theo Công ước Vienna hoặc công ước                                                                  định tổ chức là tổ chức quốc tế.
+lãnh sự song phương. Trước hết, bạn nên xem           Tuy nhiên, xem Người nước ngoài duy trì tình trạng
+                                                      nhập cư (thường trú nhân hợp pháp)ở phần sau để        Người nước ngoài duy trì tình trạng nhập cư
+các điều khoản miễn thuế theo Công ước Vienna
+                                                      biết quy tắc đặc biệt có thể ảnh hưởng đến tính đủ     (thường trú nhân hợp pháp). Nếu bạn ký vào
+hoặc công ước lãnh sự song phương (nếu có) để
+                                                      điều kiện được miễn thuế này.                          đơn từ bỏ theo đoạn 247(b) của Đạo luật Di trú và
+xem liệu tiền lương có đủ điều kiện được miễn thuế
+                                                          Để yêu cầu miễn thuế, bạn phải chứng minh          nhập tịch (USCIS Mẫu I-508) để duy trì tình trạng
+thu nhập Hoa Kỳ theo các điều khoản đó hay không.
+                                                      được rằng bạn đáp ứng cả hai yêu cầu của luật thuế     thường trú nhân hợp pháp (thẻ xanh) thì bạn không
+Trước hết, bạn nên xem các điều khoản miễn thuế
+                                                      Hoa Kỳ.                                                còn đủ điều kiện được miễn thuế theo luật thuế Hoa
+theo Công ước Vienna hoặc công ước lãnh sự (nếu
+                                                                                                             Kỳ kể từ ngày nộp đơn từ bỏ.
+có) để xem tiền lương có đủ điều kiện được miễn
+thuế thu nhập Hoa Kỳ theo các điều khoản đó hay       Chứng nhận. Chứng nhận của Bộ Ngoại giao (nếu                  Nếu bạn là nhân viên của chính phủ nước
+không. Để biết thêm thông tin về Công ước Vienna      có) là cách đơn giản nhất để xác nhận rằng bạn đáp             ngoài hoặc tổ chức quốc tế có thẻ xanh, để
+và công ước lãnh sự song phương, hãy gửi email        ứng dịch vụ tương tự và yêu cầu miễn thuế tương           !
+                                                                                                             CAUTION yêu cầu miễn trừ theo luật thuế Hoa Kỳ thì
+đến Văn phòng công tác nước ngoài của Bộ Ngoại        đương nhưng không bắt buộc để hội đủ điều kiện         bạn cũng phải chứng minh bằng văn bản bằng
+giao tại OFMAssistants@state.gov (tiếng Anh).         được miễn thuế theo luật thuế Hoa Kỳ. Để biết thông    chứng từ USCIS rằng bạn chưa ký và nộp USCIS
+                                                      tin về liệu chứng nhận đã được cấp hay chưa và         Mẫu I-508.
+Miễn trừ theo hiệp ước thuế. Nếu bạn không đủ         chứng nhận đó hiện có hợp lệ và áp dụng cho bạn
+điều kiện được miễn thuế theo Công ước Vienna         hay không, hãy gửi email đến Văn phòng công tác
+                                                      nước      ngoài   của     Bộ    Ngoại    giao    tại       Ghi chú. Nộp Mẫu I-508 không ảnh hưởng đến
+hoặc công ước lãnh sự song phương nhưng đến từ
+                                                      OFMAssistants@state.gov (tiếng Anh).                   việc miễn thuế mà cũng không phụ thuộc vào quy
+một quốc gia đã ký hiệp ước thuế với Hoa Kỳ thì bạn
+                                                                                                             định của luật thuế Hoa Kỳ. Bạn sẽ không mất tiền
+nên xem hiệp ước thuế để biết có điều khoản nào           Trong trường hợp không có chứng nhận hợp lệ,
+                                                                                                             miễn thuế nếu bạn nộp đơn từ bỏ và đáp ứng một
+miễn thuế thu nhập Hoa Kỳ hay không. Nếu bạn là       bạn phải xác nhận bằng văn bản bằng chứng khác
+                                                                                                             trong các điều kiện sau.
+công dân Hoa Kỳ hoặc người nước ngoài thường trú      rằng mình thực hiện dịch vụ có tính chất tương tự
+                                                      như dịch vụ được thực hiện bởi nhân viên của Chính       • Bạn làm việc cho chính phủ nước ngoài và
+đang làm việc cho một chính phủ nước ngoài ở Hoa
+                                                                                                                  được miễn thuế Hoa Kỳ theo hiệp ước thuế thu
+Kỳ thì tiền lương thường không được miễn thuế. Để     phủ Hoa Kỳ ở nước ngoài và quốc gia của chủ lao
+                                                                                                                  nhập, công ước lãnh sự, Công ước Vienna
+biết thêm thông tin, xem Wages and Pensions Paid      động là chính phủ nước ngoài miễn thuế tương
+                                                                                                                  hoặc bất kỳ hiệp ước quốc tế nào khác giữa
+by a Foreign Government (Tiền lương và lương hưu      đương cho nhân viên Chính phủ Nước ngoài thực
+                                                                                                                  Hoa Kỳ và chủ lao động là chính phủ nước
+do chính phủ nước ngoài trả) trong Ấn phẩm 901        hiện dịch vụ tương tự trong nước.
+                                                                                                                  ngoài.
+(tiếng Anh).
+                                                                                                               • Bạn làm việc cho một tổ chức quốc tế và thỏa
+Miễn trừ theo luật thuế Hoa Kỳ. Nhân viên của         Nhân viên của Tổ chức                                       thuận tổ chức quốc tế tạo ra tổ chức quốc tế
+                                                                                                                  quy định rằng nhân viên nước ngoài được
+chính phủ nước ngoài không hội đủ điều kiện theo
+các điều khoản miễn thuế của một trong các Công       quốc tế                                                     miễn thuế thu nhập Hoa Kỳ. Hai tổ chức quốc
+                                                                                                                  tế có quy định đó là Quỹ Tiền Tệ Quốc Tế
+Ước Vienna, công ước lãnh sự song phương hoặc
+                                                      Miễn thuế theo thỏa thuận của tổ chức quốc tế.              (International Monetary Fund, IMF) và Ngân
+hiệp ước thuế có thể được miễn thuế thu nhập của
+                                                      Có nhiều thỏa thuận thành lập tổ chức quốc tế có            Hàng Tái Thiết và Phát Triển Quốc Tế (Ngân
+chính phủ nước ngoài nếu họ đáp ứng yêu cầu để
+                                                      điều khoản miễn thuế thu nhập Hoa Kỳ cho tiền               Hàng Thế Giới).
+được miễn thuế tiền lương sau theo luật thuế Hoa
+Kỳ.                                                   lương của bạn. Nếu bạn đang làm việc cho một tổ
+                                                      chức quốc tế ở Hoa Kỳ, trước hết hãy xác định xem
+         Miễn trừ theo luật thuế Hoa Kỳ chỉ áp dụng   thỏa thuận quốc tế thành lập tổ chức quốc tế nơi bạn
+         cho nhân viên hiện tại của chính phủ nước
+   !
+CAUTION ngoài và không áp dụng cho nhân viên cũ.
+                                                      làm việc có điều khoản đó không và bạn có hội đủ
+                                                      điều kiện theo quy định đó hay không. Các điều
+
+                                                                                                             11.
+Lương hưu mà nhân viên cũ của chính phủ nước          khoản này thường sẽ không miễn thuế tiền lương
+ngoài sống ở Hoa Kỳ nhận được không hội đủ điều       cho công dân Hoa Kỳ và nhân viên là người nước
+kiện được miễn thuế được thảo luận ở đây.             ngoài thường trú.
+
+
+                                                                                                             Người nước ngoài
+         Mức miễn thuế này không áp dụng cho nhà
+                                                      Miễn thuế theo luật thuế Hoa Kỳ. Nếu thỏa thuận
+         thầu độc lập. Các quy tắc trong thông luật
+   !
+ CAUTION được áp dụng để xác định xem bạn là
+                                                      quốc tế thành lập tổ chức quốc tế nơi bạn làm việc
+                                                      không có điều khoản miễn thuế và bạn không phải là
+nhân viên hay nhà thầu độc lập. Xem Ấn phẩm 1779
+(tiếng Anh) và Ấn phẩm 15-A (tiếng Anh).
+                                                      công dân Hoa Kỳ (hoặc nếu bạn là công dân Hoa Kỳ
+                                                      nhưng cũng là công dân Philippines) thì bạn có thể
+                                                                                                             xuất cảnh và Giấy
+                                                                                                             phép ra khơi hoặc
+                                                      được miễn thuế tiền lương theo luật thuế của Hoa
+          Tiền lương không đủ điều kiện được miễn
+                                                      Kỳ. Tuy nhiên, xem Người nước ngoài duy trì tình
+          thuế theo luật thuế Hoa Kỳ nếu bạn được
+   !                                                  trạng nhập cư (thường trú nhân hợp pháp)ở phần
+
+                                                                                                             xuất cảnh
+ CAUTION thuê bởi “tổ chức thương mại có kiểm soát”
+                                                      sau để biết quy tắc đặc biệt có thể ảnh hưởng đến
+hoặc dịch vụ của bạn chủ yếu liên quan đến hoạt
+                                                      tính đủ điều kiện được miễn thuế này.
+động thương mại của chính phủ nước ngoài (trong
+hoặc ngoài lãnh thổ Hoa Kỳ). Tổ chức thương mại                Miễn trừ theo luật thuế Hoa Kỳ chỉ áp dụng
+có kiểm soát là tổ chức thuộc sở hữu từ 50% (0.50)             cho nhân viên hiện tại của tổ chức nước
+trở lên của chính phủ nước ngoài tham gia vào hoạt
+                                                         !
+                                                       CAUTION ngoài và không áp dụng cho nhân viên cũ.      Giới thiệu
+động thương mại trong hoặc ngoài lãnh thổ Hoa Kỳ.     Lương hưu mà nhân viên cũ của tổ chức nước
+                                                                                                             Trước khi rời khỏi Hoa Kỳ, tất cả người nước ngoài
+                                                      ngoài sống ở Hoa Kỳ không đủ điều kiện được miễn
+                                                                                                             (ngoại trừ người nước ngoài được liệt kê trong
+Quy định. Nếu bạn không phải là công dân Hoa Kỳ       thuế được thảo luận ở đây.
+                                                                                                             Người nước ngoài không phải xin Giấy phép ra khơi
+(hoặc nếu bạn là công dân Hoa Kỳ nhưng cũng là                                                               hoặc xuất cảnh) phải có giấy chứng nhận tuân thủ.
+công dân Philippines) và bạn làm việc cho một chính
+
+Ấn phẩm 519 (2024)                      Chương 11      Người nước ngoài xuất cảnh và Giấy phép ra khơi hoặc xuất cảnh                                        47
+Tài liệu này cũng thường được gọi là giấy phép ra       Loại 2. Nhân viên của tổ chức quốc tế và chính phủ               5. Người nước ngoài nhập cảnh vào Hoa Kỳ
+khơi hoặc xuất cảnh là một phần của mẫu thuế thu        nước ngoài (ngoại trừ đại diện ngoại giao được                      bằng thẻ căn cước qua biên giới hoặc không
+nhập mà bạn phải nộp trước khi rời đi. Bạn sẽ nhận      miễn thuế theo loại 1) và thành viên gia đình của họ:               yêu cầu hộ chiếu, thị thực và thẻ căn cước qua
+được Giấy Phép Ra Khơi hoặc Xuất Cảnh sau khi            • Tiền thù lao của họ từ dịch vụ chính thức được                   biên giới, nếu họ là:
+nộp Mẫu 1040-C hoặc Mẫu 2063. Các mẫu đơn này                miễn thuế theo luật thuế Hoa Kỳ (được mô tả
+                                                                                                                              a. Khách đến vui chơi,
+được thảo luận trong chương này.                             trong chương 10) và
+    Để tìm hiểu xem bạn có cần giấy phép ra khơi         • Người không nhận được thu nhập nào khác từ                         b. Khách đến công tác không ở lại Hoa Kỳ
+hoặc xuất cảnh hay không, trước hết hãy đọc Người            các nguồn ở Hoa Kỳ.                                                 hoặc lãnh thổ của Hoa Kỳ hơn 90 ngày
+nước ngoài không phải xin Giấy phép ra khơi hoặc                                                                                 trong năm tính thuế hoặc
+                                                                 Nếu bạn là người nước ngoài thuộc loại (1)
+xuất cảnh, ở phần sau. Nếu bạn không rơi vào một                                                                              c. Người nước ngoài quá cảnh qua Hoa Kỳ
+                                                                 hoặc (2) ở trên, người nộp đơn từ bỏ theo
+trong các trường hợp trong phần thảo luận đó thì           !
+                                                        CAUTION đoạn 247(b) của Đạo luật Di Trú và Nhập                          hoặc bất kỳ lãnh thổ nào của Hoa Kỳ.
+bạn phải có giấy phép ra khơi hoặc xuất cảnh. Đọc
+                                                        Tịch thì bạn phải có giấy phép ra khơi hoặc xuất
+Người nước ngoài phải xin Giấy phép ra khơi hoặc                                                                       Loại 6. Thường trú nhân Canada hoặc Mexico là
+                                                        cảnh. Điều này vẫn đúng ngay cả khi thu nhập của
+xuất cảnh, ở phần sau.                                                                                                 người nước ngoài thường xuyên đi lại giữa quốc gia
+                                                        bạn được miễn thuế Hoa Kỳ theo hiệp ước thuế thu
+                                                        nhập, thỏa thuận lãnh sự hoặc thỏa thuận quốc tế.              đó và Hoa Kỳ để tìm việc làm và tiền lương của họ
+Các chủ đề                                                                                                             phải chịu khấu lưu thuế Hoa Kỳ.
+Chương này thảo luận về:
+                                                        Loại 3. Học sinh là người nước ngoài, người tập
+
+ • Người cần giấy phép ra khơi,
+                                                        sự ngành công nghiệp và khách trao đổi, bao gồm
+                                                        cả người vợ/chồng và con cái của họ, chỉ nhập cảnh
+                                                                                                                       Người nước ngoài phải
+ • Cách xin giấy phép ra khơi và
+ • Các mẫu đơn mà bạn phải nộp để xin giấy
+                                                        theo diện thị thực “F-1,” “F-2,” “H-3,” “H-4,” “J-1,” “J-2,”   xin Giấy phép ra khơi
+                                                        hoặc “Q” và người không nhận được thu nhập nào
+     phép ra khơi.                                      từ các nguồn ở Hoa Kỳ khi ở Hoa Kỳ theo các diện               hoặc xuất cảnh
+                                                        thị thực đó ngoài:
+Các mục hữu ích                                           • Phụ cấp để trang trải chi phí liên quan đến việc           Nếu bạn không rơi vào một trong các trường hợp
+Bạn có thể muốn xem:                                          học hoặc đào tạo ở Hoa Kỳ, chẳng hạn như chi             được liệt kê trong Người nước ngoài không phải xin
+                                                              phí đi lại, duy trì cuộc sống và học phí;                Giấy phép ra khơi hoặc xuất cảnh thì bạn phải có
+  Mẫu (và Hướng dẫn)                                      • Giá trị của bất kỳ dịch vụ hoặc thực phẩm và               giấy phép ra khơi hoặc xuất cảnh. Để có được giấy
+                                                              chỗ ở nào liên quan đến việc học hoặc đào tạo            phép, nộp Mẫu 1040-C hoặc Mẫu 2063 (tùy theo
+     1040-C Tờ khai thuế thu nhập Hoa Kỳ cho
+                  1040-C
+
+
+
+
+                                                              này;                                                     điều kiện nào áp dụng) cho văn phòng TAC nơi bạn
+            Người nước ngoài xuất cảnh                    • Thu nhập từ việc làm được ủy quyền bởi                     cư trú trước khi bạn rời khỏi Hoa Kỳ. Xem Các mẫu
+     2063 Báo cáo thuế thu nhập Hoa Kỳ cho                    USCIS; hoặc                                              đơn cần nộp ở phần sau. Bạn cũng phải nộp toàn bộ
+                                                          • Thu nhập từ lãi tiền gửi không liên thông thực             tiền thuế được ghi là đến hạn trên Mẫu 1040-C và
+           2063
+
+
+
+
+          Người nước ngoài xuất cảnh
+                                                              tế với hoạt động thương mại hay kinh doanh ở             bất kỳ khoản thuế nào đến hạn trong các năm trước.
+Xem chương 12 để biết thông tin về việc lấy các               Hoa Kỳ. Xem Thu nhập từ tiền lãi trong chương            Xem Trả tiền thuế và nhận tiền hoàn thuế ở phần
+mẫu đơn này.                                                  3.)                                                      sau.
+
+                                                        Loại 4. Học sinh là người nước ngoài, bao gồm cả
+Người nước ngoài không                                  người vợ/chồng và con cái của họ, người chỉ nhập               Xin Giấy phép ra khơi hoặc
+                                                        cảnh theo diện thị thực “M-1” hoặc “M-2” và người              xuất cảnh
+phải xin Giấy phép ra khơi                              không nhận được thu nhập nào từ các nguồn ở Hoa
+
+hoặc xuất cảnh                                          Kỳ khi ở Hoa Kỳ theo các thị thực đó ngoài:
+                                                          • Thu nhập từ việc làm được ủy quyền bởi
+                                                                                                                       Phần thảo luận sau đây bao quát cách xin giấy phép
+                                                                                                                       ra khơi hoặc xuất cảnh.
+                                                             USCIS, hoặc
+Nếu bạn thuộc một trong các trường hợp sau thì bạn        • Thu nhập từ lãi tiền gửi không liên thông thực
+không phải có giấy phép ra khơi hoặc xuất cảnh               tế với hoạt động thương mại hay kinh doanh ở
+                                                                                                                       Xin Giấy phép ra khơi hoặc xuất cảnh
+trước khi rời khỏi Hoa Kỳ.                                   Hoa Kỳ. Xem Thu nhập từ tiền lãi trong chương
+                                                                                                                       khi nào và ở đâu
+    Nếu bạn thuộc một trong các trường hợp này và            3.)
+                                                                                                                       Để xin giấy chứng nhận tuân thủ, bạn phải đến văn
+không phải có giấy phép ra khơi hoặc xuất cảnh thì
+                                                        Loại 5. Một số người nước ngoài khác có mặt tạm                phòng TAC ít nhất 2 tuần trước khi bạn rời khỏi Hoa
+bạn phải có thể hỗ trợ yêu cầu miễn thuế bằng giấy
+                                                        thời ở Hoa Kỳ không nhận được thu nhập chịu thuế               Kỳ và nộp Mẫu 2063 hoặc Mẫu 1040-C và bất kỳ tờ
+tờ tùy thân thích hợp hoặc trao ủy quyền miễn thuế.
+                                                        trong năm tính thuế cho đến ngày và kể cả ngày xuất            khai thuế bắt buộc nào khác chưa nộp. Giấy chứng
+                                                        cảnh hoặc trong năm tính thuế trước đó. Nếu IRS có             nhận được cấp không quá 30 ngày trước khi bạn rời
+Loại 1. Đại diện của chính phủ nước ngoài có hộ
+                                                        lý do để tin rằng người nước ngoài đã nhận được                đi. Nếu cả bạn và người vợ/chồng đều là người
+chiếu ngoại giao, cho dù được công nhận ở Hoa Kỳ
+                                                        thu nhập chịu thuế và việc thu thuế thu nhập có thể            nước ngoài và cả hai đều rời khỏi Hoa Kỳ thì cả hai
+hay các quốc gia khác hay không, các thành viên gia
+                                                        bị ảnh hưởng khi họ rời đi thì IRS có thể yêu cầu              phải đến văn phòng TAC.
+đình và những người phục vụ đi cùng họ. Những
+người phục vụ rời đi nhưng không đi cùng người có       người nước ngoài xin giấy phép ra khơi hoặc xuất
+                                                                                                                                 Xin lưu ý rằng tất cả các văn phòng TAC
+hộ chiếu ngoại giao, phải có giấy phép ra khơi hoặc     cảnh. Người nước ngoài thuộc trường hợp này:
+                                                                                                                                 đều hoạt động theo lịch hẹn. Bạn có thể gọi
+xuất cảnh. Tuy nhiên, họ có thể xin giấy phép ra khơi     1. Học viên quân sự là người nước ngoài nhập
+                                                                                                                          !
+                                                                                                                       CAUTION đến số 844-545-5640 trong khoảng thời
+hoặc xuất cảnh trên Mẫu 2063 mà không cần kiểm               cảnh vào Hoa Kỳ để đào tạo dưới sự bảo trợ                gian từ 7 giờ sáng đến 7 giờ tối theo giờ địa phương
+tra nghĩa vụ thuế thu nhập bằng cách xuất trình thư          của Bộ Quốc Phòng và người rời khỏi Hoa Kỳ                để đặt lịch hẹn. Để biết thêm thông tin về văn phòng
+của người đứng đầu cơ quan đại diện ngoại giao               theo lệnh di chuyển quân sự chính thức;                   TAC địa phương của bạn, truy cập IRS.gov/TAC
+của họ xác nhận rằng:
+                                                          2. Khách nước ngoài đến công tác theo diện thị
+  • Tên của họ xuất hiện trên “Danh sách trắng”
+                                                             thực “B-1” hoặc cả “B-1” và “B-2” người không             Các tài liệu cần nộp
+      (danh sách nhân viên thực hiện nhiệm vụ ngoại
+                                                             ở lại Hoa Kỳ hoặc lãnh thổ của Hoa Kỳ hơn 90
+      giao); và
+                                                             ngày trong năm tính thuế;
+  • Họ không nợ Hoa Kỳ bất kỳ khoản thuế thu                                                                           Quá trình xin giấy phép ra khơi hoặc xuất cảnh sẽ
+      nhập nào và sẽ không nợ thuế cho đến ngày và        3. Khách nước ngoài đến vui chơi theo diện “thị              nhanh hơn nếu bạn mang đến văn phòng IRS các tài
+      kể cả ngày dự định rời đi.                             thực” B-2;                                                liệu và giấy tờ liên quan đến thu nhập và thời gian
+   Bản kê khai phải xuất trình cho văn phòng Trung        4. Người nước ngoài quá cảnh qua Hoa Kỳ hoặc                 lưu trú ở Hoa Kỳ. Mang theo các hồ sơ sau nếu
+tâm Hỗ trợ Người đóng thuế (TAC) của IRS.                    bất kỳ lãnh thổ nào của Hoa Kỳ theo diện thị              được áp dụng.
+                                                             thực “C-1” hoặc theo hợp đồng, chẳng hạn                    1. Hộ chiếu và thẻ đăng ký người nước ngoài
+                                                             như thỏa thuận trái phiếu, giữa một công ty                    hoặc thị thực.
+                                                             vận tải và Bộ trưởng Bộ tư pháp; và
+
+48                                        Chương 11      Người nước ngoài xuất cảnh và Giấy phép ra khơi hoặc xuất cảnh                                Ấn phẩm 519 (2024)
+  2. Bản sao tờ khai thuế thu nhập Hoa Kỳ đã nộp        phép ra khơi hoặc xuất cảnh bằng cách nộp Mẫu            là người nước ngoài thường trú thì họ có thể khai
+     trong 2 năm trước. Nếu bạn ở Hoa Kỳ dưới 2         2063.                                                    thuế chung trên Mẫu 1040-C nếu:
+     năm, hãy mang theo tờ khai thuế thu nhập mà         • Người nước ngoài, dù là thường trú nhân hay             • Cả hai vợ chồng dự kiến sẽ hội đủ điều kiện
+     bạn đã nộp trong khoảng thời gian đó.                  tạm trú, không có thu nhập chịu thuế trong năm            khai thuế chung vào thời điểm kết thúc năm
+                                                            tính thuế cho đến ngày và kể cả ngày khởi                 tính thuế thông thường của họ và
+  3. Biên lai thuế thu nhập được trả trên các tờ khai
+     thuế này.
+                                                            hành và trong năm trước đó, nếu thời hạn nộp           • Các năm tính thuế của vợ chồng kết thúc cùng
+                                                            tờ khai thuế thu nhập cho năm đó chưa hết.                một lúc.
+  4. Biên lai, hồ sơ ngân hàng, séc đã hủy và tài        • Người nước ngoài thường trú đã nhận thu
+     liệu khác chứng minh các khoản khấu trừ, chi           nhập chịu thuế trong năm tính thuế hoặc năm
+     phí kinh doanh và người phụ thuộc được khai            trước đó và việc rời đi sẽ không ảnh hưởng
+                                                                                                                 Trả tiền thuế và nhận tiền hoàn
+     trên tờ khai thuế.                                     đến việc thu bất kỳ khoản thuế nào. Tuy nhiên,       thuế
+  5. Bản kê khai của từng chủ lao động cho biết             nếu IRS có thông tin cho biết rằng người nước
+                                                            ngoài đang rời đi để tránh trả tiền thuế thu nhập    Bạn phải trả toàn bộ thuế được ghi là đến hạn trên
+     tiền lương đã trả và thuế đã khấu trừ từ ngày 1                                                             Mẫu 1040-C tại thời điểm nộp mẫu đơn, ngoại trừ
+     tháng 1 của năm hiện tại đến ngày rời đi nếu           thì họ phải nộp Mẫu 1040-C.
+                                                                                                                 khi trái phiếu được cung cấp hoặc IRS cảm thấy hài
+     bạn là nhân viên. Nếu bạn tự kinh doanh thì                                                                 lòng khi việc bạn xuất cảnh không ảnh hưởng đến
+     bạn phải mang theo bản kê khai thu nhập và             Người nước ngoài thuộc một trong hai đối tượng
+                                                                                                                 hoạt động thu thuế thu nhập. Bạn cũng phải trả thuế
+     chi phí cho đến ngày bạn dự định rời đi.           này chưa khai thuế thu nhập hoặc đã trả tiền thuế
+                                                                                                                 đến hạn trong các năm trước. Nếu tính thuế trên
+                                                        thu nhập trong bất kỳ năm tính thuế nào đều phải
+  6. Bằng chứng về các khoản thanh toán thuế                                                                     Mẫu 1040-C dẫn đến việc trả thừa thì bạn không
+                                                        khai và trả tiền thuế thu nhập trước khi họ được cấp
+     ước tính năm trước và năm nay.                                                                              phải trả thuế vào thời điểm nộp tờ khai đó. Tuy
+                                                        giấy phép ra khơi hoặc xuất cảnh trên Mẫu 2063.
+                                                                                                                 nhiên, IRS không thể hoàn thuế tại thời điểm xuất
+  7. Tài liệu cho biết bất kỳ tiền lãi hoặc lỗ nào do
+                                                                                                                 cảnh. Nếu bạn đến hạn được hoàn thuế, bạn phải
+     bán tài sản cá nhân và/hoặc tài sản bất động           giấy phép ra khơi hoặc xuất cảnh tách biệt với       nộp Mẫu 1040-NR vào cuối năm tính thuế.
+     sản, bao gồm cả tài sản vốn và hàng hóa.           Mẫu 2063 có thể dùng cho tất cả các lần xuất cảnh
+                                                        trong năm hiện tại. Tuy nhiên, IRS có thể hủy giấy
+  8. Tài liệu liên quan đến học bổng hoặc trợ cấp
+     nghiên cứu sinh, bao gồm cả những hồ sơ            phép ra khơi hoặc xuất cảnh cho bất kỳ lần xuất          Trái phiếu đảm bảo thanh toán
+     sau:                                               cảnh nào sau đó nếu họ cho rằng việc thu thuế thu
+                                                        nhập bị ảnh hưởng bởi lần xuất cảnh sau đó.              Bạn thường phải trả tiền thuế đến hạn ghi trên Mẫu
+       a. Xác minh người trợ cấp, nguồn gốc và                                                                   1040-C khi bạn nộp mẫu này. Tuy nhiên, nếu bạn
+          mục đích của trợ cấp.                                                                                  nộp toàn bộ tiền thuế đến hạn trong những năm
+                                                        Mẫu 1040-C                                               trước thì bạn có thể cung cấp trái phiếu đảm bảo
+       b. Bản sao của đơn xin và phê duyệt trợ
+                                                                                                                 thanh toán thay vì trả tiền thuế thu nhập đến hạn ghi
+          cấp.
+                                                        Nếu bạn phải xin giấy phép ra khơi hoặc xuất cảnh        trên Mẫu 1040-C hoặc tờ khai thuế của năm trước
+       c. Bản kê khai về số tiền đã trả và nghĩa vụ     và không đủ điều kiện nộp Mẫu 2063 thì bạn phải          nếu thời hạn nộp tờ khai đó chưa hết.
+          của bạn gắn liền với trợ cấp.                 nộp Mẫu 1040-C.
+                                                                                                                     Trái phiếu phải bằng tiền thuế đến hạn cộng với
+       d. Danh sách bất kỳ khoản trợ cấp nào                                                                     tiền lãi tính đến ngày thanh toán theo quy định của
+          trước đó.                                         Thông thường, tất cả các thu nhập nhận được
+                                                                                                                 IRS. Bạn có thể lấy thông tin về mẫu trái phiếu và
+                                                        hoặc dự kiến sẽ nhận được một cách hợp lý trong
+  9. Tài liệu cho biết bạn hội đủ điều kiện nhận bất                                                             đảm bảo từ văn phòng TAC.
+                                                        năm tính thuế cho đến ngày và kể cả ngày khởi hành
+     kỳ quyền lợi nào theo hiệp ước thuế đặc biệt       phải được khai báo trên Mẫu 1040-C và thuế phải
+     được yêu cầu.                                      nộp. Khi bạn nộp bất kỳ khoản thuế nào đến hạn ghi       Nộp Tờ khai thuế thu nhập
+ 10. Tài liệu xác minh ngày bạn khởi hành từ Hoa        trên Mẫu 1040-C và bạn nộp tất cả các tờ khai và         Hoa Kỳ hàng năm
+     Kỳ, chẳng hạn như vé máy bay.                      toàn bộ tiền thuế trong những năm trước, bạn sẽ
+                                                        nhận được giấy phép ra khơi hoặc xuất cảnh. Tuy          Mẫu 1040-C không phải là tờ khai thuế thu nhập Hoa
+ 11. Tài liệu xác minh TIN Hoa Kỳ, chẳng hạn như
+                                                        nhiên, IRS có thể cho phép bạn thanh toán bảo đảm        Kỳ hằng năm. Nếu tờ khai thuế thu nhập không bắt
+     thẻ an sinh xã hội hoặc Thông báo CP 565 do
+                                                        bằng trái phiếu thay vì trả tiền thuế trong một số năm   buộc theo luật định thì tờ khai thuế đó phải được
+     IRS cấp cho biết ITIN.
+                                                        nhất định. Xem Trái phiếu đảm bảo thanh toán ở           nộp ngay cả khi Mẫu 1040-C đã được nộp. Chương
+                                                        phần sau. Giấy phép ra khơi hoặc xuất cảnh được          5 và chương 7 thảo luận về việc nộp tờ khai thuế thu
+    Ghi chú. Nếu bạn đã kết hôn và cư trú tại một
+                                                        cấp theo các điều kiện trong đoạn này chỉ dành cho       nhập Hoa Kỳ hằng năm. Tiền thuế đã nộp cùng Mẫu
+tiểu bang áp dụng quy định tài sản chung của vợ
+                                                        lần khởi hành cụ thể được cấp giấy phép.                 1040-C phải được coi là tín dụng đối với nghĩa vụ
+chồng, hãy mang theo các giấy tờ được liệt kê ở trên
+cho người vợ/chồng. Điều này áp dụng cho người                                                                   thuế trong cả năm tính thuế trên tờ khai thuế thu
+                                                        Quay trở lại Hoa Kỳ. Nếu bạn cung cấp cho IRS            nhập Hoa Kỳ hàng năm của bạn.
+vợ/chồng có cần giấy phép hay không.
+                                                        thông tin cho biết rằng bạn có ý định quay trở lại Hoa
+                                                        Kỳ và việc bạn rời đi không gây cản trở cho hoạt
+Các mẫu đơn cần nộp                                     động thu thuế thu nhập thì bạn có thể nhận được
+                                                        giấy phép ra khơi hoặc xuất cảnh bằng cách nộp
+Nếu bạn phải xin giấy phép ra khơi hoặc xuất cảnh,      Mẫu 1040-C mà không phải nộp tiền thuế ghi trên
+bạn phải nộp Mẫu 2063 hoặc Mẫu 1040-C. Cả hai           đó. Tuy nhiên, bạn phải nộp tất cả các tờ khai thuế
+mẫu đơn này đều có phần “giấy chứng nhận tuân
+thủ”. Khi giấy chứng nhận tuân thủ có chữ ký của đại
+                                                        thu nhập chưa nộp theo yêu cầu và toàn bộ thuế thu
+                                                        nhập đến hạn ghi trên tờ khai này.
+                                                                                                                 12.
+diện Giám đốc Khu vực hỗ trợ hiện trường, giấy               Mẫu 1040-C phải bao gồm toàn bộ thu nhập
+
+                                                                                                                 Cách nhận trợ giúp
+chứng nhận đó xác nhận rằng nghĩa vụ thuế tại Hoa       nhận được và dự kiến sẽ nhận được một cách hợp
+Kỳ của bạn đã được đáp ứng theo thông tin có sẵn.       lý trong cả năm xuất cảnh. giấy phép ra khơi hoặc
+Bản sao Mẫu 1040-C của giấy chứng nhận có chữ           xuất cảnh được cấp và Mẫu 1040 có thể dùng cho
+ký hoặc bản sao tách biệt với Mẫu 2063 là Giấy
+phép ra khơi hoặc xuất cảnh.
+                                                        tất cả các lần xuất cảnh trong năm hiện tại. Tuy
+                                                        nhiên, IRS có thể hủy giấy phép ra khơi hoặc xuất        về thuế
+                                                        cảnh cho bất kỳ lần xuất cảnh nào sau đó nếu việc
+Mẫu 2063                                                trả tiền thuế thu nhập dường như gặp trở ngại.           Dịch vụ hỗ trợ người đóng thuế ở hải ngoại có sẵn
+                                                                                                                 tại Hoa Kỳ và một số địa điểm nước ngoài.
+Đây là biểu mẫu ngắn yêu cầu cung cấp một số            Khai thuế chung trên Mẫu 1040-C. Chồng và vợ
+thông tin nhưng không bao gồm việc tính thuế.           xuất cảnh là người nước ngoài tạm trú không thể
+Người nước ngoài xuất cảnh sau đây có thể xin giấy      khai thuế chung. Tuy nhiên, nếu cả hai vợ chồng đều
+
+
+
+
+Ấn phẩm 519 (2024)                                           Chương 12      Cách nhận trợ giúp về thuế                                                             49
+                                                            dụng IRS2Go miễn phí để biết thông tin về dịch      • Bắt buộc phải ký tên trên tờ khai thuế, và
+                                                                                                                • Bắt buộc phải điền mã số thuế của người giúp
+Hỗ trợ người đóng thuế ở
+                                                            vụ chuẩn bị tờ khai thuế miễn phí.
+                                                        •   MilTax. Các thành viên của Quân Đội Hoa Kỳ                khai thuế (PTIN) của họ.
+trong Hoa Kỳ                                                và các cựu chiến binh đủ điều kiện có thể sử
+                                                            dụng MilTax, một dịch vụ thuế miễn phí do Bộ
+                                                                                                                         Mặc dù người khai thuế luôn ký vào tờ khai
+                                                                                                                         nhưng cuối cùng bạn phải chịu trách nhiệm
+Nếu bạn có thắc mắc về một vấn đề thuế, cần hỗ trợ
+                                                            Quốc Phòng cung cấp thông qua Military                !
+                                                                                                                CAUTION cung cấp tất cả thông tin cần thiết để người
+                                                            OneSource. Để biết thêm thông tin, truy cập
+chuẩn bị tờ khai thuế, hoặc muốn tải xuống các ấn                                                              khai thuế chuẩn bị chính xác tờ khai của bạn và đảm
+                                                            MilitaryOneSource (tiếng Anh)
+phẩm miễn phí, mẫu đơn hoặc hướng dẫn, hãy truy                                                                bảo tính chính xác của mọi mục được khai báo trên
+                                                            (MilitaryOneSource.mil/MilTax).
+cập IRS.gov và tìm các tài nguyên có thể hỗ trợ ngay                                                           tờ khai. Bất kỳ ai được trả tiền để khai thuế cho
+                                                                 Ngoài ra, IRS cung cấp các Mẫu đơn Free
+cho bạn.                                                                                                       người khác đều phải có hiểu biết thấu đáo về các
+                                                            File tự điền, có thể điền trực tuyến và sau đó
+                                                                                                               vấn đề thuế. Để biết thêm thông tin về cách chọn
+                                                            e-file bất kể thu nhập.
+Chuẩn bị và nộp tờ khai thuế. Sau khi bạn nhận                                                                 người khai thuế, hãy truy cập Mẹo chọn người khai
+được tất cả các bảng kê tiền lương và thu nhập của                                                             thuế trên IRS.gov.
+                                                       Sử dụng các công cụ trực tuyến để giúp chuẩn
+mình (các Mẫu W-2, W-2G, 1099-R, 1099-MISC,
+                                                       bị tờ khai thuế của bạn. Truy cập IRS.gov/Tools
+1099-NEC, v.v.); bảng kê phụ cấp thất nghiệp (qua                                                              Chủ lao động có thể đăng ký sử dụng Dịch vụ
+                                                       để tiếp cận những công cụ sau.
+thư hoặc định dạng kỹ thuật số) hoặc bản kê khai
+                                                         • IRS.gov/DirectFile (tiếng Anh) cung cấp Trình       cho Doanh nghiệp trực tuyến. Sở An sinh Xã hội
+thanh toán khác của chính phủ (Mẫu 1099-G); và                                                                 (SSA) cung cấp dịch vụ trực tuyến tại SSA.gov/
+                                                             kiểm tra tính đủ điều kiện để giúp bạn xác định
+sao kê tiền lãi, cổ tức và hưu bổng từ các ngân hàng                                                           employer (tiếng Anh) với các tùy chọn nộp mẫu W-2
+                                                             xem Direct File có phải là lựa chọn phù hợp
+và công ty đầu tư (Mẫu 1099), bạn có một số                                                                    nhanh chóng, miễn phí và bảo mật cho CPA, kế toán
+                                                             cho nhu cầu khai thuế của bạn hay không.
+phương án để chuẩn bị và khai thuế. Bạn có thể tự
+                                                         • Trợ lý Tín thuế Thu nhập kiếm được (IRS.gov/        viên, đại diện đã đăng ký và những người xử lý các
+mình chuẩn bị tờ khai thuế. xem mình có đủ điều                                                                Mẫu W-2, Báo cáo Tiền lương và thuế, và Mẫu
+                                                             EITCAssistant) xác định xem liệu bạn có đủ
+kiện được chuẩn bị khai thuế miễn phí hay không                                                                W-2c, Báo cáo Tiền lương và thuế được chỉnh sửa.
+                                                             điều kiện nhận khoản tín thuế thu nhập kiếm
+hoặc thuê một chuyên gia thuế để chuẩn bị tờ khai
+                                                             được (EIC) hay không.
+thuế cho bạn.                                                                                                  Tài khoản thuế doanh nghiệp. Nếu bạn là doanh
+                                                         • Đơn xin EIN trực tuyến (IRS.gov/EIN) giúp bạn
+                                                             có được mã số thuế của chủ lao động (EIN)         nghiệp cá thể, công ty hợp danh, hoặc công ty cổ
+Các tùy chọn miễn phí để khai thuế. Lựa chọn
+                                                             miễn phí.                                         phần S, bạn có thể xem thông tin thuế của mình
+của bạn để chuẩn bị và nộp tờ khai thuế trực tuyến
+                                                         • Công cụ Ước tính Khấu lưu thuế (IRS.gov/            được lưu trong hồ sơ của IRS và làm nhiều việc hơn
+hoặc nộp tại cộng đồng địa phương, nếu bạn đủ
+                                                             W4App) giúp bạn ước tính thuế thu nhập liên       với tài khoản thuế doanh nghiệp. Truy cập IRS.gov/
+điều kiện, bao gồm những điều sau đây.
+                                                             bang mà bạn muốn chủ lao động khấu lưu từ         BusinessAccount để biết thêm thông tin.
+  • Direct File. Direct File là một tùy chọn cố định         tiền lương của mình dễ dàng hơn. Đây là
+     để nộp tờ khai thuế liên bang cá nhân trực                                                                Truyền thông xã hội của IRS. Truy cập IRS.gov/
+                                                             khoản khấu lưu thuế. Xem khoản khấu lưu của
+     tuyến—miễn phí—trực tiếp và an toàn với IRS.                                                              SocialMedia (tiếng Anh) để xem các công cụ truyền
+                                                             bạn ảnh hưởng như thế nào đến khoản tiền
+     Direct File là một tùy chọn dành cho người                                                                thông xã hội khác nhau mà IRS sử dụng để chia sẻ
+                                                             hoàn thuế, tiền lương mang về nhà hoặc tiền
+     đóng thuế ở các tiểu bang tham gia có tờ khai                                                             thông tin mới nhất về các thay đổi về thuế, cảnh báo
+                                                             thuế phải trả của bạn.
+     thuế tương đối đơn giản khai báo một số loại                                                              lừa đảo, sáng kiến, sản phẩm và dịch vụ. Tại IRS,
+                                                         • Công cụ Tra cứu tài khoản tín thuế cho người
+     thu nhập nhất định và yêu cầu một số khoản tín                                                            quyền riêng tư và bảo mật là ưu tiên hàng đầu của
+                                                             mua nhà lần đầu (tiếng Anh) (IRS.gov/
+     thuế và khấu trừ nhất định. Mặc dù Direct File                                                            chúng tôi. Chúng tôi sử dụng các công cụ này để
+                                                             HomeBuyer ) cung cấp thông tin về các khoản
+     không chuẩn bị tờ khai của tiểu bang, nhưng                                                               chia sẻ thông tin công khai với bạn. Vui lòng không
+                                                             hoàn trả và số dư tài khoản của bạn.
+     nếu bạn sống ở một tiểu bang tham gia, Direct                                                             đăng số an sinh xã hội hay thông tin bí mật khác của
+                                                         • Máy tính Khấu trừ Thuế tiêu thụ (tiếng Anh)
+     File sẽ hướng dẫn bạn đến một công cụ do tiểu                                                             bạn lên các trang mạng xã hội. Hãy luôn bảo vệ
+                                                             (IRS.gov/SalesTax) tính toán số tiền có thể kê
+     bang hỗ trợ mà bạn có thể sử dụng để chuẩn bị                                                             danh tính của mình khi sử dụng bất kỳ trang mạng xã
+                                                             khai nếu bạn liệt kê các khoản khấu trừ trong
+     và nộp tờ khai thuế của tiểu bang miễn phí.                                                               hội nào.
+                                                             Bảng A (Mẫu 1040).
+     Truy cập IRS.gov/DirectFile (tiếng Anh) để biết                                                               Các kênh YouTube sau của IRS có các video
+     thêm thông tin, cập nhật chương trình và các                Nhận câu trả lời cho các thắc mắc về
+                                                                                                               thông tin ngắn gọn về các chủ đề khác nhau bằng
+     câu hỏi thường gặp.                                         thuế của bạn. Trên IRS.gov, bạn có thể
+                                                                                                               tiếng Anh, Tây Ban Nha và ASL liên quan đến thuế.
+  • Free File. Chương trình này cho phép bạn                     nhận được thông tin cập nhật về các sự
+                                                                                                                  • Youtube.com/irsvideos (tiếng Anh).
+     chuẩn bị và nộp tờ khai thuế thu nhập cá nhân     kiện hiện tại và thay đổi mới nhất trong luật thuế.
+                                                                                                                  • Youtube.com/irsvideosmultilingua (tiếng Anh).
+     liên bang miễn phí bằng cách sử dụng phần                                                                    • Youtube.com/irsvideosASL (tiếng Anh).
+                                                        • IRS.gov/Help: Nhiều loại công cụ giúp bạn có
+     mềm hoặc Mẫu đơn Free File tự điền. Tuy
+                                                            câu trả lời cho một số thắc mắc phổ biến nhất
+     nhiên, việc khai thuế tiểu bang có thể không có                                                           Thông tin thuế trực tuyến bằng ngôn ngữ khác.
+                                                            về thuế.
+     sẵn thông qua Free File. Truy cập IRS.gov/                                                                Bạn có thể xem thông tin tại IRS.gov/MyLanguage
+                                                        •   IRS.gov/ITA (tiếng Anh): Trợ lý thuế tương tác,
+     FreeFile để xem liệu bạn có hội đủ điều kiện                                                              (tiếng Anh) nếu tiếng Anh không phải là ngôn ngữ
+                                                            một công cụ sẽ đưa ra câu hỏi cho bạn, và dựa
+     cho các tùy chọn khai thuế liên bang trực tuyến                                                           mẹ đẻ của bạn.
+                                                            vào đầu vào của bạn, cung cấp câu trả lời về
+     miễn phí, nộp khai thuế điện tử và ký gửi hoặc
+                                                            một số chủ đề về luật thuế.
+     thanh toán trực tiếp hay không.                                                                           Dịch vụ Thông dịch qua điện thoại (OPI) miễn
+                                                        •   IRS.gov/Forms (tiếng Anh): Tìm kiếm các mẫu
+  • VITA. Chương trình Tình nguyện hỗ trợ thuế              đơn, hướng dẫn và ấn phẩm. Bạn sẽ tìm thấy         phí. IRS cam kết phục vụ người đóng thuế có trình
+     thu nhập (VITA) đưa ra trợ giúp về thuế miễn                                                              độ tiếng Anh giới hạn (LEP) bằng cách cung cấp các
+                                                            thông tin chi tiết về những thay đổi hiện tại và
+     phí cho những người có thu nhập từ thấp đến                                                               dịch vụ OPI. Dịch vụ OPI là một chương trình do liên
+                                                            đường dẫn tương tác để giúp bạn tìm câu trả
+     trung bình, người khuyết tật và người đóng                                                                bang tài trợ và được cung cấp tại các Trung tâm Hỗ
+                                                            lời cho những câu hỏi của mình.
+     thuế có vốn tiếng Anh hạn chế mà cần được                                                                 trợ Người đóng thuế (TAC), hầu hết các văn phòng
+                                                        •   Bạn cũng có thể truy cập thông tin về thuế
+     giúp đỡ trong việc chuẩn bị tờ khai thuế của                                                              của IRS, và tất cả các địa điểm khai thuế của VITA/
+                                                            trong phần mềm khai thuế qua mạng thông tin
+     riêng họ. Truy cập IRS.gov/VITA, tải xuống ứng                                                            TCE. Dịch vụ OPI có thể tiếp cận được trên 350
+                                                            điện tử.
+     dụng miễn phí IRS2Go hoặc gọi số                                                                          ngôn ngữ.
+     800-906-9887 để nắm được thông tin về cách
+     khai thuế miễn phí.                               Cần một người để khai thuế giúp bạn? Có nhiều           Đường dây Trợ giúp trợ năng sẵn có cho người
+  • TCE. Chương trình Tư vấn thuế cho Người cao        dạng người khai thuế khác nhau, bao gồm đại diện        đóng thuế khuyết tật. Người đóng thuế cần thông
+     niên (TCE) cung cấp trợ giúp về thuế miễn phí     đã đăng ký, kế toán viên được chứng nhận (CPA),         tin về dịch vụ trợ năng có thể gọi 833-690-0598.
+     cho tất cả những người đóng thuế, đặc biệt là     kế toán viên, và nhiều người khác không có chứng        Đường dây Trợ giúp trợ năng có thể trả lời các câu
+     những người từ 60 tuổi trở lên. Tình nguyện       chỉ chuyên môn. Nếu bạn nhờ ai đó chuẩn bị tờ khai      hỏi liên quan đến các sản phẩm và dịch vụ trợ năng
+     viên của TCE chuyên giải đáp các câu hỏi về       thuế, hãy chọn người khai thuế một cách khôn            hiện tại và tương lai sẵn có ở các định dạng phương
+     hưu bổng và các vấn đề liên quan đến hưu trí      ngoan. Người khai thuế được trả công:                   tiện thay thế (ví dụ, chữ nổi, chữ in lớn, âm thanh
+     dành riêng cho người cao niên. Truy cập             • Chịu trách nhiệm chính về tính chính xác và có      v.v.). Đường dây Trợ giúp trợ năng không có khả
+     IRS.gov/TCE (tiếng Anh) hoặc tải xuống ứng             thật chung trên tờ khai thuế của bạn,              năng truy cập tài khoản IRS của bạn. Để được trợ
+
+
+50                                                          Chương 12      Cách nhận trợ giúp về thuế                                            Ấn phẩm 519 (2024)
+giúp về luật thuế, hoàn thuế, hoặc vấn đề liên quan     Tài khoản Chuyên gia thuế. Công cụ này cho                 IRS.gov/Payments để biết thông tin về cách thực
+đến tài khoản, truy cập IRS.gov/LetUsHelp.              phép chuyên gia thuế của bạn gửi ủy quyền yêu cầu          hiện thanh toán bằng bất kỳ tùy chọn nào sau đây.
+                                                        truy cập OLA của IRS của cá nhân đóng thuế. Để               • Direct Pay của IRS: Thanh toán hóa đơn tính
+Phương tiện thay thế ưa chuộn. Mẫu 9000,                biết thêm thông tin, truy cập IRS.gov/TaxProAccount              thuế cá nhân hoặc khoản tiền thuế ước tính
+Phương tiện thay thế ưa chuộn, hoặc Mẫu 9000(SP)        (tiếng Anh).                                                     một cách trực tiếp từ tài khoản sử dụng chi
+cho phép bạn chọn nhận một số thư từ hoặc văn                                                                            phiếu hoặc tài khoản tiết kiệm miễn phí cho
+bản ở các định dạng sau                                 Sử dụng ký gửi trực tiếp. Cách an toàn và dễ                     bạn.
+  • Bản in tiêu chuẩn.                                  dàng nhất để nhận tiền hoàn thuế là e-file và chọn ký        • Thẻ ghi nợ, thẻ tính dụng, hoặc ví điện tử:
+                                                        gửi trực tiếp, việc này sẽ chuyển trực tiếp tiền hoàn            Chọn một nhà xử lý thanh toán đã được phê
+ • Bản in khổ lớn.
+                                                        thuế vào tài khoản tài chính của bạn một cách an                 duyệt để thanh toán qua mạng hoặc qua điện
+ • Chử nổi Braille.                                     toàn bằng phương thức điện tử. Phương thức                       thoại.
+ • Âm thanh (MP3).                                      chuyển khoản trực tiếp cũng giúp tránh khả năng              • Trích ngân điện tử: Lên lịch thanh toán khi nộp
+                                                        thất lạc, mất cắp, phá hủy, hoặc chuyển trả lại séc              thuế liên bang bằng phần mềm khai thuế hoặc
+ • Tệp văn bản thuần túy (TXT).                         gửi không thành công về IRS. Cứ 10 người đóng                    thông qua một chuyên gia thuế.
+ • Tệp chử nổi sẵn sàng (BRF).                          thuế lại có 8 người chọn hình thức chuyển khoản              • Hệ thống thanh toán thuế Liên bang bằng điện
+                                                        trực tiếp để nhận tiền hoàn thuế. Nếu bạn không có               tử: Lựa chọn tốt nhất cho các doanh nghiệp.
+Thiên tai. Truy cập IRS.gov/DisasterRelief (tiếng       tài khoản ngân hàng, truy cập IRS.gov/DirectDeposit              Việc ghi danh là bắt buộc.
+Anh) để xem miễn giảm thuế do thiên tai có sẵn.         để biết thêm thông tin về nơi tìm ngân hàng hoặc tổ          • Séc hoặc lệnh phiếu: Gửi phương tiện thanh
+                                                        chức tín dụng có thể mở tài khoản trực tuyến.                    toán của bạn qua đường bưu điện về địa chỉ
+Lấy mẫu đơn và ấn phẩm về thuế. Truy cập                                                                                 được nêu trong thông báo hoặc hướng dẫn.
+IRS.gov/Forms (tiếng Anh) để xem, tải xuống và in       Báo cáo và giải quyết vấn đề trộm cấp danh tính              • Tiền mặt: Bạn có thể thanh toán thuế bằng tiền
+tất cả các mẫu, hướng dẫn và ấn phẩm mà bạn cần         liên quan đến thuế.                                              mặt tại một cửa tiệm bán lẻ có tham gia.
+đến. Bạn cũng có thể truy cập IRS.gov/OrderForms          • Hành vi trộm cắp danh tính liên quan đến thuế            • Chuyển khoản trong ngày: Bạn có thể thực
+để đặt hàng.                                                  xảy ra khi ai đó đánh cắp thông tin cá nhân của            hiện chuyển khoản trong ngày từ cơ quan tài
+                                                              bạn để thực hiện hành vi gian lận thuế. Thuế               chính của mình. Hãy liên hệ với cơ quan tài
+Các mẫu thân thiện với thiết bị di động. Bạn sẽ               của bạn có thể bị ảnh hưởng nếu SSN của bạn                chính của bạn để biết khả năng thực hiện, chi
+cần một Tài khoản trực tuyến của IRS (OLA) để                 được sử dụng để khai báo gian lận hoặc để                  phí và khung thời gian.
+hoàn thành các mẫu thân thiện với thiết bị di động            yêu cầu hoàn lại tiền hoặc tín thuế.
+yêu cầu chữ ký. Bạn sẽ có tùy chọn gửi mẫu trực                                                                        Ghi chú. IRS sử dụng công nghệ mã hóa mới
+                                                         • IRS không chủ động liên lạc với người đóng
+tuyến hoặc tải xuống bản sao để gửi qua đường bưu                                                                  nhất để đảm bảo rằng các khoản thanh toán điện tử
+                                                                 thuế bằng thư điện tử, gọi điện thoại, tin nhắn
+điện. Bạn sẽ cần bản quét các tài liệu của mình để                                                                 bạn thực hiện trực tuyến, qua điện thoại, hoặc từ
+                                                                 văn bản (bao gồm cả đường dẫn rút ngắn) hay
+hỗ trợ việc nộp mẫu. Truy cập IRS.gov/                                                                             một thiết bị di động sử dụng IRS2Go là an toàn và
+                                                                 các kênh truyền thông xã hội để yêu cầu cung
+MobileFriendlyForms (tiếng Anh) để biết thêm thông                                                                 bảo đảm. Việc thanh toán điện tử là nhanh chóng,
+                                                                 cấp hoặc xác minh thông tin cá nhân hoặc tài
+tin.                                                                                                               dễ dàng và nhanh hơn việc gửi séc hoặc lệnh phiếu.
+                                                                 chính. Điều này bao gồm các yêu cầu về số
+                                                                 nhận dạng cá nhân (PIN), mật khẩu hoặc thông
+Lấy ấn phẩm và hướng dẫn về thuế ở định dạng                                                                       Sẽ ra sao nếu tôi không thể trả thuế ngay? Truy
+                                                                 tin tương tự đối với thẻ tín dụng, ngân hàng
+eBook. Tải xuống và xem hầu hết các ấn phẩm và                                                                     cập IRS.gov/Payments để biết thêm thông tin về các
+                                                                 hoặc các tài khoản tài chính khác.
+hướng dẫn thuế phổ biến (bao gồm Hướng dẫn cho                                                                     phương án cho bạn.
+                                                         •       Truy cập IRS.gov/IdentityTheft, trang mạng của
+Mẫu 1040) trên thiết bị di động bằng eBook tại
+                                                                 IRS về Trung tâm về trộm cắp danh tính, để biết
+                                                                                                                     • Nộp đơn xin thỏa thuận thanh toán trực tuyến
+IRS.gov/eBooks (tiếng Anh).                                                                                             (IRS.gov/OPA) để hoàn thành nghĩa vụ thuế
+                                                                 thông tin về hành vi trộm cắp danh tính và bảo
+     eBook của IRS đã được kiểm tra bằng cách sử                                                                        của bạn bằng hình thức trả góp hàng tháng nếu
+                                                                 vệ an toàn dữ liệu cho người đóng thuế, người
+dụng iBooks cho iPad của Apple. eBook của chúng                                                                         hiện tại bạn chưa thể nộp hết toàn bộ tiền thuế.
+                                                                 hành nghề thuế và doanh nghiệp. Nếu bạn bị
+tôi chưa được kiểm tra trên các eBook chuyên dụng                                                                       Sau khi hoàn thành quy trình trên mạng, bạn sẽ
+                                                                 mất hoặc lấy cắp số an sinh xã hội hoặc bạn
+khác, và chức năng eBook có thể không hoạt động                                                                         được thông báo ngay để biết hợp đồng của
+                                                                 nghi ngờ mình là nạn nhân của hành vi mạo
+như ý định.                                                                                                             mình có được chấp thuận hay không.
+                                                                 danh liên quan đến thuế, bạn có thể tìm hiểu
+                                                                 các bước mình nên thực hiện.
+                                                                                                                     • Sử dụng Công cụ Thẩm định Đề nghị Thỏa
+Truy cập tài khoản trực tuyến của bạn (chỉ áp                                                                           hiệp (tiếng Anh) để xem bạn có thể giải quyết
+                                                         •       Lấy PIN bảo vệ danh tính (IP PIN). Mã IP PIN là
+dụng cho cá nhân đóng thuế). Truy cập IRS.gov/                                                                          khoản nợ thuế với số tiền ít hơn tổng số tiền
+                                                                 các số gồm sáu chữ số được cấp cho người
+Account để truy cập thông tin về tài khoản thuế liên                                                                    bạn còn nợ hay không. Để biết thêm thông tin
+                                                                 đóng thuế để giúp ngăn chặn việc lạm dụng
+bang của bạn một cách an toàn.                                                                                          về chương trình Đề nghị Thỏa hiệp, vui lòng
+                                                                 SSN của họ trong gian lận trên tờ khai thuế thu
+  • Xem số tiền bạn nợ và phân tích theo năm                     nhập liên bang. Khi bạn có một IP PIN, điều đó
+                                                                                                                        vào trang IRS.gov/OIC.
+     thuế.
+                                                                 sẽ ngăn người khác nộp tờ khai thuế với SSN
+  • Xem chi tiết kế hoạch thanh toán hoặc đăng ký                của bạn. Để tìm hiểu thêm, hãy truy cập
+                                                                                                                   Nộp tờ khai được điều chỉnh. Truy cập IRS.gov/
+     kế hoạch thanh toán mới.                                                                                      Form1040X để biết thông tin và nội dung cập nhật.
+                                                                 IRS.gov/IPPIN.
+  • Thực hiện thanh toán, xem lịch sử thanh toán 5
+     năm và mọi khoản thanh toán đang chờ xử lý                                                                    Kiểm tra tình trạng của tờ khai được điều chỉnh.
+                                                        Những cách để kiểm tra tình trạng hoàn thuế
+     hoặc đã lên lịch.                                                                                             Truy cập IRS.gov/WMAR để theo dõi tình trạng của
+                                                        của bạn.
+  • Truy cập hồ sơ thuế của bạn, bao gồm dữ liệu         • Truy cập IRS.gov/Refunds.
+                                                                                                                   tờ khai được điều chỉnh Mẫu 1040-X. Xin lưu ý rằng
+     quan trọng từ tờ khai thuế gần đây nhất, số tiền                                                              có thể mất tới 3 tuần kể từ ngày bạn nộp bản chỉnh
+                                                         • Tải ứng dụng chính thức IRS2Go về thiết bị di
+     thanh toán tác động kinh tế của bạn và bản ghi.                                                               sửa cho hồ sơ thuế thì thông tin này mới hiển thị trên
+                                                             động để kiểm tra tình trạng hoàn thuế của bạn.
+  • Xem bản sao điện tử của các thông báo được           • Gọi đến đường dây nóng tự động về hoàn thuế
+                                                                                                                   hệ thống của chúng tôi, và thời gian xử lý có thể lên
+     chọn lọc từ IRS.                                                                                              tới 16 tuần.
+                                                             theo số 800-829-1954.
+  • Phê duyệt hoặc từ chối các yêu cầu ủy quyền                                                                              Có thể mất tới 3 tuần kể từ ngày bạn nộp
+     từ các chuyên gia thuế.                                    IRS không thể cấp tiền hoàn thuế trước
+                                                                                                                             tờ khai được điều chỉnh thì thông tin này
+  • Cập nhật địa chỉ của bạn hoặc quản lý các                !  giữa tháng 2 cho những tờ khai có yêu cầu             !
+                                                                                                                    CAUTION mới hiển thị trên hệ thống của chúng tôi, và
+     cách liên lạc ưa chuộn của bạn.                    CAUTION EIC hoặc tín thuế trẻ em bổ sung (ACTC).
+                                                                                                                   thời gian xử lý có thể lên tới 16 tuần.
+                                                        Điều này áp dụng cho toàn bộ số tiền hoàn thuế,
+Lấy bản ghi của tờ khai thuế. Với tài khoản trực        không chỉ phần liên quan đến các khoản tín thuế
+tuyến, bạn có thể truy cập nhiều thông tin khác nhau    này.                                                       Am hiểu về thông báo hoặc thư từ của IRS mà
+để trợ giúp bạn trong mùa thuế. Bạn có thể lấy bản                                                                 bạn nhận được. Truy cập IRS.gov/Notices để tìm
+ghi, xem lại tờ khai thuế đã nộp gần đây nhất và                                                                   thêm thông tin về việc phản hồi một thông báo hay
+                                                        Thực hiện thanh toán thuế. Các khoản thanh toán
+nhận được tổng thu nhập được điều chỉnh của mình.                                                                  thư từ của IRS.
+                                                        thuế Hoa Kỳ phải được nộp cho IRS bằng đô la Mỹ.
+Tạo hoặc truy cập tài khoản trực tuyến của bạn tại      Tài sản điện tử không được chấp nhận. Truy cập
+IRS.gov/Account.
+
+
+Ấn phẩm 519 (2024)                                               Chương 12      Cách nhận trợ giúp về thuế                                                            51
+Công cụ Tải lên tài liệu của IRS. Bạn có thể sử         ra các khuyến nghị về mặt hành chính và lập pháp      khi    giao    dịch    với    IRS.     Truy   cập
+dụng Công cụ Tải lên tài liệu để phản hồi bằng điện     để ngăn ngừa hoặc khắc phục các vấn đề và bảo vệ      www.TaxpayerAdvocate.IRS.gov/Taxpayer-Rights
+tử một số các thông báo và thư đủ điều kiện của IRS     quyền của người đóng thuế. Chúng tôi nỗ lực để        (tiếng Anh) để biết thêm thông tin về các quyền, ý
+bằng cách tải lên an toàn các tài liệu bắt buộc trực    đảm bảo rằng mọi người đóng thuế đều được đối xử      nghĩa của chúng đối với bạn và cách chúng áp dụng
+tuyến thông qua IRS.gov. Để biết thêm thông tin, hãy    công bằng và rằng bạn biết và hiểu các quyền của      vào các tình huống cụ thể mà bạn có thể gặp phải
+truy cập IRS.gov/DUT (tiếng Anh).                       mình theo Bản Tuyên ngôn Quyền của Người đóng         với IRS. TAS nỗ lực bảo vệ quyền của người đóng
+                                                        thuế. Chúng tôi là Tiếng nói của bạn tại IRS.         thuế và đảm bảo IRS đang quản lý luật thuế một
+Bảng LEP. Bạn có thể sử dụng Bảng LEP (Mẫu                                                                    cách công bằng và bình đẳng.
+1040), Yêu cầu thay đổi tùy chọn ngôn ngữ, để nêu
+                                                        Cách TAS có thể giúp bạn?
+lên ưu tiên nhận thông báo, thư, hoặc các thông báo
+bằng văn bản khác từ IRS bằng một ngôn ngữ khác.        TAS có thể giúp bạn giải quyết các vấn đề mà bạn      Hỗ trợ người đóng thuế ở
+Bạn có thể không nhận được thông tin liên lạc bằng
+văn bản bằng ngôn ngữ được yêu cầu ngay lập tức.
+                                                        không thể tự mình giải quyết với IRS. Luôn cố gắng
+                                                        giải quyết vấn đề của bạn với IRS trước, nhưng nếu
+                                                                                                              ngoài Hoa Kỳ
+Cam kết của IRS đối với người đóng thuế LEP là          bạn không thể, hãy đến với TAS. Các dịch vụ của                Nếu bạn ở ngoài Hoa Kỳ thì bạn có thể gọi
+một phần của lịch trình nhiều năm dự kiến bắt đầu       chúng tôi là miễn phí.                                         số 267-941-1000 (chỉ dành cho người nói
+cung cấp bản dịch vào năm 2023. Bạn sẽ tiếp tục           • TAS hỗ trợ tất cả người đóng thuế (và đại diện             Tiếng Anh). Số này không được miễn phí
+nhận được thông tin liên lạc, bao gồm thông báo và            của họ), bao gồm cá nhân, doanh nghiệp và tổ    cước gọi.
+thư bằng tiếng Anh cho đến khi chúng được dịch                chức được miễn thuế. Bạn có thể đủ điều kiện
+sang ngôn ngữ ưa thích của bạn.                               để được TAS hỗ trợ nếu vấn đề IRS của bạn                Nếu bạn muốn viết thư thay vì gọi điện, gửi
+                                                              đang gây khó khăn về tài chính, nếu bạn đã cố            thư đến địa chỉ:
+Liên lạc với TAC tại địa phương bạn. Xin lưu ý                gắng và không thể giải quyết vấn đề của mình
+rằng nhiều câu hỏi có thể được giải đáp trên trang            với IRS hoặc nếu bạn tin rằng hệ thống, quy          Internal Revenue Service
+IRS.gov mà không cần đến TAC. Truy cập IRS.gov/               trình hoặc thủ tục của IRS không hoạt động           International Accounts
+LetUsHelp để xem các chủ đề mà mọi người thắc                 như mong đợi.                                        Philadelphia, PA 19255-0725
+mắc nhiều nhất. Nếu bạn vẫn cần trợ giúp, TAC sẽ
+                                                          • Để được trợ giúp bất cứ lúc nào về các chủ đề          U.S.A.
+trợ giúp về thuế khi có vấn đề về thuế không thể giải         thuế tổng quát, hãy truy cập
+quyết được qua mạng hoặc điện thoại. Hiện tại, tất            www.TaxpayerAdvocate.IRS.gov (tiếng Anh).
+cả các TAC đều cung cấp dịch vụ với hình thức hẹn                                                             Địa chỉ liên hệ khác dành cho người đóng thuế sống
+                                                              Trang web này có thể giúp bạn giải quyết các
+trước để bạn biết trước là mình có thể nhận dịch vụ                                                           ở ngoài lãnh thổ Hoa Kỳ có sẵn tại IRS.gov/uac/
+                                                              vấn đề và tình huống thuế phổ biến, chẳng hạn
+cần đến mà không mất thời gian dài chờ đợi. Trước                                                             Contact-My-Local-Office-Internationally.
+                                                              như phải làm gì nếu bạn mắc lỗi khi khai thuế
+khi đến đó, hãy vào trang IRS.gov/TACLocator để               hoặc nếu bạn nhận được thông báo từ IRS.
+tìm TAC gần nhất và kiểm tra giờ làm việc, dịch vụ                                                            Dịch vụ Biện hộ người đóng thuế (TAS). Nếu
+                                                          • TAS hoạt động để giải quyết các vấn đề quy
+cung cấp và các cuộc hẹn để lựa chọn. Hoặc trên               mô lớn (có hệ thống) ảnh hưởng đến nhiều        bạn sống ở ngoài lãnh thổ Hoa Kỳ thì bạn có thể gọi
+ứng dụng IRS2Go, dưới thẻ Stay Connected, hãy                 người đóng thuế. Bạn có thể báo cáo các vấn     cho TAS theo số +15.15.56.46.827 hoặc bằng email
+chọn tùy chọn Contact Us và nhấp vào “Local                   đề có hệ thống tại www.IRS.gov/SAMS. (Hãy       tại tas.international@irs.gov. Cuộc gọi của bạn sẽ
+Offices”.                                                     đảm bảo không bao gồm bất kỳ thông tin nhận     được tự động chuyển đến Hawaii hoặc Puerto Rico
+                                                              dạng cá nhân nào.)                              tùy thuộc vào vị trí của bạn. Nếu bạn chọn tiếng Tây
+  ————————————————————
+                                                                                                              Ban Nha, cuộc gọi của bạn sẽ được chuyển đến văn
+————
+                                                                                                              phòng Puerto Rico để được hỗ trợ. Bạn có thể liên
+                                                        Cách để liên hệ với TAS?                              hệ với Người biện hộ cho người đóng thuế tại:
+   Dưới đây là thông điệp gửi đến bạn từ Dịch vụ
+Biện hộ Người đóng thuế, một tổ chức độc lập do         TAS có văn phòng ở mỗi bang, Đặc khu Columbia,
+Quốc hội thành lập.                                                                                                Internal Revenue Service
+                                                        và Puerto Rico. Để tìm số điện thoại của người biện
+                                                                                                                   Taxpayer Advocate Service
+                                                        hộ:
+                                                                                                                   48 Carr 165 Km. 1.2
+Dịch vụ Biện hộ Người đóng                                • Truy cập TaxpayerAdvocate.IRS.gov/Contact-             City View Plaza II Bldg.
+                                                             Us (tiếng Anh);
+thuế (TAS) sẵn sàng trợ giúp                              • Kiểm tra danh bạ địa phương; hoặc
+                                                                                                                   Guaynabo, PR 00968-8000
+bạn                                                       • Gọi TAS miễn phí tại 877-777-4778.
+                                                                                                              Bạn có thể gọi cho TAS theo số miễn phí
+Dịch vụ Biện hộ Người đóng thuế là                                                                            877-777-4778. Để biết thêm thông tin về TAS và
+gì?                                                     Quyền hạn của tôi với tư cách Người                   người liên hệ nếu bạn ở ngoài Hoa Kỳ, truy cập
+                                                        đóng thuế là gì?                                      TaxpayerAdvocate.IRS.gov/Get-Help/International/
+Dịch vụ Biện hộ Người đóng thuế (TAS) là một tổ                                                               (tiếng Anh).
+chức độc lập trong Sở Thuế vụ (IRS). TAS giúp           Bản Tuyên ngôn Quyền của Người đóng thuế mô tả
+người đóng thuế giải quyết các vấn đề với IRS, đưa      mười quyền cơ bản mà tất cả người đóng thuế có
+
+
+
+
+52                                                           Chương 12     Cách nhận trợ giúp về thuế                                       Ấn phẩm 519 (2024)
+Các câu hỏi thường gặp
+Mục này giải đáp các câu hỏi liên quan trú trong Một số quyền lợi theo hiệp      Người vợ/chồng là người nước Có phải “người đóng thuế là thường
+đến thuế mà người nước ngoài thường ước thuế điển hình trong chương 9.           ngoài tạm trú. Họ có cần số an sinh trú nhân có tình trạng kép” là
+nêu ra.                                                                          xã hội không?                       “người đóng thuế có tình trạng kép
+                                       Tôi là người nước ngoài tạm trú                                               không”?
+Sự khác nhau giữa người nước không có người phụ thuộc. Tôi đang                Số an sinh xã hội (SSN) phải được
+ngoài thường trú và người nước làm việc tạm thời cho một công ty               cung cấp trên tờ khai thuế, bản kê khai   Không. Người đóng thuế là thường trú
+ngoài tạm trú với mục đích tính thuế của Hoa Kỳ. Tôi cần nộp tờ khai           và các tài liệu thuế vụ khác. Nếu người   nhân có tình trạng kép vừa là cư nhân
+là gì?                                 thuế nào?                               vợ/chồng không có và không đủ điều        Hoa Kỳ vừa là thường trú nhân của một
+                                                                               kiện nhận SSN thì họ phải nộp đơn xin     quốc gia khác theo luật thuế của từng
+Với mục đích tính thuế, người nước       Bạn phải nộp Mẫu 1040-NR nếu bạn cấp số nhận dạng người đóng thuế cá            quốc gia. Xem Ảnh hưởng của hiệp uớc
+ngoài không phải là công dân Hoa Kỳ.     tham gia vào hoạt động thương mại hay nhân (ITIN).                              thuế trong chương 1. Bạn là người
+Người nước ngoài được chia thành         kinh doanh ở Hoa Kỳ hoặc có bất kỳ                                              nước ngoài có tình trạng thường trú kép
+người nước ngoài thường trú và người     nguồn thu nhập nào khác từ Hoa Kỳ mà      Nếu bạn là công dân hoặc thường       khi bạn vừa là người nước ngoài tạm
+nước ngoài tạm trú. Người nước ngoài     thuế chưa được nộp đủ theo số tiền trú nhân Hoa Kỳ và bạn chọn đối xử với       trú vừa là người nước ngoài thường trú
+thường trú thường chịu thuế thu nhập     khấu lưu.                             người vợ/chồng tạm trú như thường trú     trong cùng một năm. Để biết thông tin
+từ tất cả các nguồn trên khắp thế giới                                         nhân và khai thuế chung thì người vợ/     về việc xác định nợ thuế thu nhập Hoa
+giống như công dân Hoa Kỳ. Người         Tôi đến Hoa Kỳ vào ngày 30 tháng 6 chồng tạm trú cần có SSN hoặc ITIN.          Kỳ trong năm tính thuế cho người có
+nước ngoài tạm trú chịu thuế thu nhập    năm ngoái. Tôi có diện thị thực Người vợ/chồng là người nước ngoài              tình trạng kép, xem chương 6.
+có nguồn gốc từ Hoa Kỳ và thu nhập có    H-1B. Tình trạng thuế, người nước được khai là người phụ thuộc cũng
+nguồn gốc từ nước ngoài liên thông       ngoài thường trú hoặc người nước được yêu cầu cung cấp SSN hoặc ITIN.            Tôi là người nước ngoài tạm trú và
+thực tế với hoạt động thương mại hay     ngoài không phải là thường trú                                                   đã đầu tư tiền vào thị trường chứng
+kinh doanh ở Hoa Kỳ.                     nhân của tôi là gì? Tôi cần nộp tờ        Xem Số nhận dạng trong chương 5        khoán Hoa Kỳ thông qua một công
+                                         khai thuế nào?                        để biết thêm thông tin.                    ty môi giới của Hoa Kỳ. Cổ tức và lãi
+Sự khác nhau giữa đánh thuế thu                                                                                           vốn có chịu thuế không? Nếu có, cổ
+nhập liên thông thực tế với hoạt         Tôi là người nước ngoài có tình trạng Tôi là người nước ngoài tạm trú. Tôi tức và lãi vốn bị đánh thuế như thế
+động thương mại hay kinh doanh ở         kép năm ngoái. Theo nguyên tắc có thể khai thuế chung với người nào?
+Hoa Kỳ và thu nhập không liên            chung, do bạn ở Hoa Kỳ 183 ngày trở vợ/chồng không?
+thông thực tế với hoạt động thương       lên nên bạn đã đáp ứng thử thách sự                                              Các quy tắc sau sẽ được áp dụng nếu
+mại hay kinh doanh ở Hoa Kỳ là gì?       hiện diện đáng kể và bạn phải chịu thuế Nhìn chung, bạn không thể khai thuế cổ tức và lãi vốn không liên thông thực
+                                         với tư cách thường trú nhân. Tuy nhiên, chung sau khi kết hôn nếu người vợ/ tế với hoạt động thương mại hay kinh
+Sự khác nhau giữa hai loại này là thu    trong một thời điểm của năm mà bạn chồng là người nước ngoài tạm trú tại doanh ở Hoa Kỳ.
+nhập liên thông thực tế, sau các khoản   không có mặt ở Hoa Kỳ, bạn không bất kỳ thời điểm nào trong năm tính               • Lãi vốn thường không chịu thuế
+khấu trừ được phép, chịu thuế suất lũy   phải là thường trú nhân. Nộp Mẫu 1040 thuế.                                           nếu bạn ở Hoa Kỳ dưới 183 ngày
+tiến. Đây là thuế suất được áp dụng      hoặc Mẫu 1040-SR. Nhập “Dual-Status                                                   trong năm tính thuế. Xem Bán
+giống như công dân và thường trú nhân    Return (Tờ khai cho Người có tình trạng     Tuy nhiên, người nước ngoài tạm           hoặc trao đổi tài sản vốn trong
+Hoa Kỳ. Thu nhập không liên thông        kép” ở trên cùng. Đính kèm bản kê khai trú đã kết hôn với công dân hoặc               chương 4 để biết thêm thông tin
+thực tế chịu thuế suất cố định 30%       cho biết thu nhập trong một thời điểm thường trú nhân Hoa Kỳ có thể chọn              và ngoại lệ.
+(hoặc thấp hơn theo hiệp ước).           của năm bạn không phải là thường trú được coi như thường trú nhân Hoa Kỳ           • Cổ tức thường bị đánh thuế ở
+                                         nhân. Bạn có thể dùng Mẫu 1040-NR và khai thuế chung. Để biết thêm thông              mức 30% (hoặc thấp hơn theo
+Tôi là học sinh có diện thị thực F-1.    làm bản tường trình. In “Dual-Status tin về lựa chọn này, xem Người vợ/               hiệp ước). Công ty môi giới hoặc
+Tôi được nói cho biết rằng tôi được      Statement (Bản tường trình cho Người chồng là người tạm trú được coi như              người trả cổ tức phải khấu trừ
+miễn thuế. Có phải điều này có           có tình trạng kép)” ở trên cùng. Xem thường trú nhân trong chương 1.                  thuế này tại nguồn. Nếu thuế
+nghĩa là tôi được miễn thuế Hoa Kỳ       Năm cư trú đầu tiên trong chương 1 để                                                 không được khấu lưu ở mức
+không?                                   biết các quy tắc xác định ngày bạn bắt Tôi có diện thị thực H-1B và vơ/               chính xác thì bạn phải nộp Mẫu
+                                         đầu cư trú.                             chồng tôi có diện thị thực F-1. Cả            1040-NR để nhận tiền hoàn thuế
+Thuật ngữ “cá nhân được miễn” không                                              hai chúng tôi đều sống ở Hoa Kỳ               hoặc nộp khoản thuế bổ sung nào
+chỉ một người được miễn thuế Hoa Kỳ.     Mẫu 1040-NR của bạn đến hạn khi trong cả năm ngoái và có thu nhập.                    đến hạn.
+Bạn được gọi là “cá nhân được miễn”      nào?                                    Chúng tôi nên nộp loại mẫu khai
+                                                                                 thuế nào? Chúng tôi cần hai thuế             Nếu lãi vốn và cổ tức liên thông
+với tư cách học sinh có mặt tạm thời ở
+                                                                                                                          thực tế với hoạt động thương mại hay
+Hoa Kỳ theo diện thị thực F, bạn không   Nếu bạn là nhân viên và nhận tiền chung hay khai thuế riêng?
+                                                                                                                          kinh doanh ở Hoa Kỳ thì lãi vốn và cổ
+phải tính số ngày có mặt ở Hoa Kỳ với    lương bị khấu lưu thuế thu nhập Hoa Kỳ
+                                                                                                                          tức sẽ bị đánh thuế theo quy tắc giống
+tư cách học sinh trong 5 năm đầu tiên    thì bạn thường sẽ nộp tờ khai thuế Giả định rằng cả hai chúng tôi đều có
+                                                                                                                          nhau ở cùng một mức thuế suất áp
+để xác định xem bạn có phải là người     trước ngày 15 của tháng thứ 4 sau khi diện thị thực này trong cả năm ngoái và
+                                                                                                                          dụng cho công dân và thường trú nhân
+nước ngoài thường trú theo thử thách     kết thúc năm tính thuế. Nếu bạn nộp tờ bạn là người nước ngoài thường trú,
+                                                                                                                          Hoa Kỳ.
+sự hiện diện đáng kể hay không. Xem      khai thuế năm 2024 thì tờ khai thuế của vợ/chồng bạn là người nước ngoài tạm
+chương 1.                                bạn sẽ đến hạn vào ngày 15 tháng 4,     trú nếu  vợ/chồng  tôi không  ở  Hoa  Kỳ
+                                                                                                                          Tôi là người nước ngoài tạm trú. Tôi
+                                         2025.                                   với tư cách học sinh trong thời gian hơn
+                                                                                                                          nhận được phúc lợi an sinh xã hội
+Tôi là người nước ngoài thường trú.                                              5 năm. Bạn và vợ/chồng bạn có thể
+Tôi có thể yêu cầu quyền lợi theo            Nếu bạn không phải là nhân viên khai thuế chung trên Mẫu 1040 hoặc Hoa Kỳ. Phúc lợi của tôi có chịu
+hiệp ước không?                          nhận tiền lương bị khấu lưu thuế thu Mẫu 1040-SR nếu người vợ/chồng thuế không?
+                                         nhập Hoa Kỳ thì bạn phải nộp tờ khai chọn được coi như thường trú nhân
+                                         thuế trước ngày 15 của tháng thứ 6 sau trong cả năm. Xem Người vợ/chồng là Nếu bạn là người nước ngoài tạm trú thì
+Nhìn chung, bạn không thể yêu cầu
+                                         khi kết thúc năm tính thuế. Cho năm người tạm trú được coi như thường trú 85% phúc lợi an sinh xã hội Hoa Kỳ (và
+quyền lợi theo hiệp ước thuế với tư
+                                         2024, nộp tờ khai thuế chậm nhất là vào nhân trong chương 1. Nếu chồng bạn phần tương đương của phúc lợi hưu trí
+cách là người nước ngoài thường trú.
+                                         ngày 16 tháng 6, 2025. Để biết thêm không đưa ra lựa chọn này thì bạn phải ngành đường sắt cấp 1) mà bạn nhận
+Tuy nhiên, cũng có ngoại lệ. Xem Ảnh
+                                         thông tin về thời gian nộp và địa điểm khai thuế riêng trên Mẫu 1040 hoặc được phải chịu thuế suất cố định 30%,
+hưởng của hiệp uớc thuế trong chương
+                                         nộp, xem chương 7.                      Mẫu 1040-SR. Chồng bạn phải nộp trừ khi được miễn thuế hoặc phải chịu
+1. Xem thêm Người nước ngoài thường
+                                                                                 Mẫu 1040-NR.
+
+
+Ấn phẩm 519 (2024)                                                                                                                                           53
+thuế suất thấp hơn theo hiệp ước. Xem doanh đến từ Ấn Độ trong Các khoản          thêm thông tin về người nước ngoài có Nếu thuế an sinh xã hội hoặc thuế
+Thuế suất 30% trong chương 4.          khấu trừ từng khoản trong chương 5 để      tình trạng kép.                         Medicare bị khấu lưu do nhầm lẫn từ
+                                       biết ngoại lệ.                                                                     tiền lương không chịu các loại thuế này,
+Tôi có phải trả tiền thuế trên học                                                Tôi là người nước ngoài tạm trú. Tôi hãy liên hệ với chủ lao động đã khấu
+bổng không?                            Tôi là người đóng thuế có tình trạng       có thể yêu cầu tín thuế giáo dục trên lưu thuế để được hoàn thuế. Nếu bạn
+                                       kép. Tôi có thể yêu cầu khấu trừ tiêu      Mẫu 1040-NR không?                      không được hoàn lại đủ tiền từ chủ lao
+Nếu bạn là người nước ngoài tạm trú và chuẩn không?                                                                       động, nộp đơn yêu cầu hoàn thuế cho
+học bổng không phải từ Hoa Kỳ thì học                                             Nếu bạn là người nước ngoài tạm trú IRS trên Mẫu 843. Không dùng Mẫu
+bổng không phải chịu thuế Hoa Kỳ.          Bạn không thể yêu cầu khấu trừ tiêu trong bất kỳ thời điểm nào của năm thì 843 để yêu cầu hoàn thuế Medicare bổ
+Xem Học bổng, trợ cấp, giải thưởng và      chuẩn được phép trên Mẫu 1040 hoặc bạn thường không thể yêu cầu tín thuế sung. Xem Hoàn thuế bị khấu lưu do
+phần thưởng trong chương 2 để xác          Mẫu 1040-SR. Tuy nhiên, bạn có thể ghi giáo dục. Tuy nhiên, nếu bạn đã kết hôn nhầm lẫn trong chương 8.
+định xem học bổng của bạn có phải từ       bất kỳ khoản khấu trừ nào được phép và chọn khai thuế chung với người vợ/
+Hoa Kỳ hay không.                          thành từng mục.                        chồng là công dân hoặc thường trú Tôi là người nước ngoài sẽ rời khỏi
+                                                                                  nhân Hoa Kỳ thì bạn có thể đủ điều kiện Hoa Kỳ. Tôi phải nộp mẫu đơn nào
+    Nếu học bổng của bạn có nguồn          Tôi đang nộp Mẫu 1040-NR. Tôi có nhận tín thuế này. Xem Người vợ/chồng trước khi rời đi?
+gốc từ Hoa Kỳ hoặc bạn là người nước       thể yêu cầu các khoản khấu trừ là người tạm trú được coi như thường
+ngoài thường trú thì học bổng phải chịu    từng khoản không?                    trú nhân trong chương 1.             Trước khi rời khỏi Hoa Kỳ, người nước
+thuế Hoa Kỳ theo các quy tắc sau.                                                                                    ngoài thường phải xin giấy chứng nhận
+  • Nếu bạn là ứng viên của một            Người nước ngoài tạm trú có thể yêu Nếu bạn là người nước ngoài tạm tuân thủ. Tài liệu này cũng thường
+     chương trình cấp bằng thì bạn có      cầu một số khoản khấu trừ từng khoản trú, đang làm việc tạm thời ở Hoa Kỳ được gọi là giấy phép ra khơi hoặc giấy
+     thể loại trừ khỏi thu nhập một phần   tương tự như người nước ngoài theo diện thị thực J. Tôi có phải chịu phép xuất cảnh là một phần của mẫu
+     học bổng mà bạn dùng để thanh         thường trú. Tuy nhiên, người nước thuế an sinh xã hội và thuế Medicare thuế thu nhập mà bạn phải nộp trước
+     toán học phí, lệ phí, sách, vật tư    ngoài tạm trú chỉ có thể yêu cầu các không?                               khi rời đi. Bạn sẽ nhận được giấy phép
+     và thiết bị theo yêu cầu của tổ       khoản khấu trừ từng khoản nếu họ có                                       ra khơi hoặc xuất cảnh sau khi nộp Mẫu
+     chức giáo dục. Tuy nhiên, phần        thu nhập liên thông thực tế với hoạt Nhìn chung, các dịch vụ do bạn thực 1040-C hoặc Mẫu 2063. Các mẫu đơn
+     học bổng mà bạn dùng để thanh         động thương mại hay kinh doanh ở Hoa hiện với tư cách là người nước ngoài này được thảo luận trong chương 11.
+     toán các chi phí khác như tiền ăn  Kỳ. Xem Các khoản khấu trừ từng tạm trú tạm thời tại Hoa Kỳ với tư cách
+     ở sẽ phải chịu thuế. Xem Học       khoản trong chương 5.                   là người không định cư theo tiểu đoạn      Tôi đã nộp Mẫu 1040-C khi tôi rời
+     bổng và trợ cấp nghiên cứu sinh                                            (F), (J), (M) hoặc (Q) của đoạn 101(a)     khỏi Hoa Kỳ. Tôi vẫn phải nộp tờ
+     trong chương 3 để biết thêm        Tôi độc thân và có trẻ là người phụ (15) của Đạo luật Nhập Cư và Quốc              khai thuế Hoa Kỳ hàng năm?
+     thông tin.                         thuộc. Tôi từng là người nước ngoài Tịch không được bao gồm trong
+  • Nếu bạn không phải là ứng viên      có tình trạng kép trong năm 2024. chương trình an sinh xã hội nếu bạn              Mẫu 1040-C không phải là tờ khai thuế
+     của một chương trình cấp bằng thì  Tôi có thể yêu cầu tín thuế thu nhập thực hiện các dịch vụ để thực hiện mục        thu nhập Hoa Kỳ hàng năm. Nếu tờ khai
+     học bổng phải chịu thuế.           kiếm được trên tờ khai thuế năm đích mà bạn đã được nhập cảnh vào                  thuế thu nhập là bắt buộc theo luật định
+                                        2024 không?                             Hoa Kỳ. Xem Thuế An sinh Xã hội và         thì bạn phải nộp tờ khai thuế đó ngay cả
+Tôi là người nước ngoài tạm trú. Tôi                                            thuế Medicare trong chương 8.              khi bạn đã nộp Mẫu 1040-C. Chương 5
+có thể yêu cầu khấu trừ tiêu chuẩn                                                                                         và chương 7 thảo luận về việc nộp tờ
+                                        Nếu bạn là người nước ngoài tạm trú
+không?
+                                        trong bất kỳ thời điểm nào của năm thì Tôi là người nước ngoài tạm trú.            khai thuế thu nhập Hoa Kỳ hàng năm.
+                                        bạn không thể yêu cầu tín thuế thu nhập Thuế an sinh xã hội đã bị khấu lưu
+Người nước ngoài tạm trú không thể kiếm được. Xem trong chương 6 để biết từ tiền lương của tôi do nhầm lẫn.
+yêu cầu khấu trừ tiêu chuẩn. Tuy nhiên,                                         Tôi có thể được hoàn thuế này bằng
+xem Học sinh và người học nghề kinh                                             cách nào?
+
+
+
+
+54                                                                                                                                           Ấn phẩm 519 (2024)
+Phụ lục A—Quy trình miễn thuế theo hiệp ước thuế dành cho Học sinh
+Phụ lục này bao gồm bản kê khai mà            thuế thu nhập liên bang theo            đã không yêu cầu miễn thuế thu           thù lao được trả trong thời gian 5
+học sinh và người học việc là người           hiệp ước thuế giữa Hoa Kỳ và            nhập theo hiệp ước này đối với           năm tính thuế bắt đầu từ năm
+nước ngoài tạm trú phải nộp Mẫu               Bulgaria với số tiền không vượt         thu nhập nhận được với tư cách           thuế tính cả ngày tôi đến.
+8233 để yêu cầu miễn khấu lưu thuế            quá $9.000 trong bất kỳ năm             học sinh trước ngày tôi đến Hoa
+theo hiệp ước thuế đối với tiền thù lao       chịu thuế nào.                          Kỳ.
+cho dịch vụ cá nhân được thực hiện
+                                                                                                                           Ai Cập
+                                           4. Tôi đã đến Hoa Kỳ vào ngày           4. Tôi đã đến Hoa Kỳ vào ngày
+cho người khác. Đối với hiệp ước
+                                                         [điền ngày bạn đến                     [điền ngày bạn đến          1. Tôi là thường trú nhân Ai Cập
+không được liệt kê trong phụ lục, hãy
+                                              Hoa Kỳ lần cuối trước khi bắt           Hoa Kỳ lần cuối trước khi bắt            vào ngày tôi đến Hoa Kỳ. Tôi
+đính kèm bản kê khai ở định dạng
+                                              đầu học tập hoặc đào tạo]. Miễn         đầu học tập tại cơ sở giáo dục ở         không phải là công dân Hoa Kỳ.
+tương tự với các hiệp ước khác. Xem
+                                              thuế theo hiệp ước cho hoạt             Hoa Kỳ]. Miễn thuế $2.000 theo           Tôi đã không được hưởng đặc
+chương 8 để biết thêm thông tin về
+                                              động đào tạo chỉ áp dụng cho            hiệp ước chỉ áp dụng cho tiền            quyền thường trú tại Hoa Kỳ
+khấu lưu thuế.
+                                              tiền thù lao được trả trong thời        thù lao được trả trong thời gian 5       theo pháp luật với tư cách là
+                                              gian 2 năm.                             năm tính thuế bắt đầu từ năm             người nhập cư.
+Bỉ                                                                                    tính thuế bao gồm cả ngày tôi
+                                                                                                                            2. Hiện tôi có mặt tạm thời ở Hoa
+                                          Trung Quốc                                  đến và trong khoảng thời gian
+                                                                                      cần thiết để hoàn thành, với tư          Kỳ với mục đích chính là học tập
+  1. Tôi là thường trú nhân Bỉ vào
+     ngày tôi đến Hoa Kỳ. Tôi không                                                   cách là học sinh toàn thời gian,         tại          [điền tên của trường
+                                           1. Tôi là thường trú nhân Trung                                                     đại học hoặc cơ sở giáo dục
+     phải là công dân Hoa Kỳ. Tôi đã                                                  yêu cầu giáo dục với tư cách là
+                                              Quốc vào ngày tôi đến Hoa Kỳ.                                                    khác nơi bạn theo học được
+     không được hưởng đặc quyền                                                       ứng viên của một chương trình
+                                              Tôi không phải là công dân Hoa                                                   công nhận].
+     thường trú tại Hoa Kỳ theo pháp                                                  đào tạo sau đại học hoặc văn
+                                              Kỳ.
+     luật với tư cách là người nhập                                                   bằng chuyên môn từ một cơ sở          3. Tôi sẽ nhận được tiền thù lao
+     cư.                                   2. Tôi chỉ có mặt ở Hoa Kỳ với mục         giáo dục được công nhận.                 cho dịch vụ cá nhân được thực
+                                              đích giáo dục hoặc đào tạo.                                                      hiện ở Hoa Kỳ. Thù lao này đủ
+  2. Tôi có mặt ở Hoa Kỳ với mục
+     đích giáo dục hoặc đào tạo.           3. Tôi sẽ nhận được tiền thù lao       Cộng hòa Séc,                                điều kiện được miễn khấu trừ
+                                                                                                                               thuế thu nhập liên bang theo
+  3. Tôi sẽ nhận được tiền thù lao
+                                              cho dịch vụ cá nhân được thực
+                                              hiện ở Hoa Kỳ. Thù lao này đủ
+                                                                                  Estonia, Latvia, Litva                       hiệp ước thuế giữa Hoa Kỳ và Ai
+     cho dịch vụ cá nhân được thực            điều kiện được miễn khấu lưu        và Cộng hòa Slovak                           Cập với số tiền không vượt quá
+     hiện ở Hoa Kỳ. Thù lao này đủ            thuế thu nhập liên bang theo                                                     $3.000 ($10.000 nếu bạn là
+     điều kiện được miễn khấu lưu             hiệp ước thuế giữa Hoa Kỳ và         1. Tôi là thường trú nhân                   người tham gia chương trình học
+     thuế thu nhập liên bang theo             Trung Quốc với số tiền không            [điền tên quốc gia có hiệp ước           được chính phủ bảo trợ không
+     hiệp ước thuế giữa Hoa Kỳ và Bỉ          vượt quá $5.000 trong bất kỳ            mà bạn yêu cầu miễn thuế] vào            quá 1 năm) trong bất kỳ năm tính
+     với số tiền không vượt quá               năm chịu thuế nào.                      ngày tôi đến Hoa Kỳ. Tôi không           thuế nào. Trước đây tôi đã không
+     $9.000 trong bất kỳ năm chịu                                                     phải là công dân Hoa Kỳ. Tôi đã          yêu cầu miễn thuế thu nhập theo
+     thuế nào.                             4. Tôi đã đến Hoa Kỳ vào ngày              không được hưởng đặc quyền               hiệp ước này đối với thu nhập
+                                                         [điền ngày bạn đến           thường trú tại Hoa Kỳ theo pháp
+  4. Tôi đã đến Hoa Kỳ vào ngày                                                                                                nhận được với tư cách giáo
+                                              Hoa Kỳ lần cuối trước khi bắt           luật với tư cách là người nhập
+               [điền ngày bạn đến                                                                                              viên, nhà nghiên cứu hoặc học
+                                              đầu học tập hoặc đào tạo]. Tôi          cư.
+     Hoa Kỳ lần cuối trước khi bắt                                                                                             sinh trước ngày tôi đến Hoa Kỳ.
+                                              đang yêu cầu miễn thuế này chỉ
+     đầu học tập hoặc đào tạo]. Đối           trong khoảng thời gian cần thiết     2. Hiện tôi có mặt tạm thời tại Hoa      4. Tôi đã đến Hoa Kỳ vào ngày
+     với người tập sự có mặt tạm thời         hợp lý để hoàn thành chương             Kỳ với mục đích chính là học tập                   [điền ngày bạn đến
+     ở Hoa Kỳ với mục đích đảm bảo            trình giáo dục hoặc đào tạo.            hoặc đào tạo tại           [điền         Hoa Kỳ lần cuối trước khi bắt
+     hoạt động đào tạo cần thiết để                                                   tên của trường đại học hoặc cơ           đầu học tập tại cơ sở giáo dục ở
+     thực hành một nghề hoặc                                                          sở giáo dục khác nơi bạn theo            Hoa Kỳ]. Miễn thuế $3.000 theo
+     chuyên môn, miễn thuế theo           Cộng hòa Síp                                học được công nhận]; hoặc tôi            hiệp ước chỉ áp dụng cho tiền
+     hiệp ước chỉ áp dụng cho tiền                                                    có mặt tạm thời ở Hoa Kỳ với tư          thù lao được trả trong thời gian 5
+     thù lao được trả trong thời gian 2    1. Tôi là thường trú nhân Cộng hòa         cách là người nhận trợ cấp hoặc          năm tính thuế bắt đầu từ năm
+     năm.                                     Síp vào ngày tôi đến Hoa Kỳ. Tôi        giải thưởng từ           [điền           tính thuế bao gồm cả ngày tôi
+                                              không phải là công dân Hoa Kỳ.          tên của tổ chức phi lợi nhuận            đến và trong khoảng thời gian
+                                              Tôi đã không được hưởng đặc             hoặc tổ chức chính phủ cung
+Bulgaria                                      quyền thường trú tại Hoa Kỳ             cấp trợ cấp, phụ cấp hoặc giải
+                                                                                                                               cần thiết để hoàn thành, với tư
+                                                                                                                               cách là học sinh toàn thời gian,
+                                              theo pháp luật với tư cách là           thưởng].                                 yêu cầu giáo dục với tư cách là
+  1. Tôi là thường trú nhân Bulgaria          người nhập cư.
+                                                                                   3. Tôi sẽ nhận được tiền thù lao            ứng viên của một chương trình
+     vào ngày tôi đến Hoa Kỳ. Tôi
+                                           2. Hiện tôi có mặt tạm thời ở Hoa          cho dịch vụ được thực hiện ở             đào tạo sau đại học hoặc văn
+     không phải là công dân Hoa Kỳ.
+                                              Kỳ với mục đích chính là học tập        Hoa Kỳ. Thù lao này đủ điều kiện         bằng chuyên môn từ một cơ sở
+     Tôi đã không được hưởng đặc
+                                              tại          [điền tên của trường       được miễn khấu lưu thuế thu              giáo dục được công nhận.
+     quyền thường trú tại Hoa Kỳ
+                                              đại học hoặc cơ sở giáo dục             nhập liên bang theo hiệp ước
+     theo pháp luật với tư cách là
+                                              khác nơi bạn theo học được
+     người nhập cư.
+                                              công nhận].
+                                                                                      thuế giữa Hoa Kỳ và                  Pháp
+                                                                                      [điền tên quốc gia] với số tiền
+  2. Hiện tôi có mặt tạm thời ở Hoa                                                   không vượt quá $5.000 ($10.000
+                                           3. Tôi sẽ nhận được tiền thù lao
+     Kỳ với mục đích chính là học tập                                                                                       1. Tôi là thường trú nhân Pháp vào
+                                              cho dịch vụ cá nhân được thực           nếu bạn là người tham gia
+     tại          [điền tên của trường                                                                                         ngày tôi đến Hoa Kỳ. Tôi không
+                                              hiện ở Hoa Kỳ. Thù lao này đủ           chương trình học được chính
+     đại học hoặc cơ sở giáo dục                                                                                               phải là công dân Hoa Kỳ. Tôi đã
+                                              điều kiện được miễn khấu lưu            phủ bảo trợ không quá 1 năm)
+     khác nơi bạn theo học được                                                                                                không được hưởng đặc quyền
+                                              thuế thu nhập liên bang theo            trong bất kỳ năm tính thuế nào.
+     công nhận] hoặc đảm bảo hoạt                                                                                              thường trú tại Hoa Kỳ theo pháp
+                                              hiệp ước thuế giữa Hoa Kỳ và         4. Tôi đã đến Hoa Kỳ vào ngày
+     động đào tạo để thực hành một                                                                                             luật với tư cách là người nhập
+                                              Cộng hòa Síp với số tiền không                   [điền ngày bạn đến
+     nghề hoặc chuyên môn.                                                                                                     cư.
+                                              vượt quá $2.000 ($10.000 nếu            Hoa Kỳ lần cuối trước khi bắt
+  3. Tôi sẽ nhận được tiền thù lao            bạn là người tham gia chương                                                  2. Tôi có mặt tạm thời ở Hoa Kỳ với
+                                                                                      đầu học tập tại cơ sở giáo dục ở
+     cho dịch vụ cá nhân được thực            trình học được chính phủ bảo trợ                                                 mục đích chính là học tập tại
+                                                                                      Hoa Kỳ]. Miễn thuế $5.000 theo
+     hiện ở Hoa Kỳ. Thù lao này đủ            không quá 1 năm) trong bất kỳ                                                              [điền tên của trường
+                                                                                      hiệp ước chỉ áp dụng cho tiền
+     điều kiện được miễn khấu lưu             năm chịu thuế nào. Trước đây tôi                                                 đại học, cao đẳng, trường học
+
+Ấn phẩm 519 (2024)                                                                                                                                            55
+     hoặc cơ sở giáo dục khác được         đầu học tập tại cơ sở giáo dục ở        là học tập, nghiên cứu hoặc đào    Hàn Quốc, Norway, Ba
+     công nhận].                           Hoa Kỳ]. Miễn thuế theo hiệp            tạo.
+                                           ước chỉ áp dụng cho tiền thù lao
+                                                                                                                      Lan và Ru-ma-ni
+ 3. Tôi sẽ nhận được tiền thù lao                                               3. Tôi sẽ nhận được tiền thù lao
+                                           được trả trong thời gian 4 năm
+    cho các dịch vụ cá nhân được                                                   cho các dịch vụ được thực hiện      1. Tôi là thường trú nhân
+                                           tính thuế, bắt đầu từ năm thuế
+    thực hiện tại Hoa Kỳ. Thù lao                                                  ở Hoa Kỳ. Thù lao này đủ điều          [điền tên quốc gia có hiệp ước
+                                           tính cả ngày tôi đến.
+    này đủ điều kiện được miễn                                                     kiện được miễn khấu lưu thuế           mà tôi yêu cầu miễn thuế] vào
+    khấu lưu thuế thu nhập liên bang                                               thu nhập liên bang theo hiệp ước       ngày tôi đến Hoa Kỳ. Tôi không
+    theo hiệp ước thuế giữa Hoa Kỳ     Iceland                                     thuế giữa Hoa Kỳ và Indonesia          phải là công dân Hoa Kỳ. Tôi đã
+    và Pháp với số tiền không vượt                                                 với số tiền không vượt quá             không được hưởng đặc quyền
+    quá $5.000 trong bất kỳ năm tính    1. Tôi là thường trú nhân Iceland          $2.000 trong năm tính thuế, miễn       thường trú tại Hoa Kỳ theo pháp
+    thuế nào. Trước đây tôi đã không       vào ngày tôi đến Hoa Kỳ. Tôi            là các dịch vụ đó được thực hiện       luật với tư cách là người nhập
+    yêu cầu miễn thuế thu nhập theo        không phải là công dân Hoa Kỳ.          liên quan đến việc học của tôi         cư.
+    hiệp ước này đối với thu nhập          Tôi đã không được hưởng đặc             hoặc cần thiết để duy trì cuộc
+    nhận được với tư cách là giáo                                                  sống.                               2. Tôi có mặt tạm thời ở Hoa Kỳ với
+                                           quyền thường trú tại Hoa Kỳ
+    viên, nhà nghiên cứu hoặc học                                                                                         mục đích chính là học tập tại
+                                           theo pháp luật với tư cách là        4. Tôi đã đến Hoa Kỳ vào ngày
+    sinh trước ngày tôi đến Hoa Kỳ.                                                                                                [điền tên của trường
+                                           người nhập cư.                                     [điền ngày bạn đến          đại học hoặc cơ sở giáo dục
+ 4. Tôi chỉ có mặt ở Hoa Kỳ trong       2. Tôi có mặt tạm thời ở Hoa Kỳ với        Hoa Kỳ lần cuối trước khi bắt          khác nơi bạn theo học được
+    khoảng thời gian có thể bắt buộc       mục đích chính là học tập tại           đầu học tập tại cơ sở giáo dục ở       công nhận].
+    theo cách hợp lý hoặc theo                       [điền tên của trường          Hoa Kỳ]. Miễn thuế theo hiệp
+    thông lệ để thực hiện mục đích                                                 ước chỉ áp dụng cho tiền thù lao    3. Tôi sẽ nhận được tiền thù lao
+                                           đại học hoặc cơ sở giáo dục
+    của chuyến đi này.                                                             được trả trong thời gian 5 năm         cho các dịch vụ cá nhân được
+                                           được công nhận khác mà bạn
+                                                                                   tính thuế, bắt đầu từ năm thuế         thực hiện ở Hoa Kỳ. Thù lao này
+ 5. Tôi đã đến Hoa Kỳ vào ngày             theo học]; hoặc tôi tạm thời có
+                                                                                   bao gồm cả ngày tôi đến.               đủ điều kiện được miễn khấu lưu
+               [điền ngày bạn đến          mặt tạm thời ở Hoa Kỳ để được
+                                                                                                                          thuế thu nhập liên bang theo
+    Hoa Kỳ lần cuối trước khi bắt          đào tạo chuyên môn hay học tập
+                                                                                                                          hiệp ước thuế giữa Hoa Kỳ và
+    đầu học tập tại cơ sở giáo dục ở       hoặc nghiên cứu với tư cách là      Israel, Philippines và                               [điền tên quốc gia có
+                                           người nhận trợ cấp, phụ cấp
+    Hoa Kỳ]. Miễn thuế theo hiệp
+                                           hoặc giải thưởng của
+                                                                               Thái Lan                                   hiệp ước mà tôi yêu cầu miễn
+    ước chỉ áp dụng cho tiền thù lao                                                                                      thuế] với số tiền không vượt quá
+    được trả trong thời gian 5 năm         [điền tên của tổ chức phi lợi
+                                                                                1. Tôi là thường trú nhân                 $2,000 trong bất kỳ năm tính
+    tính thuế.                             nhuận hoặc tổ chức chính phủ
+                                                                                   [điền tên quốc gia có hiệp ước         thuế nào. Trước đây tôi đã không
+                                           cung cấp trợ cấp, phụ cấp hoặc
+                                                                                   mà tôi yêu cầu miễn thuế] vào          yêu cầu miễn thuế thu nhập theo
+                                           giải thưởng].
+Đức                                                                                ngày tôi đến Hoa Kỳ. Tôi không         hiệp ước này đối với thu nhập
+                                        3. Tôi sẽ nhận được tiền thù lao           phải là công dân Hoa Kỳ. Tôi đã        nhận được với tư cách giáo
+ 1. Tôi là thường trú nhân Đức vào         cho các dịch vụ được thực hiện          không được hưởng đặc quyền             viên, nhà nghiên cứu hoặc học
+    ngày tôi đến Hoa Kỳ. Tôi không         ở Hoa Kỳ. Thù lao này đủ điều           thường trú tại Hoa Kỳ theo pháp        sinh trước ngày tôi đến Hoa Kỳ.
+    phải là công dân Hoa Kỳ. Tôi đã        kiện được miễn khấu lưu thuế            luật với tư cách là người nhập
+                                                                                                                       4. Tôi đã đến Hoa Kỳ vào ngày
+    không được hưởng đặc quyền             thu nhập liên bang theo hiệp ước        cư.
+                                                                                                                                     [điền ngày bạn đến
+    thường trú tại Hoa Kỳ theo pháp        thuế giữa Hoa Kỳ và Iceland với
+                                                                                2. Tôi có mặt tạm thời ở Hoa Kỳ với       Hoa Kỳ lần cuối trước khi bắt
+    luật với tư cách là người nhập         số tiền không vượt quá $9.000
+                                                                                   mục đích chính là học tập tại          đầu học tập tại cơ sở giáo dục ở
+    cư.                                    trong bất kỳ năm tính thuế nào.
+                                                                                             [điền tên của trường         Hoa Kỳ]. Miễn thuế theo hiệp
+ 2. Tôi tạm thời có mặt ở Hoa Kỳ với    4. Tôi đã đến Hoa Kỳ vào ngày              đại học hoặc cơ sở giáo dục            ước chỉ áp dụng cho tiền thù lao
+    tư cách là học sinh hoặc người                    [điền ngày bạn đến           được công nhận khác mà bạn             được trả trong thời gian 5 năm
+    học nghề kinh doanh với mục            Hoa Kỳ lần cuối trước khi bắt           theo học].                             tính thuế, bắt đầu từ năm thuế
+    đích học tập hoặc đào tạo chính        đầu học tập tại cơ sở giáo dục ở                                               bao gồm cả ngày tôi đến.
+                                                                                3. Tôi sẽ nhận được tiền thù lao
+    quy tại          [điền tên của         Hoa Kỳ]. Miễn thuế theo hiệp
+                                                                                   cho các dịch vụ cá nhân được
+                                           ước chỉ áp dụng cho tiền thù lao
+    trường đại học, cao đẳng,
+                                           được trả trong thời gian 5 năm
+                                                                                   thực hiện ở Hoa Kỳ. Thù lao này    Morocco
+    trường học hoặc cơ sở giáo dục                                                 đủ điều kiện được miễn khấu lưu
+    khác được công nhận]; hoặc tôi         tính thuế, bắt đầu từ năm thuế
+                                                                                   thuế thu nhập liên bang theo
+    tạm thời có mặt ở Hoa Kỳ với tư        bao gồm cả ngày tôi đến.                                                    1. Tôi là thường trú nhân Morocco
+                                                                                   hiệp ước thuế giữa Hoa Kỳ và
+    cách là người nhận trợ cấp hoặc                                                                                       vào ngày tôi đến Hoa Kỳ. Tôi
+                                                                                             [điền tên quốc gia có
+                                                                                                                          không phải là công dân Hoa Kỳ.
+    giải thưởng từ           [điền     Indonesia                                   hiệp ước mà tôi yêu cầu miễn
+                                                                                                                          Tôi đã không được hưởng đặc
+    tên của tổ chức phi lợi nhuận                                                  thuế] với số tiền không vượt quá
+    hoặc tổ chức chính phủ cung                                                                                           quyền thường trú tại Hoa Kỳ
+                                        1. Tôi là thường trú nhân Indonesia        $3.000 trong bất kỳ năm tính
+    cấp trợ cấp, phụ cấp hoặc giải                                                                                        theo pháp luật với tư cách là
+                                           vào ngày tôi đến Hoa Kỳ. Tôi            thuế nào. Trước đây tôi đã không
+    thưởng].                                                                                                              người nhập cư.
+                                           không phải là công dân Hoa Kỳ.          yêu cầu miễn thuế thu nhập theo
+ 3. Tôi sẽ nhận được tiền thù lao          Tôi đã không được hưởng đặc             hiệp ước này đối với thu nhập       2. Tôi có mặt tạm thời ở Hoa Kỳ với
+    cho các dịch vụ cá nhân được           quyền thường trú tại Hoa Kỳ             nhận được với tư cách giáo             mục đích chính là học tập tại
+    thực hiện cho người khác ở Hoa         theo pháp luật với tư cách là           viên, nhà nghiên cứu hoặc học                   [điền tên của trường
+    Kỳ. Thù lao này đủ điều kiện           người nhập cư.                          sinh trước ngày tôi đến Hoa Kỳ.        đại học hoặc cơ sở giáo dục
+    được miễn khấu lưu thuế thu                                                                                           khác nơi bạn theo học được
+                                        2. Tôi chỉ có mặt tạm thời ở Hoa Kỳ     4. Tôi đã đến Hoa Kỳ vào ngày
+    nhập liên bang theo hiệp ước                                                                                          công nhận].
+                                           với mục đích chính là học tập tại                  [điền ngày bạn đến
+    thuế giữa Hoa Kỳ và Đức với số                                                 Hoa Kỳ lần cuối trước khi bắt       3. Tôi sẽ nhận được tiền thù lao
+                                                     [điền tên của trường
+    tiền không vượt quá $9.000                                                     đầu học tập tại cơ sở giáo dục ở       cho các dịch vụ cá nhân được
+                                           đại học hoặc tổ chức giáo dục
+    trong bất kỳ năm tính thuế nào,                                                Hoa Kỳ]. Miễn thuế theo hiệp           thực hiện ở Hoa Kỳ. Thù lao này
+                                           khác nơi bạn theo học được
+    miễn là các dịch vụ đó được                                                    ước chỉ áp dụng cho tiền thù lao       đủ điều kiện được miễn khấu lưu
+                                           công nhận]; hoặc tôi có mặt tạm
+    thực hiện với mục đích bổ sung                                                 được trả trong thời gian 5 năm         thuế thu nhập liên bang theo
+                                           thời ở Hoa Kỳ với tư cách là
+    tiền có sẵn cho tôi để duy trì                                                 tính thuế, bắt đầu từ năm thuế         hiệp ước thuế giữa Hoa Kỳ và
+                                           người nhận trợ cấp. phụ cấp
+    cuộc sống, giáo dục hoặc đào                                                   bao gồm cả ngày tôi đến.               Morocco với số tiền không vượt
+                                           hoặc giải thưởng của
+    tạo.                                                                                                                  quá $2,000 trong bất kỳ năm tính
+                                           [điền tên của tổ chức phi lợi
+ 4. Tôi đã đến Hoa Kỳ vào ngày             nhuận hoặc tổ chức chính phủ                                                   thuế nào. Trước đây tôi đã không
+             [điền ngày bạn đến            cung cấp trợ cấp, phụ cấp hoặc                                                 yêu cầu miễn thuế thu nhập theo
+    Hoa Kỳ lần cuối trước khi bắt          giải thưởng] với mục đích chính                                                hiệp ước này đối với thu nhập
+
+
+56                                                                                                                                   Ấn phẩm 519 (2024)
+    nhận được với tư cách học sinh      3. Tôi sẽ nhận được tiền thù lao          không được hưởng đặc quyền              bắt buộc để đủ điều kiện hành
+    trước ngày tôi đến Hoa Kỳ.             cho các dịch vụ cá nhân được           thường trú tại Hoa Kỳ theo pháp         nghề hoặc chuyên môn đặc biệt,
+                                           thực hiện ở Hoa Kỳ. Thù lao này        luật với tư cách là người nhập          không vượt quá $5,000) trong
+ 4. Tôi đã đến Hoa Kỳ vào ngày
+                                           đủ điều kiện được miễn khấu lưu        cư.                                     bất kỳ năm tính thuế nào. Trước
+               [điền ngày bạn đến
+                                           thuế thu nhập liên bang theo                                                   đây tôi đã không yêu cầu miễn
+    Hoa Kỳ lần cuối trước khi bắt                                              2. Tôi có mặt tạm thời ở Hoa Kỳ với
+                                           hiệp ước thuế giữa Hoa Kỳ và                                                   thuế thu nhập theo hiệp ước này
+    đầu học tập tại cơ sở giáo dục ở                                              mục đích chính là học tập hoặc
+                                           Pakistan với số tiền không vượt                                                đối với thu nhập nhận được với
+    Hoa Kỳ]. Miễn thuế theo hiệp                                                  đào tạo tại          [điền tên
+                                           quá $5,000 trong bất kỳ năm tính                                               tư cách giáo viên, nhà nghiên
+    ước chỉ áp dụng cho tiền thù lao                                              của trường đại học hoặc tổ chức
+                                           thuế nào.                                                                      cứu hoặc học sinh trước ngày tôi
+    được trả trong thời gian 5 năm                                                giáo dục khác nơi bạn theo học
+                                                                                                                          đến Hoa Kỳ.
+    tính thuế, bắt đầu từ năm tính                                                hoặc đào tạo được công nhận].
+    thuế bao gồm cả ngày tôi đến.      Bồ Đào Nha và Tây                       3. Tôi sẽ nhận được tiền thù lao
+                                                                                                                       4. Tôi chỉ có mặt ở Hoa Kỳ trong
+                                       Ban Nha                                    cho các dịch vụ được thực hiện
+                                                                                                                          khoảng thời gian có thể bắt buộc
+Hà Lan                                                                            ở Hoa Kỳ. Thù lao này đủ điều
+                                                                                                                          theo cách hợp lý hoặc theo
+                                                                                                                          thông lệ để thực hiện mục đích
+                                        1. Tôi là thường trú nhân                 kiện được miễn khấu lưu thuế
+                                                                                                                          của chuyến đi này.
+ 1. Tôi là thường trú nhân Hà Lan          [điền tên quốc gia có hiệp ước         thu nhập liên bang theo hiệp ước
+    vào ngày khi tôi đến Hoa Kỳ. Tôi       mà tôi yêu cầu miễn thuế] vào          thuế giữa Hoa Kỳ và                  5. Tôi đã đến Hoa Kỳ vào ngày
+    không phải là công dân Hoa Kỳ.         ngày tôi đến Hoa Kỳ. Tôi không         [điền tên quốc gia có hiệp ước                     [điền ngày bạn đến
+    Tôi đã không được hưởng đặc            phải là công dân Hoa Kỳ. Tôi đã        mà tôi yêu cầu miễn thuế] với số        Hoa Kỳ lần cuối trước khi bắt
+    quyền thường trú tại Hoa Kỳ            không được hưởng đặc quyền             tiền không vượt quá $5,000              đầu học tập tại cơ sở giáo dục ở
+    theo pháp luật với tư cách là          thường trú tại Hoa Kỳ theo pháp        trong bất kỳ năm tính thuế nào.         Hoa Kỳ]. Miễn thuế theo hiệp
+    người nhập cư.                         luật với tư cách là người nhập                                                 ước chỉ áp dụng cho tiền thù lao
+                                                                               4. Tôi đã đến Hoa Kỳ vào ngày
+                                           cư.                                                                            được trả trong thời gian 5 năm
+ 2. Tôi có mặt tạm thời ở Hoa Kỳ với                                                        [điền ngày bạn đến
+                                                                                                                          tính thuế.
+    mục đích chính là học toàn thời     2. Tôi có mặt tạm thời ở Hoa Kỳ với       Hoa Kỳ lần cuối trước khi bắt
+    gian tại         [điền tên của         mục đích chính là học tập hoặc         đầu học tập tại cơ sở giáo dục ở
+    trường đại học, cao đẳng hoặc          đào tạo tại           [điền tên        Hoa Kỳ]. Miễn thuế theo hiệp        Tunisia
+    trường học ở Hoa Kỳ nơi bạn            của trường đại học hoặc cơ sở          ước chỉ áp dụng cho tiền thù lao
+    theo học được công nhận].              giáo dục khác nơi bạn theo học         được trả trong thời gian 5 năm       1. Tôi là thường trú nhân Tunisia
+ 3. Tôi sẽ nhận được tiền thù lao          được công nhận]; hoặc tôi có           tính thuế bắt đầu từ năm tính           vào ngày tôi đến Hoa Kỳ. Tôi
+    cho các dịch vụ cá nhân được           mặt tạm thời ở Hoa Kỳ với tư           thuế bao gồm cả ngày tôi đến và         không phải là công dân Hoa Kỳ.
+    thực hiện ở Hoa Kỳ. Thù lao này        cách là người nhận trợ cấp, phụ        trong thời gian cần thiết để hoàn       Tôi đã không được hưởng đặc
+    đủ điều kiện được miễn khấu lưu        cấp hoặc giải thưởng của               thành việc học toàn thời gian,          quyền thường trú tại Hoa Kỳ
+    thuế thu nhập liên bang theo                     [điền tên của tổ chức        yêu cầu về giáo dục như ứng             theo pháp luật với tư cách là
+    hiệp ước thuế giữa Hoa Kỳ và           phi lợi nhuận hoặc tổ chức chính       viên của một chương trình cấp           người nhập cư.
+    Hà Lan với số tiền không vượt          phủ cung cấp trợ cấp, phụ cấp          bằng sau đại học hoặc văn bằng
+                                                                                                                       2. Tôi có mặt tạm thời ở Hoa Kỳ với
+    quá $2,000 trong bất kỳ năm tính       hoặc giải thưởng].                     chuyên môn từ một cơ sở giáo
+                                                                                                                          mục đích học tập toàn thời gian,
+    thuế nào.                                                                     dục được công nhận.
+                                        3. Tôi sẽ nhận được tiền thù lao                                                  đào tạo hoặc nghiên cứu tại
+ 4. Tôi đã đến Hoa Kỳ vào ngày             cho các dịch vụ được thực hiện                                                          [điền tên của trường
+              [điền ngày bạn đến           ở Hoa Kỳ. Thù lao này đủ điều      Trinidad và Tobago                          đại học hoặc cơ sở giáo dục nơi
+    Hoa Kỳ lần cuối trước khi bắt          kiện được miễn khấu lưu thuế                                                   bạn theo học, đào tạo hoặc
+    đầu học tập tại cơ sở giáo dục ở       thu nhập liên bang theo hiệp ước    1. Tôi là thường trú nhân Trinidad         nghiên cứu được công nhận].
+    Hoa Kỳ]. Tôi chỉ yêu cầu miễn          thuế giữa Hoa Kỳ và                    và Tobago vào ngày tôi đến Hoa       3. Tôi sẽ nhận được tiền thù lao
+    thuế này trong khoảng thời gian        [Điền tên quốc gia] với số tiền        Kỳ. Tôi không phải là công dân          cho các dịch vụ được thực hiện
+    cần thiết hợp lý để hoàn thành         không vượt quá $5,000 trong bất        Hoa Kỳ. Tôi đã không được               ở Hoa Kỳ. Thù lao này đủ điều
+    chương trình học của mình.             kỳ năm tính thuế nào.                  hưởng đặc quyền thường trú tại          kiện được miễn khấu lưu thuế
+                                        4. Tôi đã đến Hoa Kỳ vào ngày             Hoa Kỳ theo pháp luật với tư            thu nhập liên bang theo hiệp ước
+                                                                                  cách là người nhập cư.
+Pakistan                                              [điền ngày bạn đến                                                  thuế giữa Hoa Kỳ và Tunisia với
+                                           Hoa Kỳ lần cuối trước khi bắt       2. Tôi có mặt tạm thời ở Hoa Kỳ với        số tiền không vượt quá $4,000
+ 1. Tôi là thường trú nhân Pakistan.       đầu học tập tại cơ sở giáo dục ở       mục đích chính là học tập tại           trong bất kỳ năm tính thuế nào.
+    Tôi không phải là công dân Hoa         Hoa Kỳ]. Miễn thuế theo hiệp                    [điền tên của trường        4. Tôi đã đến Hoa Kỳ vào ngày
+    Kỳ. Tôi đã không được hưởng            ước chỉ áp dụng cho tiền thù lao       đại học hoặc tổ chức giáo dục                      [điền ngày bạn đến
+    đặc quyền thường trú tại Hoa Kỳ        được trả trong thời gian 5 năm         khác nơi bạn theo học được              Hoa Kỳ lần cuối trước khi bắt
+    với tư cách là người nhập cư và        tính thuế, bắt đầu từ năm thuế         công nhận].                             đầu học tập tại cơ sở giáo dục ở
+    sẽ không được coi như người            bao gồm cả ngày tôi đến.
+                                                                               3. Tôi sẽ nhận được tiền thù lao           Hoa Kỳ]. Miễn thuế theo hiệp
+    nước ngoài thường trú trong                                                                                           ước chỉ áp dụng cho tiền thù lao
+                                                                                  cho các dịch vụ cá nhân được
+    năm tính thuế liên quan.           Slovenia và Venezuela                      thực hiện ở Hoa Kỳ. Thù lao này         được trả trong thời gian 5 năm
+ 2. Tôi chỉ có mặt tạm thời ở Hoa Kỳ                                              đủ điều kiện được miễn khấu lưu         tính thuế, bắt đầu từ năm thuế
+    với tư cách học sinh của            1. Tôi là thường trú nhân                 thuế thu nhập liên bang theo            bao gồm cả ngày tôi đến.
+              [điền tên của trường         [điền tên quốc gia có hiệp ước         hiệp ước thuế giữa Hoa Kỳ và
+    đại học, cao đẳng hoặc trường          mà tôi yêu cầu miễn thuế] vào          Trinidad và Tobago với số tiền
+    học ở Hoa Kỳ nơi bạn theo học          ngày tôi đến Hoa Kỳ. Tôi không         không vượt quá $2,000 (hoặc
+    được công nhận].                       phải là công dân Hoa Kỳ. Tôi đã        nếu bạn đảm bảo việc đào tạo
+
+
+
+
+Ấn phẩm 519 (2024)                                                                                                                                      57
+Phụ Lục B—Quy trình miễn thuế theo hiệp ước thuế cho Giáo viên và Nhà nghiên
+cứu
+Phụ lục này chứa đựng bản kê khai            trường đại học, cao đẳng hoặc             ích riêng của một người hoặc              được thực hiện trên cơ sở thỏa
+mà giáo viên và nhà nghiên cứu là            cơ sở giáo dục hoặc nghiên cứu            nhóm người cụ thể.                        thuận hợp tác liên chính phủ.
+người nước ngoài tạm trú phải nộp            khác được công nhận]. Tôi sẽ
+                                                                                   5. Tôi đã đến Hoa Kỳ vào ngày              5. Tôi đã đến Hoa Kỳ vào ngày
+cùng Mẫu 8233 để yêu cầu miễn khấu           nhận được tiền thù lao cho hoạt
+                                                                                                 [điền ngày bạn đến                        [điền ngày bạn đến
+lưu thuế theo hiệp ước thuế đối với          động giảng dạy hoặc nghiên
+                                                                                      Hoa Kỳ lần cuối trước khi bắt              Hoa Kỳ lần cuối trước khi bắt
+tiền thù lao cho các dịch vụ cá nhân         cứu.
+                                                                                      đầu hoạt động giảng dạy, giảng             đầu dịch vụ giảng dạy hoặc
+được thực hiện cho người khác. Đối
+                                          3. Tiền thù lao cho hoạt động giảng         bài hoặc nghiên cứu]. Miễn thuế            nghiên cứu được yêu cầu miễn
+với hiệp ước không được đề cập trong
+                                             dạy hoặc nghiên cứu nhận được            theo hiệp ước chỉ áp dụng cho              thuế]. Miễn thuế theo hiệp ước
+phụ lục, hãy đính kèm bản kê khai ở
+                                             trong cả năm tính thuế (hoặc             tiền thù lao được trả trong tổng           chỉ áp dụng cho tiền thù lao nhận
+định dạng tương tự với các hiệp ước
+                                             trong thời gian từ         đến           thời gian tối đa 2 năm.                    được trong thời gian 2 năm kể từ
+khác. Xem chương 8 để biết thêm
+                                                       ) cho các hoạt động                                                       ngày đó.
+thông tin về tiền khấu lưu.
+                                             này đủ điều kiện được miễn
+                                             khấu lưu thuế thu nhập liên bang
+                                                                                 Cộng Đồng Các Quốc
+Bỉ                                           theo hiệp ước thuế giữa Hoa Kỳ      Gia Độc Lập                                 Cộng Hòa Czech và
+                                             và Bulgaria.                                                                    Cộng Hòa Slovak
+  1. Tôi là thường trú nhân Bỉ. Tôi                                              Hiệp ước đã ký với Liên Xô cũ vẫn có
+                                          4. Bất kỳ nghiên cứu nào của tôi                                                    1. Tôi là thường trú nhân
+     không phải là công dân Hoa Kỳ.                                              hiệu lực tại các quốc gia sau: Armenia,
+                                             cũng sẽ được thực hiện vì lợi ích                                                   [điền tên quốc gia có hiệp ước
+     Tôi đã không được hưởng đặc                                                 Azerbaijan,       Belarus,     Georgia,
+                                             chung và chủ yếu không vì lợi                                                       mà tôi yêu cầu miễn thuế] vào
+     quyền thường trú tại Hoa Kỳ                                                 Kyrgyzstan,      Moldova,     Tajikistan,
+                                             ích riêng của một người hoặc                                                        ngày tôi đến Hoa Kỳ. Tôi không
+     theo pháp luật với tư cách là                                               Turkmenistan và Uzbekistan.
+                                             nhóm người cụ thể.                                                                  phải là công dân Hoa Kỳ. Tôi đã
+     người nhập cư.
+                                          5. Tôi đã đến Hoa Kỳ vào ngày            1. Tôi là thường trú nhân                     không được hưởng đặc quyền
+  2. Tôi đến Hoa Kỳ với mục đích                       [điền ngày bạn đến             [điền tên quốc gia]. Tôi không             thường trú tại Hoa Kỳ theo pháp
+     giảng dạy hoặc tham gia nghiên          Hoa Kỳ lần cuối trước khi bắt            phải là công dân Hoa Kỳ.                   luật với tư cách là người nhập
+     cứu tại          [điền tên của          đầu các dịch vụ được yêu cầu                                                        cư.
+     cơ sở giáo dục hoặc nghiên cứu                                                2. Tôi đã chấp nhận lời mời của
+                                             miễn thuế]. Miễn thuế theo hiệp                                                  2. Tôi đến Hoa Kỳ với mục đích
+     nơi bạn giảng dạy hoặc nghiên                                                    một cơ quan hoặc tổ chức chính
+                                             ước chỉ áp dụng cho tiền thù lao                                                    giảng dạy hoặc tham gia nghiên
+     cứu] trong khoảng thời gian                                                      phủ ở Hoa Kỳ hoặc tổ chức giáo
+                                             được trả trong thời gian 2 năm                                                      cứu tại          [điền tên của
+     không quá 2 năm. Tôi sẽ nhận                                                     dục hoặc nghiên cứu khoa học ở
+                                             kể từ ngày đó.                                                                      cơ sở giáo dục hoặc khoa học]
+     được tiền thù lao cho hoạt động                                                  Hoa Kỳ về việc đến Hoa Kỳ với
+                                                                                      mục đích chính là giảng dạy,               là cơ sở giáo dục hoặc nghiên
+     giảng dạy hoặc nghiên cứu.
+                                         Trung Quốc                                   nghiên cứu hoặc tham gia hội               cứu được công nhận. Tôi sẽ
+  3. Tiền thù lao cho hoạt động giảng                                                 nghị khoa học, kỹ thuật hoặc               nhận được tiền thù lao cho hoạt
+     dạy hoặc nghiên cứu nhận được                                                    chuyên môn tại            [điền            động giảng dạy hoặc nghiên
+                                          1. Tôi là thường trú nhân Trung
+     trong cả năm tính thuế (hoặc                                                     tên của cơ quan hoặc tổ chức               cứu.
+                                             Quốc vào ngày tôi đến Hoa Kỳ.
+     trong thời gian từ         đến                                                   chính phủ, tổ chức giáo dục
+                                             Tôi không phải là công dân Hoa                                                   3. Tiền thù lao cho hoạt động giảng
+               ) cho các hoạt động                                                    hoặc khoa học hoặc tổ chức tài
+                                             Kỳ.                                                                                 dạy hoặc nghiên cứu nhận được
+     này đủ điều kiện được miễn thuế                                                  trợ cho hội nghị chuyên môn], là           trong cả năm tính thuế (hoặc
+     khấu lưu thuế thu nhập liên bang     2. Tôi đến Hoa Kỳ với mục đích              cơ quan hoặc tổ chức chính phủ,            trong thời gian từ        đến
+     theo hiệp ước thuế giữa Hoa Kỳ          chính là giảng dạy hoặc tham gia         tổ chức giáo dục hoặc khoa học                     ) cho các hoạt động này
+     và Bỉ.                                  nghiên cứu tại          [điền            hoặc tổ chức tài trợ cho một hội           đủ điều kiện được miễn khấu lưu
+                                             tên của cơ sở giáo dục hoặc cơ           nghị chuyên môn. Tôi sẽ nhận
+  4. Bất kỳ nghiên cứu nào của tôi                                                                                               thuế thu nhập liên bang theo
+                                             sở nghiên cứu khoa học nơi bạn           được tiền thù lao cho các hoạt
+     cũng sẽ được thực hiện vì lợi ích                                                                                           hiệp ước thuế giữa Hoa Kỳ và
+                                             giảng dạy, giảng bài hoặc tham           động giảng dạy, nghiên cứu
+     chung và chủ yếu không vì lợi                                                                                                          [điền tên quốc gia có
+                                             gia nghiên cứu] là cơ sở giáo            hoặc hội nghị.
+     ích riêng của một người hoặc                                                                                                hiệp ước mà tôi yêu cầu miễn
+                                             dục hoặc cơ sở nghiên cứu khoa
+     nhóm người cụ thể.                                                            3. Tiền thù lao cho hoạt động giảng           thuế]. Trước đây tôi đã không
+                                             học được công nhận. Tôi sẽ
+                                                                                      dạy, nghiên cứu, hoặc hội nghị             yêu cầu miễn thuế thu nhập theo
+  5. Tôi đã đến Hoa Kỳ vào ngày              nhận được tiền thù lao cho hoạt
+                                                                                      nhận được trong suốt cả năm                hiệp ước này đối với thu nhập
+               [điền ngày bạn đến            động giảng dạy hoặc nghiên
+                                                                                      tính thuế (hoặc trong thời gian từ         nhận được với tư cách giáo
+     Hoa Kỳ lần cuối trước khi bắt           cứu.
+                                                                                              đến        ) cho các hoạt          viên, nhà nghiên cứu hoặc học
+     đầu công việc giảng dạy hoặc
+                                          3. Tiền thù lao cho hoạt động giảng         động này đủ điều kiện được                 sinh trước ngày tôi đến Hoa Kỳ.
+     nghiên cứu được miễn thuế].
+                                             dạy hoặc nghiên cứu nhận được            miễn khấu lưu thuế thu nhập liên
+     Miễn thuế theo hiệp ước chỉ áp                                                                                           4. Bất kỳ nghiên cứu nào của tôi
+                                             trong cả năm tính thuế (hoặc             bang theo hiệp ước thuế giữa
+     dụng cho tiền thù lao được trả                                                                                              cũng sẽ được thực hiện vì lợi ích
+                                             trong thời gian từ       đến             Hoa Kỳ và Liên Xô cũ. Trước đây
+     trong thời hạn 2 năm tính thuế.                                                                                             chung và chủ yếu không vì lợi
+                                                    ) cho các hoạt động này           tôi đã không yêu cầu miễn thuế             ích riêng của một người hoặc
+                                             đủ điều kiện được miễn khấu lưu          thu nhập theo hiệp ước này đối             nhóm người cụ thể.
+Bulgaria                                     thuế thu nhập liên bang theo             với thu nhập nhận được với tư
+                                             hiệp ước thuế giữa Hoa Kỳ và             cách giáo viên, nhà nghiên cứu,         5. Tôi đã đến Hoa Kỳ vào ngày
+  1. Tôi là thường trú nhân Bulgaria         Trung Quốc. Trước đây tôi đã             người tham gia hội nghị hoặc                        [điền ngày bạn đến
+     vào ngày tôi đến Hoa Kỳ. Tôi            không yêu cầu miễn thuế thu              học sinh trước ngày tôi đến Hoa            Hoa Kỳ lần cuối trước khi bắt
+     không phải là công dân Hoa Kỳ.          nhập theo hiệp ước này đối với           Kỳ.                                        đầu dịch vụ giảng dạy, nghiên
+     Tôi đã không được hưởng đặc             thu nhập nhận được với tư cách                                                      cứu hoặc hội nghị được yêu cầu
+                                             giáo viên, nhà nghiên cứu hoặc        4. Mọi nghiên cứu của tôi chủ yếu             miễn thuế]. Miễn thuế theo hiệp
+     quyền thường trú tại Hoa Kỳ
+                                             học sinh trước ngày tôi đến Hoa          sẽ không được thực hiện vì lợi             ước chỉ áp dụng cho tiền thù lao
+     theo pháp luật với tư cách là
+                                             Kỳ.                                      ích riêng hoặc lợi ích của doanh           nhận được trong thời gian 2 năm
+     người nhập cư.
+                                                                                      nghiệp thương mại của Hoa Kỳ               kể từ ngày đó.
+  2. Tôi đến Hoa Kỳ với mục đích          4. Bất kỳ nghiên cứu nào của tôi            hoặc tổ chức thương mại nước
+     giảng dạy hoặc tham gia nghiên          cũng sẽ được thực hiện vì lợi ích        ngoài của             [điền tên
+     cứu tại         [điền tên của           chung và chủ yếu không vì lợi            quốc gia], trừ khi nghiên cứu
+
+58                                                                                                                                          Ấn phẩm 519 (2024)
+Ai Cập, Hàn Quốc,                          luật với tư cách là người nhập          đây tôi đã không yêu cầu miễn        Ấn Độ
+                                           cư.                                     thuế thu nhập theo hiệp ước này
+Philippines, Ba Lan và                                                             đối với thu nhập nhận được với        1. Tôi là thường trú nhân Ấn Độ
+Ru-ma-ni                                2. Tôi đã chấp nhận lời mời của
+                                                                                   tư cách học sinh, người học              vào ngày tôi đến Hoa Kỳ. Tôi
+                                           Chính phủ Hoa Kỳ (hoặc một
+                                                                                   nghề hoặc người tập sự trong             không phải là công dân Hoa Kỳ.
+                                           trường đại học hoặc cơ sở giáo
+ 1. Tôi là thường trú nhân                                                         khoảng thời gian ngay trước đó.          Tôi đã không được hưởng đặc
+                                           dục hoặc nghiên cứu khác được
+    [điền tên quốc gia có hiệp ước                                                 (Tuy nhiên, nếu sau khoảng thời          quyền thường trú tại Hoa Kỳ
+                                           công nhận ở Hoa Kỳ với mục
+    mà tôi yêu cầu miễn thuế] vào                                                  gian mà người nước ngoài yêu             theo pháp luật với tư cách là
+                                           đích chính là giảng dạy hoặc
+    ngày tôi đến Hoa Kỳ. Tôi không                                                 cầu quyền lợi với tư cách học            người nhập cư.
+                                           tham gia nghiên cứu tại
+    phải là công dân Hoa Kỳ. Tôi đã                                                sinh, người học nghề hoặc
+                                                    [điền tên của cơ sở                                                  2. Tôi đến Hoa Kỳ với mục đích
+    không được hưởng đặc quyền                                                     người tập sự, người đó đã trở lại
+                                           giáo dục hoặc nghiên cứu]. Tôi                                                   giảng dạy hoặc tham gia nghiên
+    thường trú tại Hoa Kỳ theo pháp                                                Đức và tiếp tục cư trú và hiện
+                                           sẽ nhận được tiền thù lao cho                                                    cứu tại          [điền tên của
+    luật với tư cách là người nhập                                                 diện trước khi trở lại Hoa Kỳ với
+                                           hoạt động giảng dạy hoặc                                                         trường đại học, cao đẳng hoặc
+    cư.                                                                            tư cách giáo viên hoặc nhà
+                                           nghiên cứu.                                                                      cơ sở giáo dục hoặc nghiên cứu
+                                                                                   nghiên cứu thì người đó có thể
+ 2. Tôi đã chấp nhận lời mời của                                                                                            khác được công nhận]. Tôi sẽ
+                                        3. Tiền thù lao cho hoạt động giảng        yêu cầu quyền lợi theo hiệp ước
+    Chính phủ Hoa Kỳ (hoặc một                                                                                              nhận được tiền thù lao cho hoạt
+                                           dạy hoặc nghiên cứu nhận được           này.)
+    phân khu chính trị hoặc chính                                                                                           động giảng dạy hoặc nghiên
+                                           trong cả năm tính thuế (hoặc
+    quyền địa phương trong đó)                                                  4. Bất kỳ nghiên cứu nào của tôi            cứu.
+                                           trong một thời điểm của năm từ
+    hoặc trường đại học hoặc cơ sở                                                 cũng sẽ được thực hiện vì lợi ích
+                                                  đến        ) đủ điều kiện                                              3. Tiền thù lao cho hoạt động giảng
+    giáo dục khác được công nhận                                                   chung và chủ yếu không vì lợi
+                                           được miễn khấu lưu thuế thu                                                      dạy hoặc nghiên cứu nhận được
+    ở Hoa Kỳ trong khoảng thời gian                                                ích riêng của một người hoặc
+                                           nhập liên bang theo hiệp ước                                                     trong cả năm tính thuế (hoặc
+    không quá 2 năm về việc giảng                                                  nhóm người cụ thể.
+                                           thuế giữa Hoa Kỳ và Pháp.                                                        trong thời gian từ         đến
+    dạy hoặc tham gia nghiên cứu
+                                           Trước đây tôi đã không yêu cầu       5. Tôi đã đến Hoa Kỳ vào ngày                         ) cho các hoạt động
+    tại          điền tên của cơ sở
+                                           miễn thuế thu nhập theo hiệp                      [điền ngày bạn đến             này đủ điều kiện được miễn
+    giáo dục] là cơ sở giáo dục
+                                           ước này đối với thu nhập nhận           Hoa Kỳ lần cuối trước khi bắt            khấu lưu thuế thu nhập liên bang
+    được công nhận. Tôi sẽ nhận
+                                           được với tư cách giáo viên, nhà         đầu dịch vụ được yêu cầu miễn            theo hiệp ước thuế giữa Hoa Kỳ
+    được tiền thù lao cho hoạt động
+                                           nghiên cứu hoặc học sinh trước          thuế]. Miễn thuế theo hiệp ước           và Ấn Độ.
+    giảng dạy hoặc nghiên cứu.
+                                           ngày tôi đến Hoa Kỳ.                    chỉ áp dụng cho tiền thù lao
+                                                                                                                         4. Bất kỳ nghiên cứu nào của tôi
+ 3. Tiền thù lao cho hoạt động giảng                                               được trả trong thời gian 2 năm
+                                        4. Bất kỳ nghiên cứu nào của tôi                                                    cũng sẽ được thực hiện vì lợi ích
+    dạy hoặc nghiên cứu nhận được                                                  kể từ ngày đó.
+                                           cũng sẽ được thực hiện vì lợi ích                                                chung và chủ yếu không vì lợi
+    trong cả năm tính thuế (hoặc
+                                           chung và chủ yếu không vì lợi                                                    ích riêng của một người hoặc
+    trong một thời điểm của năm từ
+           đến        ) cho các hoạt
+                                           ích riêng của một người hoặc        Hy Lạp                                       nhóm người cụ thể.
+                                           nhóm người cụ thể.
+    động này đủ điều kiện được                                                                                           5. Tôi đã đến Hoa Kỳ vào ngày
+                                                                                1. Tôi là thường trú nhân Hy Lạp.
+    miễn khấu lưu thuế thu nhập liên    5. Tôi đã đến Hoa Kỳ vào ngày                                                                 [điền ngày bạn đến
+                                                                                   Tôi không phải là công dân Hoa
+    bang theo hiệp ước thuế giữa                     [điền ngày bạn đến                                                     Hoa Kỳ lần cuối trước khi bắt
+                                                                                   Kỳ. Tôi đã không được hưởng
+    Hoa Kỳ và            [điền tên         Hoa Kỳ lần cuối trước khi bắt                                                    đầu dịch vụ được yêu cầu miễn
+                                                                                   đặc quyền thường trú tại Hoa Kỳ
+    quốc gia có hiệp ước mà tôi yêu        đầu dịch vụ giảng dạy hoặc                                                       thuế]. Miễn thuế theo hiệp ước
+                                                                                   với tư cách là người nhập cư và
+    cầu miễn thuế]. Trước đây tôi đã       nghiên cứu được yêu cầu miễn                                                     chỉ áp dụng cho tiền thù lao
+                                                                                   (sẽ không được coi như người
+    không yêu cầu miễn thuế thu            thuế]. Miễn thuế theo hiệp ước                                                   được trả trong thời gian 2 năm
+                                                                                   nước ngoài thường trú trong
+    nhập theo hiệp ước này đối với         chỉ áp dụng cho tiền thù lao nhận                                                kể từ ngày đó.
+                                                                                   năm tính thuế liên quan).
+    thu nhập nhận được với tư cách         được trong thời gian 2 năm kể từ
+                                           ngày đó.                             2. Tôi là giáo sư hoặc giáo viên đến
+    giáo viên, nhà nghiên cứu hoặc
+    học sinh trước ngày tôi đến Hoa                                                Hoa Kỳ với mục đích giảng dạy
+                                                                                                                        Indonesia
+    Kỳ.                                 Đức                                        tại          [điền tên của cơ sở
+                                                                                   giáo dục nơi bạn giảng dạy] là
+                                                                                                                         1. Tôi là thường trú nhân Indonesia
+ 4. Bất kỳ nghiên cứu nào của tôi                                                                                           vào ngày tôi đến Hoa Kỳ. Tôi
+                                                                                   một cơ sở giáo dục. Tôi sẽ nhận
+    cũng sẽ được thực hiện vì lợi ích   1. Tôi là thường trú nhân Đức. Tôi                                                  không phải là công dân Hoa Kỳ.
+                                                                                   được tiền thù lao cho hoạt động
+    chung và chủ yếu không vì lợi          không phải là công dân Hoa Kỳ.                                                   Tôi đã không được hưởng đặc
+                                                                                   giảng dạy.
+    ích riêng của một người hoặc           Tôi đã không được hưởng đặc                                                      quyền thường trú tại Hoa Kỳ
+    nhóm người cụ thể.                     quyền thường trú tại Hoa Kỳ          3. Tiền thù lao cho hoạt động giảng         theo pháp luật với tư cách là
+                                           theo pháp luật với tư cách là           dạy nhận được trong cả năm               người nhập cư.
+ 5. Tôi đã đến Hoa Kỳ vào ngày
+                                           người nhập cư.                          tính thuế (hoặc trong thời gian từ
+              [điền ngày bạn đến                                                                                         2. Tôi đã chấp nhận lời mời của
+                                                                                           đến        ) đủ điều kiện
+    Hoa Kỳ lần cuối trước khi bắt       2. Tôi là giáo sư hoặc giáo viên đến                                                          [điền tên của trường
+                                                                                   được miễn khấu lưu thuế thu
+    đầu dịch vụ giảng dạy hoặc             Hoa Kỳ với mục đích học nâng                                                     đại học, cao đẳng, trường học
+                                                                                   nhập liên bang theo hiệp ước
+    nghiên cứu được yêu cầu miễn           cao, giảng dạy hoặc nghiên cứu                                                   hoặc cơ sở giáo dục tương tự
+                                                                                   thuế giữa Hoa Kỳ và Hy Lạp.
+    thuế]. Miễn thuế theo hiệp ước         chuyên sâu tại           [điền                                                   khác] đến Hoa Kỳ chỉ với mục
+                                                                                   Trước đây tôi đã không yêu cầu
+    chỉ áp dụng cho tiền thù lao nhận      tên của trường đại học, cao                                                      đích giảng dạy hoặc tham gia
+                                                                                   miễn thuế thu nhập theo hiệp
+    được trong thời gian 2 năm kể từ       đẳng, trường học hoặc cơ sở                                                      nghiên cứu tại cơ sở giáo dục
+                                                                                   ước này đối với thu nhập nhận
+    ngày đó.                               giáo dục khác được công nhận                                                     đó. Tôi sẽ nhận được tiền thù lao
+                                                                                   được với tư cách giáo viên hoặc
+                                           hoặc cơ sở nghiên cứu công lập                                                   cho hoạt động giảng dạy hoặc
+                                                                                   học sinh trước ngày tôi đến Hoa
+    Ghi chú. Xem Chấm dứt Công             hoặc cơ sở khác tham gia                                                         nghiên cứu.
+                                                                                   Kỳ.
+ước Thuế năm 1979 với Hungary              nghiên cứu vì lợi ích chung]. Tôi
+                                                                                                                         3. Tiền thù lao cho hoạt động giảng
+trong Nhắc nhở, ở phần trước.              sẽ nhận được tiền thù lao cho        4. Tôi đã đến Hoa Kỳ vào ngày
+                                                                                                                            dạy hoặc nghiên cứu nhận được
+                                           hoạt động giảng dạy, nghiên cứu                  [điền ngày bạn đến
+                                                                                                                            trong cả năm tính thuế (hoặc
+                                           hoặc học tập.                           Hoa Kỳ lần cuối trước khi bắt
+Pháp                                                                               đầu dịch vụ giảng dạy được
+                                                                                                                            trong thời gian từ          đến
+                                        3. Tiền thù lao nhận được trong cả                                                            ) đủ điều kiện được
+                                                                                   miễn thuế]. Miễn thuế theo hiệp
+                                           năm tính thuế (hoặc trong thời                                                   miễn khấu lưu thuế thu nhập liên
+ 1. Tôi là thường trú nhân Pháp vào                                                ước chỉ áp dụng cho tiền thù lao
+                                           gian từ          đến           )                                                 bang theo hiệp ước thuế giữa
+    ngày tôi đến Hoa Kỳ. Tôi không                                                 nhận được trong thời gian 3 năm
+                                           cho các hoạt động này đủ điều                                                    Hoa Kỳ và Indonesia. Trước đây
+    phải là công dân Hoa Kỳ. Tôi đã                                                kể từ ngày đó.
+                                           kiện được miễn khấu lưu thuế                                                     tôi đã không yêu cầu miễn thuế
+    không được hưởng đặc quyền
+                                           thu nhập liên bang theo hiệp ước                                                 thu nhập theo hiệp ước này đối
+    thường trú tại Hoa Kỳ theo pháp
+                                           thuế giữa Hoa Kỳ và Đức. Trước                                                   với thu nhập nhận được với tư
+
+Ấn phẩm 519 (2024)                                                                                                                                        59
+     cách giáo viên hoặc nhà nghiên     Ý                                                     ) cho các hoạt động này          đặc quyền thường trú tại Hoa Kỳ
+     cứu trước ngày được nêu rõ ở                                                      đủ điều kiện được miễn khấu lưu         theo pháp luật với tư cách là
+     đoạn sau.                              1. Tôi là thường trú nhân Ý vào            thuế thu nhập liên bang theo            người nhập cư.
+                                               ngày tôi đến Hoa Kỳ. Tôi không          hiệp ước thuế giữa Hoa Kỳ và
+ 4. Tôi đã đến Hoa Kỳ vào ngày                                                                                              2. Tôi đến Hoa Kỳ với mục đích
+                                               phải là công dân Hoa Kỳ. Tôi đã         Jamaica. Trước đây tôi đã không
+              [điền ngày bạn đến                                                                                               giảng dạy hoặc tham gia nghiên
+                                               không được hưởng đặc quyền              yêu cầu miễn thuế thu nhập theo
+    Hoa Kỳ trước khi bắt đầu dịch vụ                                                                                           cứu tại          [điền tên của
+                                               thường trú tại Hoa Kỳ với tư            hiệp ước này đối với thu nhập
+    giảng dạy hoặc nghiên cứu                                                                                                  cơ sở giáo dục nơi bạn giảng
+                                               cách là người nhập cư.                  nhận được với tư cách giáo
+    được yêu cầu miễn thuế]. Miễn                                                                                              dạy hoặc nghiên cứu] trong
+                                                                                       viên, nhà nghiên cứu hoặc học
+    thuế theo hiệp ước chỉ áp dụng          2. Tôi là giáo sư hoặc giáo viên đến                                               khoảng thời gian không quá hai
+                                                                                       sinh trước ngày tôi đến Hoa Kỳ.
+    cho tiền thù lao được trả trong            Hoa Kỳ với mục đích giảng dạy                                                   năm. Tôi sẽ nhận được tiền thù
+    thời gian 2 năm kể từ ngày đó.             hoặc nghiên cứu tại                  4. Tôi đã đến Hoa Kỳ vào ngày              lao cho hoạt động giảng dạy
+                                               [điền tên của cơ sở giáo dục                      [điền ngày bạn đến            hoặc nghiên cứu.
+ 5. Bất kỳ nghiên cứu nào của tôi
+                                               hoặc cơ sở y tế nơi bạn giảng           Hoa Kỳ lần cuối trước khi bắt
+    cũng sẽ được thực hiện vì lợi ích                                                                                       3. Tiền thù lao nhận được trong cả
+                                               dạy hoặc nghiên cứu] là cơ sở           đầu dịch vụ giảng dạy hoặc
+    chung và chủ yếu không vì lợi                                                                                              năm tính thuế (hoặc trong thời
+                                               giáo dục hoặc cơ sở y tế được           nghiên cứu được yêu cầu miễn
+    ích riêng của một người hoặc                                                                                               gian từ        đến       ) cho
+                                               công nhận chủ yếu được tài trợ          thuế]. Miễn thuế theo hiệp ước
+    nhóm người cụ thể.                                                                                                         các hoạt động này đủ điều kiện
+                                               từ các nguồn của chính phủ. Tôi         chỉ áp dụng cho tiền thù lao
+                                                                                                                               được miễn khấu lưu thuế thu
+                                               sẽ nhận được tiền thù lao cho           được trả trong thời gian 2 năm
+                                                                                                                               nhập liên bang theo hiệp ước
+Israel                                         hoạt động giảng dạy hoặc                kể từ ngày đó.
+                                                                                                                               thuế giữa Hoa Kỳ và Hà Lan.
+                                               nghiên cứu.                                                                     Trước đây tôi đã không yêu cầu
+ 1. Tôi là thường trú nhân Israel vào
+    ngày tôi đến Hoa Kỳ. Tôi không          3. Tiền thù lao nhận được trong cả     Luxembourg                                  miễn thuế thu nhập theo hiệp
+                                               năm tính thuế (hoặc trong thời                                                  ước này đối với thu nhập nhận
+    phải là công dân Hoa Kỳ. Tôi đã
+                                               gian từ        đến       ) cho       1. Tôi là thường trú nhân                  được với tư cách giáo viên, nhà
+    không được hưởng đặc quyền
+                                               các hoạt động này đủ điều kiện          Luxembourg. Tôi không phải là           nghiên cứu hoặc học sinh trước
+    thường trú tại Hoa Kỳ theo pháp
+                                               được miễn khấu lưu thuế thu             công dân Hoa Kỳ. Tôi đã không           ngày tôi đến Hoa Kỳ.
+    luật với tư cách là người nhập
+                                               nhập liên bang theo hiệp ước            được hưởng đặc quyền thường
+    cư.                                                                                                                     4. Bất kỳ nghiên cứu nào của tôi
+                                               thuế giữa Hoa Kỳ và Ý. Trước            trú tại Hoa Kỳ theo pháp luật với
+                                                                                                                               cũng sẽ được thực hiện vì lợi ích
+ 2. Tôi đã chấp nhận lời mời của               đây tôi đã không yêu cầu miễn           tư cách là người nhập cư.
+                                                                                                                               chung và chủ yếu không vì lợi
+    Chính phủ Hoa Kỳ (hoặc một                 thuế thu nhập theo hiệp ước này      2. Tôi đã chấp nhận lời mời của            ích riêng của một người hoặc
+    phân khu chính trị hoặc chính              đối với thu nhập nhận được với                    [điền tên của cơ sở           nhóm người cụ thể.
+    quyền địa phương trong đó)                 tư cách giáo viên, nhà nghiên           giáo dục nơi bạn giảng dạy hoặc
+    hoặc trường đại học hoặc cơ sở             cứu hoặc học sinh trước ngày tôi                                             5. Tôi đã đến Hoa Kỳ vào ngày
+                                                                                       nghiên cứu] là cơ sở giáo dục
+    giáo dục khác được công nhận               đến Hoa Kỳ.                                                                               [điền ngày bạn đến
+                                                                                       được công nhận, đến Hoa Kỳ
+    ở Hoa Kỳ, đến Hoa Kỳ trong                                                                                                 Hoa Kỳ lần cuối trước khi bắt
+                                            4. Bất kỳ nghiên cứu nào của tôi           với mục đích giảng dạy hoặc
+    khoảng thời gian không quá 2                                                                                               đầu dịch vụ giảng dạy hoặc
+                                               cũng sẽ được thực hiện vì lợi ích       tham gia nghiên cứu tại cơ sở
+    năm với mục đích giảng dạy                                                                                                 nghiên cứu được yêu cầu miễn
+                                               chung và chủ yếu không vì lợi           đó. Tôi sẽ nhận được tiền thù lao
+    hoặc tham gia nghiên cứu tại                                                                                               thuế]. Miễn thuế theo hiệp ước
+                                               ích riêng của một người hoặc            cho hoạt động giảng dạy hoặc
+              [điền tên của cơ sở                                                                                              áp dụng cho tiền thù lao nhận
+                                               nhóm người cụ thể.                      nghiên cứu.
+    giáo dục] là cơ sở giáo dục                                                                                                được trong thời gian 2 năm kể từ
+    được công nhận. Tôi sẽ nhận             5. Tôi đã đến Hoa Kỳ vào ngày           3. Tiền thù lao cho hoạt động giảng        ngày đó chỉ khi thời gian tôi đến
+    được tiền thù lao cho hoạt động                      [điền ngày bạn đến            dạy hoặc nghiên cứu nhận được           Hoa Kỳ không quá 2 năm.
+    giảng dạy hoặc nghiên cứu.                 Hoa Kỳ lần cuối trước khi bắt           trong cả năm tính thuế (hoặc
+ 3. Tiền thù lao cho hoạt động giảng
+                                               đầu dịch vụ giảng dạy hoặc
+                                               nghiên cứu được yêu cầu miễn
+                                                                                       trong thời gian từ       đến
+                                                                                              ) đủ điều kiện được miễn
+                                                                                                                           Na Uy
+    dạy hoặc nghiên cứu nhận được
+                                               thuế]. Miễn thuế theo hiệp ước          khấu lưu thuế thu nhập liên bang
+    trong cả năm tính thuế (hoặc                                                                                            1. Tôi là thường trú nhân Na Uy
+                                               chỉ áp dụng cho tiền thù lao nhận       theo hiệp ước thuế giữa Hoa Kỳ
+    trong một thời điểm của năm từ                                                                                             vào ngày tôi đến Hoa Kỳ. Tôi
+                                               được trong thời gian 2 năm kể từ        và Luxembourg. Trước đây tôi đã
+           đến        ) đủ điều kiện                                                                                           không phải là công dân Hoa Kỳ.
+                                               ngày đó.                                không yêu cầu miễn thuế thu
+    được miễn khấu lưu thuế thu                                                                                                Tôi đã không được hưởng đặc
+                                                                                       nhập theo hiệp ước này đối với
+    nhập liên bang theo hiệp ước                                                                                               quyền thường trú tại Hoa Kỳ
+                                                                                       thu nhập nhận được với tư cách
+    thuế giữa Hoa Kỳ và Israel.         Jamaica                                        giáo viên, nhà nghiên cứu hoặc
+                                                                                                                               theo pháp luật với tư cách là
+    Trước đây tôi đã không yêu cầu                                                                                             người nhập cư.
+                                                                                       học sinh trước ngày tôi đến Hoa
+    miễn thuế thu nhập theo hiệp            1. Tôi là thường trú nhân Jamaica
+                                                                                       Kỳ.                                  2. Tôi đã chấp nhận lời mời của
+    ước này đối với thu nhập nhận              vào ngày tôi đến Hoa Kỳ. Tôi
+                                                                                                                               Chính phủ Hoa Kỳ hoặc một
+    được với tư cách giáo viên, nhà            không phải là công dân Hoa Kỳ.       4. Bất kỳ nghiên cứu nào của tôi sẽ
+                                                                                                                               trường đại học hoặc cơ sở giáo
+    nghiên cứu hoặc học sinh trước             Tôi đã không được hưởng đặc             không được thực hiện vì lợi ích
+                                                                                                                               dục khác được công nhận ở Hoa
+    ngày tôi đến Hoa Kỳ.                       quyền thường trú tại Hoa Kỳ             của bất kỳ người nào sử dụng
+                                                                                                                               Kỳ trong khoảng thời gian không
+                                               theo pháp luật với tư cách là           hoặc phổ biến kết quả vì mục
+ 4. Bất kỳ nghiên cứu nào của tôi                                                                                              quá 2 năm với mục đích giảng
+                                               người nhập cư.                          đích lợi nhuận.
+    cũng sẽ được thực hiện vì lợi ích                                                                                          dạy hoặc tham gia nghiên cứu
+    chung và chủ yếu không vì lợi           2. Tôi sẽ đến Hoa Kỳ với mục đích       5. Tôi đã đến Hoa Kỳ vào ngày              tại          [điền tên của cơ sở
+    ích riêng của một người hoặc               giảng dạy hoặc nghiên cứu trong                  [điền ngày bạn đến             giáo dục] là cơ sở giáo dục
+    nhóm người cụ thể.                         khoảng thời gian không quá 2            Hoa Kỳ lần cuối trước khi bắt           được công nhận. Tôi sẽ nhận
+                                               năm tại          [điền tên của          đầu dịch vụ giảng dạy được              được tiền thù lao cho hoạt động
+ 5. Tôi đã đến Hoa Kỳ vào ngày
+                                               cơ sở giáo dục nơi bạn giảng            miễn thuế]. Miễn thuế theo hiệp         giảng dạy hoặc nghiên cứu.
+              [điền ngày bạn đến
+                                               dạy hoặc nghiên cứu] là cơ sở           ước chỉ áp dụng cho tiền thù lao
+    Hoa Kỳ lần cuối trước khi bắt                                                                                           3. Tiền thù lao cho hoạt động giảng
+                                               giáo dục được công nhận. Tôi sẽ         nhận được trong thời gian hai
+    đầu dịch vụ giảng dạy hoặc                                                                                                 dạy hoặc nghiên cứu đủ điều
+                                               nhận được tiền thù lao cho hoạt         năm kể từ ngày đó.
+    nghiên cứu được yêu cầu miễn                                                                                               kiện được miễn khấu lưu thuế
+                                               động giảng dạy hoặc nghiên
+    thuế]. Miễn thuế theo hiệp ước                                                                                             thu nhập liên bang theo hiệp ước
+    chỉ áp dụng cho tiền thù lao nhận
+                                               cứu.
+                                                                                   Hà Lan                                      thuế giữa Hoa Kỳ và Na Uy.
+    được trong thời gian 2 năm kể từ        3. Tiền thù lao cho hoạt động giảng                                                Trước đây tôi đã không yêu cầu
+    ngày đó.                                   dạy hoặc nghiên cứu nhận được        1. Tôi là thường trú nhân Hà Lan.          miễn thuế thu nhập theo hiệp
+                                               trong cả năm tính thuế (hoặc            Tôi không phải là công dân Hoa          ước này đối với thu nhập nhận
+                                               trong thời gian từ       đến            Kỳ. Tôi đã không được hưởng             được với tư cách giáo viên, nhà
+
+60                                                                                                                                        Ấn phẩm 519 (2024)
+    nghiên cứu hoặc học sinh trước           đích giảng dạy hoặc tham gia            ích riêng của một người hoặc            Hoa Kỳ theo pháp luật với tư
+    ngày tôi đến Hoa Kỳ.                     nghiên cứu tại cơ sở giáo dục           nhóm người cụ thể.                      cách là người nhập cư.
+                                             đó. Tôi sẽ nhận được tiền thù lao
+ 4. Bất kỳ nghiên cứu nào của tôi                                                 5. Tôi đã đến Hoa Kỳ vào ngày           2. Tôi đã chấp nhận lời mời của
+                                             cho hoạt động giảng dạy hoặc
+    cũng sẽ được thực hiện vì lợi ích                                                          [điền ngày bạn đến            Chính phủ Hoa Kỳ hoặc một
+                                             nghiên cứu.
+    chung và chủ yếu không vì lợi                                                    Hoa Kỳ lần cuối trước khi bắt           trường đại học hoặc cơ sở giáo
+    ích riêng của một người hoặc          3. Tiền thù lao cho hoạt động giảng        đầu dịch vụ giảng dạy hoặc              dục khác ở Hoa Kỳ với mục đích
+    nhóm người cụ thể.                       dạy hoặc nghiên cứu nhận được           nghiên cứu được yêu cầu miễn            chính là giảng dạy hoặc tham gia
+                                             trong cả năm tính thuế (hoặc            thuế]. Miễn thuế theo hiệp ước          nghiên cứu tại           [điền
+ 5. Tôi đã đến Hoa Kỳ vào ngày
+                                             trong thời gian từ          đến         chỉ áp dụng cho tiền thù lao nhận       tên của cơ sở giáo dục], là cơ sở
+              [điền ngày bạn đến
+                                                       ) đủ điều kiện được           được trong thời gian 2 năm kể từ        giáo dục được phê duyệt bởi cơ
+    Hoa Kỳ lần cuối trước khi bắt
+                                             miễn khấu lưu thuế thu nhập liên        ngày đó. Trong mọi trường hợp,          quan giáo dục chính phủ thích
+    đầu dịch vụ giảng dạy hoặc
+                                             bang theo hiệp ước thuế giữa            tôi đã không yêu cầu miễn thuế          hợp. Không có thỏa thuận nào
+    nghiên cứu được yêu cầu miễn
+                                             Hoa Kỳ và Bồ Đào Nha. Trước             theo hiệp ước này đối với thu           giữa chính phủ Hoa Kỳ và chính
+    thuế]. Miễn thuế theo hiệp ước
+                                             đây tôi đã không yêu cầu miễn           nhập nhận được với tư cách              phủ Trinidad và Tobago về việc
+    chỉ áp dụng cho tiền thù lao nhận
+                                             thuế thu nhập theo hiệp ước này         giáo viên hoặc nhà nghiên cứu           cung cấp dịch vụ của tôi. Tôi sẽ
+    được trong thời gian 2 năm kể từ
+                                             đối với thu nhập nhận được với          trong hơn 5 năm.                        nhận được tiền thù lao cho hoạt
+    ngày đó.
+                                             tư cách giáo viên hoặc nhà                                                      động giảng dạy hoặc nghiên
+                                             nghiên cứu trước ngày được                                                      cứu.
+Pakistan                                     nêu rõ ở đoạn 5.
+                                                                                 Thái Lan
+                                                                                                                          3. Tiền thù lao cho dịch vụ giảng
+                                          4. Bất kỳ nghiên cứu nào của tôi        1. Tôi là thường trú nhân Thái Lan         dạy hoặc nghiên cứu nhận được
+ 1. Tôi là thường trú nhân Pakistan.         cũng sẽ được thực hiện vì lợi ích                                               trong cả năm tính thuế (hoặc
+                                                                                     vào ngày tôi đến Hoa Kỳ. Tôi
+    Tôi không phải là công dân Hoa           chung và chủ yếu không vì lợi                                                   trong thời gian từ        đến
+                                                                                     không phải là công dân Hoa Kỳ.
+    Kỳ. Tôi đã không được hưởng              ích riêng của một người hoặc                                                            ) đủ điều kiện được miễn
+                                                                                     Tôi đã không được hưởng đặc
+    đặc quyền thường trú tại Hoa Kỳ          nhóm người cụ thể.                                                              khấu lưu thuế thu nhập liên bang
+                                                                                     quyền thường trú tại Hoa Kỳ
+    với tư cách là người nhập cư và                                                                                          theo hiệp ước thuế giữa Hoa Kỳ
+                                          5. Tôi đã đến Hoa Kỳ vào ngày              theo pháp luật với tư cách là
+    sẽ không được coi như người                                                                                              và Trinidad và Tobago. Trước
+                                                       [điền ngày bạn đến            người nhập cư.
+    nước ngoài thường trú trong                                                                                              đây tôi đã không yêu cầu miễn
+    năm tính thuế liên quan.                 Hoa Kỳ trước khi bắt đầu dịch vụ     2. Tôi đến Hoa Kỳ với mục đích             thuế thu nhập theo hiệp ước này
+                                             giảng dạy hoặc nghiên cứu               giảng dạy hoặc tham gia nghiên
+ 2. Tôi là giáo sư hoặc giáo viên đến                                                                                        đối với thu nhập nhận được với
+                                             được yêu cầu miễn thuế]. Miễn           cứu tại          [điền tên của
+    Hoa Kỳ với mục đích giảng dạy                                                                                            tư cách giáo viên, nhà nghiên
+                                             thuế theo hiệp ước chỉ áp dụng          cơ sở giáo dục hoặc nghiên cứu
+    tại          [điền tên của cơ sở                                                                                         cứu hoặc học sinh trước ngày tôi
+                                             cho tiền thù lao được trả trong         nơi bạn giảng dạy hoặc nghiên
+    giáo dục nơi bạn giảng dạy] là                                                                                           đến Hoa Kỳ.
+                                             thời gian 2 năm kể từ ngày đó.          cứu] trong khoảng thời gian
+    cơ sở giáo dục được công nhận.                                                                                        4. Bất kỳ nghiên cứu nào của tôi
+                                                                                     không quá 2 năm. Tôi sẽ nhận
+    Tôi sẽ nhận được tiền thù lao                                                                                            cũng sẽ được thực hiện vì lợi ích
+    cho hoạt động giảng dạy.             Slovenia và Venezuela                       được tiền thù lao cho hoạt động
+                                                                                                                             chung và chủ yếu không vì lợi
+                                                                                     giảng dạy hoặc nghiên cứu.
+ 3. Tiền thù lao cho hoạt động giảng                                                                                         ích riêng của một người hoặc
+                                          1. Tôi là thường trú nhân               3. Tiền thù lao nhận được trong cả
+    dạy nhận được trong cả năm                                                                                               nhóm người cụ thể.
+                                             [điền tên quốc gia có hiệp ước          năm tính thuế (hoặc trong thời
+    tính thuế (hoặc trong thời gian từ       mà tôi yêu cầu miễn thuế] vào                                                5. Tôi đã đến Hoa Kỳ vào ngày
+                                                                                     gian từ        đến       ) cho
+            đến        ) đủ điều kiện        ngày tôi đến Hoa Kỳ. Tôi không                                                            [điền ngày bạn đến
+                                                                                     các hoạt động này đủ điều kiện
+    được miễn khấu lưu thuế thu              phải là công dân Hoa Kỳ. Tôi đã                                                 Hoa Kỳ lần cuối trước khi bắt
+                                                                                     được miễn khấu lưu thuế thu
+    nhập liên bang theo hiệp ước             không được hưởng đặc quyền                                                      đầu dịch vụ giảng dạy hoặc
+                                                                                     nhập liên bang theo hiệp ước
+    thuế giữa Hoa Kỳ và Pakistan.            thường trú tại Hoa Kỳ theo pháp                                                 nghiên cứu được yêu cầu miễn
+                                                                                     thuế giữa Hoa Kỳ và Thái Lan.
+    Trước đây tôi đã không yêu cầu           luật với tư cách là người nhập                                                  thuế]. Miễn thuế theo hiệp ước
+                                                                                     Trước đây tôi đã không yêu cầu
+    miễn thuế thu nhập theo hiệp             cư.                                                                             chỉ áp dụng cho tiền thù lao nhận
+                                                                                     miễn thuế thu nhập theo hiệp
+    ước này đối với thu nhập nhận                                                                                            được trong thời gian 2 năm kể từ
+                                          2. Tôi có mặt tạm thời ở Hoa Kỳ với        ước này đối với thu nhập nhận
+    được với tư cách giáo viên hoặc                                                                                          ngày đó.
+                                             mục đích giảng dạy hoặc nghiên          được với tư cách giáo viên, nhà
+    học sinh trước ngày tôi đến Hoa
+                                             cứu tại          [điền tên của          nghiên cứu hoặc học sinh trước
+    Kỳ.
+                                             cơ sở giáo dục hoặc nghiên cứu]         ngày tôi đến Hoa Kỳ.                Anh
+ 4. Tôi đã đến Hoa Kỳ vào ngày               là cơ sở giáo dục hoặc nghiên        4. Bất kỳ nghiên cứu nào của tôi
+              [điền ngày bạn đến             cứu được công nhận. Tôi sẽ                                                   1. Tôi là thường trú nhân Anh vào
+                                                                                     cũng sẽ được thực hiện vì lợi ích
+    Hoa Kỳ lần cuối trước khi bắt            nhận được tiền thù lao cho hoạt                                                 ngày khi tôi đến Hoa Kỳ. Tôi
+                                                                                     chung và chủ yếu không vì lợi
+    đầu dịch vụ giảng dạy được               động giảng dạy hoặc nghiên                                                      không phải là công dân Hoa Kỳ.
+                                                                                     ích riêng của một người hoặc
+    miễn thuế]. Miễn thuế theo hiệp          cứu.                                                                            Tôi đã không được hưởng đặc
+                                                                                     nhóm người cụ thể.
+    ước chỉ áp dụng cho tiền thù lao                                                                                         quyền thường trú tại Hoa Kỳ với
+    được trả trong thời gian 2 năm        3. Tiền thù lao cho hoạt động giảng     5. Tôi đã đến Hoa Kỳ vào ngày              tư cách là người nhập cư.
+    kể từ ngày đó.                           dạy hoặc nghiên cứu nhận được                     [điền ngày bạn đến
+                                             trong cả năm tính thuế (hoặc            Hoa Kỳ lần cuối trước khi bắt        2. Tôi là giáo sư hoặc giáo viên đến
+                                             trong thời gian từ        đến                                                   Hoa Kỳ trong thời gian không
+Bồ Đào Nha                                           ) đủ điều kiện được miễn
+                                                                                     đầu dịch vụ giảng dạy hoặc
+                                                                                     nghiên cứu được yêu cầu miễn            quá 2 năm với mục đích giảng
+                                             khấu lưu thuế thu nhập liên bang        thuế]. Miễn thuế theo hiệp ước          dạy hoặc tham gia nghiên cứu
+ 1. Tôi là thường trú nhân Bồ Đào            theo hiệp ước thuế giữa Hoa Kỳ          chỉ áp dụng cho tiền thù lao nhận       tại          [điền tên của cơ sở
+    Nha vào ngày tôi đến Hoa Kỳ.             và            [điền tên quốc gia        được trong thời gian 2 năm kể từ        giáo dục] là cơ sở giáo dục
+    Tôi không phải là công dân Hoa           có hiệp ước mà tôi yêu cầu miễn         ngày đó.                                được công nhận. Tôi sẽ nhận
+    Kỳ. Tôi đã không được hưởng              thuế]. Trước đây tôi đã không                                                   được tiền thù lao cho hoạt động
+    đặc quyền thường trú tại Hoa Kỳ          yêu cầu miễn thuế thu nhập theo                                                 giảng dạy hoặc nghiên cứu.
+    theo pháp luật với tư cách là            hiệp ước này đối với thu nhập       Trinidad và Tobago
+                                                                                                                          3. Tiền thù lao cho hoạt động giảng
+    người nhập cư.                           nhận được với tư cách giáo
+                                                                                                                             dạy hoặc nghiên cứu nhận được
+                                             viên, nhà nghiên cứu hoặc học        1. Tôi là thường trú nhân Trinidad
+ 2. Tôi đã chấp nhận lời mời của                                                                                             trong cả năm tính thuế (hoặc
+                                             sinh trước ngày tôi đến Hoa Kỳ.         và Tobago vào ngày tôi đến Hoa
+              [điền tên của trường                                                                                           trong thời gian từ       đến
+    đại học, cao đẳng, trường học         4. Bất kỳ nghiên cứu nào của tôi           Kỳ. Tôi không phải là công dân                 ) đủ điều kiện được miễn
+    hoặc cơ sở giáo dục tương tự             cũng sẽ được thực hiện vì lợi ích       Hoa Kỳ. Tôi đã không được               khấu lưu thuế thu nhập liên bang
+    khác] đến Hoa Kỳ chỉ với mục             chung và chủ yếu không vì lợi           hưởng đặc quyền thường trú tại          theo hiệp ước thuế giữa Hoa Kỳ
+
+Ấn phẩm 519 (2024)                                                                                                                                          61
+     và Anh. Trước đây tôi đã không        chung và chủ yếu không vì lợi   đầu dịch vụ giảng dạy hoặc          theo hiệp ước sẽ bị mất từ thời
+     yêu cầu miễn thuế thu nhập theo       ích riêng của một người hoặc    nghiên cứu được yêu cầu miễn        điểm trở về trước nếu thời gian
+     hiệp ước này đối với thu nhập         nhóm người cụ thể.              thuế]. Miễn thuế theo hiệp ước      bạn lưu trú ở Hoa Kỳ quá 2 năm.
+     nhận được với tư cách giáo                                            chỉ áp dụng cho tiền thù lao nhận
+                                        5. Tôi đã đến Hoa Kỳ vào ngày
+     viên, nhà nghiên cứu hoặc học                                         được trong thời gian 2 năm kể từ
+                                                    [điền ngày bạn đến
+     sinh trước ngày tôi đến Hoa Kỳ.                                       ngày đó. Toàn bộ tiền miễn thuế
+                                           Hoa Kỳ lần cuối trước khi bắt
+ 4. Bất kỳ nghiên cứu nào của tôi
+    cũng sẽ được thực hiện vì lợi ích
+
+
+
+
+62                                                                                                                       Ấn phẩm 519 (2024)
+                          Để giúp chúng tôi phát triển một chỉ mục hữu ích hơn, vui lòng cho chúng tôi biết nếu bạn có ý tưởng cho
+Chỉ mục                   các mục nhập chỉ mục. Xem "Ý kiến và đề xuất" trong phần "Giới thiệu" để biết cách liên hệ với chúng tôi.
+
+                                      Giải thưởng 13                             Thuế an sinh xã hội và thuế            W-7 24
+30% thuế 21                           Giảm giá phát hành gốc 21                     Medicare 41                         W-8BEN 40
+                                      Giao dịch cổ phiếu, chứng khoán            Trợ cấp nghiên cứu sinh 13, 39         W-8ECI 38
+Â                                        và hàng hóa 18                       Học sinh và người học nghề kinh           W-9 37
+                                      Giáo viên:                                 doanh đến từ Ấn Độ 27, 37           Mẫu 8833 7
+Ấn Độ, học sinh và người học nghề        Lương miễn khấu lưu theo hiệp        Hỗ trợ (Xem Trợ giúp về thuế)
+   kinh doanh:                                                                                                       Mẫu 8840 7
+                                             ước thuế 40                                                             Mẫu đơn:
+   Mức khấu trừ tiêu chuẩn 27            Miễn khấu lưu tiền lương theo hiệp
+   Tiền khấu lưu 37
+                                                                              K                                         4563 31
+                                             ước thuế 58
+Ấn phẩm (Xem Trợ giúp về thuế)                                                Khách trao đổi 42                         4790 (Xem FinCEN 105)
+                                         Miễn trừ theo hiệp ước thuế 45
+                                                                                 Thu nhập từ chủ lao động là người      8801 29
+                                         Tình trạng người nước ngoài 5
+                                                                                    ngoại quốc 16                       FinCEN 105 35
+B                                     Giấy phép ra khơi, giấy phép xuất
+                                                                                                                     Mexico:
+                                         cảnh:                                   Thuế an sinh xã hội và thuế
+Bán hoặc trao đổi, tài sản vốn 21        Người nước ngoài không phải 48             Medicare 41                         Người đi làm 4
+Bán nhà, thu nhập từ 17                  Xin Giấy phép ra khơi hoặc xuất      Khấu lưu 36, 39                           Người phụ thuộc 31
+Bất động sản (Xem Bất động sản)              cảnh khi nào và ở đâu. 48        Khấu lưu thuế:                            Tư cách khai thuế của người vợ/
+   Bán hoặc trao đổi 19               Giấy phép ra khơi, người nước              Bán bất động sản. 40                       chồng còn lại đủ điều kiện 25
+   Định nghĩa 13                         ngoài xuất cảnh:                     Khấu trừ lãi tiền vay sinh viên 26        Việc làm liên quan đến hoạt động
+   Quy tắc về nguồn 13                   Các mẫu đơn cần nộp 49               Khấu trừ tiêu chuẩn 27                        vận chuyển 37
+   Tài nguyên thiên nhiên 13             Mẫu 1040-C 49                        Khấu trừ thu nhập kinh doanh đủ        Miễn hạn nộp tờ khai thuế 34
+   Thu nhập từ 22                        Mẫu 2063 49                             điều kiện. 26                       Miễn khấu lưu:
+                                         Trái phiếu được cung cấp, đảm        Khoản thanh toán thuế Hoa Kỳ:             Nhà thầu độc lập 40
+                                             bảo trả tiền thuế 49                Khấu lưu từ lương bổng 30              Nhân viên 40
+C                                                                                                                       Sinh viên, giáo viên, và nghiên cứu
+                                                                              Kinh doanh, Hoa Kỳ 18
+Cá nhân được miễn 5                                                                                                         viên 40
+                                      H                                                                              Miễn trừ khỏi tổng thu nhập:
+Các câu hỏi thường gặp 53                                                     L
+Các khoản đóng góp từ thiện 27        Hàn Quốc:                                                                         Học sinh và khách trao đổi 16
+Các khoản khấu trừ 25, 27                Người phụ thuộc 31                   Lãi:                                      Niên kim 16
+Các khoản khấu trừ từng khoản 27         Tư cách khai thuế của người vợ/          Danh mục đầu tư 15                    Tiền thắng cược, đua chó hoặc
+                                             chồng còn lại đủ điều kiện 25    Lãi danh mục đầu tư 15                        đua ngựa 17
+Các mẫu đơn cần nộp:
+                                         Vợ chồng khai riêng hồ sơ            Loại trừ khỏi tổng thu nhập 14            Tiền thù lao từ chủ lao động là
+   Giấy phép ra khơi 49                      thuế 25                                                                        người ngoại quốc 16
+   Người nước ngoài có tình trạng                                             Loại trừ thu nhập kiếm được ở
+                                      Hàng hóa, giao dịch 18                      nước ngoài 15                         Thu nhập theo hiệp ước 16, 44
+      kép 33
+                                      Hàng tồn kho 14                         Lỗ:
+   Người nước ngoài tạm trú 33
+                                      Hiện diện cực tiểu 9                        Bất động sản 19                    N
+   Người nước ngoài thường trú 33
+                                      Hiệp ước thuế:                              Của người nước ngoài tạm trú 26
+Canada:                                                                                                              Năm cuối cùng của tình trạng cư
+                                         Ảnh hưởng của 7                          Tài sản vốn 21
+   Người đi làm 4                                                                                                      trú 9
+                                         Giáo viên và giáo sư 45                  Thiệt hại và trộm cắp 27
+   Người phụ thuộc 31                                                                                                Năm tính thuế 24, 31
+                                         Khai báo quyền lợi được yêu          Luật thu nhập:
+   Phúc lợi an sinh xã hội 45                cầu 46                                                                  Năm tính thuế có tình trạng kép 31
+   Tư cách khai thuế của người vợ/                                                28 21                                Các mẫu đơn cần nộp 33
+                                         Lãi vốn 45                           Lựa chọn năm đầu 8
+      chồng còn lại đủ điều kiện 25                                                                                    Chủ gia đình. 31
+                                         Miễn trừ khỏi tổng thu nhập 16       Lực lượng vũ trang Hoa Kỳ:
+   Việc làm liên quan đến hoạt động                                                                                    Hạn chế 31
+      vận chuyển 37                      Người học việc, học sinh và người        Chi phí di chuyển 26
+                                             học nghề 45                                                               Khai thuế chung 31
+Chi phí di chuyển 26                                                          Lương bổng (Xem Thu nhập từ dịch
+                                         Nhân viên của chính phủ nước                                                  Mức khấu trừ tiêu chuẩn 31
+   Dịch vụ hoặc các khoản bồi hoàn                                                vụ cá nhân)
+                                             ngoài 45                                                                  Tín thuế chăm sóc trẻ em 32
+      do chính phủ cung cấp cho                                               Lương hưu:
+      thành viên của Lực lượng vũ        Quyền lợi 44                                                                  Tín thuế nước ngoài. 32
+                                                                                  Khấu lưu vào 38
+      trang Hoa Kỳ 26                    Thu nhập chịu ảnh hưởng của 16                                                Tính thuế 32
+                                                                                  Miễn giảm do thiên tai 13
+Chi phí kinh doanh cần thiết theo        Thu nhập được hưởng quyền                                                     Thời gian và địa điểm nộp 33
+   thông lệ 26                               lợi 40                               Quy tắc về nguồn 13
+                                                                                                                       Thu nhập chịu thuế 31
+Chủ gia đình:                         Hiệp ước, thu nhập chịu ảnh                                                      Thuế suất 31
+   Người nước ngoài tạm trú 25           hưởng của 16                         M                                      Năm tính thuế dành cho người có
+   Người nước ngoài thường trú 25     Hình phạt:                                                                       tình trạng kép 7
+                                                                              Mã số thuế:
+Chủ lao động là người ngoại              Gian lận 36                                                                   Ngày bắt đầu cư trú 7
+                                                                                 Định nghĩa 24
+   quốc 16                               Khai báo thuế thu nhập thiếu đáng                                           Nghiên cứu viên, lương miễn khấu
+                                             kể 36                               Phạt do không cung cấp 36
+Chứng khoán, giao dịch 18                                                                                              lưu theo hiệp ước thuế 40
+                                         Không cung cấp mã số thuế 36         Mã số thuế cá nhân (ITIN) 24
+Chương trình hưu trí cho người tự                                                                                    Nguồn thù lao kiếm được hoặc
+   kinh doanh 26                         Không nộp 35                         Mã số thuế của chủ lao động 25           dịch vụ cá nhân:
+Cổ phiếu, giao dịch 18                   Không trả tiền 35                    Mất mát do thiệt hại và trộm             Cơ sở thay thế 13
+                                                                                 cắp 27
+Cổ tức, thu nhập có nguồn gốc từ         Liên quan đến tính chính xác của                                              Thù lao nhiều năm 12
+   Hoa Kỳ 11                                 tờ khai 36                       Mẫu 6
+                                                                                                                     Nguồn thu nhập 10
+Công cụ tiền tệ, vận chuyển 35           Nộp tờ khai thuế phù phiếm 36           1040-C 49
+                                                                                                                     Nguồn trợ cấp lao động hoặc dịch
+Công nhân ngành nông nghiệp 37,          Sơ suất 36                              1040-ES(NR) 43                        vụ cá nhân:
+   42                                 Hoàn thuế, yêu cầu 35                      1040-NR 33                            Cơ sở thời gian 12
+Công ty hợp danh 18                   Hoạt động kinh doanh 18                    1040-X 35                           Người đi làm từ Canada hoặc
+Công trái:                            Học bổng:                                  1042-S 40                             Mexico 4
+   Chưa đăng ký 15                       Có thể miễn trừ 17                      1116 27, 29, 32                     Người học việc 5
+   Đã đăng ký 15                         Quy tắc về nguồn 13                     2063 49                             Người nước ngoài:
+Công trái chưa đăng ký 15                Thuế khấu lưu 39                        2210 44                               Tạm trú 4, 10, 18
+Công trái đã đăng ký 15               Học sinh:                                  3903 26                               Thường trú nhân 4, 10, 17
+Cư trú, bị gián đoạn 22                  Học bổng 13, 39                         8233 40                             Người nước ngoài có tình trạng
+                                         Miễn khấu lưu tiền lương theo hiệp      8275 36                               kép 7
+                                             ước thuế 55                         8288 41                             Người nước ngoài tạm trú 4
+Đ
+                                         Miễn trừ theo hiệp ước thuế 45          8288-A 41                             Các khoản đóng góp từ thiện 27
+Địa điểm nộp 34                          Tình trạng người nước ngoài 5           8288-B 41                             Chi phí kinh doanh 26
+Đối tượng nào phải nộp 33                Tham gia vào hoạt động kinh             8805 39, 40                           Chủ gia đình 25
+                                             doanh ở Hoa Kỳ 18                   8833 45                               Định nghĩa 4
+G                                        Thu nhập từ chủ lao động là người       8843 6                                Học sinh 42
+                                             ngoại quốc 16                       W-4 37, 39, 40
+Giá gốc của tài sản 14
+
+Ấn phẩm 519 (2024)                                                                                                                                      63
+Người nước ngoài tạm trú (Tiếp tục)
+  Khấu lưu từ thu nhập trong công ty        Tình trạng người nước ngoài 5     Tài sản:                               Tín thuế nước ngoài:
+      hợp danh 30                        Nhân viên của tổ chức quốc tế 47        Bất động sản 13, 19                    Người nước ngoài có tình trạng
+  Khấu trừ tiêu chuẩn 27                    Miễn thuế Hoa Kỳ 46                  Có thể khấu hao 14                         kép 32
+  Khấu trừ thu nhập kinh doanh đủ           Tình trạng người nước ngoài 5     Tài Sản:                                  Người nước ngoài tạm trú 29
+      điều kiện. 26                      Nhân viên tại gia 37                    Cá nhân 14                          Tín thuế thu nhập kiếm được:
+  Lỗ 26                                  Nhân viên, miễn khấu lưu theo hiệp      Hàng tồn kho 14                        Người nước ngoài tạm trú 29
+  Mất mát do thiệt hại và trộm              ước thuế 40                          Vô hình 14                          Tín thuế thu nhập kiếm được (EIC):
+      cắp 27                             Nhân viên, tại gia 37                                                          Người nước ngoài thường trú 28
+                                                                              Tài sản cá nhân 14
+  Người vợ/chồng còn lại đủ điều         Niên kim:                                                                   Tín thuế trẻ em:
+      kiện 25                                                                 Tài sản có thể khấu hao 14
+                                            Quy tắc về nguồn 13               Tài sản di sản, người thụ                 Người nước ngoài có tình trạng
+  Nộp Mẫu 1040-NR 24                                                                                                        kép 32
+                                         Niên Kim:                               hưởng 18
+  Nộp Mẫu 1040-NR-EZ 24                                                                                                 Người nước ngoài tạm trú 29
+                                            Thu nhập 16                       Tài sản vô hình 14
+  Quỹ hưu trí cá nhân (IRA) 26                                                                                          Người nước ngoài thường trú 28
+                                         Nộp tờ khai 24                       Tài sản vốn, bán hoặc trao đổi 21
+  Tiền thắng cược, đua chó hoặc                                                                                      Tín thuế và các khoản thanh toán:
+      đua ngựa 17                           Mẫu 1040-NR 24                    Tiền bản quyền 13
+                                            Mẫu 1040-NR-EZ 24                 Tiền cho thuê 13                          Người nước ngoài tạm trú 29
+  Tín thuế an sinh xã hội vượt mức
+      đã khấu lưu 30                        Người nước ngoài tạm trú 24       Tiền công (Xem Thu nhập từ dịch vụ        Người nước ngoài thường trú 27
+  Tín thuế chăm sóc trẻ em 29            Nộp tờ khai thuế:                       cá nhân)                            Tình trạng cư trú:
+  Tín thuế cho người phụ thuộc              Đối tượng nào phải nộp 33         Tiền lãi:                                 Năm cuối cùng 9
+      khác 29                               Guam 35                              Danh mục đầu tư 15                     Năm đầu tiên 7
+  Tín thuế cho thuế tối thiểu thay thế      Khối thịnh vượng chung của Quần   Tiền lãi dự phòng 15                      Ngày bắt đầu 7
+      năm trước 29                             đảo Bắc Mariana 35             Tiền lương được miễn thuế khấu            Ngày kết thúc 9
+  Tín thuế giáo dục 29                      Mẫu 1040-C 49                        lưu 37                                 Thử thách 4
+  Tín thuế nước ngoài 29                    Mẫu 1040-NR 33                    Tiền lương, khấu lưu vào 37            Tinh trạng người nước ngoài,
+  Tín thuế thu nhập đã khấu lưu 30          Mẫu 2063 49                       Tiền Phạt 35                              thông báo của chủ lao động
+  Tín thuế thu nhập kiếm được 29            Người đóng thuế có tình trạng     Tiền phạt liên quan đến tính chính        về 37
+  Tín thuế trẻ em và tín thuế trẻ em           kép 33                            xác của tờ khai 36                  Tình trạng sức khỏe:
+      bổ sung 29                            Quần đảo Virgin thuộc Mỹ 35       Tiền tệ, vận chuyển 35                    Ngoại lệ về đi lại 5
+  Thu nhập chịu thuế như thế                Tờ khai được điều chỉnh 35        Tiền thắng cược, đua chó hoặc đua      Tờ khai được điều chỉnh 35
+      nào 18                                Thuế ước tính 43                     ngựa 17                             Tờ khai thuế có tính bảo hộ 34
+  Thu nhập liên thông thực tế, thuế         Yêu cầu hoàn thuế 35              Tiếp thị đa cấp 12, 38                 Tư cách khai thuế 25
+      trên 20                            Nơi chọn để khai thuế 6, 14          Tín thuế:                              Tường trình tiết lộ 36
+  Thu nhập niên kim 16                                                           Các khoản đóng góp tiết kiệm hưu
+  Thu nhập từ tiền lãi 11                                                            trí 28, 29
+                                         P                                       Đóng góp tiết kiệm hưu trí 32
+                                                                                                                     TH
+  Thuế đã nộp trên lãi vốn dài hạn
+      chưa phân phối 30                  Phạt do không trả tiền thuế thu         Khấu lưu từ lương bổng 30           Thanh toán cho thuế Hoa Kỳ:
+  Thuế khấu lưu 36                          nhập ước tính 44                     Người nước ngoài có tình trạng         Thuế khấu lưu tại nguồn 30
+  Thuế khấu lưu tại nguồn 30             Phạt do rút tiền tiết kiệm sớm 26           kép 32                          Thanh toán thuế Hoa Kỳ 32
+  Thuế thu nhập tiểu bang và địa         Phần thưởng 13                          Tín thuế chăm sóc trẻ em và người   Thành viên:
+      phương 27                          Phúc lợi an sinh xã hội:                    phụ thuộc 29, 32                   Tình trạng người nước ngoài 5
+  Vợ chồng khai chung hồ sơ                 Người nước ngoài có tình trạng       Tín thuế giáo dục 29                Thỏa thuận an sinh xã hội quốc
+      thuế 25                                   kép 32                           Tín thuế giáo dục trọn đời 29          tế 43
+Người nước ngoài thường trú 4               Người nước ngoài tạm trú 21          Tín thuế hy vọng 29                 Thỏa thuận cộng chung 43
+  Chủ gia đình 25                        Phúc lợi an sinh xã hội Đức 45          Tín thuế nước ngoài 29, 32          Thỏa thuận khấu lưu tập trung 38
+  Định nghĩa 4                           Phúc lợi hưu trí ngành đường            Tín thuế thu nhập kiếm được 29      Thời gian cư trú bị gián đoạn
+  Người phụ thuộc 26                        sắt 21, 32                           Tín thuế trẻ em 28, 29, 32             và 22
+  Người vợ/chồng còn lại đủ điều         Puerto Rico, thường trú nhân 10,        Thuế an sinh xã hội vượt mức đã     Thời gian nộp 34
+      kiện 25                               25, 30, 38                               khấu lưu 30                     Thù lao kiếm được hoặc dịch vụ cá
+  Tín thuế cho người phụ thuộc                                                   Thuế đã khấu lưu trên thu nhập         nhân:
+      khác 28                                                                        trong công ty hợp danh 30          Cơ sở địa lý 12
+                                         Q
+  Tín thuế giáo dục 28                                                           Thuế đã nộp trên lãi vốn dài hạn    Thu nhập:
+  Tín thuế trẻ em 32                     Quần đảo Virgin thuộc Mỹ, thường            chưa phân phối 30                  Bán nhà 17
+  Tín thuế trẻ em và tín thuế trẻ em       trú nhân:                             Thuế khấu lưu tại nguồn 30             Cố định hoặc có thể xác định 21
+      bổ sung 28                           Địa điểm nộp 35                    Tín thuế chăm sóc trẻ em và người         Cộng đồng 14
+  Vợ chồng khai chung hồ sơ              Quần đảo Virgin Thuộc Mỹ, thường        phụ thuộc:
+                                           trú nhân:                                                                    Dịch vụ cá nhân 19
+      thuế 25                                                                    Người nước ngoài có tình trạng
+                                           Khấu lưu từ tiền lương 38                 kép 32                             Đầu tư 18
+Người phụ thuộc:
+                                         Quốc dân Hoa Kỳ 31                      Người nước ngoài tạm trú 29            Khai báo 25
+  Người đóng thuế có tình trạng
+      kép 31                             Quốc gia nước ngoài 6                   Người nước ngoài thường trú 27         Liên thông thực tế 18
+  Người nước ngoài tạm trú 26            Quy định khai thuế 33                Tín thuế cho người cao niên hoặc          Loại trừ 14
+  Người nước ngoài thường trú 26         Quỹ hưu trí cá nhân (IRA) 26            người tàn tật:                         Nước ngoài 20
+Người phụ thuộc là người nước            Quy tắc phá hòa 7                       Người nước ngoài thường trú 28         Tiền boa 38
+  ngoài tạm trú:                         Quỹ tín thác, người thụ hưởng 18     Tín thuế cho thuế:                        Tiền lãi 15
+  Canada, Mexico. Hàn Quốc,              Quyền lợi theo hiệp ước thuế dành       Tín thuế giáo dục 28                   Từ bất động sản 22
+      thường trú nhân Ấn Độ 26             cho người nước ngoài thường           Tín thuế giáo dục trọn đời 28          Thu nhập chịu ảnh hưởng của các
+Người tập sự 18                            trú 45                                Tín thuế hy vọng 28                        hiệp ước 16
+Người thụ hưởng bất động sản             Quyền lợi theo hiệp ước, khai báo    Tín thuế đánh trên thu nhập thu        Thu nhập có nguồn gốc từ Hoa
+  hoặc quỹ tín thác 18                     quyền lợi được yêu cầu 46             được từ nước ngoài:                    Kỳ 10
+Người vợ/chồng là người tạm trú                                                  Người nước ngoài thường trú 27         Bất động sản 13
+  được coi như thường trú                                                                                               Cổ tức 11
+  nhân 9                                 S                                    Tín thuế đóng góp tiết kiệm hưu trí:
+                                                                                 Người nước ngoài có tình trạng         Dịch vụ cá nhân 12
+Nhà nghiên cứu, miễn thuế khấu           Samoa của Mỹ, thường trú                    kép 32                             Lương hưu và niên kim 13
+  lưu tiền lương theo hiệp ước              nhân 10, 25, 30
+  thuế 58                                                                        Người nước ngoài tạm trú 29            Tài sản cá nhân 14
+                                         Sinh viên:                                                                     Tiền cho thuê hoặc tiền bảo
+Nhà ngoại giao (Xem Nhân viên của                                                Người nước ngoài thường trú 28
+                                            Lương miễn khấu lưu theo hiệp                                                   quyền 13
+  chính phủ nước ngoài)                         ước thuế 40                   Tín thuế giáo dục:
+Nhà thầu độc lập:                                                                Người nước ngoài tạm trú 29            Tiền lãi 11
+                                         Số an sinh xã hội 24                                                        Thu nhập cố định hoặc có thể xác
+  Miễn khấu lưu theo hiệp ước            Số nhận dạng, người đóng thuế:          Người nước ngoài thường trú 28
+      thuế 40                                                                                                           định 21
+                                            Định nghĩa 24                     Tín thuế nhận con nuôi:
+  Quy tắc khấu lưu thuế 38                                                                                           Thu nhập cộng đồng 14
+                                                                                 Người nước ngoài có tình trạng
+Nhà, bán 17                                                                          kép 32                          Thu nhập của Công ty hợp danh,
+                                         T                                                                              thuế khấu lưu trên 39
+Nhân viên của chính phủ nước                                                     Người nước ngoài tạm trú 29
+  ngoài:                                                                                                             Thu nhập đầu tư 18
+                                         Tài nguyên thiên nhiên (Xem Bất         Người nước ngoài thường trú 28
+  Miễn thuế Hoa Kỳ 46                                                                                                Thu nhập liên thông thực tế 18
+                                            động sản)
+  Miễn trừ theo hiệp ước thuế 45                                                                                        Bán khống 20
+
+
+64                                                                                                                                  Ấn phẩm 519 (2024)
+Thu nhập liên thông thực tế (Tiếp tục)
+   Công ty sở hữu bất động sản ở         Thu nhập từ nước ngoài chịu thuế          Thu nhập từ tiền boa 38                Dịch vụ cá nhân 18
+       Hoa Kỳ 19                            Hoa Kỳ 20                              Thuế an sinh xã hội 41                 Giao dịch cổ phiếu, chứng khoán
+   Khấu lưu thuế 20                      Thu nhập từ tiền boa 38                Thuế Medicare 41                              và hàng hóa 18
+   Lãi hoặc lỗ của người ngoại quốc      Thu nhập từ tiền lãi:                  Thuế Medicare bổ sung 41, 42              Hoạt động kinh doanh 18
+       do bán hoặc trao đổi một số lợi      Có thể miễn trừ 15                  Thuế từ bỏ quốc tịch:                     Học sinh và người tập sự 18
+       ích trong công ty hợp danh 20        Dự phòng 15                                                                   Người thụ hưởng bất động sản
+                                                                                   Bao quát từ bỏ quốc tịch 23
+   Lãi hoặc lỗ từ bất động sản 19           Quy tắc về nguồn thu nhập 11                                                      hoặc quỹ tín thác 18
+                                                                                   Cách tính thuế từ bỏ quốc tịch nếu
+   Lãi và lỗ kinh doanh và giao dịch     Thu nhập từ vận tải:                         bạn là được bao quát từ bỏ          Thu nhập có nguồn từ Hoa Kỳ 18
+       bán hàng 19                                                                    quốc tịch (nếu bạn từ bỏ quốc     Thường trú nhân dài hạn của Hoa
+                                            Liên thông với kinh doanh ở Hoa
+   Lợi ích từ bất động sản ở Hoa                Kỳ 19                                 tịch sau ngày 16 tháng 6,           Kỳ:
+       Kỳ 19                                                                          2008) 23                            Định nghĩa 23
+                                            Quy tắc về nguồn 13
+   Lựa chọn thu nhập bất động                                                      Cựu công dân Hoa Kỳ. 23                Thuế từ bỏ quốc tịch 23
+       sản 22                            Thuế an sinh xã hội:
+                                            Bị khấu lưu do nhầm lẫn 42             Cựu LTR 23
+   Lương hưu 19                                                                    Định nghĩa thường trú nhân lâu dài
+   Ngoại lệ cho công ty đại chúng 19        Du học sinh và khách trao đổi 41
+                                                                                      (LTR) 23
+                                                                                                                        TR
+   QIE được kiểm soát trong                 Tín thuế khấu lưu vượt mức 41
+                                                                                   Hoãn thanh toán thuế điều chỉnh      Trái phiếu đô thị 15
+       nước. 19                             Thỏa thuận cộng chung 43                  theo thị trường 24                Trợ cấp nghiên cứu sinh:
+   Quan hệ kinh tế trực tiếp 19             Thỏa thuận quốc tế 43                  Một số công dân song tịch 23            Có thể miễn trừ 17
+   Quy tắc ấn định thu nhập vào danh        Thuế tự kinh doanh 42                  Một số trẻ vị thành niên 23             Quy tắc về nguồn 13
+       mục riêng dành cho QIE. 19           Vượt mức đã khấu lưu 30                Ngày từ bỏ quốc tịch. 23                Thuế khấu lưu 39
+   Thu nhập đầu tư 18                    Thuế an sinh xã hội vượt mức 30           Ngoại lệ cho công dân song tịch và   Trợ giúp về thuế 50
+   Thu nhập từ nước ngoài 20             Thuế đã khấu lưu trên lãi do bán             một số trẻ vị thành niên 23
+   Thu nhập từ vận tải 19                   hoặc trao đổi một số lợi ích           Ngoại lệ. 23
+   Thuế tối thiểu thay thế 20               trong công ty hợp danh 30
+                                                                                   Tờ khai thuế từ bỏ quốc tịch 23      V
+   Thuế trên 20                          Thuế đã nộp trên lãi vốn dài hạn
+                                            chưa phân phối 30                      Từ bỏ quốc tịch sau ngày 16 tháng    Vận chuyển tiền hoặc công cụ tiền
+   Thử thách về hoạt động kinh                                                        6, 2008 23                           tệ 35
+       doanh 19                          Thuế khấu lưu:
+                                                                                Thuế tự kinh doanh 42                   Vận động viên chuyên nghiệp 6
+   Thử thách về sử dụng tài sản 18          Học bổng và trợ cấp 39
+                                                                                Thuế thu nhập tiểu bang và địa          Vận động viên, chuyên nghiệp 6
+   Thực thể đầu tư đủ điều kiện 19          Khấu lưu từ tiền thù lao 37            phương 27                            Việc làm liên quan đến hoạt động
+   Xử lý cổ phiếu REIT. 19                  Lương hưu 38                        Thuế ước tính 36, 43                       vận chuyển, thường trú nhân
+Thu nhập từ bất động sản 21                 Nơi khai báo trên tờ khai thuế 30   Thuế vận tải 22                            Canada hoặc Mexico 37
+Thu nhập từ dịch vụ cá nhân:                Puerto Rico, thường trú nhân 38     Thuế, vận tải 22                        Vợ chồng khai chung hồ sơ thuế:
+   Được trả bởi chủ lao động là người       Quần đảo Virgin thuộc Mỹ, thường    Thuyền viên:                               Người nước ngoài tạm trú 25
+       ngoại quốc 16                            trú nhân 38                                                                Người nước ngoài thường trú 25
+                                                                                   Thù lao 16
+   Khấu lưu từ tiền lương 37                Quyền lợi hiệp ước thuế 40
+                                                                                Thử thách sự hiện diện đáng kể 4
+   Liên thông với kinh doanh ở Hoa          Tiền lương 37
+                                            Tiền lương được miễn thuế 37
+                                                                                Thử thách thẻ xanh 4                    Y
+       Kỳ 19                                                                    Thương mại hay kinh doanh, Hoa
+   Miễn thuế theo hiệp ước thuế 44          Thỏa thuận khấu lưu tập trung 38       Kỳ 18                                Yêu cầu hoàn thuế 35
+   Quy tắc về nguồn gốc 12                  Thông báo về tình trạng người          Công ty hợp danh 18
+                                                nước ngoài 37
+
+
+
+
+Ấn phẩm 519 (2024)                                                                                                                                     65
+
+---
+
+*This document was automatically generated from PDF content. For questions about this content, contact the Glaze Glassworks LLC team.*

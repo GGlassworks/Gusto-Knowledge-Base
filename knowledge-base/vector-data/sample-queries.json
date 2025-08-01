@@ -1,0 +1,35 @@
+{
+  "description": "Sample queries for testing vector search",
+  "queries": [
+    {
+      "query": "How to implement authentication in Express?",
+      "expectedFields": [
+        "Computer Science",
+        "Software Engineering"
+      ],
+      "searchType": "semantic"
+    },
+    {
+      "query": "Machine learning algorithms for classification",
+      "expectedFields": [
+        "Computer Science",
+        "Artificial Intelligence"
+      ],
+      "searchType": "semantic"
+    },
+    {
+      "query": "Database optimization techniques",
+      "expectedFields": [
+        "Computer Science",
+        "Data Science"
+      ],
+      "searchType": "semantic"
+    }
+  ],
+  "searchTips": [
+    "Use natural language queries for best results",
+    "Include specific technical terms when known",
+    "Combine multiple concepts with 'and' or 'or'",
+    "Use quotes for exact phrase matching"
+  ]
+}

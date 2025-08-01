@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "created": "2025-08-01T08:24:08.046Z",
+  "totalDocuments": 0,
+  "statistics": {
+    "byFileType": {},
+    "byCategory": {},
+    "byField": {},
+    "averageChunkSize": null,
+    "totalSize": 0
+  },
+  "searchableFields": [
+    "content",
+    "metadata.fileName",
+    "metadata.filePath",
+    "metadata.codeStructure.imports",
+    "metadata.codeStructure.exports",
+    "metadata.codeStructure.classes",
+    "metadata.codeStructure.functions",
+    "metadata.classifications.field",
+    "metadata.summary"
+  ],
+  "chunkingStrategy": {
+    "method": "semantic",
+    "chunkSize": 1500,
+    "overlap": 200,
+    "minSize": 100
+  }
+}
